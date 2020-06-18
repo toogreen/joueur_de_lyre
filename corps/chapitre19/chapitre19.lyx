@@ -1,0 +1,1050 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Lyre de lumiÃ¨re et de libertÃ©, le lundi 10 juillet 2034 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ErigÃ© au dÃ©but des annÃ©es 70,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ le complexe gouvernemental de Rimouski conservait son austÃ©ritÃ© dâorigine, une froide sobriÃ©tÃ© tout de bÃ©ton vieilli et de bois trop pÃ¢le pour faire sâÃ©pancher les cÅurs, cela, malgrÃ© les rÃ©novations auxquelles on lâavait soumis en 60 ans de services paperassiers. Au sous-sol, dans ce qui avait naguÃ¨re servi de bureau rÃ©gional pour le ministÃ¨re de la Culture, on trouvait aujourdâhui une salle dâaudience, vÃ©ritable petit tribunal avec tout le dÃ©corum : drapeau du QuÃ©bec, photos du premier ministre et de Sylvain Turcotte, vieux cadres numÃ©riques faisant dÃ©filer leurs scÃ¨nes rupestres, forestiÃ¨res et maritimes, sans oublier une horloge et un calendrier Ã©lectronique. On y avait entendu des promoteurs sur des histoires de prolongements routiers, des Ã©cologistes sur des questions dâenfouissement, des pÃªcheurs sur des enjeux de surpÃªche. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Mais depuis trois mois, les locaux Ã©taient utilisÃ©s par la Commission de rÃ©insertion civile des victimes de la loi 173 de 2028, alias la CRC, une structure sans appel mise en place pour gommer certaines injustices survenues dans lâapplication de la lÃ©gislation Turcotte.
+\end_layout
+
+\begin_layout Standard
+
+Dans le cadre de la contre-rÃ©forme enclenchÃ©e dans les semaines qui avaient suivi les Ã©vÃ©nements de juillet 2033, QuÃ©bec avait reconnu, sur la proposition mÃªme du ministre Turcotte - une position politique dÃ©routante que seuls quelques Rimouskois savaient forcÃ©e, le couteau sur la gorge - que certains illÃ©gaux avaient Ã©tÃ© contraints de le devenir par crainte justifiÃ©e du Bureau des affaires gÃ©rontologiques (BAG), structure policiÃ¨re honnie dont le dÃ©mantÃ¨lement avait Ã©tÃ© terminÃ© en janvier dernier. Ainsi, plusieurs centaines de vieillards officiellement dÃ©clarÃ©s morts avaient choisi de quitter la clandestinitÃ© pour venir plaider en faveur de leur Â«rÃ©surrection civileÂ». Il leur suffisait de dÃ©montrer quâils nâavaient eu dâautre choix que de se cacher, traquÃ©s injustement par le BAG Ã  la suite dâune obscure dÃ©lation ou dâun discutable contrÃ´le fiscal, la CRC leur donnait habituellement raison. Ã plus forte raison, que lâenquÃªte publique du coroner actuellement en cours sur les liens pouvant exister entre chocs anaphylactiques et Nutrisuz, battait son plein avec lâattention des mÃ©dias dâun peu partout, incluant ceux de la Nouvelle-ZÃ©lande et de la SuÃ¨de. Et plus le temps passait, plus lâhorrible soupane Ã©tait dÃ©criÃ©e et pointÃ©e du doigt comme Ã©tant la cause de nombreux problÃ¨mes de santÃ©. On sâattendait mÃªme Ã  un recours collectif monstre dÃ¨s le dÃ©pÃ´t des conclusions Ã  la suite des audiences. Le titre de Monsanto avait connu une chute historique.
+\end_layout
+
+\begin_layout Standard
+
+Ã lâinverse, la CRC rejetait parfois les prÃ©tentions de certains demandeurs, des cas vraiment trop sulfureux pour Ãªtre banalisÃ©s. Ces gens Ã©taient alors accusÃ©s de fraude et confiÃ©s au criminel. Câest possiblement ce qui aurait pu arriver aux parents, pÃ¨re, mÃ¨re, oncles et tantes, du gros Turcotte. Pour Ã©viter quâils soient clouÃ©s au pilori et livrÃ©s Ã  la vindicte populaire, il avait Ã©tÃ© convenu de part et dâautre, au lendemain des Ã©vÃ©nements, dâoffrir Ã  ces profiteurs une nouvelle identitÃ© lÃ©gale et dâen faire des rÃ©sidents anonymes dâun CRG montrÃ©alais. Il ne pouvait Ãªtre question de les installer dans celui de Rimouski en raison, notamment, du projet visant Ã  le convertir en vraie maison de retraite, au grand dam de Carl Michaud, rÃ©trogradÃ© au rang de gÃ©rant et contrÃ´lÃ© dans ses moindres faits et gestes. Pour tout dire, le cadre supÃ©rieur au panache si impressionnant nâÃ©tait plus que lâombre de lui-mÃªme. En le voyant, on aurait dit un petit quincaillier en train de liquider sa faillite.
+\end_layout
+
+\begin_layout Standard
+
+De part et dâautre ? Câest une des mesures qui avaient Ã©tÃ© nÃ©gociÃ©es entre le commando dont Marie avait pris le contrÃ´le et les gens de Sylvain Turcotte qui, sous leurs pieds, sentaient le vide sinistre de lâÃ©chafaud.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+45mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-timothee-lyre.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Aujourdâhui, la salle est presque pleine. Au premier rang, Marie Rioux, Romain Tardif et leur conseiller, Robespierre Alcide. DerriÃ¨re eux, le clan quâils ont tricotÃ© Ã  triple laine depuis cette fin juillet de 2033: TimothÃ©e, BÃ©atrice, Shimoune Saint-Pierre, OphÃ©lie Marcotte, Claude Sey qui est venu expressÃ©ment de MontrÃ©al, Marie-Odile Tremblay, David Gagnon-Tropecolo, alias le Chinois, ainsi que le docteur Bellavance, Bea Bellow, Louise Lavoie, SÃ©bastien Larose, JipÃ© Gendron, alias Tit-mononk, Solange Gadoury et Jawad Kebbaj, lequel, pour une fois, ne travaille pas. On remarque Ã©galement quelques anciens mÃ©chants dont les frÃ¨res CÃ´tÃ©, mieux connus sous le sobriquet de Papyblues, Vlado Marcovsky, lâhomme de lâinformatique, et le bonhomme Jean qui avait particuliÃ¨rement apprÃ©ciÃ© Ãªtre libÃ©rÃ© du sous-sol par TimothÃ©e lui-mÃªme. Ã un point tel quâil lui avait Â«remontÃ©Â» une Saguewanish grand luxe avec plus dâÃ©lectronique incorporÃ©e quâil ne sâen trouve au siÃ¨ge social dâIBM et avec un gyroscope dernier cri prÃ©venant toute possibilitÃ© de chute ou de perte de contrÃ´le gravitationnel. Une sorte de Dodge Challenger 70 avec moteur stock.
+\end_layout
+
+\begin_layout Standard
+
+En avant, le commissaire RÃ©mi Anglehart, celui-lÃ  mÃªme qui assumait la prÃ©sidence du Centre rÃ©gional gÃ©riatrique avant quâil ne soit transformÃ©, Ã  la liesse gÃ©nÃ©rale, en rÃ©sidence pour aÃ®nÃ©s, est en train de lire les considÃ©rants et sâapprÃªte Ã  rendre la dÃ©cision ayant fait consensus auprÃ¨s des membres de la CRC. La Maririou arbore son visage de pierre et celui de Romain reflÃ¨te une certaine nervositÃ©. Quant Ã  Robespierre, psychologue officieux, colonel Ã  la retraite et avocat autoproclamÃ©, il sourit pour cacher son stress.
+\end_layout
+
+\begin_layout Standard
+
+- En conclusion, la Commission est dâavis que malgrÃ© lâillÃ©galitÃ© de lâensemble des gestes posÃ©s, vous avez eu raison, Â«ab initioÂ», de vous soustraire aux efforts des agents du Bureau des affaires gÃ©rontologiques. Leur eussiez-vous obÃ©i, vous auriez Ã©tÃ© victimes dâune injustice encore plus grave. Â«Adversus periculum naturalis ratio permittit se defendereÂ».
+\end_layout
+
+\begin_layout Standard
+
+Anglehart se dÃ©rhume. Dans sa tÃªte, câest en Ã©talant son latin quâil arrive Ã  se livrer Ã  des effets de toge alors que lâinstance quâil prÃ©side nâen requiert aucune.
+\end_layout
+
+\begin_layout Standard
+
+- En outre, poursuit-il comme sâil Ã©tait Ã  la Cour suprÃªme, la Commission blÃ¢me le gouvernement du QuÃ©bec de vous avoir contraints Ã  lâillÃ©galitÃ©, vous privant ainsi des services auxquels vous aviez droit, ainsi que de tous vos revenus de retraite. Il est donc de mon devoir dâinvoquer un Â«nolle prosequiÂ», de vous dÃ©clarer officiellement rÃ©insÃ©rÃ©s civilement et de recommander au lieutenant-gouverneur en conseil de vous rembourser les prestations qui ne vous ont pas Ã©tÃ© versÃ©es depuis 2028, annÃ©e oÃ¹ lâon vous a inscrits comme dÃ©cÃ©dÃ©s Ã  lâÃ©tat civil, incluant, Â«mutatis mutandisÂ», les intÃ©rÃªts que la Commission a Ã©tablis Ã  8,367 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Les premiers cris de joie se font entendre.
+\end_layout
+
+\begin_layout Standard
+
+- Ã lâordre ! Ã lâordre !
+\end_layout
+
+\begin_layout Standard
+
+Câest peine perdue. Des gens accourent pour fÃ©liciter Marie, Romain et Robespierre. Le commissaire doit hausser le ton.
+\end_layout
+
+\begin_layout Standard
+
+- Ladite Commission, crie-t-il littÃ©ralement, fera publier, dâici dix jours, un avis dans tous les mÃ©dias du Bas-Saint-Laurent Ã  lâeffet que vous, Marie Rioux et vous Romain Tardif, autrefois de Saint-Anaclet, maintenant du quartier Nazareth de Rimouski, avez, entre 2028 et 2034, agi Â«bona fideÂ», que vous avez Ã©tÃ© rÃ©insÃ©rÃ©s aux dÃ©pens de lâÃtat, que vous avez bel et bien Ã©tÃ© victimes dâune loi mal appliquÃ©e et, Â«res ipsa loquiturÂ», que vous recevrez les excuses formelles du gouvernement du QuÃ©bec.
+\end_layout
+
+\begin_layout Standard
+
+Ã ces mots, la salle explose comme Ã  un match de football. Anglehart nâa jamais rien vu de tel. Claude Sey a les larmes aux yeux, Tropecolo lui serre les deux Ã©paules de ses courtes paluches, Jawad Kebbaj donne lâaccolade Ã  TimothÃ©e, OphÃ©lie fait la bise Ã  Shimoune, Bea Bellow sourit et, lâespace de deux secondes, frotte ses jointures de la main droite sur lâavant-bras de Robespierre, imitÃ©e par Louise Lavoie qui elle, embrasse carrÃ©ment le colosse sur la joue, ce quâobserve Marie-Odile, la nouvelle responsable de la sÃ©curitÃ©, qui lorgne la scÃ¨ne du coin de lâÅil par crainte inavouable quâon lui pique lâhomme de sa vie, son beau Robie. Au mÃªme moment, Tit-mononk lÃ¨ve un spectaculaire bras dâhonneur en direction de la photo du premier ministre sous les rires de Marcovsky et sous la mine ravie, celle des grands jours, de SÃ©bastien Larose qui venait tout juste de prendre sa retraite. Le pÃ¨re Jean, lui, file sur la Saguewanish Hot Rod prÃ©textant un dernier ajustement. Quant au docteur Bellavance, homme de science auquel plus personne nâaccole lâÃ©pithÃ¨te de Â«sinistreÂ», il gagne discrÃ¨tement la sortie, un sourire accrochÃ© au visage, suivi de Solange Gadoury qui semble ne plus vouloir le quitter depuis quâil mÃ¨ne un projet de reconditionnement nutritionnel destinÃ© aux cas de patients ayant dÃ©veloppÃ© une intolÃ©rance pathologique Ã  la nourriture en raison des abus de Nutrisuz. Jamais sa vie nâa Ã©tÃ© aussi intÃ©ressante.
+\end_layout
+
+\begin_layout Standard
+
+Ã son tour, lâarriÃ¨re-petit-fils de lâinventeur du PÃ©tÃ©pano sâapproche de Marie.
+\end_layout
+
+\begin_layout Standard
+
+- On les a eus, madame Rioux ! Et dans lâhonneur ! Ils vont mÃªme vous faire des excuses publiques. Vous allez pouvoir marcher en plein jour, dans les rues de Rimouski, au su et au vu de tout le monde. Vous avez rÃ©ussi Ã  faire travailler notre matÃ©riel, nos preuves. Avec Ã§a, ils ont tous pliÃ©. Ils vous ont donnÃ© tout ce que vous exigiez.
+\end_layout
+
+\begin_layout Standard
+
+- Voyons, mon garÃ§on, tu sais aussi bien que moi que dans cette histoire, je nâai jouÃ© que ma partition et que chacun a jouÃ© la sienne. Sinon, Ã§a nâaurait pu fonctionner.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre Alcide qui a tous les talents avec les dames, lui fait alors une profonde rÃ©vÃ©rence.
+\end_layout
+
+\begin_layout Standard
+
+- Et si on nâavait pas eu une bonne chef dâorchestre, Ã§a nâaurait pas pu fonctionner non plus !
+\end_layout
+
+\begin_layout Standard
+
+Le lendemain de lâopÃ©ration commando, Marie avait effectivement exigÃ© la prÃ©sence de Sylvain Turcotte dans son salon, au sous-sol de la rue Crouet. Louis-Marc Richard nâen Ã©tait pas revenu de voir autant de voitures, dont celle du ministre rimouskois, arriver chez son voisin dâen face, ce Â«pas dâallureÂ» hautement suspect. Câest avec la plus tordue des fiertÃ©s, quâune Maririoux aussi rigide quâimplacable avec reÃ§u le haut personnage, assise dans son fauteuil crevÃ©, laissant Gazou essayer de mordre les mollets libÃ©raux qui sâaventuraient trop prÃ¨s de sa mÃ©chante gueule. La vieille dame avait exigÃ© la prÃ©sence de Romain, TimothÃ©e, Shimoune et Robespierre et, en contrepartie, avait acceptÃ© que quatre sbires accompagnent lâhomme politique. DâentrÃ©e de jeu, elle avait voulu comprendre pourquoi le politicien avait fait basculer sa famille dans lâillÃ©galitÃ©. Nâavait-il pas les moyens, lui, Â«un gros ministre pesantÂ», de subvenir aux besoins de son pÃ¨re et de sa mÃ¨re pour leur Ã©viter, en toute lÃ©galitÃ©, lâinternement dans un CRG ?
+\end_layout
+
+\begin_layout Standard
+
+La rÃ©ponse ne lâavait pas Ã©branlÃ©e du tout. Quand il avait vendu sa terre pour prendre sa retraite en 2028, lâannÃ©e du rÃ©fÃ©rendum, le gros Jean-Pierre Turcotte nâavait, en rÃ©alitÃ©, que poussÃ© des feuilles de papier. HypothÃ©quÃ©e jusquâau trognon, la propriÃ©tÃ© agricole ne lui avait presque rien retournÃ© en Ã©quitÃ©. Lui-mÃªme criblÃ© de dettes, le cultivateur rimouskois sâÃ©tait retrouvÃ© sans le sou, avec Mimi qui sâassurait, sur une base quotidienne, que la vie soit vraiment invivable. Pour tous revenus, le couple disposait de la pension fÃ©dÃ©rale et de lâallocation provinciale, celle de la RÃ©gie des rentes. De plus, Sylvain leur avanÃ§ait quelques centaines de dollars tous les mois, la plupart du temps pour payer le loyer de leur 4 Â½, rue Saint-Jean-Baptiste. En Ã©change, ils lâaidÃ¨rent sÃ©rieusement, tous les deux, dans sa campagne rÃ©fÃ©rendaire.
+\end_layout
+
+\begin_layout Standard
+
+Une fois la loi 173 adoptÃ©e, les deux Turcotte auraient dÃ», techniquement, Ãªtre forcÃ©s dâaller habiter au CRG-BSL. Câest Ã  ce moment que Mimi eut lâidÃ©e de faire construire un pavillon au Bic et de disparaÃ®tre avec Jean-Pierre pour mieux sây cacher. Elle en profita pour offrir cette chance unique Ã  ses deux sÅurs et Ã  leurs Ã©poux. Sylvain Turcotte fit le nÃ©cessaire Ã  la satisfaction gÃ©nÃ©rale. DâoÃ¹ le terrible accident de juin 2029.
+\end_layout
+
+\begin_layout Standard
+
+- Faut me comprendre, maâme Rioux, jâai une famille Ã  mâoccuper ! Pâis une paye de ministre, ce nâest pas une paye de prÃ©sident de compagnie. Câest pas assez pour faire vivre mes parents en mÃªme temps que ma femme et mes enfants; jâen ai deux au cÃ©gep et un Ã  lâuniversitÃ©. Ma femme, vous lâavez connue dans lâtemps, elle a pas changÃ©, elle est malade tout le temps, elle travaille pas, elle rapporte rien, câest toute moi qui paye toute, tout le temps.
+\end_layout
+
+\begin_layout Standard
+
+La vieillarde avait alors frappÃ© lâaccoudoir de son fauteuil, ce qui avait momentanÃ©ment calmÃ© Gazou.
+\end_layout
+
+\begin_layout Standard
+
+- Cha va faire, jâen ai achez entendu; tu me feras pas brailler chur ton chort, mon âtit garchon. Tâes Â«quelquâun de pouvoirÂ» qui mâa trahie !
+\end_layout
+
+\begin_layout Standard
+
+Câest Ã  ce moment que la Maririou, le visage intraitable, avait placÃ© ses cartes : voici les preuves de corruption, voici des preuves de faux dÃ©posÃ©s au Conseil dâadministration, voici des preuves vidÃ©o oÃ¹ le ministre des CRG cache des illÃ©gaux, en lâoccurrence sa parentÃ©, et voici des preuves dÃ©montrant, hors de tout doute, que des vieillards sont maltraitÃ©s et emprisonnÃ©s. Tout ce petit matÃ©riel a Ã©tÃ© stockÃ© dans diffÃ©rents systÃ¨mes informatiques pour Ã©viter quâil ne soit dÃ©truit. La seule faÃ§on quâil y reste verrouillÃ© Ã  quadruple tour, quâil ne soit ni envoyÃ© aux mÃ©dias, ni remis Ã  la police, ni tÃ©lÃ©versÃ© dans le quanticordi de Thierry-Ian Dennis-Dubeau, le chef de lâopposition Ã  QuÃ©bec, câest que lâon procÃ¨de rapidement Ã  quelques petits changements.
+\end_layout
+
+\begin_layout Standard
+
+Petits changements ! Quel euphÃ©misme !
+\end_layout
+
+\begin_layout Standard
+
+- Mon âtit garchon, jâte donne un an pour faire tout che que je vais te demander. Chi tu y arrives pas, tâes dans la misÃ©re !
+\end_layout
+
+\begin_layout Standard
+
+- Maâme Rioux â¦
+\end_layout
+
+\begin_layout Standard
+
+- Pour tâaider, avait-elle coupÃ©, je lâai tout Ã©crit ichi sur che document. Y en a une copie pour toi et une pour moi que tu vas chigner. Si tu chignes pas, demain matin neuf heures, les mÃ©dias, la poliche et Dennis-Dubeau, tu chais, Ti-DÃ©dÃ©, bâen ils vont rechevoir toutes les preuves. Jâai quelquâun qui mâa toute arrangÃ© cha pour que cha parte.
+\end_layout
+
+\begin_layout Standard
+
+- Maâme Rioux, maâme Rioux, vous savez bien que câest pas comme Ã§a que Ã§a marche. Va bâen falloir que je prenne le temps dâÃ©tudier vos demandes. AprÃ¨s, on se rencontrera et on verra ce qui peut Ãªtre fait.
+\end_layout
+
+\begin_layout Standard
+
+- Châest comme tu veux. Chi tu chignes le papier, tu gardes ta job, chi tu chignes pas, demain matin neuf heures, tâes dans la pire misÃ©re noire de toute ta vie ! Y a rien Ã  nÃ©gochier, abcholument rien, mon pauvâtit garchon ! Tâas Ã©tÃ© malhonnÃªte, tu tâes fait pogner, Ã  chât heure, tu paies. Ã ma fachon ! Chinon, châest la prijon, le dÃ©jhonneur, le pipi dans les claques.
+\end_layout
+
+\begin_layout Standard
+
+Bluffeur notoire, Turcotte avait alors fait mine de sortir, les trois janissaires Ã  sa suite. Câest Ã  ce moment que Robespierre avait mis en marche son vieux fond Alcide.
+\end_layout
+
+\begin_layout Standard
+
+- Ãtes-vous au courant, monsieur Turcotte, de la situation sordide dans nos prisons depuis quâil y a quatre ans, votre rÃ©gime a sabrÃ© de 40 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% dans les budgets correctionnels ? Les autres dÃ©tenus vont tellement vous tabasser que je nâaurai pas besoin dâaller vous porter de caramels, vous nâaurez plus de dents pour les manger et vos lÃ¨vres seront des enflures crevassÃ©es, des horreurs indicibles.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+- Et, avait ajoutÃ© le malicieux Shimoune, jâaime autant pas parler de lâÃ©tat de votre pauvre anus.
+\end_layout
+
+\begin_layout Standard
+
+Il sâen Ã©tait suivi une engueulade mÃ©morable au terme de laquelle, vingt minutes plus tard, le gros Turcotte sâÃ©tait assis et avait commencÃ© Ã  prendre connaissance des demandes du commando.
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e, tu lui echpliques, moi, jâai pâus vraiment le goÃ»t dâle faire !
+\end_layout
+
+\begin_layout Standard
+
+Et elle avait allumÃ© la tÃ©lÃ© et sâÃ©tait mis les Ã©couteurs.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur le ministre, avait continuÃ© le fils, papelard en main, si vous le voulez bien, euh â¦ je vais vous lire nos 25 exigences non nÃ©gociables, telles que formulÃ©es par ma mÃ¨re et endossÃ©es par nous tous. Vous avez le mÃªme document que moi. Euh, je lis, câest Ã  la page 1 :
+\end_layout
+
+\begin_layout Standard
+
+Article un : Tout sera mis en Åuvre pour que Marie Rioux ait accÃ¨s, dans les plus brefs dÃ©lais, aux services dâun dentiste afin quâon lui fabrique des prothÃ¨ses, ce qui lui permettra de parler sans chuinter.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦ elle y tient beaucoup, avait dÃ» ajouter lâinimitable TimothÃ©e devant lâincrÃ©dulitÃ© de lâhomme fort du pari libÃ©ral.
+\end_layout
+
+\begin_layout Standard
+
+Quant aux 24 autres articles, ils avaient Ã©tÃ© lus sans aucune rÃ©action de Turcotte. On aurait dit quâil Ã©coutait la fatalitÃ© lui dicter son arrÃªt de mort et la mÃ©thode dÃ©taillÃ©e de son exÃ©cution. Selon le consensus dÃ©sordonnÃ© auquel Ã©tait parvenu le comitÃ© Â«Bec-mordÂ», patronyme dÃ©coulant de BCCMMORRST, pour BÃ©atrice, Christian, Claude, Marie, Marie-Odile, Robespierre, Romain, Shimoune et TimothÃ©e, un consensus plein dâespoir, un tantinet idÃ©aliste et, dans lâensemble, pratico-pratique sur lequel nâavait peinÃ©, câÃ©tait Ã©vident, aucun disciple de ThÃ©mis, on commenÃ§ait, dâentrÃ©e de jeu, par exiger que la pratique des cÃ©rÃ©monies de groupe, avec mise Ã  mort des malades, soit immÃ©diatement abolie sur le territoire du centre rimouskois. En mÃªme temps, on dÃ©clarait que lâinique Bureau des affaires gÃ©rontologiques, alias la police des vieux, nâavait plus juridiction dans la rÃ©gion administrative du Bas-Saint-Laurent.
+\end_layout
+
+\begin_layout Standard
+
+Puis, on Â«ordonnaitÂ» que le CRG-BSL soit transformÃ©, dans les plus brefs dÃ©lais, en rÃ©sidence pour personnes Ã¢gÃ©es, en maison de la culture ouverte sur toute la communautÃ© rÃ©gionale et en centre de recherche gÃ©rontologique affiliÃ© Ã  lâUniversitÃ© du QuÃ©bec Ã  Rimouski, lâUQAR. Pour y arriver, prÃ©cisait-on, un projet pilote devait Ãªtre enclenchÃ© au plus tard le 1er aoÃ»t. En corollaire, les aÃ®nÃ©s du Bas-Saint-Laurent nâÃ©taient plus contraints dây Ãªtre hÃ©bergÃ©s. Mais ceux qui le voulaient le pourraient dÃ¨s que les rÃ©amÃ©nagements nÃ©cessaires auraient Ã©tÃ© complÃ©tÃ©s; ces gens seraient alors considÃ©rÃ©s comme locataires. Il va sans dire que les notions de salles 2P, 3P et palliatives Ã©taient abolie. Il nây aurait ainsi plus de dortoirs, plus dâailes nord, centre et sud. Des Ã©quipes de rÃ©novateurs feraient de ces salles des chambres pour personnes seules, pour personnes en couple, voire en famille, pour retraitÃ©s plus fortunÃ©s, sans oublier de petites boutiques de dÃ©pannage. Des tarifs et du financement seraient imaginÃ©s et implantÃ©s. Quant au Centre nutritionnel, le comitÃ© le transformait en vÃ©ritable rÃ©fectoire ou cafÃ©tÃ©ria et les machines Ã  Nutrisuz Ã©taient envoyÃ©es Ã  la casse. Seule de la vraie nourriture saine serait dorÃ©navant servie.
+\end_layout
+
+\begin_layout Standard
+
+- On niaise pas avec Ã§a, avait prÃ©cisÃ© Shimoune. Câest une des premiÃ¨res choses quâon va faire. On va mÃªme recruter du personnel professionnel. Bye-bye AmÃ©dÃ©e Chicot ! Quin mon cochon !
+\end_layout
+
+\begin_layout Standard
+
+- Sâil te plaÃ®t, Shimoune, laisse-moi lire le document au ministre.
+\end_layout
+
+\begin_layout Standard
+
+En ce qui a trait Ã  lâinquiÃ©tant centre de recherche hormonal du sous-sol, il serait rÃ©affectÃ©, dans les plus brefs dÃ©lais, en entitÃ© dâÃ©tude sur la rÃ©adaptation alimentaire des personnes Ã¢gÃ©es qui, au cours des trois derniÃ¨res annÃ©es, nâavaient mangÃ© que du Nutrisuz. Ici, il Ã©tait stipulÃ© quâen plus dâune Ã©quipe de chercheurs, il y aurait une collaboration avec lâUniversitÃ© du QuÃ©bec Ã  Rimouski (UQAR). En outre, un centre de santÃ© avec mÃ©decins, personnel infirmier, Ã©quipement moderne et ambulance pour transfert Ã©ventuel vers lâhÃ´pital de Rimouski, serait crÃ©Ã©. Les professionnels de la santÃ© seraient tenus de visiter rÃ©guliÃ¨rement tous les rÃ©sidents. Ici aussi, il y aurait partage structurel avec lâUQAR.
+\end_layout
+
+\begin_layout Standard
+
+- Le comitÃ© â TimothÃ©e pensait plutÃ´t Ã  BÃ©atrice qui avait fait ajouter ces points â a de bons contacts Ã  lâuniversitÃ© et, sâil le financement ne tarde pas, Ã§a sera assez facile dâorganiser Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+Dans la logique de la rÃ©novation, la salle du Conseil dâadministration se transformait en bibliothÃ¨que avec ressources humaines compÃ©tentes et, stipulait-on dans le document du comitÃ© Â«Bec-mordÂ», des livres en quantitÃ© suffisante devaient Ãªtre achetÃ©s. Le salon du personnel, lui, il Ã©tait dÃ©mÃ©nagÃ© dans la partie sud de la cafÃ©tÃ©ria et une cloison Ã©tait Ã©rigÃ©e pour en faire une piÃ¨ce sÃ©parÃ©e avec accÃ¨s directement du couloir. En lieu et place, lâespace ainsi libÃ©rÃ© Ã©tait retournÃ© Ã  sa vocation dâorigine, câest-Ã -dire un gymnase. Sous la responsabilitÃ© du directeur des loisirs Robespierre Alcide, des Ã©quipements modernes dâintÃ©rÃªt gÃ©rontologique Ã©taient achetÃ©s et des employÃ©s spÃ©cialisÃ©s Ã©taient embauchÃ©s. Il va sans dire que la piscine du sous-sol Ã©tait remise en fonction.
+\end_layout
+
+\begin_layout Standard
+
+Lâarticle suivant Ã©tait suave.
+\end_layout
+
+\begin_layout Standard
+
+Article 13 : Les actuels prÃ©posÃ©s aux bÃ©nÃ©ficiaires verront leur dÃ©finition de tÃ¢che considÃ©rablement changÃ©e. Ils ne seront plus en situation dâautoritÃ© sur des patients, mais en situation de services auprÃ¨s de locataires. Ils seront des aidants, oÃ¹, notamment, ils devront offrir des services dâÃ©coute, de courses, dâentretien, de rÃ©paration, dâaccompagnement ici et lÃ , incluant Ã  lâextÃ©rieur dans la rÃ©gion.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa mon ami, ce ne sera pas Ã©vident. Pense Ã  toutes les crapules que lâon cÃ´toie. Va y avoir un mÃ©chant mÃ©nage Ã  faire !
+\end_layout
+
+\begin_layout Standard
+
+- Laisse-moi continuer, Robespierre. Monsieur Turcotte a un emploi du temps trÃ¨s chargÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Le fils Tardif avait alors abordÃ© les questions relatives Ã  la SÃ©cu, laquelle - on sentait ici lâinfluence de Marie-Odile - voyait ses effectifs coupÃ©s de moitiÃ©. Tous ses systÃ¨mes dâespionnage, dâÃ©coute ou de captation se retrouvaient rÃ©duits au niveau tolÃ©rÃ© dans les endroits publics du QuÃ©bec. En prime, on dÃ©crÃ©tait que le centre dâincarcÃ©ration du sous-sol Ã©tait transformÃ© en atelier de rÃ©parations avec du personnel spÃ©cialisÃ©, du Â«personnel empathiqueÂ», Ã©tait-il prÃ©cisÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Bye-bye les Papyblues !
+\end_layout
+
+\begin_layout Standard
+
+- Sâil te plaÃ®t, Shimoune !
+\end_layout
+
+\begin_layout Standard
+
+Tout cela, bien entendu, ne pouvait se faire que si les lettres patentes de la corporation du CRG-BSL Ã©taient temporairement abrogÃ©es, le temps du dÃ©roulement du projet, que si le Conseil dâadministration du CRG-BSL Ã©tait suspendu sine die et remplacÃ© par un comitÃ© de coordination, une structure opÃ©rationnelle fonctionnant par consensus un peu comme le comitÃ© Â«Bec-mordÂ», que si le personnel de la direction gÃ©nÃ©rale Ã©tait rÃ©duit de moitiÃ© et que si le grand patron Ã©tait nommÃ© Â«gÃ©rantÂ».
+\end_layout
+
+\begin_layout Standard
+
+Le plaisir Ã©vident avait un peu fait trÃ©bucher TimothÃ©e sur les deux articles suivants :
+\end_layout
+
+\begin_layout Standard
+
+Article 19 : Ã des fins dâefficacitÃ© et pour optimiser les chances de rÃ©ussite dudit projet, M. Carl Michaud, actuellement directeur gÃ©nÃ©ral du CRG-BSL, sera destituÃ© de ses fonctions et embauchÃ© aux deux tiers de son salaire actuel, comme gÃ©rant avec contrat de trois ans, terme au cours duquel il lui sera formellement interdit de dÃ©missionner. Ã dÃ©faut de se soumettre Ã  la logique de cet article, il devra rÃ©pondre de ses actes passÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+Article 20 : La direction des communications sera abolie et la tÃ¢che sera confiÃ©e Ã  un employÃ© dans lâentourage du gÃ©rant.
+\end_layout
+
+\begin_layout Standard
+
+- Dans les dents, mon Flipper ! Quin, mon Carl !
+\end_layout
+
+\begin_layout Standard
+
+- Shimoune, tais-toi !
+\end_layout
+
+\begin_layout Standard
+
+La partie plus culturelle du consensus Â«Bec-mordÂ» tÃ©moignait de lâinfluence de la Maririou. On apprenait, en effet, que tous les bureaux administratifs de lâÃ©tablissement seraient relÃ©guÃ©s Ã  lâextrÃ©mitÃ© nord du rez-de-chaussÃ©e et que le reste de cet Ã©tage, ainsi quâun grand secteur du sous-sol, notamment le local dâentreposage mortuaire et dâincinÃ©ration que lâon convertissait en petite salle de spectacle, seraient affectÃ©s Ã  la deuxiÃ¨me vocation de lâÃ©difice, la culture. Et, comme il se doit, lâÃcole populaire de musique, Â«lÃ¢chement abandonnÃ©e par lâÃtat en 2021Â», se voyait relancÃ©e dans ces nouveaux locaux avec financement garanti par QuÃ©bec pour au moins dix ans et embauche dâemployÃ©s qualifiÃ©s. Quant au public cible, il serait de tout Ã¢ge, un public provenant de la communautÃ© rÃ©gionale. Il Ã©tait en outre prÃ©cisÃ© quâil fallait sâattendre Ã  ce que dâautres initiatives culturelles soient lancÃ©es au fur et Ã  mesure de lâavancement du projet: multimÃ©dia, peinture, Ã©criture, thÃ©Ã¢tre, etc.
+\end_layout
+
+\begin_layout Standard
+
+Une fois lâimmense tÃ¢che menÃ©e Ã  terme, soit le 31 juillet 2034, Â«câest dans un an dâiciÂ», elle sera Ã©valuÃ©e Ã  son juste mÃ©rite et advenant que cette mÃ©ga rÃ©forme soit une rÃ©ussite, elle se verra implantÃ©e ailleurs au QuÃ©bec selon des modalitÃ©s Ã  Ãªtre Ã©tablies. Il va sans dire que la lÃ©gislation quÃ©bÃ©coise sera modifiÃ©e en ce sens.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa veut dire, monsieur Turcotte, que la notion dâillÃ©gaux, ces vieux qui vivent actuellement cachÃ©es, sera revue et ces gens, dÃ©criminalisÃ©es.
+\end_layout
+
+\begin_layout Standard
+
+- Jây arrivais, Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+Lâarticle 24 prÃ©voyait, en effet, quâil incomberait au gouvernement du QuÃ©bec de crÃ©er un mÃ©canisme permettant de rÃ©intÃ©grer dans la sociÃ©tÃ© des personnes ayant Ã©tÃ© contraintes de devenir, par la force des choses, illÃ©gales Ã  partir de lâentrÃ©e en fonction de la loi 173 de 2028.
+\end_layout
+
+\begin_layout Standard
+
+- Ã vous de rÃ©parer vos injustices !
+\end_layout
+
+\begin_layout Standard
+
+En entendant la lecture de lâarticle final, article oÃ¹ le sarcasme cohabitait avec la menace, lâÃ©norme politicien nâavait pu contenir sa colÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Article 25 : La maÃ®trise dâÅuvre et le financement de cette rÃ©forme seront confiÃ©s au ministre des Affaires gÃ©rontologiques, vice-premier ministre du QuÃ©bec et dÃ©putÃ© de Rimouski, lâhonorable Sylvain Turcotte, afin quâil puisse voir le parcours de sa carriÃ¨re se continuer dans lâharmonie.
+\end_layout
+
+\begin_layout Standard
+
+- Ãtes-vous malades, avait alors explosÃ© lâhomme fort du parti libÃ©ral ? Vous pensez vraiment que câest moi qui va sâoccuper de vos folies, gang dâamateurs ? Trouvez-vous un autre cave !
+\end_layout
+
+\begin_layout Standard
+
+- Le cave, on lâa, pâis câest toi, mon gros verrat.
+\end_layout
+
+\begin_layout Standard
+
+Romain sâÃ©tait alors approchÃ© Ã  deux pouces de lâimmonde pif couperosÃ©. Ce qui avait crÃ©Ã© un mouvement ondulatoire dans la masse des quatre attachÃ©s, dont une avocate de MontrÃ©al qui tentait de calmer le ministre.
+\end_layout
+
+\begin_layout Standard
+
+- Mâa tâen faire, espÃ¨ce de vieux malpoli !
+\end_layout
+
+\begin_layout Standard
+
+- Ta gueule Turcotte, pâis Ã©coute-moi comme iâfaut ! Le jour oÃ¹ tu vas dÃ©cider de boquer, de ne pas nous obÃ©ir, Ã§a va Ãªtre Â«clic, la prisonÂ» ! Câest moi ici, Romain Tardif, qui va peser sur le piton, as-tu compris ? Et lÃ , en dedans de dix minutes, crac !, les mÃ©dias, la police et Ti-DÃ©dÃ© vont recevoir toutes les preuves qui faut pour te faire pendre, mon gros chie-en-culotte! Pâis Ã  part de Ã§a, avise-toi pas de dÃ©missionner; fais rien quây penser et moi je fais clic ! As-tu compris ? Ã cât heure, chânaille, jâtâai assez vu !
+\end_layout
+
+\begin_layout Standard
+
+Furibond, Turcotte sâÃ©tait levÃ© en balbutiant de vagues menaces. Mais TimothÃ©e sâÃ©tait interposÃ© avec sa copie du document.
+\end_layout
+
+\begin_layout Standard
+
+- Papa, attends ! Faut quâil signe sâil veut pas se ramasser en prison.
+\end_layout
+
+\begin_layout Standard
+
+CaptÃ© par trois camÃ©ras diffÃ©rentes, le ministre avait alors griffonnÃ© sa signature avec une vigueur Ã  dÃ©chirer le papier et Ã  Ã©gratigner la table. Puis il Ã©tait disparu dans lâescalier, suivi de son personnel politique et de TimothÃ©e. En bas, dans le salon, Robespierre, Romain et Shimoune sâÃ©taient mis Ã  rire comme des Ã©coliers qui venaient dâÃ©chapper aux griffes du directeur.
+\end_layout
+
+\begin_layout Standard
+
+- Marie, avait chantonnÃ© le bonhomme en enlevant un des Ã©couteurs Ã  sa compagne, il a signÃ© le gros pourri ! Mais la vieille avait alors haussÃ© les Ã©paules et sâÃ©tait rebouchÃ© lâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- Fallait bâen manque quâiâ chigne ! Y Ã©tait cuit !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+55mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-papyblues.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Le lendemain, alors que TimothÃ©e, toujours privÃ© de son dispositif personnel polyvalent et de sa Saguewanish, Ã©tait descendu au sous-sol du Centre faire libÃ©rer le pÃ¨re Jean, il sâÃ©tait Ã©galement occupÃ© des deux frÃ¨res Papyblues. Que leur reprochait-on, au juste, Ã  ces malabars ? DâÃªtre grands, musclÃ©s, laids, bÃªtes, dangereux, terrifiants, dâavoir les dents sales, les ongles noirs, la mÃ¢choire Ã  figer le sang et dâappliquer, sans questionnement, les directives quâon leur signifiait ? Avaient-ils dÃ©jÃ  tabassÃ© des bÃ©nÃ©ficiaires ? Non ! Avaient-ils dÃ©jÃ  torturÃ© des prisonniers ? Pas plus ! Avaient-ils dÃ©jÃ  clouÃ© des chats, provisoirement vivants, sur les portes de leurs geÃ´les ? Que nenni ! Avaient-ils dÃ©jÃ  coupÃ© des rats en fines lamelles pour faire cuire un chow mein ? Encore moins ! Avaient-ils dÃ©jÃ  dÃ©vorÃ© de petits enfants, en commenÃ§ant par la tÃªte ? Absolument pas ! Le CS-1 leur avait fait alors une proposition de recyclage. De deux choses lâune, soit que les mÃ©chants gagnent, soit quâils perdent, et, advenant le deuxiÃ¨me cas, il y aura un important mÃ©nage. Un mÃ©nage de fond en comble.
+\end_layout
+
+\begin_layout Standard
+
+- Si vous marchez avec nous, vous gardez votre job. En cas contraire, vous vous retrouvez, dâici un mois maximum, sur la terre paternelle, dans lâarriÃ¨re-pays. Donc, vous faites quoi ?
+\end_layout
+
+\begin_layout Standard
+
+Lâun des frÃ¨res CÃ´tÃ© avait grimacÃ© un rictus Ã  faire frÃ©mir le plus redoutable des gladiateurs du cirque Maxime sous lâempereur Trajan.
+\end_layout
+
+\begin_layout Standard
+
+- On nâest pas con, chef ! On tâa vu aller. On sait quâil y a ceuze pour qui les patates sont collÃ©es au fond, pâis quây a ceuze pour qui le party est Ã  veille de pogner. Nous autres, on aime Ã§a les partys !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e avait alors souri et avait tendu la main. En lâÃ©crasant, sans aucune malice, les deux Papyblues Ã©taient devenus les gardes du corps de Marie et Romain. En poste 24 heures sur 24 chez TimothÃ©e, ils faisaient en sorte que le pire des scÃ©narios, celui selon lequel Pete Barrett sâen prendrait aux personnes du couple Rioux-Tardif pour tenter de dÃ©sarmer le groupe, sâavÃ©rerait dÃ©sormais impossible. Sauf, quâils bÃ¢fraient comme des dÃ©chaÃ®nÃ©s et TimothÃ©e devait mettre ses amis Ã  contribution pour renflouer ses armoires. ConsultÃ© sur cette importante question de sÃ©curitÃ©, le colonel Alcide et son adjointe lâadjudant-chef Tremblay, une adjointe de plus en plus â¦ intime, avaient averti tous les autres membres du comitÃ© Â«Mord-becÂ» dâÃªtre extrÃªmement prudent et, quand ils se retrouvaient seuls, de toujours avoir leur DPP en mode captation vidÃ©o. Heureusement, un Ã©vÃ©nement lourd de consÃ©quences Ã©tait venu rÃ©gler le problÃ¨me logistique causÃ© par la goinfrerie des Papyblues.
+\end_layout
+
+\begin_layout Standard
+
+En annonÃ§ant le projet pilote et les mesures soi-disant temporaires qui lâaccompagnaient, le ministre Turcotte Ã©tait devenu, pour les uns, une sorte de hÃ©ros, un homme de compassion, de cÅur, de sentiment, un personnage public honnÃªte qui reconnaissait avoir peut-Ãªtre commis des erreurs avec sa loi 173, un humaniste pour qui le bien-Ãªtre et la dignitÃ© des aÃ®nÃ©s primaient sur la performance budgÃ©taire de lâÃtat et sur sa carriÃ¨re politique. Pour les autres, il Ã©tait ce quâil avait toujours Ã©tÃ©, un politicien tirant la poche de son bord, câest-Ã -dire du cÃ´tÃ© de son Ã©lectorat rimouskois, des rÃ©gionaux trÃ¨s Ã©loignÃ©s de MontrÃ©al qui, les veinards, bÃ©nÃ©ficiaient dâun rÃ©gime humanitaire exceptionnel. Quoi quâil en soit, en une semaine, si on en croit les sondages et les vox-pop, il avait dÃ©passÃ© Ti-DÃ©dÃ© dans lâestime populaire et Ã©tait de loin, la personnalitÃ© quÃ©bÃ©coise la plus admirÃ©e. Les Ã©ditoriaux lâadulaient, les talk-shows se lâarrachaient, les corps intermÃ©diaires sâorganisaient pour que dans leurs rÃ©gions, la mÃªme chose se produise, il Ã©tait invitÃ© partout oÃ¹ il y avait une plateforme. MÃªme sur lâÃ®le dâAnticosti, la colonie de vieux squatters commenÃ§ait Ã  donner signe de vie et Ã  communiquer avec lâentourage de lâhomme politique. Avec lâÃ¢ge, certains rÃ©sidents semblaient prÃ©fÃ©rer Ãªtre rapatriÃ©s sur le Â«continentÂ».
+\end_layout
+
+\begin_layout Standard
+
+Sa gloire Ã©tait telle quâil sâÃ©tait pris Ã  son propre jeu et, en un mois, Ã©tait devenu franchement convaincu quâil fallait aller dans le sens des revendications du comitÃ© Â«Mord-becÂ», ce qui avait frustrÃ© bon nombre de profiteurs du rÃ©gime. En fait, Turcotte sâÃ©tait retrouvÃ© tellement imbu de sa nouvelle importance et de son enviable rÃ©putation, quâil avait jurÃ© aux parents de TimothÃ©e, un jour oÃ¹ la Maririou lâavait Ã  nouveau convoquÃ© sur la rue Crouet et quâil sâÃ©tait inquiÃ©tÃ© de la prÃ©sence des sinistres frÃ¨res CÃ´tÃ©, que jamais au grand jamais, il nâaccepterait, ni ne couvrirait, ni ne tolÃ©rerait toute exaction, violence ou autre vexation commise Ã  leur endroit ou Ã  celui de leurs amis, cela articulÃ© solennellement devant trois camÃ©ras et quatre tÃ©moins. Il avait Ã©tÃ© tellement convaincant que peu aprÃ¨s, les Papyblues avaient Ã©tÃ© retournÃ©s au Centre pour aider aux innombrables transformations en cours.
+\end_layout
+
+\begin_layout Standard
+
+Au fil des mois, le projet avait pris corps. ConfirmÃ© dans sa tÃ¢che de directeur des loisirs, Robespierre avait tout de go commencÃ© Ã  en mener large avec lâamÃ©nagement du gymnase et de la piscine, dont il avait confiÃ© la responsabilitÃ© Ã  son adjoint de fraÃ®che date, Shimoune Saint-Pierre. Â«Tu viens faire splish splash avec moi, mon beau Robie ?Â» LâhÃ©ritier du PÃ©tÃ©pano avait Ã©galement dÃ» se dÃ©pÃªcher de nommer Bea Bellow responsable de la transformation de la salle du CA en bibliothÃ¨que. La vieille dame ne se souvenait pas dâavoir Ã©tÃ© aussi heureuse dans sa vie. Quant Ã  Louise Lavoie, elle pouvait Ã  peine lâaider, aux prises elle-mÃªme avec une collection quotidienne dâennuis matÃ©riels dÃ©fiant lâimagination la plus dÃ©bridÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+La veille du dÃ©but des travaux visant Ã  en refaire un gymnase, le salon du personnel avait servi Ã  recevoir la quasi-totalitÃ© des employÃ©s oÃ¹ lâancien commando du 29 juillet 2033 qui sâÃ©tait octroyÃ© la totalitÃ© des siÃ¨ges au comitÃ© de coordination avait rÃ©pondu Ã  toutes les questions et expliquÃ© toutes les consÃ©quences du changement dâorientation de lâÃ©tablissement sur les postes. Si plusieurs demeuraient inchangÃ©s, de nombreux disparaissaient et dâautres Ã©taient Ã  combler, par exemple en alimentation, en entretien mÃ©nager, en loisirs, en soins infirmiers, en assistance gÃ©riatrique, en encadrement de bÃ©nÃ©voles et ainsi de suite. Les intÃ©ressÃ©s nâavaient quâÃ  se manifester. Tous ceux qui voulaient conserver leur lien dâemploi Ã©taient les bienvenus. Mais ils devaient mÃ©diter sur le fait que toute forme de malhonnÃªtetÃ©, dâabus, dâextorsion, de manquement Ã©thique, de violence, physique ou verbale, et autres turpitudes Ã  lâendroit des bÃ©nÃ©ficiaires, ou des locataires comme on les appellerait sous peu, serait immÃ©diatement sanctionnÃ© par un congÃ©diement sans appel avec rapport dÃ©taillÃ© sur le certificat de licenciement.
+\end_layout
+
+\begin_layout Standard
+
+Dans les deux mois qui avaient suivi, plus de 35 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% des effectifs avaient choisi de partir, dont plus de 70 % des chefs de section et des cadres. Â«Bon dÃ©barras !Â» sâÃ©tait Ã©criÃ© le colosse en apprenant la dÃ©mission du gros Lavoie et du redoutable Pierre Monger, ex CS-1 du 4e Sud. En revanche, le dÃ©part de Claude Sey voulant retourner Ã  lâuniversitÃ© complÃ©ter un doctorat en ethnologie, lâavait profondÃ©ment chagrinÃ©, tant il apprÃ©ciait lâhonnÃªtetÃ© et lâidÃ©alisme altruiste du jeune homme.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+CÃ´tÃ© informatique, Vlado Marcovsky avait dÃ©cidÃ© de rester en poste et, Ã  la demande du ComitÃ©, avait fait table rase de lâerratique systÃ¨me panrÃ©gional pour en implanter un nouveau entiÃ¨rement basÃ© sur du logiciel libre. Une enquÃªte avait dÃ©montrÃ© que le diagnostic posÃ© peu avant sa mort par Pierre Asselin, un vieil ingÃ©nieur quasi aveugle placÃ© sous la responsabilitÃ© de TimothÃ©e, avait Ã©tÃ© juste. Il y avait effectivement eu tatouage de puces. Marcovsky et son Ã©quipe avaient eu besoin de quatre mois, incluant le temps de dÃ©bogage, pour tout refaire. Il est vrai quâil nây avait plus de bÃ©nÃ©ficiaires Ã  gÃ©rer, par contre les projets de recherche, en raison de lâimplication de lâuniversitÃ© et des travaux du docteur Bellavance, abondaient.
+\end_layout
+
+\begin_layout Standard
+
+Pendant ces mois fÃ©briles, rien nâÃ©tait plus drÃ´le que de voir Robespierre entrer, sans jamais frapper, dans le coqueron mal amÃ©nagÃ© â merci Louise Lavoie - qui servait dâofficine au gÃ©rant Carl Michaud pour lui faire signer des documents quâil lui interdisait de lire. Amaigri, accablÃ©, la peau grisÃ¢tre, lâancien DG semblait au bord de la dÃ©pression. Dans les premiers temps de son calvaire, il avait essayÃ© de plaider la cause de Philippe Dauphin. Mais le comitÃ© de coordination avait rejetÃ© la demande. Flipper avait Ã©tÃ© boutÃ© hors de la rÃ©gion avec promesse que si jamais on entendait Ã  nouveau parler de lui, on le traquerait et on lâoffrirait en pÃ¢ture aux Papyblues. Il avait ensuite tentÃ© sa chance avec AmÃ©dÃ©e Chicot sans plus de succÃ¨s. On lui avait alors garanti quâadvenant que lâon retrouve cet abominable personnage, on en ferait une attraction populaire en lâenchaÃ®nant Ã  vie, dans une cage bien en Ã©vidence au rez-de-chaussÃ©e du nouveau Centre, avec, pour nourriture exclusive, du Nutrisuz Ã  saveur de poutine aux similis bacon.
+\end_layout
+
+\begin_layout Standard
+
+Lentement, tout au long dâaoÃ»t et septembre 2033, la plupart des pensionnaires avaient Ã©tÃ© dÃ©mÃ©nagÃ©s soit dans les familles, soit dans des hÃ´pitaux, en attendant que les travaux soient complÃ©tÃ©s. Robespierre nâavait plus Ã©tÃ© sollicitÃ© pour des pilules du bonheur. Ceux qui avaient choisi de rester au Centre avaient Ã©tÃ© relogÃ©s temporairement au dernier Ã©tage, territoire naguÃ¨re terrifiant qui venait de se transformer en colonie de vacances pour vieillards nâayant nulle part ailleurs oÃ¹ aller, dont lâÃ©prouvant Jean Saint-Gelais, le tandem aux mÅurs discutables ThÃ©riault â LabbÃ© et Luce Morency.
+\end_layout
+
+\begin_layout Standard
+
+- Madame ThÃ©riault, vous seriez gentille dâavoir un Åil bienfaisant sur madame Morency, avait demandÃ© TimothÃ©e, dÃ©sormais responsable de la dizaine dâemployÃ©s affectÃ©s Ã  cet Ã©tage. Il lui arrive de fuguerâ¦
+\end_layout
+
+\begin_layout Standard
+
+- Jâme souviens dâelle au lac Saint-Mathieu. Belle femme, la Luce Morency â¦
+\end_layout
+
+\begin_layout Standard
+
+- Moi aussi je me souviens, madame ThÃ©riault, moi aussi.
+\end_layout
+
+\begin_layout Standard
+
+- Jâvas mâen occuper, chef, fais-toi-z-en pas. Jây ferai pas mal !
+\end_layout
+
+\begin_layout Standard
+
+- Profitez-en, vous et madame LabbÃ©, pour vous installer dans la Â«pâtite chambreÂ» de lâancienne aile sud, Ã  lâautre bout. Y a personne dedans. Vous allez avoir euh â¦ la paix. En tout cas pour un bout de temps.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa te dÃ©range pâus quâon soit gouines ?
+\end_layout
+
+\begin_layout Standard
+
+- Ãa ne mâa jamais dÃ©rangÃ©, madame ThÃ©riault.
+\end_layout
+
+\begin_layout Standard
+
+Lâex CS-1 avait Ã  peine eu le loisir de sâapprocher des ascenseurs que la vieille Loubert lâavait interpellÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen beau vos rÃ©formes, chef, mais moi je nâai plus de sacs depuis une semaine. Vos gars, ici sur lâÃ©tage, ils savent pas oÃ¹ en trouver.
+\end_layout
+
+\begin_layout Standard
+
+- Je mâen occupe, madame Loubert.
+\end_layout
+
+\begin_layout Standard
+
+Une heure plus tard, TimothÃ©e rÃ©apparaissait avec une lourde caisse contenant de quoi satisfaire la victime de colostomie pour au moins un an.
+\end_layout
+
+\begin_layout Standard
+
+CâÃ©tait il y a dix mois, alors que tout Ã©tait Ã  faire. Aujourdâhui, dans cette salle dâaudience trop climatisÃ©e, compte tenu des froides averses qui sâabat sur lâEst-du-QuÃ©bec depuis prÃ¨s dâune semaine, TimothÃ©e qui nâentend plus rien, regarde tous ces gens qui, autour de lui, sâaffichent ouvertement fous de joie, la plupart ayant attendu Ã  la derniÃ¨re minute pour lever un petit doigt dâappui. Heureusement, certains ont mÃ©ritÃ© dâÃªtre de la fÃªte. Ici, Shimoune avec son ami de cÅur, un ergothÃ©rapeute rÃ©cemment embauchÃ©, lÃ , Robespierre tenant Marie-Odile par la taille. Plus loin, Claude Say en sÃ©ance de congratulation en compagnie du vieux Romain, encore plus loin, BÃ©a Bellow et Louise Lavoie en train de rire aux Ã©clats avec les frÃ¨res CÃ´tÃ©, prÃ¨s dâelles, Mmes ThÃ©riault et LabbÃ© encadrant Luce Morency quâelles ont vÃªtue dâun tailleur marine et dont elles ont coiffÃ© les longs cheveux en chignon 1900, puis, Ã  quelques mÃ¨tres Ã  sa gauche, BÃ©atrice, SA fille sous la lanterne, occupÃ©e Ã  converser en toute gentillesse avec un couple de mÃ©decins fraÃ®chement recrutÃ©s et diplÃ´mÃ©s de lâUniversitÃ© de MontrÃ©al, deux jeunes idÃ©alistes venus prÃªter main-forte Ã  la contre-rÃ©forme du gros Turcotte. Â«Allez BÃ©atrice, rends-les accrocs de ton charme !Â» EmbauchÃ©e par lâUQAR, elle assumait depuis quelques mois la coordination des activitÃ©s en recherche-action gÃ©rontologique et gÃ©riatrique que dÃ©ployait le centre de haut savoir.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-beatrice-gazou.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Quand leurs yeux se croisent enfin, le sourire de lâinfirmiÃ¨re change aussitÃ´t de registre. De socio-amical quâil Ã©tait, il devient beau, irrÃ©sistible, brÃ»lant, amoureux. Partout, dans chaque capillaire de TimothÃ©e, dans chaque cellule de sa peau, dans chaque atome de tissu, une sensation enveloppante de bonheur, de chaleur, dâattraction, dâÃ©motion, vient investir toute la place organique. Ce quâil contemple alors, ce quâelle le voit contempler avec une telle ardeur, ce nâest pas seulement une de ces femmes de rÃªve, Â«solitaire dans la foule comme en forÃªtÂ», une de ces Â«femmes dâespoir heureuxÂ» telles que chantÃ©es naguÃ¨re, des femmes que lâon mÃ©rite Â«en restant libreÂ». Non. Ce quâil voit, câest cette femme quâil vÃ©nÃ¨re Ã  chaque instant, cette femme qui, depuis prÃ¨s dâun an, le rend heureux le matin, le midi, le soir, la nuit, cette femme qui lui a fait oublier, revoir, rÃ©organiser, repenser, 44 ans de vie pas toujours facile, une vie de gras du bide chauvasson et barniqueux. Il doit sâapprocher, Ã©tirer lâinstant de vertige, il lui faut aller goÃ»ter cette source dâapaisement, il doit aller entremÃªler son aura dans celle, toute en douceur enveloppante, de BÃ©atrice. Plus rien ne peut le retenir.
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e, viens, faut que jâte parle.
+\end_layout
+
+\begin_layout Standard
+
+Câest la Maririou.
+\end_layout
+
+\begin_layout Standard
+
+- Viens voir, jâai quelque chose Ã  te donner.
+\end_layout
+
+\begin_layout Standard
+
+Un peu pour faire contre mauvaise fortune bon cÅur, TimothÃ©e sâextirpe lentement de son envoÃ»tement et suit sa mÃ¨re qui navigue dans la foule comme une mamie impavide brandissant un terrible parapluie. La porte franchie, elle entre dans un grand vestiaire et, sur une tablette en haut des cintres, prend un sac de jute, une de ces poches dans lesquelles, Ã  Saint-Anaclet, elle conservait dâinnommables produits de son jardin.
+\end_layout
+
+\begin_layout Standard
+
+- LÃ , ton pÃ¨re pâis moi, ils viennent de nous ressusciter lÃ©galement. Ãa veut dire deux choses pour moi. Un, je deviens directrice de lâÃcole de musique et on commence demain matin. Deux, je dÃ©bute comme directrice musicale dâun orchestre de chambre et on donne un premier concert dans six semaines. Ãa fait trois mois que je recrute des musiciens en cachette. On est rendus Ã  27, de tous les Ã¢ges, et la plupart ont un passÃ© professionnel. Ton pÃ¨re va mÃªme y Ãªtre clarinettiste.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e a pÃ¢li.
+\end_layout
+
+\begin_layout Standard
+
+- Mais moi, je vais me contenter de diriger, je ne suis plus une bonne violoncelliste. Mes vieux doigts ne suivent plus. Pâis toi, mon tit garÃ§on, rassure-toi, je ne veux pas que tu en fasses partie avec ton cuivre Ã  coulisse. Nâaie pas peur ! Tâas jamais aimÃ© cet instrument et tu en as toujours jouÃ© parce que câest moi qui lâexigeais, pour me faire plaisir, pour mâobÃ©ir, pour que je te foute la paix â¦
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- â¦ ou, peut-Ãªtre, pour que je mâintÃ©resse Ã  toi.
+\end_layout
+
+\begin_layout Standard
+
+Son regard fixant les portes de la salle, elle lui tend le sac.
+\end_layout
+
+\begin_layout Standard
+
+- Tiens, câest pour toi.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e sâen empare et y enfouit son avant-bras oÃ¹ il dÃ©couvre un Ã©tui en tissu capitonnÃ© un peu plus Ã©troit, mais Ã  peine, que celui de son trombone.
+\end_layout
+
+\begin_layout Standard
+
+- Câest quoi ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouvre, tu vas voir ! Ãa vient du Pays de Galles, câest fabriquÃ© par un artisan et on me lâa livrÃ© hier. Câest quelque chose qui va peut-Ãªtre tâaider Ã  te trouver, toi, un Ãªtre libre que sa vieille folle de mÃ¨re a trop longtemps essayÃ© de modeler Ã  sa faÃ§on, ce qui tâa empÃªchÃ©, pauvâ tit garÃ§on, dâÃªtre dans la vie ce que tu Ã©tais dans ton petit cÅur. Jâai tout compris Ã§a en me dÃ©barrassant de la haine, de la peur, de la rage que jâÃ©prouvais constamment Ã  cause de mon pÃ¨re. La paix mâest venue, comme Ã§a, aprÃ¨s avoir rÃ©glÃ© son cas au gros Turcotte, en lui arrachant les dents. Jâai pu tuer ma rancÅur, Ã©touffer ma maladie, pisser tout mon vinaigre.
+\end_layout
+
+\begin_layout Standard
+
+IncrÃ©dule, inquiet, impressionnÃ©, curieux, le fils ouvre lâÃ©tui et y dÃ©couvre une lyre.
+\end_layout
+
+\begin_layout Standard
+
+- Une lyre ?
+\end_layout
+
+\begin_layout Standard
+
+- Une lyre Sutton Hoo, mais Ã  sept cordes, le mÃªme symbole de lumiÃ¨re et dâharmonie que la lyre dont jouait TimothÃ©e de Milet, le Grec qui a changÃ© la musique pour Ã©viter quâelle ne le change, lui. Un homme qui avait compris que la vie, il fallait la vivre Ã  sa faÃ§on et non Ã  celle des autres, incluant, probablement, sa mÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Les mots ne viennent plus Ã  TimothÃ©e, embouteillÃ©s, quâils sont, dans un goulot bien Ã©tanche.
+\end_layout
+
+\begin_layout Standard
+
+- Câest ton instrument, maintenant.
+\end_layout
+
+\begin_layout Standard
+
+Et elle le gratifie dâun des rares sourires en 83 ans de parcours, un sourire si beau quâil en ressent un grand bien-Ãªtre. Puis, elle lui tapote doucement lâÃ©paule et sâen retourne, de son trot de petite vieille pressÃ©e, vers lâintÃ©rieur de la salle dâaudience.
+\end_layout
+
+\begin_layout Standard
+
+- Apprends Ã  en jouer, lui crie-t-elle avant de disparaÃ®tre.
+\end_layout
+
+\begin_layout Standard
+
+Penaud, les yeux rivÃ©s sur la lyre, il est figÃ©, incapable dâexprimer quoi que ce soit. BÃ©atrice qui avait observÃ© la scÃ¨ne sâapproche pour le tirer de sa catatonie.
+\end_layout
+
+\begin_layout Standard
+
+- Viens, TimothÃ©e, on sâen va chez nous.
+\end_layout
+
+\begin_layout Standard
+
+Dans le taxi de Jawad Kebbaj, avec son bouleversant cadeau sur les cuisses et un feuillet dâinstructions en main, il dira :
+\end_layout
+
+\begin_layout Standard
+
+- Câest diatonique, do, rÃ©, mi, fa, sol, avec les deux cordes dâextrÃ©mitÃ© en la.
+\end_layout
+
+\begin_layout Standard
+
+Puis, devant la maison de la rue Crouet transformÃ©e, depuis lâarrivÃ©e de la belle infirmiÃ¨re, en cottage coquet dÃ©corÃ© dâarbustes, de fleurs et de rideaux, gratifiÃ© dâune peinture rÃ©cente ainsi que de volets neufs et complÃ©tÃ© dâune clÃ´ture aussi inutile que mignonne, il ajoutera :
+\end_layout
+
+\begin_layout Standard
+
+- Ce quâelle vient de me donner, maman, ce nâest pas une lyre, mais la libertÃ©. Ma libertÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Sympathique dans sa gentille malice, Jawad fixera alors les yeux de TimothÃ©e dans le rÃ©troviseur :
+\end_layout
+
+\begin_layout Standard
+
+- Jâai lâimpression, mon jeune homme, que tu fais mentir un vieux proverbe marocain qui dit : Â«Ouvre tes yeux avant le mariage, car aprÃ¨s, tu ne pourras que les fermerÂ». Dans ton cas, mÃªme si tu la maries pas, ta moukÃ¨re, je la regarde et je sais que tu nâauras jamais besoin de les fermer tes yeux. Et Ã§a, crac ! Ãa dÃ©fie la sagesse ancestrale du Maroc. Ou you-you ! Câest terrible Ã§a, mon jeune homme, je tâle dis ! Tellement, ajoute-t-il en annulant son taximÃ¨tre, que jâai pas dâautres choix, tabarnak, que de te faire cadeau de ce voyage.
+\end_layout
+
+\begin_layout Standard
+
+Ã lâintÃ©rieur, TimothÃ©e descendra un instant au sous-sol, dans le petit logement quâoccuperont encore quelques semaines ses parents avant de devenir locataires au Centre Sylvain Turcotte, pour utiliser la nouvelle dÃ©signation de lâancien CRG, et, suivi dâun chien-rat en furie qui, apercevant la belle BÃ©atrice, se paralysera Ã  ses pieds, rÃ©apparaÃ®tra avec son trombone. En prenant son temps, il le regardera, puis le replacera dÃ©licatement dans son Ã©tui. Il ajustera les trois fermetures et ira ranger ce tÃ©moin des 35 derniÃ¨res annÃ©es sur la plus haute tablette de son garde-robe.
+\end_layout
+
+\begin_layout Standard
+
+Alors, avec respect, il soulÃ¨vera sa lyre galloise et commencera Ã  en pincer les cordes.
+\end_layout
+
+\begin_layout Standard
+
+- De toute ma vie, je nâai jamais entendu un son aussi beau.
+\end_layout
+
+\begin_layout Standard
+
+Un son nâayant dâÃ©gal que le sourire quâaffichera alors BÃ©atrice.
+\end_layout
+
+\begin_layout Standard
+
+FIN 
+\end_layout
+
+\end_body
+\end_document

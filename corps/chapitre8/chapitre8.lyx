@@ -1,0 +1,1393 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+DÃ©ontologie Ã  gogo, le jeudi 21 juillet 2033 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Ce qui, en temps normal, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+impressionne le plus TimothÃ©e et Shimoune quand ils viennent se caler, cÃ´te Ã  cÃ´te, dans leur fauteuil de la salle du Conseil dâadministration pour leur rÃ©union mensuelle du ComitÃ© de dÃ©ontologie de lâÃ©tablissement (CDE), ce nâest pas la charretÃ©e de propos aussi doctes que biscornus, ni les yeux haineux de Philippe Flipper Dauphin, ni le regard impÃ©nÃ©trable de Carl Michaud. Non, câest le dÃ©cor ambiant. Câest comme si les trois quarts de la masse budgÃ©taire consentie Ã  la dÃ©coration du CRG-BSL lors de sa construction avaient Ã©tÃ© affectÃ©s Ã  la salle du CA. On se croirait Ã  Balmoral, ce palais de la reine Victoria. Tout nâest que boiseries, caissons, frises, lustres, cuirs et tapis. De quoi sÃ©duire et rassurer nâimporte quel banquier, nâimporte quel politicien, nâimporte quel philanthrope. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Sâil avait son mot Ã  dire, le fils Tardif, il y a belle lurette quâil aurait transformÃ© la somptueuse piÃ¨ce en bibliothÃ¨que classique, sombre, feutrÃ©e, sentant le bouquin poussiÃ©reux, oÃ¹, de temps Ã  autre, entre deux dÃ©cÃ¨s survenus dans son parc Ã  vieux, il irait se recueillir dans une mÃ©ditation extatique, question dâoublier le caractÃ¨re insoutenable de sa vie de MottÃ©, de CS-1 du 5e Nord, dâenfant unique dâune Maririou saignante, blafarde, terrible.
+\end_layout
+
+\begin_layout Standard
+
+Paradoxalement, les trois carafes dâeau disposÃ©es sur la longue table semblent avoir Ã©tÃ© ramassÃ©es dans une vente-dÃ©barras et les verres sont en petit plastique cassant. Sur le mur du fond, immÃ©diatement derriÃ¨re le fauteuil du prÃ©sident dâassemblÃ©e, un cadre aux moulures XIXe reprÃ©sente le ministre Turcotte dans toute sa magnificence. Pourquoi pas une statue Ã©questre devant lâentrÃ©e principale !
+\end_layout
+
+\begin_layout Standard
+
+On devine que ce matin, TimothÃ©e a la tÃªte bien loin des soucis bibliothÃ©conomiques ou des amÃ©nagements de monuments. Non pas quâil rumine, comme il le devrait, lâaffaire Dart Vader Gagnon dont en haut lieu, on veut le coiffer. Il est plutÃ´t aux premiÃ¨res lignes de ce dÃ©sastre apprÃ©hendÃ© dont le processus a Ã©tÃ© enclenchÃ© hier avant-midi par sa mÃ¨re. Il nâa dâimages que les draps souillÃ©s de sang, la pÃ¢leur de la possiblement cancÃ©reuse Maririou et lâabominable commande du Dr Gagnon.
+\end_layout
+
+\begin_layout Standard
+
+- Une chance que tous les Gagnon ne se ressemblent pas, pense-t-il un instant.
+\end_layout
+
+\begin_layout Standard
+
+Pourtant, les deux risquent de lui faire perdre son boulot : lâun parce quâil le force Ã  voler des produits pharmaceutiques, lâautre parce quâil a critiquÃ© lâÃ©tablissement dans les mÃ©dias, ce qui est encore pire.
+\end_layout
+
+\begin_layout Standard
+
+Câest Ã  peine sâil suit le dÃ©bat surrÃ©aliste portant sur la nature des soins quâil est Â«administrativement possibleÂ» dâapporter aux pensionnaires en perte dâautonomie, ceux que lâon garde dans les salles 3P. VoilÃ  des gens, pour la plupart, atteints de dÃ©mence, de sÃ©nilitÃ©, de maladies incurables, des gens dont Â«les coÃ»ts dâentretien sont imprÃ©visiblesÂ». Dans un contexte oÃ¹ les deniers sont rares, oÃ¹ la sociÃ©tÃ© doit financer ses universitÃ©s, favoriser les Ã©tudes de pointe, aider la jeunesse talentueuse Ã  acquÃ©rir les formations les plus pointues, a-t-on moralement le droit de dÃ©penser des centaines de milliers de dollars sur une opÃ©ration dont le bÃ©nÃ©ficiaire, un vieillard lourdement affaibli, un baby-boomer qui, sa vie durant, aura commis tous les excÃ¨s, passera, de toute faÃ§on, en salle palliative (SP) quelques semaines plus tard ?
+\end_layout
+
+\begin_layout Standard
+
+Sur un bout de papier, lâirrÃ©vÃ©rencieux Shimoune a dessinÃ© un doigt dâhonneur et le lui montre discrÃ¨tement.
+\end_layout
+
+\begin_layout Standard
+
+Quand un pensionnaire commence Ã  souffrir de dÃ©mence, pourquoi devrait-on lui fournir dâonÃ©reux services ophtalmologiques, sachant que, de toute faÃ§on, elle ne lira plus de livres ou ne consultera plus de systÃ¨mes informatisÃ©s ? Nâest-ce pas lÃ  du gaspillage ? Ou encore, pourquoi devrait-on sauver la prostate dâun octogÃ©naire alitÃ©, le duodÃ©num dâune vieillarde incontinente, lâouÃ¯e dâune insomniaque mÃ©dicamentÃ©e, la hanche dâune personne dÃ©pressive passant le plus clair de son temps couchÃ©e ?
+\end_layout
+
+\begin_layout Standard
+
+Et de chuchoter son comparse :
+\end_layout
+
+\begin_layout Standard
+
+- La queue dâun bande-mou ?
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-timothee-jeune.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Et la vie dâune vieille femme qui a des polypes endomÃ©triaux ou une tumeur peut-Ãªtre cancÃ©reuse, une vieille femme qui nâa pas encore Ã©tÃ© capable de dire Â«je tâaimeÂ» Ã  quiconque, une vieille femme malgrÃ© tout attachante, doit-on la prolonger le plus longtemps possible afin quâun jour, elle finisse par connaÃ®tre la chaleur dâune relation affectueuse avec un fils lourdement perturbÃ© ? Combien dâannÃ©es de luciditÃ© reste-t-il Ã  cette femme brillante ? Dix ? Plus ? Moins ? Il y aurait tellement de choses Ã  lui dÃ©clarer, Ã  prÃ©ciser, Ã  expliquer, Ã  se souvenir.
+\end_layout
+
+\begin_layout Standard
+
+Se rappelle-t-elle de cette fÃªte des MÃ¨res - TimothÃ©e devait avoir douze ou treize ans - oÃ¹ il Ã©tait arrivÃ© de lâÃ©cole avec un important bricolage en papier gouachÃ©, dÃ©coupÃ©, collÃ©, brochÃ©, une carte de souhaits Ã  rabats, sur laquelle il sâÃ©tait appliquÃ© toute la semaine ? Mais la pluie ayant crÃ©Ã© des flaques de boue ici et lÃ , le gamin sâÃ©tait crottÃ© les chaussures Ã  la sortie de lâautobus scolaire et, en entrant avec son gage dâamour filial brandi Ã  bout de bras, il avait souillÃ© le plancher. Ce que voyant, la Maririou sâÃ©tait mise Ã  crier. Elle lui avait arrachÃ© la carte des mains, lui avait fait retirer ses galoches et lâavait enfermÃ© dans sa chambre. Il nâavait jamais revu son Åuvre et nâen avait plus jamais fait dâautres. Dans ses souvenirs, câÃ©tait la derniÃ¨re fois quâil avait tant pleurÃ©. Perception dâenfant gravÃ©e Ã  tout jamais au dÃ©triment des faits rÃ©els ? Allez savoir !
+\end_layout
+
+\begin_layout Standard
+
+Ã son tour, Jacques Leblanc, un agent de recherche du ministÃ¨re, Ã©conomiste de formation se targuant de certaines connaissances actuarielles, se lÃ¨ve, et, de son dispositif personnel polyvalent (DPP), le modÃ¨le Ã©voluÃ© et nÃ©cessairement corpo, projette des tableaux, des courbes, des boÃ®tes couleur, oÃ¹ il est clairement dÃ©montrÃ© quâÃ  la grandeur du QuÃ©bec, la durÃ©e moyenne de sÃ©jour dans les salles communautaires pour personnes en perte dâautonomie (SC3PA), câest-Ã -dire les 3P, cas mineurs (3P-M) et lourds (3P-L) confondus, est de huit mois, treize jours et dix heures. Si câest Â«nettement meilleurÂ» que la moyenne canadienne qui est de neuf mois, vingt-deux jours et quatre heures, ce constat amÃ¨ne nÃ©anmoins une rÃ©flexion sur la Â«pertinence dâinvestir mÃ©dicalement dans le contexte dâun tel Ã©tat de fluiditÃ©Â».
+\end_layout
+
+\begin_layout Standard
+
+- Les courbes de roulement que nous avons Ã©tablies tÃ©moignent dâune dynamique trÃ¨s active et dâune constance remarquable; certaines provinces nous envient. Pour tout dire, nous pensons que ce serait jeter de lâargent Ã  lâeau que dâaugmenter lâenveloppe sanito curative, conclut-il.
+\end_layout
+
+\begin_layout Standard
+
+- Sanito curative ? questionne le prÃ©sident dâassemblÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Euh, clinique, poursuit le fonctionnaire Leblanc.
+\end_layout
+
+\begin_layout Standard
+
+Autrement dit, pourquoi rÃ©nover un appartement quand on sait que lâimmeuble sera dÃ©truit dans huit mois ? Pourquoi voler des produits pharmaceutiques au profit du docteur Gagnon afin que Marie Rioux guÃ©risse, une illÃ©gale qui a dÃ©jÃ  un pied dans la tombe ?
+\end_layout
+
+\begin_layout Standard
+
+- Ce nâest pas lÃ  dÃ©penser les fonds publics de faÃ§on Ã©clairÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Le brillant exposÃ© est terminÃ© et quelques participants se dÃ©pÃªchent de fÃ©liciter lâorateur. Suit alors un silence qui frigorifie la piÃ¨ce pourtant lourdement climatisÃ©e. TimothÃ©e se demande sâil ne serait pas possible, de nuit, dâarriver Ã  faire monter un long tuyau galvanisÃ© jusquâau 5e Nord oÃ¹ lâon pomperait un peu de cet air rafraÃ®chissant dans certaines salles, par exemple dans celle oÃ¹ sÃ©vit le tandem ThÃ©riault-LabbÃ©, dans celle oÃ¹ repose Pierre Asselin ou mÃªme dans ce misÃ©rable coqueron de bureau quâon lui a assignÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Mais ce sont des Ãªtres humains, rÃ©flÃ©chit un psychologue de pratique privÃ©e Ã  la maniÃ¨re dâun camion qui frappe de plein fouet un pilier de bÃ©ton.
+\end_layout
+
+\begin_layout Standard
+
+TirÃ© de ses ruminations, TimothÃ©e est tÃ©moin dâune envolÃ©e implorant les considÃ©rations humanitaires et qui se termine sur une note plus politique.
+\end_layout
+
+\begin_layout Standard
+
+- Cette gÃ©nÃ©ration a sÃ»rement ses torts comportementaux, mais est-ce de sa faute ? MÃ©rite-t-elle un tel chÃ¢timent ? Ne sont-ce pas les Boomers qui ont dÃ©barrassÃ© le QuÃ©bec de sa mythologie religieuse et qui en ont fait cette puissance Ã©conomique respectÃ©e partout au Canada ?
+\end_layout
+
+\begin_layout Standard
+
+Au lieu dâassister Ã  une salve dâapplaudissements, on entend plutÃ´t la voix courroucÃ©e dâun Â«rouleur de rÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Quelle mythologie rrreligieuse, sâinsurge un mÃ©decin membre influent de lâÃ©glise nÃ©o-Ã©vangÃ©liste du Bas-Saint-Laurent. Si rrremplacer le Chrrrist et lâÃvangile par la drrrogue, lâalcool et les maladies honteuses est pourrr vous un accomplissement, cette gÃ©nÃ©rrration mÃ©rrrite dâÃªtre enferrrmÃ©e au pain et Ã  lâeau dans des salles en dÃ©sorrrdre, leurrr Ã©lÃ©ment de prrrÃ©dilection â¦
+\end_layout
+
+\begin_layout Standard
+
+- Mange donâ dâla marde, interrompt JipÃ© Gendron, alias Tit-mononk, un pensionnaire en 2P qui reprÃ©sente les bÃ©nÃ©ficiaires sur ce comitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Tandis que Philippe Dauphin prend des notes, ses yeux noirs sur cet Ã©mule de Dart Vader, lâavocat RÃ©mi Anglehart, prÃ©sident dâassemblÃ©e et conseiller juridique de lâÃ©tablissement, se dÃ©pÃªche dâintervenir.
+\end_layout
+
+\begin_layout Standard
+
+- Messieurs, messieurs ! On se calme. On ne quitte pas cette harmonieuse civilitÃ© qui nous caractÃ©rise.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai fait mon point, conclut nÃ©anmoins le mÃ©decin rrrouleur, ce qui oblige Tit-mononk Gendron Ã  avoir le dernier mot :
+\end_layout
+
+\begin_layout Standard
+
+- CrÃ©tin !
+\end_layout
+
+\begin_layout Standard
+
+Puis devisant lâÃ©conomiste :
+\end_layout
+
+\begin_layout Standard
+
+- As-tu fait des calculs pour savoir combien de vieux de plus, tu pourrais rentrer dans les centres en rÃ©duisant dâun pied la largeur des lits ? Ou en les mettant Ã  deux Ã©tages, les incontinents en bas, les propres en haut ? Et pour sauver, tu pourrais couper de moitiÃ© le nombre des matelas : on aurait un jour Â«avec matelasÂ» et un jour Â«sansÂ». Tant quâÃ  y Ãªtre, pourquoi tu leur dis pas, Ã  tes boss, de rendre obligatoire partout le projet du Dr Bellavance. Au moins lÃ , on pourrait devenir rentables, nous autres les vieux ! CrÃ©tin !
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Gendron, sâil vous plaÃ®t !
+\end_layout
+
+\begin_layout Standard
+
+- Jâai pas fini de parler, Anglehart, âsti ! Tâauras rien quâÃ  mâenvoyer rejoindre Dart Vader dans vos geÃ´les du sous-sol, chez les Papyblues !
+\end_layout
+
+\begin_layout Standard
+
+Les traits de Carl Michaud se contractent au point de ressembler Ã  ceux de Flipper.
+\end_layout
+
+\begin_layout Standard
+
+- Les gÃ©nÃ©rations X et Y reprochent aux baby-boomers de ne pas avoir fait assez dâenfants, poursuit le bonhomme. Mais quand je vous vois, toute votre gang de crabes en train de calculer combien de grammes de manger mou vous pouvez nous chipoter pour mieux Ã©quilibrer vos sacraments de budgets, je pense que les baby-boomers en ont fait beaucoup trop dâenfants. Ils auraient dÃ» tous faire comme moi, se faire vasectomiser Ã  28 ans ! Me Anglegart commence Ã  sâÃ©chauffer.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Gendron, vous vous emportez et Ã§a nâavance en rien le dÃ©bat.
+\end_layout
+
+\begin_layout Standard
+
+- Point dâordre, monsieur le prÃ©sident, le reprÃ©sentant des bÃ©nÃ©ficiaires nous fait perdre inutilement du temps ! AprÃ¨s Ã§a on se demande pourquoi des gens de mon Ã¢ge traitent de Â«vieux dÃ©gÃ©nÃ©rÃ©sÂ» certains spÃ©cimens â il pointe vers Tit-mononk - de cette gÃ©nÃ©ration !
+\end_layout
+
+\begin_layout Standard
+
+Câest un jeune homme Ã  la mine fort grave, le dÃ©lÃ©guÃ© du Conseil de dÃ©veloppement Ã©conomique rÃ©gional, qui a parlÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Mâa tâen faire des Â«vieux dÃ©gÃ©nÃ©rÃ©sÂ» pâtit fasciste nÃ©olibÃ©ral ! rÃ©torque aussitÃ´t le vieillard.
+\end_layout
+
+\begin_layout Standard
+
+Lâofficiant Ã¨s procÃ©dure sâÃ©tire les bras. Il est sur le point de perdre le contrÃ´le.
+\end_layout
+
+\begin_layout Standard
+
+Noblesse oblige, câest Carl Michaud, le DG, qui le tire immÃ©diatement dâaffaire. Il a levÃ© un doigt.
+\end_layout
+
+\begin_layout Standard
+
+- La parole est Ã  monsieur Michaud, notre bon directeur gÃ©nÃ©ral, prononce nerveusement le prÃ©sident par-dessus le tohu-bohu.
+\end_layout
+
+\begin_layout Standard
+
+Une main en lâair, il se retourne vers Claude Sey, un jeune rÃ©dacteur au service de la direction des communications qui fait office de secrÃ©taire dâassemblÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur le secrÃ©taire, veuillez ne pas considÃ©rer dans le compte-rendu, les Ã©changes impliquant M. Gendron.
+\end_layout
+
+\begin_layout Standard
+
+- Jâefface tout ?
+\end_layout
+
+\begin_layout Standard
+
+- Tout. Je mâen porte responsable, prÃ©cise lâavocat en faisant un signe de tÃªte au grand patron.
+\end_layout
+
+\begin_layout Standard
+
+Tous se taisent. Carl Michaud a pris la parole.
+\end_layout
+
+\begin_layout Standard
+
+- Jâaimerais demander au reprÃ©sentant des chefs de section, ces professionnels qui sont en contact direct et quotidien avec nos bÃ©nÃ©ficiaires dans les salles communautaires pour personnes en perte dâautonomie, les 3P, ce quâil pense de la question, Ã  savoir, la nature des soins quâil est administrativement possible dâapporter Ã  ces pensionnaires mal en point. Quâen dites-vous, monsieur Tardif ?
+\end_layout
+
+\begin_layout Standard
+
+Horreur consommÃ©e ! VoilÃ  la punition que le patron a dÃ©cidÃ© de lui infliger : prendre la parole devant une longue tablÃ©e de bonzes, de mÃ©decins, dâavocats, dâadministrateurs, dâingÃ©nieurs, dâÃ©conomistes ! Lui qui nâa quâun certificat dâÃ©tudes collÃ©giales. Lui qui nâest quâun MottÃ© rase-mur qui ne voit que les godasses des autres, qui ne perÃ§oit que leur choc, plus ou moins amorti selon les personnalitÃ©s, sur le plancher ! Lui cet Ãªtre de toutes les timiditÃ©s, ce fils Ã©crasÃ© par une tyrannique marÃ¢tre, ce mauvais joueur de trombone, instrument exÃ©crÃ©, cet employÃ© victime de toutes les moqueries, ce petit technicien sans panache, ce binoclard de plus en plus chauve dÃ©testant son image. SÃ»rement que le soupÃ§onnant dâinconfort extrÃªme en public et de vacuum cÃ©rÃ©bral, Carl Michaud, ce salaud fringuÃ© en prÃ©sident de banque, a choisi de lâhumilier. Câest de cette cruelle faÃ§on quâil lui fera expier la gaffe majeure de Dart Vader ! Ã preuve le sourire sadique de Dauphin.
+\end_layout
+
+\begin_layout Standard
+
+En vÃ©ritÃ©, jamais TimothÃ©e ne sâest retrouvÃ© dans une telle situation. ÃpouvantÃ©, il lorgne un instant Saint-Pierre qui semble lâencourager dâun signe de tÃªte. De deux choses lâune : soit il balbutie une insipiditÃ©, auquel cas il passe pour ce quâon croit quâil est et le DG se venge, soit il livre, Ã  sa maniÃ¨re, le fond de sa pensÃ©e, auquel cas, bon Dieu de bon Dieu, il surprend et il vit avec les consÃ©quences. Des consÃ©quences sÃ»rement nÃ©gatives ! La Maririou, elle ? Seigneur ! Elle serait dÃ©jÃ  en train dâarticuler sa faÃ§on de penser Ã  grand renfort de coups de paume sur la table.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune lui refait un signe de tÃªte, cette fois, les sourcils en accent circonflexe.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e se dÃ©cide de sauter.
+\end_layout
+
+\begin_layout Standard
+
+- Je ne suis pas un grand parleur, se lance-t-il avec une voix saccadÃ©e tout embarrassÃ©e de tremblements inconfortables, une voix qui a trop peu parlÃ© dans sa vie. Est-ce que jâai bien compris votre question ? Vous voulez entendre le point de vue de quelquâun qui passe le plus clair de son temps avec les bÃ©nÃ©ficiaires les plus mal en point ?
+\end_layout
+
+\begin_layout Standard
+
+Carl Michaud opine des yeux.
+\end_layout
+
+\begin_layout Standard
+
+- Bon, OK !
+\end_layout
+
+\begin_layout Standard
+
+Plus mort que vif, le CS-1 boit une gorgÃ©e dâeau.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦ je suis quelquâun qui a de la misÃ¨re avec les phrases compliquÃ©es et les concepts trop savants; je vais plutÃ´t vous prÃ©senter un exemple parmi bien dâautres, un exemple qui, comme on dit, vaut mille mots. Euh â¦ ici au CRG, on a, comme vous savez, un systÃ¨me de gestion informatique plein de bogues, ce qui nous fait perdre beaucoup de temps et qui doit coÃ»ter trÃ¨s cher.
+\end_layout
+
+\begin_layout Standard
+
+Le DG a pris le fixe et Shimoune Saint-Pierre a cessÃ© de respirer.
+\end_layout
+
+\begin_layout Standard
+
+- Mais il sâadonne que depuis quelques mois, poursuit TimothÃ©e lâadrÃ©naline commenÃ§ant Ã  le propulser, jâai dans ma salle 3P-M un ingÃ©nieur informatique de 83 ans qui a encore toute sa tÃªte. Ce gars-lÃ , toute sa vie, il a installÃ© des progiciels de gestion, des machins SAP, Microsoft, ou bien des grosses patentes compliquÃ©es comme ici. Il a pris sa retraite il y a sept ans et, quatre ans plus tard, on lâa accueilli ici parce que ses enfants lui avaient volÃ© toutes ses Ã©conomies. Il est en train de devenir aveugle parce que vous ne voulez pas lâopÃ©rer, parce que Ã§a coÃ»te trop cher, que Ã§a serait contre-productif. Il maigrit de jour en jour parce quâil dÃ©teste le Nutrisuz et quâon nâa pas le droit de lui donner quoi que ce soit dâautre. Il est dÃ©pressif parce quâil ne peut plus lire ni voir de films ni aller au thÃ©Ã¢tre, ses passe-temps prÃ©fÃ©rÃ©s. Il nâa que moi Ã  qui parler, parce que jâai une petit certificat en informatique et que jâaccepte dâoublier un petit peu le rÃ¨glement qui interdit la fraternisation avec les bÃ©nÃ©ficiaires. Il est triste parce que ses voisins, des vieux aussi poquÃ©s que lui, nâarrivent pas Ã  le piffer. Faut admettre quâil est un peu spÃ©cial, mais, bon, Ã§a, câest une autre histoire.
+\end_layout
+
+\begin_layout Standard
+
+Le dÃ©lÃ©guÃ© du Conseil rÃ©gional des maires a manifestÃ© un peu dâimpatience et Flipper Dauphin prend frÃ©nÃ©tiquement des notes.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi je vous parle de lui ? Parce que je sais que si vous vouliez le remettre sur pieds, mon monsieur, il saurait probablement vous rÃ©parer et faire fonctionner votre systÃ¨me de gestion; il en a vu des pires. Il a mÃªme une bonne idÃ©e de la cause du problÃ¨me. En tout cas, câest ce quâil mâa dit. Peut-Ãªtre que Ã§a lui redonnerait le goÃ»t de vivre, peut-Ãªtre que dans sa tÃªte, tout Ã§a - TimothÃ©e a fait un grand geste circulaire - serait soudainement devenu logique. Et peut-Ãªtre que ses habiletÃ©s pourraient vous tirer dâaffaire. Mais dÃ©pÃªchez-vous, je suis Ã  la veille de le transfÃ©rer en 3P-L, si ce nâest pas en SP. Ã vue de nez, il est PPLH.
+\end_layout
+
+\begin_layout Standard
+
+Il a fini de parler et il regarde sa feuille griffonnÃ©e en avant de lui. Me Anglehart se dÃ©senrhume.
+\end_layout
+
+\begin_layout Standard
+
+- Quâentendez-vous, monsieur Tardif, par PPLH ?
+\end_layout
+
+\begin_layout Standard
+
+- Passera pas lâhiver !
+\end_layout
+
+\begin_layout Standard
+
+Et le silence de frapper la salle Ã  nouveau. Pesant.
+\end_layout
+
+\begin_layout Standard
+
+- Comment sait-il quâil pourrait rÃ©parer notre systÃ¨me ? demande enfin le DG.
+\end_layout
+
+\begin_layout Standard
+
+- Il a dÃ©jÃ  vÃ©cu une situation semblable. Je lui ai montrÃ© le systÃ¨me. Il est venu dans mon bureau. Pas longtemps, mais juste assez pour quâil voie.
+\end_layout
+
+\begin_layout Standard
+
+Vlado Markovsky, le trÃ¨s Ã©prouvÃ© directeur de lâinformatique, sâinsurge.
+\end_layout
+
+\begin_layout Standard
+
+- Vous nâaviez pas le droit de faire Ã§a ! siffle-t-il, le coin des yeux rivÃ©s sur Carl Michaud.
+\end_layout
+
+\begin_layout Standard
+
+Lâintervention a lâheur de dÃ©marrer un bal de messes basses et Me Anglehart doit lancer deux appels Ã  lâordre pour que Carl Michaud puisse reprendre la parole.
+\end_layout
+
+\begin_layout Standard
+
+- Continuez, monsieur Tardif !
+\end_layout
+
+\begin_layout Standard
+
+- Dans son cas, Ã  mon ingÃ©nieur, les processeurs sur le site oÃ¹ il devait implanter une solution SUSE 256 avaient Ã©tÃ© tatouÃ©s pour ne pouvoir fonctionner correctement quâavec lâoption Microsoft. Une histoire de pot de vin qui avait fini par coÃ»ter trÃ¨s cher au client â¦
+\end_layout
+
+\begin_layout Standard
+
+La fin de sa phrase se perd dans une cacophonie oÃ¹ le prÃ©sident Anglehart se retrouve impuissant Ã  ramener lâordre. Carl Michaud doit frapper la table de ses deux mains. Le calme revenu, la situation informatique est dÃ©clarÃ©e Ã©trangÃ¨re Ã  lâordre du jour et la discussion peut continuer sur la dÃ©ontologie comme si le reprÃ©sentant des chefs de section nâavait pas parlÃ©. Finalement, comme il est dâusage en de tels forums, le gros bon sens est incapable de faire le poids avec toutes ces idÃ©es pontifiÃ©es avec mÃ©thode, influence et soutien audiovisuel. Car une fois lancÃ©es, ces importantes billevesÃ©es deviennent gÃ©nÃ©ralement immuables et seul un rapport de force suffisant peut arriver Ã  en dÃ©barrasser lâassemblÃ©e. Ce nâest Ã©videmment pas le cas en cette 42e session du CDE et, trois quarts dâheure plus tard, TimothÃ©e quitte la rÃ©union aussi perdu de stress et de peine quâil ne lâÃ©tait Ã  son arrivÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Mais Carl Michaud, lui fait signe.
+\end_layout
+
+\begin_layout Standard
+
+- Ton chien est mort, Momo, lui grince son ami. Câest maintenant quâil va te bouffer tout cru !
+\end_layout
+
+\begin_layout Standard
+
+Livide, TimothÃ©e sâapproche quand mÃªme du DG.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Tardif, jâentends aller, le plus tÃ´t possible, parler avec votre pensionnaire. Pourriez-vous mâarranger le coup ? Jâaimerais cependant que cela reste, disons, Ã  caractÃ¨re privÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Ce que voyant, Vlado Markovsky quitte la piÃ¨ce, lâÅil sombre. En tant que grand manitou des TI, il vit un cauchemar depuis quelque temps. Il a beau savoir que la faute incombe aux gens de lâACRG (Association des centres rÃ©gionaux de gÃ©riatrie) qui ont imposÃ© cette plate-forme SUSE 256 pour faire tourner le progiciel de gestion et que dans cette calembredaine haut de gamme, il peut effectivement y avoir eu tatouage de puces. Câest pourtant lui qui, localement, est pointÃ© du doigt Ã  chaque fois que le systÃ¨me plante. Et lÃ , on va lui mettre un vieux schnock dans les jambes, un ingÃ©nieur grabataire avec qui il va devoir composer, qui va peut-Ãªtre, lui, repÃ©rer la cause vÃ©ritable du problÃ¨me. Comme si ce nâÃ©tait pas assez compliquÃ© ! Tout cela Ã  cause de ce mal dÃ©grossi de Tardif. Un Tardif qui, pas plus tard quâhier en matinÃ©e, est venu lui ravir le Dr Gagnon pour une urgence, soi-disant, au moment oÃ¹ lui, cadre supÃ©rieur du CRG-BSL, il Ã©tait sur le point dâaccÃ©der au cabinet du bon docteur Ã  cause de son problÃ¨me de stress. Pour cette raison, il a dÃ» se dÃ©nicher un nouveau rendez-vous et rentrer bredouille au Centre. Mais au fait, quâest-ce quâun vulgaire CS-1 peu argentÃ© faisait avec une situation dâurgence entre les mains, chez un mÃ©decin privÃ©, pendant les heures dâouvrage, alors quâil y a des mÃ©decins en permanence au Centre ? NâÃ©tait-ce pas lÃ  une histoire Ã  odeur de soufre? Ne serait-il pas de son devoir dâen informer quelquâun mieux outillÃ© que lui pour faire enquÃªte ? Ã quelquâun comme cet inquiÃ©tant Dauphin qui est toujours Ã  trotter dans le sillage de Carl Michaud ?
+\end_layout
+
+\begin_layout Standard
+
+Au mÃªme moment, Sey, le secrÃ©taire dâassemblÃ©e, rejoint TimothÃ©e et Shimoune dans le couloir.
+\end_layout
+
+\begin_layout Standard
+
+- TrÃ¨s bien parlÃ©, monsieur Tardif. Vous avez fait la preuve quâil Ã©tait possible dâÅuvrer dans une boÃ®te comme celle-ci sans sâÃªtre remplacÃ© le cÅur par une roche gavÃ©e de circuits imprimÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Par contre, il a dÃ» se faire quelques ennemis, le Momo, grince Shimoune en produisant un geste ignoble.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa, câest sÃ»r. Mais si jamais je peux Ãªtre utile, faut pas hÃ©siter Ã  me contacter.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune le regarde alors trÃ¨s sÃ©rieusement.
+\end_layout
+
+\begin_layout Standard
+
+- Tu travailles pour le Flipper, non ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui, mais Ã§a veut pas dire grand-chose, croyez-moi.
+\end_layout
+
+\begin_layout Standard
+
+Vers 13 h, TimothÃ©e qui a vraiment envie dâÃªtre Ã  des kilomÃ¨tres du Centre, roule bruyamment en direction de son officine. Mais voilÃ  quâen passant devant le poste de garde, il surprend une nouvelle altercation entre le pÃ¨re Martel et Laurent BÃ©rubÃ©. Cette fois, il nâest pas question dâalcool, mais de la Â«petite chambreÂ». VÃ©ritable secret de Polichinelle, ce local exigu Ã©quipÃ© dâune cuvette et dâun lavabo, mais qui nâa quâun petit lit pour tout mobilier, sert de lieu de rencontre pour les couples hÃ©tÃ©rosexuels hÃ©bergÃ©s, bien malgrÃ© eux, en 2P, lâune chez les dames, lâautre chez les hommes. De cette faÃ§on, ils peuvent, de temps Ã  autre, se retrouver pour sâoffrir de doux moments dâintimitÃ©. MÃªme si moins de 20 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% des pensionnaires se prÃ©valent de cette largesse officieuse, lâachalandage est surprenant. Certains vieux complices se dÃ©brouillent mÃªme pour y passer des nuits. Encore ici, le truc est de sâassurer monÃ©tairement de la complicitÃ© des proposÃ©s aux bÃ©nÃ©ficiaires, une modalitÃ© que ne semble pas avoir comprise le pÃ¨re Martel.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+- CâÃ©tait Ã  mon tour, Ã  soir, et il a donnÃ© ma place Ã  un autre, rage-t-il.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e observe la rÃ©action de Laurent qui hausse les Ã©paules en signe dâimpuissance.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes certain quây a rien Ã  faire ?
+\end_layout
+
+\begin_layout Standard
+
+- Faudra voir avec Ronnie. Câest lui qui me remplace Ã  16 h.
+\end_layout
+
+\begin_layout Standard
+
+Or Ronnie Ross Ã©tait encore plus vÃ©reux.
+\end_layout
+
+\begin_layout Standard
+
+- Qui occupe la petite chambre, ce soir ?
+\end_layout
+
+\begin_layout Standard
+
+Au lieu de rÃ©pondre, BÃ©rubÃ© hausse Ã  nouveau les Ã©paules. TimothÃ©e qui en a sur le cÅur plus quâil ne peut en supporter, hausse alors le ton, un phÃ©nomÃ¨ne inÃ©dit au CRG-BSL. Lui-mÃªme nâarrive pas Ã  croire ce qui lui arrive.
+\end_layout
+
+\begin_layout Standard
+
+- Laurent, je tâai posÃ© une question trÃ¨s simple : qui occupe la cÃ¢lisse de pâtite chambre, Ã  soir !
+\end_layout
+
+\begin_layout Standard
+
+- Jâsais pas, gronde le sous-fifre. Câest Ronnie qui a la liste.
+\end_layout
+
+\begin_layout Standard
+
+DÃ¨s lors, le CS-1 double tape sa boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- Ronnie Ross, commande-t-il.
+\end_layout
+
+\begin_layout Standard
+
+Au bout de quelques secondes, une voix finit par se faire entendre.
+\end_layout
+
+\begin_layout Standard
+
+- AllÃ´ ?
+\end_layout
+
+\begin_layout Standard
+
+- Ronnie ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouais ! Câest qui ?
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e Tardif. Jâai une question.
+\end_layout
+
+\begin_layout Standard
+
+- OK le MottÃ©. Shoot !
+\end_layout
+
+\begin_layout Standard
+
+- Qui est censÃ© passer la soirÃ©e dans la pâtite chambre, aujourdâhui ?
+\end_layout
+
+\begin_layout Standard
+
+- Aujourdâhui ? Personne. Jâai rien sur ma liste. Ãa va Ã  demain aprÃ¨s-midi.
+\end_layout
+
+\begin_layout Standard
+
+- Câest beau. Quand tu entreras Ã  16 h, veux-tu noter que monsieur Martel et sa femme vont y passer la nuit ?
+\end_layout
+
+\begin_layout Standard
+
+- Pas de problÃ¨me, je vas les ajouter !
+\end_layout
+
+\begin_layout Standard
+
+Lâappel complÃ©tÃ©, TimothÃ©e explique calmement au vieillard quâil lui est maintenant loisible dâaller occuper le galetas nuptial oÃ¹ il pourra demeurer un bon 24 heures sâil le souhaite. Ce quâentendant, le bonhomme disparaÃ®t nâen croyant pas sa bonne fortune. De son cÃ´tÃ©, puisquâil est intelligent, Laurent BÃ©rubÃ© ne dit rien. Il attend lâimprÃ©visible; le MottÃ© a en effet levÃ© le ton et sâest mis le nez dans une combine qui marchait bien. VoilÃ  qui est inÃ©dit. Mais au lieu dâune admonestation en rÃ¨gle, il a droit Ã  lâarticulation dâune promesse, un engagement que le chef de section Ã©met sÃ¨chement en direction du plafond et du comptoir:
+\end_layout
+
+\begin_layout Standard
+
+- Un jour, jâvas sacrer mon camp loin de tout ce crossage de monde, de toute cette magouille inhumaine, de tout ce mÃ©pris au plus fort la poche ! Et ce jour-lÃ , plus Ã§a va, plus il approche ! Je vais mâen aller dans un endroit oÃ¹ je vais pouvoir porter mon prÃ©nom au complet, la tÃªte bien haute, sans que personne ne vienne rire de moi.
+\end_layout
+
+\begin_layout Standard
+
+Il nâa pas parlÃ©, pas plus quâil nâa criÃ© ou pleurÃ©. Il a simplement expulsÃ© de son systÃ¨me, tels dâabominables miasmes, humeurs et autres dÃ©chets, une sourde rancÅur basÃ©e, Ã  ce quâil semble, sur la seule certitude dont il disposait pour lâinstant, celle dâune lumiÃ¨re blafarde qui commenÃ§ait apparemment Ã  poindre quelque part, pas trop loin, en avant de lui.
+\end_layout
+
+\begin_layout Standard
+
+Et dans ce maigre dÃ©but de clartÃ©, il nây avait plus de CRG-BSL de merde, plus de Ronnie Ross, plus de Carl Michaud, plus dâillÃ©gaux, plus de gros Turcotte.
+\end_layout
+
+\begin_layout Standard
+
+DÃ©contenancÃ©, BÃ©rubÃ© file vers nâimporte oÃ¹ comme il sait si bien le faire. Quant Ã  son chef, il met le cap sur la pizzeria voisine du Centre, la bien nommÃ©e Da Peperone, oÃ¹, plus tÃ´t dans la journÃ©e, lui et Shimoune avaient convenu de se rencontrer peu aprÃ¨s 14 h.
+\end_layout
+
+\begin_layout Standard
+
+Pourtant, juste avant de quitter, il aperÃ§oit - câen est devenu une habitude - Luce Morency qui longe le passage, appuyÃ©e sur la rampe murale. Elle sâest encore Ã©chappÃ©e. Si Ã§a continue, les gens du 6e vont devoir lâenvoyer en salle palliative ou bien ils vont la maintenir attachÃ©e dans son lit en 3P-L. Et pourquoi, diable, est-ce toujours sur lui que Ã§a tombe ? Sans rien brusquer, il stoppe sa souffreteuse Saguewanish, la cale le long du mur et prend la main de la vieille dame.
+\end_layout
+
+\begin_layout Standard
+
+Du plus profond de sa dÃ©mence, elle le regarde.
+\end_layout
+
+\begin_layout Standard
+
+- On se connaÃ®t ?
+\end_layout
+
+\begin_layout Standard
+
+- Venez madame Morency, on va sâasseoir lÃ -bas sur les chaises.
+\end_layout
+
+\begin_layout Standard
+
+Il se pince la boucle dâoreille :
+\end_layout
+
+\begin_layout Standard
+
+- 6 Nord, code Magenta !
+\end_layout
+
+\begin_layout Standard
+
+- Tâas trouvÃ© la mÃ©re Morency ? demande la voix. Elle a-t-y du linge ?
+\end_layout
+
+\begin_layout Standard
+
+- Comme dâhabitude, rÃ©pond TimothÃ©e, sans oser trop regarder.
+\end_layout
+
+\begin_layout Standard
+
+- OK, on y va !
+\end_layout
+
+\begin_layout Standard
+
+En dirigeant la vieillarde vers les inconfortables fauteuils, TimothÃ©e lui parle, tout doucement, de lâÃ©tÃ© 1996 au lac Saint-Mathieu, Â«la fois que les eaux du lac avaient montÃ©Â».
+\end_layout
+
+\begin_layout Standard
+
+- Jâavais failli me noyer; câest une petite fille de MontrÃ©al qui mâavait sorti de lâeau.
+\end_layout
+
+\begin_layout Standard
+
+- Le lac â¦
+\end_layout
+
+\begin_layout Standard
+
+- Je me souviens mÃªme plus dâelle, de cette petite fille qui mâavait empÃªchÃ© de caler â¦
+\end_layout
+
+\begin_layout Standard
+
+- Madame, madame ! avait criÃ© la gamine Ã  cette belle femme qui prenait le soleil devant sa brinquebalante roulotte louÃ©e. Votâ tit-gars a failli se noyer !
+\end_layout
+
+\begin_layout Standard
+
+Ãtendue en bikini sur une chaise longue en treillis de plastique jaune et blanc, la Maririou sâÃ©tait levÃ©e et, se mordant le poing, sâÃ©tait mise Ã  courir, on lâaurait dit affolÃ©e, vers les deux enfants. Sans remercier la fillette, elle sâÃ©tait emparÃ©e de TimothÃ©e et lâavait ramenÃ© Ã  la maison mobile, le tenant par la main comme sâil eut sâagit dâune chiffe molle. Ã lâintÃ©rieur, sans hÃ©siter un seul instant, elle lui avait administrÃ© une sÃ©rieuse fessÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- EspÃ¨ce dâinnocent, me faire un coup pareil !
+\end_layout
+
+\begin_layout Standard
+
+Le bambin avait Ã©tÃ© puni trois jours. Trois jours pendant lesquels il nâavait pas eu le droit dâaller Ã  plus de cinq mÃ¨tres de la roulotte alors que tous les autres enfants passaient leurs journÃ©es Ã  sâamuser dans lâeau oÃ¹ sur ce qui restait de grÃ¨ve Ã  la suite de la crue anormale. Il avait Ã©tÃ© puni pas parce quâil aurait pu perdre la vie, mais parce que, ce faisant, il aurait pu faire beaucoup de peine Ã  sa mÃ¨re. CâÃ©tait donc la preuve alambiquÃ©e quâelle lâaimait. Et elle lâaimait peut-Ãªtre encore, en ce dÃ©but dâaprÃ¨s-midi, dans son lit de malade, dans son lit dâoctogÃ©naire trÃ¨s malade.
+\end_layout
+
+\begin_layout Standard
+
+Luce Morency regarde TimothÃ©e avec attention, comme si cette anecdote lui rappelait quelque chose. Un instant, elle revoit un chemin tout en croches, en montÃ©es et en descentes, avec sur chaque cÃ´tÃ©, des champs pleins de fleurs, des champs tout en buttes, avec des clÃ´tures en pagÃ©es de cÃ¨dre, des chiens qui sautent dans les foins, des corneilles, des abeilles. Le rang menant Ã  Trois-Pistoles ? Mais elle nâouvre pas la bouche, elle ne sait plus. De toute faÃ§on, le gros Lavoie, ce salaud, vient dâarriver avec un fauteuil roulant et une couverture.
+\end_layout
+
+\begin_layout Standard
+
+- LÃ -lÃ , Ã§a va faire, la mÃ©re, quâil lui dit en la couvrant. Jâvas vous attacher dans votre lit, avez-vous compris ? Il aide la dÃ©mente Ã  sâasseoir et, sans un mot pour TimothÃ©e, disparaÃ®t avec elle dans lâascenseur. Il paraÃ®trait que Luce Morency ne souffre pas de la maladie dâAlzheimer, un flÃ©au que les chercheurs ont fini par Â«contrÃ´lerÂ» â Ã  dÃ©faut de pouvoir dire Â«Ã©radiquerÂ» - au tournant des annÃ©es 20. DÃ©sormais, les vieux reÃ§oivent un vaccin et ils peuvent Â«survivreÂ», pour ce que ce mot veut dire, avec toute leur mÃ©moire. Pourtant, il semble y avoir de plus en plus de cas de dÃ©mence comme celui de madame Morency. Y aurait-il un rapport ? Allez savoir !
+\end_layout
+
+\begin_layout Standard
+
+- Tu tâes fait une blonde, le MottÃ© ?, lui lance, clin dâÅil Ã  lâappui, le pÃ¨re Jean qui sâadonne Ã  traÃ®ner ses misÃ©rables savates par lÃ .
+\end_layout
+
+\begin_layout Standard
+
+- Sâil vous plaÃ®t, monsieur Jean â¦
+\end_layout
+
+\begin_layout Standard
+
+Mais lâinutile phrase sâarrÃªte lÃ  et le CS-1 file vers lâascenseur.
+\end_layout
+
+\begin_layout Standard
+
+Il va sâen aller rejoindre Shimoune au Da Peperone et il va tout lui raconter. Tout ! MÃªme lâÃ©pisode du docteur Gagnon. Surtout celui-lÃ  ! Peut-Ãªtre va-t-il dÃ©border sur Louis-Marc Richard et lâÃ©norme probabilitÃ© de dÃ©lation que ce salopard laisse apprÃ©hender. Peut-Ãªtre va-t-il sâÃ©pancher sur son existence de fils misÃ©rable, une vie sans affection et, surtout, pleine dâennuis, de gros ennuis, une vie oÃ¹ les joueurs de lyre sont dans les livres anciens. Peut-Ãªtre que Shimoune va lâÃ©couter sans rire, sans Ãªtre mÃ©chant, peut-Ãªtre quâil va lui donner son avis, un conseil, et peut-Ãªtre quâil va lui apporter une forme dâaide.
+\end_layout
+
+\begin_layout Standard
+
+Chemin faisant, TimothÃ©e croise son Ã©pouvantable collÃ¨gue responsable du 4e Sud, un certain Pierre Monger, dont lâouverture dâesprit nâa dâÃ©gale que la qualitÃ© de ses amis, le plus connu Ã©tant le gros Lavoie. On dit que tous deux seraient, en quelque sorte, les principaux piliers de la mafia qui sÃ©vit au CRG-BSL. LâÅil narquois, le sinistre personnage lui passe une remarque sur le comportement anormal de sa bÃ©cane. Mais lâautre choisit dâignorer et de continuer sa bruyante chevauchÃ©e vers le resto. Il est inutile de se mettre cet immonde porc Ã  dos plus quâil nâen faut. Qui sait, peut-Ãªtre aura-t-il besoin de lui et du gros Lavoie pour se procurer les produits pharmaceutiques du Dr Gagnon ? Ces malfrats ont sÃ»rement une combine.
+\end_layout
+
+\begin_layout Standard
+
+Avec cette pensÃ©e en tÃªte, il entre dans le boui-boui oÃ¹ il retrouve Saint-Pierre occupÃ© Ã  dÃ©vorer sa pointe de pizza mexicaine. Comment fait-il pour manger une telle horreur ?
+\end_layout
+
+\begin_layout Standard
+
+- Pâis mon Momo, tâas affaire Ã  moi ? Tâes-tu tannÃ© dâÃªtre straight ?
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e dÃ©teste se faire appeler ainsi en public.
+\end_layout
+
+\begin_layout Standard
+
+- Non mais jâai besoin de tes conseils sur deux points.
+\end_layout
+
+\begin_layout Standard
+
+- OK ! The Doctor is in ! Je tâÃ©coute.
+\end_layout
+
+\begin_layout Standard
+
+Dans un premier temps, comme pour se rÃ©chauffer en tournant autour du pot, le pauvre hÃ¨re relate son expÃ©rience holographique ainsi que la conclusion romantique survenue lâavant-veille au soir.
+\end_layout
+
+\begin_layout Standard
+
+- Je pense que je sais câest qui, la fille, mais je nâai pas ta pratique des frÃ©quentations, mÃªme si dans ton cas elles sont Â«douteusesÂ». Je ne sais plus quoi faire. Jâai besoin dâun conseil.
+\end_layout
+
+\begin_layout Standard
+
+- Câest qui, dâaprÃ¨s toi ?
+\end_layout
+
+\begin_layout Standard
+
+Quand TimothÃ©e mentionne le nom de Marie-Odile Tremblay, Shimoune ne peut retenir lâexplosion dâun grand rire venu de lâabdomen, plein de spasmes et de larmes.
+\end_layout
+
+\begin_layout Standard
+
+- Tu viens de faire ma journÃ©e, Momo, soupire-t-il. Si câest Ã§a Ãªtre straight, maudit que je suis content dâÃªtre gai ! Il nâen fallait pas tant pour que lâatmosphÃ¨re sâalourdisse.
+\end_layout
+
+\begin_layout Standard
+
+- Si jâavais voulu faire rire de moi, je serais restÃ© au Centre; je ne serais pas venu ici !
+\end_layout
+
+\begin_layout Standard
+
+- Je mâexcuse, Ã§âa Ã©tÃ© plus fort que moi. Mon conseil ? Si câest bien elle, ta bonne femme, fous le camp, cache-toi au plus creux des sous-sols, au plus profond des bois, prend le large, ne la laisse pas tâapprocher. Elle est vraiment vicelarde ! Câest une coriace, une sale flic, un cafard !
+\end_layout
+
+\begin_layout Standard
+
+Voyant lâheure avancer, TimothÃ©e dÃ©cide dâaccÃ©lÃ©rer, quitte Ã  tout perdre. De toute faÃ§on, il ne sait plus Ã  quel saint se vouer. Alors, il plonge et, en moins de deux minutes, raconte tout : ses parents, sa mÃ¨re, lâhÃ©morragie, le docteur Gagnon, les produits pharmaceutiques, la surveillance Ã©lectronique. La totale !
+\end_layout
+
+\begin_layout Standard
+
+- Wow, tu tripes fort !
+\end_layout
+
+\begin_layout Standard
+
+- Je sais pas par quel bout prendre Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+Pour Shimoune Saint-Pierre, il nây a pas trente-six solutions. Ou bien TimothÃ©e livre ses vieux aux limiers du BAG, ce qui va Ã  lâencontre de toute logique et qui, pour lâinstant, est inconcevable. Ou bien il fait disparaÃ®tre le docteur Gagnon, ce qui est un assassinat venant complexifier lourdement lâaffaire. Ou bien il neutralise ce profiteur, ce qui lâoblige Ã  faire enquÃªte et Ã  ramasser des preuves contre lui, ce qui prendrait beaucoup trop de temps. Ou bien il a recours Ã  des Ã©cumeurs comme le tandem Monger-Lavoie, ce qui risque de lui coÃ»ter encore plus cher tant ces malfaiteurs sont voraces. Ou bien il sâoutille pour dÃ©foncer le centre nutritionnel de nuit, ce qui, advenant que le coup rÃ©ussisse, le force Ã  disparaÃ®tre pour toujours. Ou bien il se sert de sa tÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce que tu veux dire ?
+\end_layout
+
+\begin_layout Standard
+
+- RÃ©flÃ©chis un peu. Quel est ton principal obstacle si tu veux voler des mÃ©dicaments ?
+\end_layout
+
+\begin_layout Standard
+
+- La surveillance Ã©lectronique.
+\end_layout
+
+\begin_layout Standard
+
+- Et qui contrÃ´le la surveillance Ã©lectronique ?
+\end_layout
+
+\begin_layout Standard
+
+Son interlocuteur nâose rÃ©pondre.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas tout compris. Marie-Odile Tremblay, celle-lÃ  mÃªme dont on parlait tantÃ´t. Câest elle la clÃ© de ton problÃ¨me. DÃ¨s ce moment, tout va se mettre Ã  sâaccÃ©lÃ©rer et le lointain horizon Ã  sâÃ©clairer encore un peu.
+\end_layout
+
+\begin_layout Standard
+
+En sâen retournant au Centre, TimothÃ©e apprend par tÃ©lÃ©phone que le docteur Gagnon est passÃ© avec ses appareils et que la Maririou nâavait pas de tumeur. Il a pu lui enlever ses polypes par chirurgie hystÃ©roscopique. Elle a donc Ã©tÃ© stabilisÃ©e, mais elle doit dormir beaucoup et Gagnon lui a donnÃ© des kilos de mÃ©dicaments Ã  avaler. Lâardoise est donc en train de sâallonger.
+\end_layout
+
+\begin_layout Standard
+
+ArrivÃ© au 5e Nord, il sâenferme dans son officine oÃ¹ il tourne en rond comme un perdu, comme sâil y avait une trombe emprisonnÃ©e dans la tÃªte, une tornade qui voulait lui arracher toutes les synapses. Gagnon en est Ã  sa deuxiÃ¨me visite, il a pratiquÃ© une intervention, il a laissÃ© sur place une impressionnante pharmacopÃ©e, la Maririou nâest pas tirÃ©e dâaffaire pour autant, il y aura peut-Ãªtre des complications, elle a 82 ans et Ã§a pourra Ãªtre long, trÃ¨s long. La dette sera fabuleuse. Or, dans ce cauchemar, ce pourrait Ãªtre Marie-Odile Tremblay qui serait Â«la clÃ©Â», câest-Ã -dire qui pourrait agir comme Â«ouvertureÂ» vers une solution ! Auquel cas, comment procÃ©der pour mettre la main sur cette fichue clÃ© ? RÃ©alisant quâil Ã©tait sur le point de sombrer dans une crise dâangoisse, TimothÃ©e dÃ©cide dâaller raconter son drame Ã  Robespierre, lâhÃ©ritier spirituel de lâinventeur du PÃ©tÃ©pano. Le gars est fiable, il est ouvert Ã  vouloir lâaider et voit dÃ©jÃ  un peu clair dans cette histoire tordue. Ã coup sÃ»r, il lâÃ©coutera et le conseillera sur Marie-Odile. Ne semble-t-il pas la connaÃ®tre ?
+\end_layout
+
+\begin_layout Standard
+
+Mais Ã  mi-chemin, couic ! crac ! euffh!, sa trottinette meurt brusquement de sa belle mort, une mort annoncÃ©e, mÃ©canique, dÃ©testable. TimothÃ©e doit donc rebrousser chemin et traÃ®ner son vÃ©hicule jusquâÃ  son bureau. Le voyant ainsi dÃ©montÃ©, le pÃ¨re Martel accourt et, prÃ©textant vouloir regarder la carcasse de plus prÃ¨s, fait un signe discret Ã  TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Câest le bonhomme Jean qui a sabotÃ© votre bÃ©cane, tout le monde lâa vu faire. Avant, il travaillait comme mÃ©canicien Ã  lâusine Saguewanish au Lac Saint-Jean. Fait que â¦
+\end_layout
+
+\begin_layout Standard
+
+- Tout le monde lâa vu ?
+\end_layout
+
+\begin_layout Standard
+
+- Ben, mettons quelques-uns, entre autres, les joueux de 500.
+\end_layout
+
+\begin_layout Standard
+
+- Madame Bellow ?
+\end_layout
+
+\begin_layout Standard
+
+- Non, pas elle. Elle nâÃ©tait pas lÃ .
+\end_layout
+
+\begin_layout Standard
+
+- Merci, monsieur Martel.
+\end_layout
+
+\begin_layout Standard
+
+Le temps de chasser lâimage de ces vieux auprÃ¨s de qui il est un des seuls Ã  Ãªtre respectueux, poli et serviable, mais qui, pourtant, ont laissÃ© le bonhomme Jean lui saboter sa Saguewanish sans lever le petit doigt, sa boucle dâoreille lui agace lâoreille Ã  nouveau, lâempÃªchant de tÃ©lÃ©phoner Ã  lâatelier mÃ©canique.
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e Tardif !
+\end_layout
+
+\begin_layout Standard
+
+- AllÃ´, câest Claude Sey !
+\end_layout
+
+\begin_layout Standard
+
+- Ah ! Rebonjour!
+\end_layout
+
+\begin_layout Standard
+
+Je suis en mode confidentiel.
+\end_layout
+
+\begin_layout Standard
+
+- Attendez. OK. Moi de mÃªme.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e a appuyÃ© sur un petit bouton Ã  lâextrÃ©mitÃ© de son appareil.
+\end_layout
+
+\begin_layout Standard
+
+- Flipper va faire enquÃªte sur vous. Une histoire de mÃ©decin que vous Ãªtes allÃ© chercher dâurgence Ã  sa clinique privÃ©e hier avant-midi !
+\end_layout
+
+\begin_layout Standard
+
+- Ah â¦
+\end_layout
+
+\begin_layout Standard
+
+- Il trouve quâil y a anguille sous roche. Et comme il vous en veut, ben â¦
+\end_layout
+
+\begin_layout Standard
+
+- Ah â¦
+\end_layout
+
+\begin_layout Standard
+
+- Câest Markovsky qui lui a racontÃ© votre histoire, un autre qui vous en veut â¦.
+\end_layout
+
+\begin_layout Standard
+
+- Ah â¦
+\end_layout
+
+\begin_layout Standard
+
+- Ã votre place, je bougerais vite !
+\end_layout
+
+\begin_layout Standard
+
+- Merci !
+\end_layout
+
+\begin_layout Standard
+
+Dieu du ciel, est-ce que Ã§a va sâarrÃªter quelque part ?
+\end_layout
+
+\begin_layout Standard
+
+On dirait, parfois, que les scÃ©narios quâoffre la vie sont aussi alambiquÃ©s que ceux que pondent les pires scÃ©naristes dâHollywood. Cependant, il arrive que les agencements grossiers de faits improbables soient la norme. Auquel cas, lâimpensable finit par couler de source. On entend souvent quelquâun dire quâil ne pourrait jamais faire un film Ã  partir dâune sÃ©quence rÃ©elle de son vÃ©cu parce que tout le monde dÃ©crocherait tant lâhistoire semblerait Â«arrangÃ©e avec le gars des vuesÂ». Câest pourtant un tel caprice du sort qui attend TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Quand, quinze minutes plus tard, aprÃ¨s avoir traÃ®nÃ© sa bÃ©cane jusquâÃ  lâatelier de rÃ©parations, il marche en direction de sa voiture tout au fond de lâaire rÃ©servÃ©e aux vÃ©hicules Ã  essence - les zones les plus proches des accÃ¨s au Centre sont toutes dÃ©diÃ©es aux bagnoles Ã©lectriques â il tombe sur SÃ©bastien Larose, assis la porte ouverte, dans sa Subaru hybride.
+\end_layout
+
+\begin_layout Standard
+
+- Salut mon homme, fait ce dernier.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e lui rÃ©pond dâun bref signe de tÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Je cherche encore un mot !
+\end_layout
+
+\begin_layout Standard
+
+- Ah !
+\end_layout
+
+\begin_layout Standard
+
+- Un mot de dix lettres qui signifie Â«aide extÃ©rieure au bon roulement dans les soins de santÃ©Â». Je suis pas sÃ»r de comprendre.
+\end_layout
+
+\begin_layout Standard
+
+- Dix lettres ?
+\end_layout
+
+\begin_layout Standard
+
+- Pis la 3e et la 4e lettre, câest TH et, plus loin, y a un N â¦
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e se gratte le crÃ¢ne.
+\end_layout
+
+\begin_layout Standard
+
+- EUTHANASIE !
+\end_layout
+
+\begin_layout Standard
+
+- EUTHANASIE ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouin, fait-il en continuant vers sa voiture, Ã©tincelante de soleil deux espaces plus loin.
+\end_layout
+
+\begin_layout Standard
+
+- Eh ! Ãa marche ! Tâes pas pire, mon homme !
+\end_layout
+
+\begin_layout Standard
+
+ArrivÃ© Ã  sa bagnole, il remarque quâelle semble dÃ©balancÃ©e, comme si elle Ã©tait penchÃ©e vers la droite. Une rapide inspection lui permet de constater que les deux pneus du cÃ´tÃ© passager sont Ã  plat. On les a crevÃ©s, trouÃ©s, vandalisÃ©s. Comme sa Saguewanish. Cela pour lui rappeler quâon le dÃ©testait, quâil Ã©tait un dÃ©chet, un MottÃ©, quâon le voudrait ailleurs quâau CRG-BSL, quâil Ã©tait laid, bedonnant, binoclard, sans blonde et en voie dâÃªtre chauve, quâil jouait du trombone et que sa mÃ¨re Ã©tait une vilaine Maririou.
+\end_layout
+
+\begin_layout Standard
+
+Telle une puissante nausÃ©e, un sentiment profond de dÃ©couragement sâempare de lui.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi, pourquoi, pourquoi, maudite misÃ¨re, crie le pauvre diable sans sâen rendre vraiment compte. Ãa va-t-y finir un jour par finir, cÃ¢lisse ?
+\end_layout
+
+\begin_layout Standard
+
+LâimprÃ©cation a attirÃ© lâattention de Larose.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas un problÃ¨me, mon homme ?
+\end_layout
+
+\begin_layout Standard
+
+- Ils mâont crevÃ© mes pneus ! Jâsuis plus capable, moi ! Faut que Ã§a arrÃªte !
+\end_layout
+
+\begin_layout Standard
+
+On aurait dit un sanglot. Ce que jugeant, Larose adopte automatiquement son visage des grands jours. Du temps oÃ¹ les affaires allaient bon train.
+\end_layout
+
+\begin_layout Standard
+
+- Fais un rapport tout de suite. Câest le Centre qui est responsable de la sÃ©curitÃ© dans le stationnement. Y vont faire une enquÃªte et sâils concluent quâil y a eu vandalisme, ils vont te rembourser. Niaise pas avec Ã§a !
+\end_layout
+
+\begin_layout Standard
+
+Dans un tout autre contexte, TimothÃ©e aurait pu trouver la suggestion intÃ©ressante. Mais il semble prostrÃ©, incapable de faire quoi que ce soit. Son compagnon dÃ©cide donc de se taper la boucle dâoreille et dâappeler la SÃ©cu.
+\end_layout
+
+\begin_layout Standard
+
+- On envoie quelquâun, restez sur place ! entend-il.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-marie-odile.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Câest ainsi, Ã©trange rebondissement, que Marie-Odile Tremblay, la Bitch elle-mÃªme, arrive, deux minutes plus tard, sur un Saguewanish ornÃ© dâun phare gyroscopique brandi Ã  bout de tige. DÃ¨s lors, câest le syndiquÃ© qui explique la situation, en ajoutant que TimothÃ©e ne peut plus rouler, quâil en a assez de ces vexations gratuites et quâil a vraiment envie de porter plainte.
+\end_layout
+
+\begin_layout Standard
+
+SÃ©rieuse comme une statue mÃ©diÃ©vale, Marie-Odile fait mÃ©ticuleusement le tour de la voiture sinistrÃ©e, entre un crayon dans les trous pratiquÃ©s aux pneus de droite, enregistre un clip vidÃ©o et dicte quelques notes Ã  sa boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- On va la faire remorquer au garage que vous voulez, dit-elle, et, de lÃ , vous pourrez vous en occuper.
+\end_layout
+
+\begin_layout Standard
+
+Le CS-1 accepte et lâopÃ©ration est organisÃ©e illico. Que va-t-il faire maintenant ? Il est presque 17 h et son pÃ¨re lâattend.
+\end_layout
+
+\begin_layout Standard
+
+Elle lâa vu regarder sa montre.
+\end_layout
+
+\begin_layout Standard
+
+- Pour moi aussi, câest lâheure; je viens de finir mon quart de travail.
+\end_layout
+
+\begin_layout Standard
+
+- Ah â¦
+\end_layout
+
+\begin_layout Standard
+
+- Je peux vous â¦ te dÃ©poser oÃ¹ tu veux; mon auto est juste lÃ  !
+\end_layout
+
+\begin_layout Standard
+
+En temps normal, TimothÃ©e nâen aurait cru ni ses yeux, ni ses oreilles. Il aurait plutÃ´t estimÃ© avoir gagnÃ© Ã  la loterie. Mais cette aprÃ¨s-midi, plus rien ne lâÃ©tonne. Il est devenu un brin dâherbe que le vent emporte Ã  sa guise. Il nâa plus prise sur cette rÃ©alitÃ© si laide. Sa mÃ¨re, le docteur Gagnon, Louis-Marc Richard, Dart Vader, Flipper Dauphin, le DG, Marcovsky, BÃ©rubÃ©, le Gros Lavoie, le pÃ¨re Jean, sa Saguewanish, ses pneus ! Comment supporter sans craquer autant de mauvaises nouvelles, de dÃ©sagrÃ©ments, de haine, de drames ?
+\end_layout
+
+\begin_layout Standard
+
+Dâun signe de tÃªte, sans mÃªme esquisser un sourire, les yeux presque invisibles derriÃ¨re ses Ã©paisses lunettes, il accepte lâoffre. Alors, contre toute attente, Marie-Odile lâinforme quâelle va le dÃ©poser chez lui Ã  Nazareth. Autant en emporte le vent ! Incapable de parler, il acquiesce dâun geste imperceptible. Le regard vers la droite, il semble contempler la carte postale formÃ©e de lâÃ®le Saint-BarnabÃ©, du fleuve et du contrefort de Nazareth et il semble porter attention aux nombreux marcheurs sur la promenade venus profiter de la chaude brise de ce juillet inoubliable.
+\end_layout
+
+\begin_layout Standard
+
+Ã moins, suppute la bonne samaritaine, quâil ne soit simplement perdu dans ses pensÃ©es pleines images dâholotar rÃ©citant des vers, la main sur le cÅur et un genou Ã  terre.
+\end_layout
+
+\begin_layout Standard
+
+ChimÃ¨re qui ne tient pas la route.
+\end_layout
+
+\begin_layout Standard
+
+- Merci, finit-il par lui dire. Faut mâexcuser. Jâen ai plein le casque ces temps-ci et des histoires de sabotage comme il vient de mâarriver, Ã§a devient plus dur Ã  accepter quâÃ  lâordinaire.
+\end_layout
+
+\begin_layout Standard
+
+Elle lui rÃ©pond le comprendre.
+\end_layout
+
+\begin_layout Standard
+
+- Câest ta maison ?
+\end_layout
+
+\begin_layout Standard
+
+Il fait signe que oui.
+\end_layout
+
+\begin_layout Standard
+
+- Tu dois avoir une belle vue.
+\end_layout
+
+\begin_layout Standard
+
+Sans plus parler, ils se saluent et il descend de lâauto-patrouille Ã©lectrique. De sa fenÃªtre, Louis-Marc Richard a lÃ©gÃ¨rement Ã©cartÃ© le rideau pour mieux voir. Comme la voiture disparaÃ®t, les jappements de Gazou parviennent aux oreilles de TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Bienvenu en enfer, se dit-il.
+\end_layout
+
+\end_body
+\end_document

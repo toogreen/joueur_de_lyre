@@ -1,0 +1,1207 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Robespierre prend les commandes, le jeudi 28 juillet 2033 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Vouloir atteindre le rÃªve dâune vie
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ ouvre parfois la porte Ã  des raccourcis moraux pas toujours prÃ©sentables dans les salons biensÃ©ants. Avec lâÃ¢ge qui devient certain, il arrivera quâon nây regarde pas Ã  deux fois avant dâavaliser une petite clause un peu particuliÃ¨re qui permettra nÃ©anmoins de se plonger dans son idÃ©al avant quâil ne soit trop tard. Pour le docteur Christian Bellavance, endocrinologue mÃ©connu, chercheur nâayant jamais eu lâoccasion de faire partie dâune Ã©quipe sÃ©rieusement dirigÃ©e, homme de science nâayant jamais pu voir son nom dans une publication crÃ©dible, lâatteinte de la cinquantaine avait Ã©tÃ© reÃ§ue comme lâannonce dâun cancer incurable avec amputations assorties sur une base hebdomadaire. Non pas quâil aurait Â«voulu Ãªtre un artiste, pour avoir le monde Ã  refaire Â». 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Il nâÃ©tait pas vraiment portÃ© sur le sociopolitique et la misÃ¨re humaine lâennuyait. Ã 25 ans, il Ã©tait prÃªt Ã  tout. Sur le quai intermodal de la vie, il attendait quâarrive le car de lâextraordinaire. Chaque matin, ses espoirs se ravivaient. Pourtant, Ã  30 ans, il avait commencÃ© Ã  agiter les bras, Ã  envoyer des courriels de protestations aux autoritÃ©s du transport existentiel. En vain. Ã 35, il avait finalement rÃ©alisÃ© quâaucun vÃ©hicule ne se prÃ©sentait jamais, comme si les chauffeurs sâÃ©taient mis, un jour, en grÃ¨ve permanente.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+35mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-bellavance.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Alors lui, ce dÃ©positaire dâune vie unique, potentiellement riche, ouverte Ã  tout, une vie non renouvelable, non rebobinable, une vie de plus en plus monotone de mÃ©decin dÃ©sabusÃ© quâil Ã©tait en train de gaspiller au jour le jour dans une petite ville terne Ã  cÃ´tÃ© dâune femme qui ne se promÃ¨nerait jamais en string sur une plage brÃ©silienne, lui qui nâavait jamais vu New York, Rio et Bangkok glissa tout doucement dans lâonirisme; il se mit Ã  rÃªver de Delhi, Bali et Djara, Ã  vouloir sentir, lui aussi, Â«les parfums de ChineÂ» et le Sahara dans le souffle dâune belle. Il abandonna son quai et entra sâasseoir dans la taverne de lâimaginaire et de la fiction. Par personnages interposÃ©s, ceux de Jean-Marie Le ClÃ©zio, de Paul Auster, de Gabriel Garcia Marquez et de tant dâautres, il se crÃ©a des Saskatchewan quâil quittait en train pour venir dÃ©couvrir MontrÃ©al, des expÃ©ditions militaires en Ãgypte oÃ¹ il attrapait la vÃ©role, une famille trÃ¨s Ã©trange de Belleville dont il Ã©tait lâaÃ®nÃ©, une colonie de rats quâil utilisait pour sâÃ©vader de la Bastille.
+\end_layout
+
+\begin_layout Standard
+
+Mais il paraÃ®t que ceux qui aiment rÃªver passent leur vie Ã  dormir. VoilÃ  pourquoi, Ã  40 ans, il Ã©tait devenu dâun ennui mortifÃ¨re pour son entourage et quâÃ  45, il sâÃ©tait rÃ©fugiÃ© dans lâunivers holographique quantique se modÃ©lisant des avatars en fonction des idÃ©aux quâil aurait tant souhaitÃ© vivre. Pourtant, le matin, quand il se regardait dans le miroir, il Ã©prouvait la certitude, le temps dâune nanoseconde, Â«Timeâs a loaded gunÂ», quâun jour, quelque chose se produirait, que sa vie si assommante, si mortelle, changerait. Quâil vivrait vraiment. Envers et contre tous, il y croyait. Sinon, il se serait sÃ»rement suicidÃ©. Dieu sait quâil en avait les moyens. NâÃ©tait-il pas brillant et plein de ressources ?
+\end_layout
+
+\begin_layout Standard
+
+Dans sa tÃªte, il y avait constamment cette chanson essentielle de Brel qui trottait :
+\end_layout
+
+\begin_layout Standard
+
+RÃªver un impossible rÃªve Porter le chagrin des dÃ©parts BrÃ»ler dâune possible fiÃ¨vre Partir oÃ¹ personne ne part
+\end_layout
+
+\begin_layout Standard
+
+Aimer jusquâÃ  la dÃ©chirure Aimer, mÃªme trop, mÃªme mal, Tenter, sans force et sans armure, Dâatteindre lâinaccessible Ã©toile
+\end_layout
+
+\begin_layout Standard
+
+Alors quand Ã  51 ans, on lui avait parlÃ© de ce projet de culture hormonale sur des corps cliniquement morts, il avait trÃ¨s rapidement fait taire sa conscience. Ces gens du ministÃ¨re des Affaires gÃ©rontologiques avaient beau lui sembler de bien vils personnages, ils Ã©taient LE pouvoir, ils avaient LES crÃ©dits et ils reprÃ©sentaient LA fin de sa triste vie inutile dans une petite ville ennuyeuse. En signant sur les pointillÃ©s, il faisait en sorte que dÃ©sormais, il se passerait quelque chose, quâil ferait les annales, que son nom serait associÃ©, pour toujours, Ã  un mini bond scientifique. Bref, Christian Bellavance sâÃ©tait levÃ© et avait quittÃ© sa taverne.
+\end_layout
+
+\begin_layout Standard
+
+Quant Ã  sa Â«petite clause un peu particuliÃ¨reÂ», il sâagissait simplement dâaccepter de ne pas intervenir dans la mise en marchÃ©, la vente et la gestion financiÃ¨re du projet. Lui, il produirait les hormones, il trouverait des faÃ§ons inÃ©dites pour en optimiser la fabrication et il gÃ©rerait lâaspect mÃ©dical de lâaventure. On lui garantissait que tout excÃ©dent des revenus sur les dÃ©penses serait versÃ© au Centre afin dâamÃ©liorer le quotidien des bÃ©nÃ©ficiaires. Ã son Ã¢ge et connaissant les humains, il nây avait pas cru un instant. Mais, il avait enrobÃ© ce doute certain de sept Ã©paisseurs dâhypocrisie professionnelle, la spÃ©ciale rÃ©sistante, celle qui se vend en contenants de deux litres dans toutes les forÃªts de gratte-ciel de la planÃ¨te, et il Ã©tait dÃ©mÃ©nagÃ© Ã  Rimouski, laissant Ã  Trois-RiviÃ¨res Ã©pouse, ado, patients et voisins.
+\end_layout
+
+\begin_layout Standard
+
+Dans des locaux du sous-sol initialement prÃ©vus pour les pensionnaires voulant se divertir en sâadonnant aux joies de la menuiserie lÃ©gÃ¨re, de lâÃ©lectronique inoffensive, du tissage de catalognes, de la confection de lampes en papier de riz et de tous ces autres gossages de statuettes, le chercheur sur le retour dâÃ¢ge sâÃ©tait amÃ©nagÃ© un centre de prÃ©lÃ¨vement, ainsi quâun laboratoire, et on lui avait fourni le personnel nÃ©cessaire. Au bout de deux ans dâefforts, il avait rÃ©coltÃ© des rÃ©sultats pour le moins spectaculaires. Il arrivait non seulement Ã  obtenir le double de rendement par Â«corps soucheÂ» comme il appelait les semi-cadavres quâon lui amenait, mais il rÃ©ussissait Ã  les maintenir en vie - un bien grand mot - trois fois plus longtemps quâau dÃ©part de ses expÃ©riences. Il avait mÃªme un corps de vieille qui en Ã©tait Ã  son quatorziÃ¨me mois de production.
+\end_layout
+
+\begin_layout Standard
+
+Ce quâon lui demandait surtout tournait autour de lâhormone humaine de croissance, la fameuse GH produite par la glande antÃ©hypophyse, dite glande pituitaire antÃ©rieure. Le docteur Bellavance savait quâon avait besoin de GH dans certains projets occultes de rÃ©gÃ©nÃ©ration ectopique dâorganes vitaux, des projets dont dÃ©pendait le sort de certains patients trÃ¨s riches. Mais il savait surtout que certains laboratoires illÃ©gaux en achetaient de trÃ¨s grandes quantitÃ©s pour en tirer des capsules de jouvence, des jujubes au goÃ»t de miel sensÃ©ment capables dâagir comme agent anti-Ã¢ge et antigras au risque des pires effets secondaires. Bien sÃ»r, il y avait les hormones de synthÃ¨se, comme ces somatotrophines, lucratif fleuron du gÃ©nie gÃ©nÃ©tique de Monsanto. Mais on Ã©tait loin de la qualitÃ© des vrais GH, mÃªme celles prÃ©levÃ©es sur ces morts-vivants que le Centre lui livrait sur une base rÃ©guliÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Comme il nâÃ©tait pas bÃªte, il voyait bien lâÃ©cart entre les objectifs de production quâil dÃ©passait, mois aprÃ¨s mois, et les rÃ©sultats que Carl Michaud lui faisait remettre par Philippe Dauphin, sans jamais prendre le temps de lui expliquer quoi que ce soit. Il voyait bien quâon lâassimilait Ã  un exÃ©cutant sans grade et que les dividendes que son projet gÃ©nÃ©rait vraiment, on les lui cachait Ã  coup sÃ»r. En mÃªme temps, il constatait que lâordinaire du CRG-BSL se dÃ©tÃ©riorait sans cesse, ce qui signifiait, possiblement, que lâargent allait ailleurs.
+\end_layout
+
+\begin_layout Standard
+
+Lorsque le sentiment dâÃªtre un rouage imbÃ©cile dans une magouille quâil ne comprenait pas occupait toute sa tÃªte, il se changeait les idÃ©es, cette fois non pas en se retirant dans son univers de fiction, mais en documentant, de faÃ§on maniaque, le dÃ©roulement de son entreprise. Ainsi, quand on lui donnerait le feu vert pour publier les rÃ©sultats de sa recherche, il aurait tout en main. Il voyait dÃ©jÃ  le titre : Â«Factor B : An Affordable Method to Optimize the Production of Human Hormones under Constant Clinical Supervision, by Professor Christian Bellavance, MD, FRCPC, FACP, Head of Research, CRG-BSL, Rimouski, QuÃ©bec, CanadaÂ». Quel libellÃ© ! Â«Factor BÂ» ? Ne fallait-il pas brandir un magnifique Â«buzzwordÂ» Ã  lâamÃ©ricaine pour rÃ©fÃ©rer Ã  sa mÃ©thode ? Â«Factor BÂ» sonnait bien, faisait professionnel et reprenait le Â«BÂ» de Bellavance. Quant Ã  Â«ProfessorÂ», le titre se justifiait par le fait que le porteur avait Ã©tÃ© chargÃ© de cours en techniques infirmiÃ¨res au CÃ©gep de Trois-RiviÃ¨res, durant â¦ un semestre.
+\end_layout
+
+\begin_layout Standard
+
+Tout cela pour dire quâil fut Ã  demi surpris quand il observa, sur une pÃ©riode de quinze jours, un employÃ© de la direction des communications, Claude Sey, sâapprocher de lui Ã  la maniÃ¨re dâun requin faisant des cercles subtils. Il se doutait bien du sujet sur lequel le jeune homme finirait par lâentretenir, mÃªme si le prÃ©texte Ã©tait la prÃ©paration dâun document multimÃ©dia destinÃ© Ã  vanter les mÃ©rites du centre hormonal. Chattemite, le docteur se laissa manÅuvrer, juste pour voir !
+\end_layout
+
+\begin_layout Standard
+
+Â«Enfin, nous y voilÃ  !Â» fut sa rÃ©ponse lorsque Sey toucha au but pour la premiÃ¨re fois.
+\end_layout
+
+\begin_layout Standard
+
+- Quel est votre intÃ©rÃªt dans cette affaire ? Vous pouvez parler sans crainte, ici il nây a ni camÃ©ra, ni micro, ni cafard, rien. Ãa a fait partie de mes conditions quand on a construit.
+\end_layout
+
+\begin_layout Standard
+
+Claude Sey plongea sans ambages.
+\end_layout
+
+\begin_layout Standard
+
+- Je viens mettre mon nez dans vos tiroirs, docteur, parce que je ne sais pas trop quoi faire avec certaines informations.
+\end_layout
+
+\begin_layout Standard
+
+- Quelles informations ?
+\end_layout
+
+\begin_layout Standard
+
+- Les employÃ©s qui ont un bureau proche de celui de Philippe Dauphin â le mien est attenant - entendent parfois des bribes de conversation quâil a avec Carl Michaud. Dâune fois Ã  lâautre, on finit par comprendre que votre projet serait une Â«machine Ã  fricÂ», une Â«mine dâorÂ», la Â«passe du siÃ¨cleÂ». Mais en mÃªme temps, je mâexcuse de devoir vous le rÃ©pÃ©ter, vous seriez un Â«chercheur dÃ©collÃ© de la rÃ©alitÃ©Â», un Â«naÃ¯fÂ», un Â«lunatiqueÂ» qui nâaurait aucune idÃ©e de ce qui se passe Ã  deux pouces de son nezÂ». Ãa, câest quand ils sont polis.
+\end_layout
+
+\begin_layout Standard
+
+Bellavance ne sursauta pas.
+\end_layout
+
+\begin_layout Standard
+
+- Vous nâavez pas rÃ©pondu Ã  ma question : quel est votre intÃ©rÃªt ?
+\end_layout
+
+\begin_layout Standard
+
+- Si je lis attentivement les rapports que Michaud dÃ©pose au CA relativement Ã  votre bÃ©bÃ©, je vois quâon y parle de Â«lÃ©gers profitsÂ» ou de Â«profits prometteurs Â». GuÃ¨re plus ! Les entrÃ©es de fonds que vous gÃ©nÃ©rez, docteur, seraient Ã  peine suffisantes pour couvrir vos coÃ»ts et pour justifier la continuation du projet. On est loin de la Â«machine Ã  fricÂ», de la Â« mine dâorÂ» ou de la Â«passe du siÃ¨cleÂ» dont ils discutent entre eux. Jâai un gros doute Ã  leur sujet; Ã§a me ronge. Mon intÃ©rÃªt dans cette histoire ? Simplement de comprendre dans quelle galÃ¨re je me suis embarquÃ© en venant travailler ici. Jâai choisi le milieu gÃ©rontologique pour pouvoir contribuer, Ã  ma faÃ§on, Ã  amÃ©liorer leur sort misÃ©rable, pas pour cautionner une gamique.
+\end_layout
+
+\begin_layout Standard
+
+- Et vous pensez, mon jeune ami, que je vais vous aider Ã  vous faire une idÃ©e ? Ã apaiser votre conscience ?
+\end_layout
+
+\begin_layout Standard
+
+- En vous parlant, jâai couru le risque que vous soyez honnÃªte. Jâai imaginÃ© que vous saviez ce qui peut arriver, lÃ©galement, Ã  des cadres qui boulechitent leur conseil dâadministration, qui lui produisent des documents mensongers et qui brassent des affaires personnelles avec lâargent des contribuables.
+\end_layout
+
+\begin_layout Standard
+
+Le mÃ©decin hÃ©sita, le temps de se fignoler une rÃ©ponse Ã  son goÃ»t.
+\end_layout
+
+\begin_layout Standard
+
+- Nous allons arrÃªter cette conversation surrÃ©aliste, ici maintenant, monsieur Sey. Je pense vraiment que vous Ãªtes mal servi par une imagination divagante Ã  consÃ©quences pathologiques. Prenez des vacances. Ãa presse ! Au revoir monsieur.
+\end_layout
+
+\begin_layout Standard
+
+Mais deux heures plus tard, il lâappelait en exigeant le mode confidentiel et lui donnait rendez-vous chez lui, le soir mÃªme.
+\end_layout
+
+\begin_layout Standard
+
+Ce fut le dÃ©but de plusieurs rencontres pendant lesquelles il fut possible de recouper lâinformation et dâobtenir des certitudes. Si, au terme, il manquait le montant rÃ©el des sommes dÃ©tournÃ©es, on savait sans lâombre dâun doute quâune fraude Ã©tait en cours. On savait notamment que le tandem Michaud-Dauphin avait confiÃ© la distribution des hormones Ã  un ex-employÃ© de Pete Barrett, un certain Julien Â«DjouÂ» Dassilva. De plus, en passant des heures sur son terminal, Claude Sey avait trouvÃ© des chiffres Ã©loquents sur le marchÃ© des hormones naturelles. On savait maintenant qui les produisait, comment elles Ã©taient expÃ©diÃ©es, Ã  qui elles se vendaient, en quelle quantitÃ©, Ã  quelle frÃ©quence et Ã  quel prix. MÃªme en coupant par dix la valeur marchande officielle, les rapports au CA auraient dÃ» faire Ã©tat de revenus de loin plus importants, compte tenu des quantitÃ©s produites au sous-sol du CRG-BSL.
+\end_layout
+
+\begin_layout Standard
+
+Ne restait plus quâÃ  dÃ©terminer la marche Ã  suivre. Dans un premier temps, on rejeta lâaffrontement direct avec la direction gÃ©nÃ©rale. On craignait de devoir se battre contre une organisation dont les ramifications sâÃ©tendaient en dehors du Centre. Le seul nom de Barrett avait de quoi faire frÃ©mir les moins timorÃ©s. On rejeta Ã©galement lâidÃ©e de recourir Ã  un membre du CA, un administrateur que lâon documenterait pour quâil puisse poser des questions embarrassantes. Le seul qui semblait parfois faire preuve de rÃ©sistance face Ã  Michaud Ã©tait Jean-Michel Desrosiers, un comptable de Rimouski qui, par ailleurs, Ã©tait trÃ©sorier de comtÃ© pour le Parti libÃ©ral du QuÃ©bec dont le patron Ã©tait lâaffreux Barrett. La police ? CâÃ©tait courir au suicide professionnel. Encore ici, le dossier se serait retrouvÃ© Ã  plus ou moins brÃ¨ve Ã©chÃ©ance sur le bureau de Barrett. On dÃ©cida plutÃ´t dâÃ©tendre la base, de se mettre en situation de ne pouvoir compter que sur deux tÃªtes, de former un groupe dâemployÃ©s honnÃªtes et capables de se tenir debout, une sorte de Â«ComitÃ© du salut publicÂ» dont les membres auraient dÃ©passÃ© leur seuil de tolÃ©rance quant aux exactions et autres magouilles qui sÃ©vissaient dans lâÃ©tablissement. Peut-Ãªtre que lÃ , en Ã©largissant les ressources, les jeux de contacts, les possibilitÃ©s dâentraide, on arriverait Ã  quelque chose. Encore fallait-il Ãªtre extrÃªmement prudent.
+\end_layout
+
+\begin_layout Standard
+
+Mais qui dans une boÃ®te aussi corrompue que le CRG-BSL pourrait correspondre au profil recherchÃ© ? Qui sinon certains marginaux comme SÃ©bastien Larose, le dernier syndiquÃ© de la fonction publique du QuÃ©bec, JipÃ© Gendron, alias Tit-mononk, un rÃ©sident en 2P qui reprÃ©sentait les bÃ©nÃ©ficiaires au ComitÃ© de dÃ©ontologie, Robespierre Alcide, un tablettÃ© statutaire qui passait ses journÃ©es Ã  sâoccuper dâon ne sait trop quoi, Vlado Markovsky, le directeur de lâinformatique qui semblait en avoir plus quâassez de la situation cybernÃ©tique, Shimoune Saint-Pierre, un homosexuel qui prenait plaisir Ã  enquiquiner les pires Ã©lÃ©ments du Centre, OphÃ©lie Marcotte, la jeune collÃ¨gue de Saint-Pierre ou encore, TimothÃ©e Tardif, un CS-1 plein de compassion pour ses pensionnaires, mais dont tout le monde se moquait ?
+\end_layout
+
+\begin_layout Standard
+
+- La clÃ© Ã  tout ce beau monde pourrait Ãªtre Tardif, fit Claude Sey qui, avec lâaval du docteur, sâengagea Ã  amorcer une manÅuvre dâamorce circulaire auprÃ¨s de lui, comme il savait si bien le faire.
+\end_layout
+
+\begin_layout Standard
+
+Ce qui avait Ã©tÃ© fait, la semaine derniÃ¨re, au sortir de la rÃ©union mensuelle du ComitÃ© de dÃ©ontologie.
+\end_layout
+
+\begin_layout Standard
+
+Mais aujourdâhui, Christian Bellavance rumine dans son bureau avec. Comme Ã  son ordinaire, du Brel comme trame sonore.
+\end_layout
+
+\begin_layout Standard
+
+Les vieux ne meurent pas, ils sâendorment un jour et dorment trop longtemps Ils se tiennent par la main, ils ont peur de se perdre et se perdent pourtant Et lâautre reste lÃ , le meilleur ou le pire, le doux ou le sÃ©vÃ¨re Cela nâimporte pas, celui des deux qui reste se retrouve en enfer Vous le verrez peut-Ãªtre, vous la verrez parfois en pluie et en chagrin Traverser le prÃ©sent en sâexcusant dÃ©jÃ  de nâÃªtre pas plus loin Et fuir devant vous une derniÃ¨re fois la pendule dâargent Qui ronronne au salon, qui dit oui qui dit non, qui leur dit : je tâattends Qui ronronne au salon, qui dit oui qui dit non et puis qui nous attend.
+\end_layout
+
+\begin_layout Standard
+
+- Quand mÃªme !
+\end_layout
+
+\begin_layout Standard
+
+Il regarde son terminal.
+\end_layout
+
+\begin_layout Standard
+
+- ArrÃªt ! Autre arrangement ! Jazz ! Oui !
+\end_layout
+
+\begin_layout Standard
+
+Chick Corea vient instantanÃ©ment prendre la relÃ¨ve de lâimmortel Wallon.
+\end_layout
+
+\begin_layout Standard
+
+DÃ©barrassÃ© de sa distraction, le docteur comprend que la conjoncture sâest un peu complexifiÃ©e. Sey a Ã©tÃ© congÃ©diÃ©; il nâa plus accÃ¨s au Centre. Quant Ã  Tardif, il nâa voulu rien entendre la veille. Mais il y a ce grand noir, cet Alcide, et cette pÃ©dale, ce Saint-Pierre, qui, Ã  en croire Sey, auraient la confiance du chef de section. Et il y a les flics dans la boÃ®te depuis hier ! Il y aura sÃ»rement enquÃªte. Michaud et Dauphin doivent Ãªtre sur les dents. Le moment dâagir, du moins dâÃ©largir le cercle pourrait Ãªtre bon.
+\end_layout
+
+\begin_layout Standard
+
+Puisquâil faut battre le fer quand il est chaud, le chercheur quitte lâair glauque de son antre et monte vers la cafÃ©tÃ©ria. Lâheure du petit dÃ©jeuner est presque finie et Saint-Pierre ne semble plus servir sa saloperie de manger mou. Il est mÃªme en train de discuter le bout du gras avec Alcide. Dans le vaste rÃ©fectoire, quelques vieillards flÃ¢nent, des bÃ©nÃ©voles ramassent les traÃ®neries, dâautres nettoient la fontaine, essuient les dessus de table et replacent les chaises. Ã cette heure, se dit Bellavance, le conciliabule devrait bientÃ´t se terminer. Le mieux est dâattendre dans le couloir, mine de rien, espÃ©rant voir apparaÃ®tre lâun ou lâautre, ou les deux.
+\end_layout
+
+\begin_layout Standard
+
+Bingo ! VoilÃ  le colosse Ã  la profession inconnue qui se pointe.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Alcide, le hÃ¨le-t-il.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre se retourne.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai bien lâhonneur de porter ce nom. Et vous, monsieur, vous Ãªtes ce docteur Bellavance qui travaillez au sous-sol pas trop loin des Tontons Macoutes, ces gens inquiÃ©tants quâon surnomme ici Papyblues, mais que moi jâappelle Tontons Michauds.
+\end_layout
+
+\begin_layout Standard
+
+- Je vois que vous faites dans lâhumour noir, monsieur Alcide â¦
+\end_layout
+
+\begin_layout Standard
+
+- Ouh ! quâelle est cherchÃ©e celle-lÃ  !
+\end_layout
+
+\begin_layout Standard
+
+La partie ne sera pas facile, oh que non !
+\end_layout
+
+\begin_layout Standard
+
+- Bon, trÃªve de mondanitÃ©s, je nâirai pas par quatre chemins. Hier jâai essayÃ© de dire certaines choses importantes Ã  votre ami, monsieur Tardif, mais il nâa pas voulu les entendre. Câest dommage !
+\end_layout
+
+\begin_layout Standard
+
+- Par les temps qui courent, TimothÃ©e en a plein les bras, le pauvre. Il ne sait plus trop oÃ¹ donner de la tÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Remarquez, ces choses, je pourrais vous les rÃ©vÃ©ler Ã  vous, vous en feriez ce que bon vous semble. Et, croyez-moi, vous serez en mesure de convenir que je ne vous aurai pas fait perdre votre temps.
+\end_layout
+
+\begin_layout Standard
+
+- Quelles choses ?
+\end_layout
+
+\begin_layout Standard
+
+- Mon bureau est un des rares endroits de ce centre, monsieur Alcide, oÃ¹ on peut parler sans danger. Passez me voir quand vous le voudrez.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai des disponibilitÃ©s, maintenant.
+\end_layout
+
+\begin_layout Standard
+
+- Dans ce cas, si vous voulez me suivre.
+\end_layout
+
+\begin_layout Standard
+
+Quand, une demi-heure plus tard, Robespierre remonte aux Ã©tages, il a un topo complet en tÃªte, celui dâune machination bien installÃ©e Ã  la direction gÃ©nÃ©rale, oÃ¹ le docteur Bellavance fait figure de dindon de la farce. Quelques mots lui viennent Ã  lâesprit dont exaction, gamique, concussion, tripotage, combine et, son prÃ©fÃ©rÃ©, prÃ©varication.
+\end_layout
+
+\begin_layout Standard
+
+- Madame Bellow, vous semblez en grande forme ce matin, fait-il en direction de lâex-bibliothÃ©caire occupÃ©e Ã  fournir en livres, une quinquagÃ©naire dâassez fraÃ®che date qui, juchÃ©e sur une chaise, emplit la tablette du haut.
+\end_layout
+
+\begin_layout Standard
+
+DÃ¨s le lendemain de lâaffectation de Bea Bellow chez lâadministrativement inutile Robespierre Alcide, des Ã©tagÃ¨res en mÃ©tal bÃªtement entreposÃ©es au sous-sol lui avaient Ã©tÃ© livrÃ©es, une gracieusetÃ© du tout aussi inutile SÃ©bastien Larose qui Ã©tait copain-copine avec la responsable du mobilier, lâimmÃ©moriale Louise Lavoie. Rien nâÃ©chappait au contrÃ´le de cette ancienne noceuse recyclÃ©e, avec responsabilitÃ©s gestionnaires, dans le bric-Ã -brac institutionnel; ni les chaises bancales, ni les bouts de planche non utilisÃ©s, ni les tables de travail dÃ©saffectÃ©es, rien ! Aucun cadre dÃ©coratif, restant de peinture, chariot et tÃ©lÃ©viseur, aucune patÃ¨re, tablette, retaille de tapis, poignÃ©e, serrure Ã©lectronique et autre crÃ©dence, ne lui Ã©taient Ã©trangers. Quand elle entrait dans une officine, lâoccupant avait lâimpression quâelle en connaissait intimement chaque objet et quâil pouvait sâen faire dÃ©possÃ©der en un clin dâÅil.
+\end_layout
+
+\begin_layout Standard
+
+- Le vrai pouvoir, aimait-elle rÃ©pÃ©ter, ce nâest pas dâoccuper le bureau du directeur gÃ©nÃ©ral, mais dâen contrÃ´ler le mobilier ! Car privÃ©s de chaise, les trous de culs deviennent vulnÃ©rables !
+\end_layout
+
+\begin_layout Standard
+
+Les mains sur les hanches, le sportif poursuit ses politesses.
+\end_layout
+
+\begin_layout Standard
+
+- Et vous, madame Lavoie, vous Ãªtes venue aider madame Bellow ? Quelle gentillesse ! En plus, vous me semblez toute primesautiÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- PrimesautiÃ¨re, de quossÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+- FrÃ©tillante, pimpante, fringante ?
+\end_layout
+
+\begin_layout Standard
+
+- Faut ben. Dites donc vous, vous en avez donc bâen des livres ? Les avez-vous toutâ lus ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui ! Mais lÃ , maintenant, jâen cherche un dâHenri Amouroux.
+\end_layout
+
+\begin_layout Standard
+
+Bea Bellow, cesse un instant son petit manÃ¨ge et tape des mains.
+\end_layout
+
+\begin_layout Standard
+
+- LÃ -bas, deuxiÃ¨me tablette, vers la gauche, reliure jaune.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre a tÃ´t fait de repÃ©rer le bouquin, de le feuilleter fÃ©brilement, dâÃ©mettre un grand ahhh! et de scribouiller sur une feuille quâil se dÃ©pÃªche dâaller coller Ã  sa porte. On peut y lire :
+\end_layout
+
+\begin_layout Standard
+
+Le drame des dictatures, câest quâelles donnent toute licence aux malades mentaux, aux mÃ©galomanes, aux mÃ©chants, aux malhonnÃªtes gens dâaller jusquâau bout de leur folie, de leur mÃ©galomanie, de leur mÃ©chancetÃ©, de leur malhonnÃªtetÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Aussi bien afficher ses couleurs ! sourit le gaillard en se tapotant la boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+Sans dÃ©lai, il entre en communication avec Marie-Odile Tremblay.
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoute, je me demandais, comme Ã§a, si câÃ©tait possible de te parler sans gadget, ni cafard, ni tÃ©moin, genre maintenant, tout de suite ? Jâai un truc qui va sÃ»rement tâintÃ©resser.
+\end_layout
+
+\begin_layout Standard
+
+- Câest possible, tâas juste Ã  passer Ã  mon bureau.
+\end_layout
+
+\begin_layout Standard
+
+Le ton est maussade. Il tente dâÃ©gayer.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai suffisamment de gÃ¨nes afro-amÃ©ricains dans le corps pour savoiâ que les pauvâes noiâs ont intÃ©âÃªt Ã  ne pas fwÃ©quenter les commissaâiats de flics !
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã§a, fais le cave !
+\end_layout
+
+\begin_layout Standard
+
+Pas en forme, la matrone !
+\end_layout
+
+\begin_layout Standard
+
+- Jâne rigole pas. Dis, pourquoi on nâirait pas prendre lâair, en haut, sur le toit ? Câest agrÃ©able, il fait beau, y a des chaises, des balanÃ§oires, de belles fleurs, le dÃ©cor parfait pour jaser de mes affaires ?
+\end_layout
+
+\begin_layout Standard
+
+- Coudon, tâes-tu parano, toi ?
+\end_layout
+
+\begin_layout Standard
+
+- Je te prends peut-Ãªtre dans un mauvais moment ? Je peux te rappeler plus tard ?
+\end_layout
+
+\begin_layout Standard
+
+Marie-Odile se revoit, hier soir, retourner chez elle, seule, dÃ©faite, frustrÃ©e, en colÃ¨re, jalouse Ã  en avoir mal au ventre, une douleur moins supportable encore que celle de ses menstruations difficiles. Elle se revoit vouloir ouvrir sa porte dâappartement Ã  grands coups de pieds et se retenir in extremis. Elle se revoit en train de maudire ce TimothÃ©e, lâidiot du village sur qui elle est tombÃ©e, et qui, malgrÃ© sa dÃ©gaine, la rend dÃ©jÃ  malheureuse. Ãvidemment, si elle Ã©tait moins possessive, dÃ©faut Ã©pouvantable, elle le sait, qui, Ã  ce jour, a ruinÃ© le peu de relations amoureuses quâelle a connues, elle nâen aurait possiblement rien Ã  glander. Effectivement, pourquoi cet homme ? Il y en a pourtant bien dâautres. Parce quâil est un homme avec tout lâattirail nÃ©cessaire ou parce quâil est TimothÃ©e, avec toute sa gentillesse de perdant ?
+\end_layout
+
+\begin_layout Standard
+
+- Bof !
+\end_layout
+
+\begin_layout Standard
+
+- Tu ne perdras pas ton temps.
+\end_layout
+
+\begin_layout Standard
+
+Pourquoi pas !
+\end_layout
+
+\begin_layout Standard
+
+- Bon ! Câest comme tu veux. Je monte.
+\end_layout
+
+\begin_layout Standard
+
+- Pas de gadgets Ã©lectrochoses ?
+\end_layout
+
+\begin_layout Standard
+
+- Pas de gadgets.
+\end_layout
+
+\begin_layout Standard
+
+- Promis ?
+\end_layout
+
+\begin_layout Standard
+
+- Promis, bougonne celle que les employÃ©s surnomment la Bitch.
+\end_layout
+
+\begin_layout Standard
+
+Il faut Ã  Robespierre, Ã©crasÃ© dans une chaise de parterre, ses longues jambes sur une autre, un bon cinq minutes pour bien raconter la fraude dont se dit exÃ©cutant involontaire le docteur Bellavance. Marie-Odile, assise les fesses serrÃ©es sur le rebord dâune table, semble rÃ©flÃ©chir.
+\end_layout
+
+\begin_layout Standard
+
+- Il tâa fourni des preuves ?
+\end_layout
+
+\begin_layout Standard
+
+- Des rapports au CA qui nâont rien Ã  voir avec sa vraie production. Des dÃ©ductions. De quoi intÃ©resser les enquÃªteurs. Ãa sent la chiotte en train dâse boucher.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi tu me contes Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+Si lâÃ¢me du sieur Alcide Ã©tait aussi limpide que celle dâun nouveau-nÃ©, il rÃ©pondrait Â«pour mieux de sauter, mon enfant !Â» Mais voilÃ , Robespierre est un adulte de 2033 qui accomplit son sacerdoce quotidien dans le remugle du CRG-BSL. Il parle donc dâune mainmise sur lâÃ©tablissement par une clique de malfaiteurs, dont les Ã©lÃ©ments les plus visibles sont Carl Michaud et Philippe Dauphin. Ce sont des gens qui grattent partout pour Ã©conomiser, ce qui leur permet de mieux empocher. Tout cela, bien entendu, se fait au dÃ©triment des bÃ©nÃ©ficiaires Ã  qui on a presque tout coupÃ©. Le gymnase a Ã©tÃ© trafiquÃ© en salon des employÃ©s, le centre de bricolage en atelier pour le docteur Bellavance, la piscine condamnÃ©e, la trÃ¨s belle terrasse sur le toit, interdite, la climatisation rÃ©servÃ©e aux deux Ã©tages administratifs, le personnel de nuit charcutÃ© Ã  sa plus simple expression, les vieux logÃ©s en dortoirs 2P souvent obligÃ©s dâaller changer les couches dans les salles palliatives, sans parler de cette saloperie de Nutrisuz, le foutu manger mou que fait prÃ©parer lâignoble AmÃ©dÃ©e Chicot, un autre parasite associÃ© Ã  la magouille. Or, avec le trafic prÃ©sumÃ© des hormones de culture, câest Ã  la veille de sauter; quelquâun quelque part va finir par tout comprendre. Et le jour oÃ¹ cette rÃ©vÃ©lation frappera, dans une semaine, dans un mois, dans un trimestre, beaucoup de hauts gradÃ©s auront Ã  choisir leur camp et Ã  montrer patte blanche.
+\end_layout
+
+\begin_layout Standard
+
+Le problÃ¨me est simple :
+\end_layout
+
+\begin_layout Standard
+
+- Si on attend que Ã§a pÃ¨te, parce que Ã§a va arriver, on ne pourra rien pour aider TimothÃ©e qui est aux prises avec une histoire kafkaÃ¯enne.
+\end_layout
+
+\begin_layout Standard
+
+- Je te suis pas.
+\end_layout
+
+\begin_layout Standard
+
+- Je dis que si on se met en mode proactif, quâon fasse crever lâabcÃ¨s, on nâsera pas trop loin des commandes quand viendra le temps de sauver Marie Rioux et Romain Tardif.
+\end_layout
+
+\begin_layout Standard
+
+La fille Tremblay voit passer devant elle lâimage de ses propres parents, celle de son pÃ¨re usÃ©, mal en point, celle de sa mÃ¨re, angoissÃ©e, craintive.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce que tâentends par Â«faire crever lâabcÃ¨sÂ» ?
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+30mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-carl.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+- Bâen, on commence Ã  avoir en main une couple de dossiers faciles Ã  documenter et pouvant mener ces salauds au gibet. Il suffit de bien sâen servir ! Jâimagine Carl Michaud, la corde au cou, avec son veston vieux rose, ses lunettes dâintello, sa âtite coupe de cheveux kioute et ses godasses de banquier 1900. Bordel !
+\end_layout
+
+\begin_layout Standard
+
+Elle le regarde, les yeux plus plissÃ©s que la normale, ce qui est assez prÃ¨s de la grimace.
+\end_layout
+
+\begin_layout Standard
+
+- Une Â«couple de dossiersÂ» ?
+\end_layout
+
+\begin_layout Standard
+
+Robespierre avait prÃ©vu le coup.
+\end_layout
+
+\begin_layout Standard
+
+- OK, je vais tâassÃ©ner lâessentiel dâune deuxiÃ¨me histoire Ã  relents de fosse septique.
+\end_layout
+
+\begin_layout Standard
+
+Y prenant autant de plaisir que sâil avait Ã©tÃ© en train dâamuser des enfants Ã  lâHeure du conte, lâarriÃ¨re-petit-fils de lâinventeur du Petepano narre Ã  lâIlsa-de-TimothÃ©e lâinvraisemblable dÃ©couverte de Shimoune Saint-Pierre, ajoutant, hypocrite, force dÃ©tails scabreux, incluant la dysfonction Ã©rectile de Pete Barrett.
+\end_layout
+
+\begin_layout Standard
+
+- On a plein de clips qui nous prÃ©sentent, bien en santÃ©, les parents pourtant dÃ©cÃ©dÃ©s du Gros Turcotte. On sait que ce pavillon est financÃ© par lâÃtat et quâil abrite des illÃ©gaux intimement Â«ploguÃ©sÂ» sur cet immonde goret.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre sâest emportÃ© et Marie-Odile est sidÃ©rÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Astie !
+\end_layout
+
+\begin_layout Standard
+
+- Je tâle fais pas dire, ma belle !
+\end_layout
+
+\begin_layout Standard
+
+Si lâexpression Â«roucouler des yeuxÂ» Ã©tait consacrÃ©e, quelquâun en autoritÃ© lâaurait consignÃ©e dans un ouvrage officiel comme signifiant Â«Mouvement soutenu dâune paire de grands yeux noirs destinÃ©s Ã  renforcer dâune faÃ§on frÃ´lant lâindÃ©cence, le non-dit sexuel de propos relatifs Ã  autre chose.Â» Bref, malgrÃ© lâorientation de la conversation Ã  donner la chair de poule, Robespierre devise la bite sous le bras. On ne se refait pas.
+\end_layout
+
+\begin_layout Standard
+
+Au mÃªme moment, TimothÃ©e est assis Ã  lâarriÃ¨re dâun taxi en train dâexpliquer au chauffeur que pour la premiÃ¨re fois de sa vie, il est en retard au boulot.
+\end_layout
+
+\begin_layout Standard
+
+- Grosse soirÃ©e, mon jeune homme, ausculte Jawad Kebbaj.
+\end_layout
+
+\begin_layout Standard
+
+- Je viens de me rÃ©veiller; jâai mÃªme pas pris lâtemps de manger.
+\end_layout
+
+\begin_layout Standard
+
+Le bonhomme fouille dans un sac, sur le siÃ¨ge Ã  sa droite, et en ressort une clÃ©mentine.
+\end_layout
+
+\begin_layout Standard
+
+- Tiens, mange au moins Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+- Euh, je sais pas si je dois â¦
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoute mon jeune homme, la clÃ©mentine est le cadeau du Maroc Ã  lâhumanitÃ© entiÃ¨re. Si tu veux insulter un Marocain, refuse la clÃ©mentine quâil tâoffre. Pâis un Marocain insultÃ©, câest trÃ¨s trÃ¨s dangereux. Ouh la-la !
+\end_layout
+
+\begin_layout Standard
+
+- En ce cas, je vais mâincliner. Merci monsieur Kebbaj.
+\end_layout
+
+\begin_layout Standard
+
+Lâagrume en main, TimothÃ©e entre au Centre et sâenligne vers les ascenseurs. Ce faisant, il croise le gros Lavoie, canaille sÃ©vissant comme prÃ©posÃ©e au 6e Nord. Le taupin le regarde, lâair narquois.
+\end_layout
+
+\begin_layout Standard
+
+- Bonne nouvelle pour toi, le MottÃ©, tâauras pâus Ã  nous ramener la mÃ©re Morency.
+\end_layout
+
+\begin_layout Standard
+
+Comme le CS-1 ne rÃ©agit pas, lâobÃ¨se enchaÃ®ne.
+\end_layout
+
+\begin_layout Standard
+
+- On sâest Ã©cÅurÃ© et on lâa crissÃ© en SP. A va dÃ©coller dans un sac zippÃ© Ã  la prochaine cÃ©rÃ©monie. LâincinÃ©rateur, bye-bye âstie !
+\end_layout
+
+\begin_layout Standard
+
+InstantanÃ©ment, TimothÃ©e se rue sur Lavoie. VocifÃ©rant tel un schizophrÃ¨ne en crise, il le pousse sur le mur et le repousse Ã  chaque fois que le misÃ©rable tente de rÃ©tablir sa dignitÃ©. De toute Ã©vidence, il a perdu le contrÃ´le de ses Ã©motions et, dans ses hurlements, on peut sentir lâexpression de son impuissance face Ã  une dÃ©cision dÃ©finitive prise un Ã©tage en haut du sien, une dÃ©cision sur laquelle il nâa aucun droit de regard. Câest Shimoune Saint-Pierre qui, arrivÃ© Ã  la course, se saisit du forcenÃ©, un forcenÃ© dont la colÃ¨re est telle quâil doit fermement lâemprisonner par-derriÃ¨re, dans ses bras puissants, et lâentraÃ®ner Ã  grand fracas vers la cafÃ©tÃ©ria. Inutile de dire que dans le couloir, plus personne ne bouge ni ne parle et que tous vont se souvenir longtemps de cette violente Ã©ruption de rage sourde.
+\end_layout
+
+\begin_layout Standard
+
+- CÃ¢lisse, Shimoune , ils vont tuer madame Morency, crie-t-il en dÃ©plaÃ§ant une table dâun coup de pied, ce qui, dans un vacarme amplifiÃ© par la vastitude du local, fait tomber deux chaises.
+\end_layout
+
+\begin_layout Standard
+
+Quelques vieillards dÃ©sÅuvrÃ©s se dÃ©pÃªchent de filer.
+\end_layout
+
+\begin_layout Standard
+
+Comme il se doit, la patience Ã  toute Ã©preuve de la Â«Grande folle du manger mouÂ» arrive Ã  calmer le malheureux chef de section, Ã  le faire se ressaisir et, surtout, Ã  le faire asseoir.
+\end_layout
+
+\begin_layout Standard
+
+- Veux-tu une limonade ? Un thÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+- Ãa nâa plus de maudit bon sens, Shimoune, chigne son ami. Faut absolument faire quelque chose. Crois-moi, jâvas tout casser, jâvas tout arracher. Câest pas vrai que jâvas les laisser faire Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+Le prÃ©posÃ© au Nutrisuz tapote son dispositif personnel polyvalent.
+\end_layout
+
+\begin_layout Standard
+
+- AllÃ´ dieu dâÃ©bÃ¨ne ? As-tu une minute ? Oui ? Peux-tu descendre ici Ã  la cafÃ©tÃ©ria ? TimothÃ©e a besoin dâaide; câest sÃ©rieux. Il est arrivÃ© un bordel. Oui mon chou, une bagarre. Ne-non ! Moi ? Jâai encore une demi-heure Ã  tirer, y a du bon manger mou Ã  servir, miam-miam ! Merci. Je tâattends, chou.
+\end_layout
+
+\begin_layout Standard
+
+Sur le toit du Centre, Robespierre sâexcuse auprÃ¨s de Marie-Odile.
+\end_layout
+
+\begin_layout Standard
+
+- Il est arrivÃ© quelque chose Ã  TimothÃ©e, faut que jâaille le chercher Ã  la cafÃ©tÃ©ria.
+\end_layout
+
+\begin_layout Standard
+
+- Quoi ?
+\end_layout
+
+\begin_layout Standard
+
+- Une bagarre. Il est un peu, euh, dÃ©sorganisÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Si la femme flic est immÃ©diatement allumÃ©e par le mot Â«bagarreÂ», phÃ©nomÃ¨ne excessivement rare dans un Ã©tablissement gÃ©riatrique, la femme tout court lâest encore plus par le fait quâil sâagisse de TimothÃ©e, cet Ã©ternel perdant qui lâa fait rager hier soir.
+\end_layout
+
+\begin_layout Standard
+
+- Je te suis.
+\end_layout
+
+\begin_layout Standard
+
+Quand il les voit arriver, TimothÃ©e regarde Shimoune, secoue la tÃªte et se lÃ¨ve. Il a compris. En silence, sans un regard pour Marie-Odile, Ã©preuve qui lui semble infranchissable, il serre de prÃ¨s ses amis vers lâascenseur. Au 5e, ils foncent tous trois vers le bureau de Robespierre, sans sâoccuper de Ronnie Ross qui veut parler de lâIlluminÃ© â Â«il a fait un ACVÂ» - ni du vieux Jean Saint-Gelais qui, Ã  lâinstar de ceux qui savent des choses sans les dire, arbore un rictus entendu, mÃªme sâil nâa jamais vraiment su grand-chose.
+\end_layout
+
+\begin_layout Standard
+
+Dâun commun accord, BÃ©a Bellow et Louise Lavoie laissent entrer les trois envahisseurs et se glissent silencieusement vers le couloir.
+\end_layout
+
+\begin_layout Standard
+
+Lâagente de sÃ©curitÃ© fouille dans son bermuda et finit par retrouver son petit zinzin noir sur lequel, du pouce, elle exerce une pression.
+\end_layout
+
+\begin_layout Standard
+
+- Tout est maintenant brouillÃ©. Ã cât heure, raconte ce qui sâest passÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai pÃ©tÃ© ma coche, lui rÃ©pond TimothÃ©e. Le gros Lavoie mâa annoncÃ© avec le sourire, quâils avaient placÃ© madame Morency en SP et quâelle serait gazÃ©e et incinÃ©rÃ©e Ã  la prochaine cÃ©rÃ©monie de groupe. Ãa se peut pas ! Faut que jâarrive Ã  empÃªcher Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre sâÃ©crase dans son fauteuil et, les yeux fixÃ©s au plafond, Ã©met un puissant bÃ¢illement.
+\end_layout
+
+\begin_layout Standard
+
+- OK, trop câest trop ! On clenche !
+\end_layout
+
+\begin_layout Standard
+
+Il baisse les yeux vers Marie-Odile.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes avec nous ?
+\end_layout
+
+\begin_layout Standard
+
+- Câest qui, Ã§a nous ?
+\end_layout
+
+\begin_layout Standard
+
+- Pour lâinstant, TimothÃ©e, Shimoune, moi. TantÃ´t, on va rajouter le docteur Bellavance et Claude Sey.
+\end_layout
+
+\begin_layout Standard
+
+- On clenche comment ?
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã  voir, faut en jaser. Tâes une experte en sÃ©curitÃ©, tu peux sÃ»rement nous aider.
+\end_layout
+
+\begin_layout Standard
+
+- Moi ?
+\end_layout
+
+\begin_layout Standard
+
+- Bâen oui !
+\end_layout
+
+\begin_layout Standard
+
+Lâair renfrognÃ© que la femme flic arborait jusque-lÃ  semble sâestomper.
+\end_layout
+
+\begin_layout Standard
+
+- Faut que je voie vraiment le dossier quâa le docteur Bellavance. Si câest ce que tu dis, sâil y a matiÃ¨re Ã  porter des accusations au criminel, câest certain que jâembarque.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre brandit ses deux pouces en avant de lui.
+\end_layout
+
+\begin_layout Standard
+
+- Yes !
+\end_layout
+
+\begin_layout Standard
+
+Tous trois conviennent alors de rencontrer le mÃ©decin, idÃ©alement chez lui, question de se faire une idÃ©e finale et, de lÃ , se dÃ©finir une stratÃ©gie dâattaque. Les humains Ã©tant ainsi faits, les gestes dÃ©cisifs sont toujours posÃ©s par une infime minoritÃ©, des gens quâon appelle leader, fonceur, bÃ©lier, chef, boss, capo, Ã©dile, adjudant-chef, maÃ®tre, producteur, propriÃ©taire, tennÃ´, padrino, prÃ©sident, pape, directeur, foreman, caudillo, ministre, prÃ©dicateur, meneur, auteur. Mais ici, ils ont pour nom Robespierre Alcide, monument de force et de sagesse sur qui deux paires dâyeux sont fixÃ©es. Ce que voyant, lâarmoire Ã  glace pitonne sa boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- Docteur Bellavance, ici Robespierre Alcide. Peut-on parler de faÃ§on confidentielle ? Merci. Dites, je suis avec des amis et nous souhaiterions nous entretenir avec vous. Auriez-vous du temps, ce soir ? Oui ? Parfait. Dâaccord. Ãa marche, 19h30 chez vous. Oui. Nous serons quatre. Ah ! TimothÃ©e Tardif, Shimoune Saint-Pierre et Marie-Odile Tremblay. Oui, lâagente de sÃ©curitÃ©. Non, pas de problÃ¨me. Je vous le dis. Parfait. Au revoir, docteur.
+\end_layout
+
+\begin_layout Standard
+
+Il se recule dans sa chaise et Ã©tire ses longs tentacules.
+\end_layout
+
+\begin_layout Standard
+
+- Câest parti !
+\end_layout
+
+\begin_layout Standard
+
+Sâil le pouvait, il prendrait TimothÃ©e dans ses bras et lui jurerait que plus personne ne pourrait dÃ©sormais faire brÃ»ler de petits vieux, les nourrir Ã  la soupane chimique, les vÃªtir comme des cloches, les traiter comme des demeurÃ©s. Il lui promettrait que ses parents, Marie et Romain, seraient dÃ©livrÃ©s de leur sous-sol poussiÃ©reux, quâils pourraient vivre au grand jour sans devoir aller se cacher avec les autres sur lâÃ®le dâAnticosti. Il lâassurerait que les mÃ©chants qui commandent lâÃ©tablissement seraient traquÃ©s, arrÃªtÃ©s, condamnÃ©s et Ã©crouÃ©s dans la plus humide des geÃ´les en compagnie des Papyblues et autres Tontons Michauds, que le gros Turcotte serait traÃ®nÃ© sur le banc dâinfamie, puis accrochÃ© par le cou aux fourches patibulaires avec les boyaux du fraÃ®chement Ã©viscÃ©rÃ© Pete Barrett. Mais on est en public, un public aux yeux inquisiteurs, plissÃ©s et, quelque part, bleus, dont la porteuse en uniforme de la SÃ©cu semble en rÃ©flexion carabinÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Jâmâen vais me coucher Ã  la maison, soupire TimothÃ©e. Y a rien Ã  faire avec moi, aujourdâhui.
+\end_layout
+
+\begin_layout Standard
+
+- Câest correct, mon ami, repose-toi bien. Jâvais passer te prendre Ã  19 h.
+\end_layout
+
+\begin_layout Standard
+
+Dans le couloir, Ronnie Ross finit par le rattraper.
+\end_layout
+
+\begin_layout Standard
+
+- MottÃ© ? Je fais quoi avec lâIlluminÃ© ? Jâlâenvoie en SP ?
+\end_layout
+
+\begin_layout Standard
+
+- Non cÃ¢lisse ! On nâenverra plus jamais personne se faire incinÃ©rer ! Fie-toi sur moi, Ronnie !
+\end_layout
+
+\begin_layout Standard
+
+Ce dernier rÃ©alise que son chef, parvenu aux ascenseurs, nâest plus ce bon vieux MottÃ© auquel il a Ã©tÃ© habituÃ©. Il lui crie :
+\end_layout
+
+\begin_layout Standard
+
+- Oui, mais je fais quoi avec ?
+\end_layout
+
+\begin_layout Standard
+
+- Tâappelles les secours, tu le fais soigner, comme un Ãªtre humain !
+\end_layout
+
+\begin_layout Standard
+
+Le prÃ©posÃ© nâen croit pas ses oreilles. Mais il est trop tard, TimothÃ©e est dÃ©jÃ  disparu.
+\end_layout
+
+\begin_layout Standard
+
+Quand Robespierre passe le prendre Ã  19 h, le fils Tardif a lâimpression que cinquante millions de caisses de clÃ©mentines marocaines lui sont passÃ©es sur le corps, mÃªme sâil a dormi un bon cinq heures. Mais il est serein, presque heureux. Câest quâen se rÃ©veillant, il sâÃ©tait fait un cafÃ© et Ã©tait descendu juger de lâÃ©tat des choses chez ses parents. StupÃ©fait de ne pas entendre Gazou gronder comme un enragÃ©, il en avait vite compris la raison en apercevant BÃ©atrice en train de parler avec sa mÃ¨re. Depuis quand y Ã©tait-elle ? Il nâavait pas osÃ© sâinformer, se contentant dâen Ã©prouver un grand bonheur. Il avait saluÃ©, puis retournÃ© son sourire Ã  la belle infirmiÃ¨re et, affreusement gÃªnÃ©, Ã©tait reparti chez lui.
+\end_layout
+
+\begin_layout Standard
+
+En arrivant devant la rÃ©sidence du mÃ©decin, ils remarquent Marie-Odile dans sa voiture Ã©lectrique qui les attend, avec Shimoune appuyÃ© nonchalamment, les coudes sur le toit.
+\end_layout
+
+\begin_layout Standard
+
+- Dieu du ciel, madame, comme ce soleil de fin de journÃ©e convient Ã  votre carnation et Ã  la dorure de vos cheveux. JusquâÃ  la fin de mes jours, je serai redevable Ã  lâastre de vie dâun tel spectacle.
+\end_layout
+
+\begin_layout Standard
+
+La femme flic sourit presque au gÃ©ant.
+\end_layout
+
+\begin_layout Standard
+
+Câest Claude Sey, jeune idÃ©aliste fraÃ®chement congÃ©diÃ©, qui, en se servant du quanticordi de la maison, se fait un devoir de prÃ©senter Ã  Marie-Odile lâaccablant dossier quâil a accumulÃ©. Puis, dâun commun accord, Shimoune relate sa ballade bicoise menant Ã  la dÃ©couverte dâun refuge pour illÃ©gaux hautement subventionnÃ©. Il a des clips et des photos. Autrement dit, rÃ©sume Robespierre, on a en main de quoi faire Â«sauter la marmiteÂ». Encore faut-il savoir comment et quand.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa va, marmonne Marie-Odile. Ãa me suffit, jâvous suis !
+\end_layout
+
+\begin_layout Standard
+
+Robespierre lÃ¨ve les bras vers le ciel face auquel il hoche la tÃªte en signe de remerciement, imitant en cela bien des gens Ã  qui son arriÃ¨re-grand-pÃ¨re avait redonnÃ© du tonus.
+\end_layout
+
+\begin_layout Standard
+
+- Il faut sauver Luce Morency, rappelle TimothÃ©e dâune voix presque inaudible.
+\end_layout
+
+\begin_layout Standard
+
+- Oui, mais il faut surtout sauver les bÃ©nÃ©ficiaires du Centre, corrige Claude Sey.
+\end_layout
+
+\begin_layout Standard
+
+- Il faut aussi sauver vos parents, monsieur Tardif, ajoute le docteur.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen beau, mais il faut surtout clouer ces pourris sur une porte de grange, gronde Shimoune .
+\end_layout
+
+\begin_layout Standard
+
+Câest alors que la petite sociÃ©tÃ© a droit Ã  du grand Robespierre. Du Robespierre comme il ne sâen Ã©tait pas vu depuis les premiÃ¨res annÃ©es du Petepano. On le sait tous, la marque dâun chef sâimprime dans de tels moments. Laissant sâÃ©tablir un silence dâalinÃ©as, le tablettÃ© le plus musclÃ© de lâest du QuÃ©bec prend la parole comme sâil se tenait dans la tourelle dâun vÃ©hicule dâassaut reliÃ© par communications holographiques Ã  une brigade blindÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Madame, docteur, messieurs, jâaurais une dÃ©marche assez prÃ©cise Ã  vous proposer, pourvu que nous nous mettions dâabord en accord sur un aboutissement.
+\end_layout
+
+\begin_layout Standard
+
+Le QuÃ©bÃ©cois de lointaine souche antillaise fait alors valoir un point de vue selon lequel si on se contente de judiciariser les malfrats, ce qui pourrait ne pas Ãªtre vraiment compliquÃ© Ã  rÃ©ussir, Â«nâest-ce pas Marie-OdileÂ», on ne serait guÃ¨re plus avancÃ© si de nouveaux escrocs venaient assumer la direction du Centre et que les personnes Ã¢gÃ©es continuaient de souffrir.
+\end_layout
+
+\begin_layout Standard
+
+- Non, madame, docteur, messieurs, il faut plutÃ´t sâassurer dâexercer soi-mÃªme le pouvoir. Et jâai un plan.
+\end_layout
+
+\begin_layout Standard
+
+- Un autre que moi, Monsieur Alcide, pourrait croire Ãªtre en prÃ©sence dâun militaire putschiste de lâAfrique.
+\end_layout
+
+\begin_layout Standard
+
+- Docteur, vous Ãªtes off. Mon idÃ©e est de laisser ces gens en place, mais de les contrÃ´ler avec la menace constante de les dÃ©truire. Ma proposition est de les forcer Ã  tout rÃ©former pour quâils deviennent des hÃ©ros et quâils sâenferrent Ã  tout jamais dans leur gloriole. Oui, docteur, je veux, avec vous, exercer le pouvoir, mais en tirant les ficelles dans lâombre. Si mon plan fonctionne, il va me falloir, jusquâÃ  la fin de mes jours, tenir un colt 45 armÃ© sur la tempe du gros Turcotte et un autre sur celle de Carl Michaud.
+\end_layout
+
+\begin_layout Standard
+
+Marie-Odile est trÃ¨s impressionnÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- On tâÃ©coute Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+Elle a presque souri.
+\end_layout
+
+\begin_layout Standard
+
+Le colosse regarde son assemblÃ©e et sâÃ©tire les muscles du cou.
+\end_layout
+
+\begin_layout Standard
+
+- Avec votre indispensable collaboration, madame, docteur, messieurs, voici ce que nous pourrions faire, dÃ¨s demain.
+\end_layout
+
+\begin_layout Standard
+
+Dehors, sous le chaud reflet du soleil couchant, deux anonymes quâon dirait endimanchÃ©s pour participer Ã  des sÃ©ances de torture filment les vÃ©hicules stationnÃ©s devant la rÃ©sidence du docteur Bellavance. 
+\end_layout
+
+\end_body
+\end_document

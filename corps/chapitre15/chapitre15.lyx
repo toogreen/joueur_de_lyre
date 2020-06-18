@@ -1,0 +1,1552 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+TimothÃ©e craque et remet Ã§a ! le 27 juillet 2033
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+L'air de ce petit mercredi de semaine
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ est doux, caressant, aromatisÃ© de tout ce qui, plus au sud, affole les bourdons, les abeilles et les colibris. On voudrait sây intÃ©grer, sâen faire un linceul, flotter sur son calme courant, se fondre dans la gÃ©nÃ©rositÃ© de sa tiÃ©deur veloutÃ©e, y rÃªver sans craindre que le bien-Ãªtre ne cesse mÃªme en se tenant tout prÃ¨s du fleuve en dÃ©fiant la vigueur des dÃ©bris salÃ©s. On souhaiterait sâencoconner sans retour dans le confort de ce matin de juillet, se perdre dans ces draps de satin blanc, ceux de la nuit incessante, Â«Nights in white satin, Never reaching the end â¦ Â», des draps au lyrisme plus prenant que celui de cette froide cotonnade enrobant le vilain trÃ©buchet par oÃ¹ il a fallu passer. Car on aimerait oublier avoir dÃ» sacrifier sa soirÃ©e au plus dÃ©sagrÃ©able des stupres, dans la plus angoissante des geÃ´les. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+On aimerait oublier avoir le cou bien Ã©tirÃ© sur une bÃ»che, avoir une meute de chacals dÃ©ployÃ©e tout autour pour la curÃ©e, avoir ses proches en grand pÃ©ril, Ãªtre en train de naviguer dans un Ã©pais cirage sans trop dâinstruments fiables. En revanche, on a des amis, peut-Ãªtre mÃªme une amie, sur qui il est possible dâapprendre Ã  compter, si on le veut Pas si mal quand on est un tromboniste involontaire nâayant pas encore trouvÃ© de passage, aller simple, pour Milet, un binoclard, bedonnant, en chauvaison, recalÃ© socialement. Chauvaison ? Lorsque la calvitie frappe, on tend Ã  se dÃ©velopper un vocabulaire pour en qualifier le processus.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+35mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-jawad.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Entre lâimprobable cottage de la rue Crouet et lâimmeuble du CRG-BSL, il y a exactement huit feux de circulation. Or, câest la premiÃ¨re fois, depuis quâil fait ce mÃ©tier, que Jawad Kebbaj franchi tous ces portails au vert, Â«MashaâAllahÂ» !
+\end_layout
+
+\begin_layout Standard
+
+- Il faut prier en initiÃ©, mon jeune homme !, dit-il Ã  son rÃ©troviseur Ã  grand renfort de clins dâÅil.
+\end_layout
+
+\begin_layout Standard
+
+Effectivement, Ã  chaque feu, lâex-mÃ©decin marocain psalmodie la formule incantatoire, formule un peu adaptÃ©e, mais remontant nÃ©anmoins Ã  la nuit des temps, formule quâauraient utilisÃ©e pharaons, dignitaires et nobliaux en quÃªte dâun siÃ¨ge pour que cesse leur errance postmortuaire. Dit-on.
+\end_layout
+
+\begin_layout Standard
+
+- Laisse-moi passer, feu de circulation, je te connais et je connais ton nom, je connais le nom du dieu qui te garde. Tu tâappelles Â«Souverain de la peur, aux hautes murailles, le supÃ©rieur, souverain de Hebhed, le prophÃ¨te qui repousse la tempÃªte, qui sauve de la spoliation celui qui vient de loinÂ», ton portier se nomme Â«le RedoutableÂ» et le dieu qui te garde sâappelle Osiris.
+\end_layout
+
+\begin_layout Standard
+
+Puis :
+\end_layout
+
+\begin_layout Standard
+
+- Laisse-moi passer, feu de circulation, je te connais et je connais ton nom, je connais le nom du dieu qui te garde. Tu tâappelles Â«Souverain du ciel, maÃ®tre du double pays, lâavaleur, souverain des hommes, contrÃ´leur de tousÂ», ton portier sâappelle Â«le Rejeton de PtahÂ» et le dieu qui te garde se nomme Osiris.
+\end_layout
+
+\begin_layout Standard
+
+Et ainsi de suite, autant de portails-feux, autant de suppliques, autant de permissions divines, autant dâinvraisemblances qui contredisaient la conviction de Jawad Ã  lâeffet quâil Ã©tait mathÃ©matiquement impossible de les franchir tous dans la fÃ©licitÃ© du mouvement continue. Oriris, le dieu aux quatorze morceaux, nâavait-il pas dÃ©centralisÃ© la gestion de ses portails, laissant une grande latitude aux portiers, des crÃ©atures pas toujours accommodantes envers les humains ? Mais aujourdâhui, tout semblait surrÃ©aliste. Par exemple, qui eut cru possible de connaÃ®tre un matin aussi doux que ceux de Rabat, quand les ardeurs du soleil de juillet sont rafraÃ®chies par la brise de lâAtlantique et les effluves du fleuve Bouregreg ? Mais voilÃ , tout est concevable en ce bas monde, mÃªme la douceur, la joie de vivre et ;e rÃ©pit. Nâen a-t-on pas la preuve en ce dÃ©but de journÃ©e ?
+\end_layout
+
+\begin_layout Standard
+
+Descendu de la voiture, TimothÃ©e remarque une dizaine dâemployÃ©s, toutes des jeunes femmes, assises, souriantes, heureuses, le nez pointÃ© vers le soleil, comme ces personnages peints sur papyrus dans le Livre des morts. Il sâattarde un instant en ce sÃ©rail impromptu, se tourne lui aussi vers la chaleureuse lumiÃ¨re et se laisse caresser. Une prÃ©posÃ©e toute mignonne lui sourit. Il opine en manifestant un prudent dÃ©but dâenjouement, mais sâengage nÃ©anmoins dans lâÃ©difice. Attention, se di-il, prudence ! Il fait doux, tous les feux ont Ã©tÃ© au vert et des gens de bonne humeur lui ont tÃ©moignÃ© de lâamabilitÃ©. Ces invraisemblances sont-elles des indices que sa vie est en voie de se faire belle ? Effectivement, câest aujourdâhui que Marie-Odile va le dÃ©barrasser du docteur Gagnon et quâelle dÃ©samorcera la procÃ©dure administrative enclenchÃ©e contre lui. Mais Ã  lâinverse, ne serait-ce pas plutÃ´t une faÃ§on hypocrite dâindiquer que son existence jusque-lÃ  Ã©prouvante est sur le point de devenir cauchemardesque ? Car, aprÃ¨s lâintervention de la femme flic, il risque de se retrouver enferrÃ© comme jamais, avec, en mains, une facture Ã  payer longue comme la langue de lâhomme-tronc.
+\end_layout
+
+\begin_layout Standard
+
+En route vers les ascenseurs, il est aperÃ§u par Shimoune Saint-Pierre officiant au manger mou qui, ce matin, arbore des nattes blondes lui donnant lâaspect dâune matrone gauloise, une matrone musclÃ©e, sâentend. Ã grands signes, lâÃ©nergumÃ¨ne insiste pour que son ami approche. TimothÃ©e se faufile alors Ã  travers les vieillards et sâavance jusquâau comptoir de service.
+\end_layout
+
+\begin_layout Standard
+
+- Va-t-en vite Ã  la salle du CA. Il est arrivÃ© quelque chose Ã  Dart Vader.
+\end_layout
+
+\begin_layout Standard
+
+- Quoi ?
+\end_layout
+
+\begin_layout Standard
+
+- Vas-y vite !
+\end_layout
+
+\begin_layout Standard
+
+Inquiet, le CS-1 se dÃ©pÃªche dans le couloir encombrÃ© pas sa faune matinale et il est dÃ©passÃ© par Tropecolo le Chinois, debout sur sa Saguewanish.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce qui est arrivÃ© Ã  monsieur Gagnon, demande-t-il Ã  lâagent de sÃ©curitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+La rÃ©ponse est tellement dÃ©pourvue de tact quâelle est Ã  la diplomatie ce que lâarrachage soudain dâun diachylon est Ã  la mÃ©decine.
+\end_layout
+
+\begin_layout Standard
+
+- On vient de le trouver mort. Mais tâas le droit dâentrer, câest ton bÃ©nÃ©ficiaire, fait-il en rangeant sa trottinette Ã  cÃ´tÃ© de la porte suprÃªme.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e a une boule dans le gorgoton.
+\end_layout
+
+\begin_layout Standard
+
+- Il est mort comment ?
+\end_layout
+
+\begin_layout Standard
+
+- En mangeant. Viens voir.
+\end_layout
+
+\begin_layout Standard
+
+Dans la salle oÃ¹ flotte une puanteur de diarrhÃ©e, Carl Michaud est en pourparler avec Philippe Dauphin, deux employÃ©s de la direction gÃ©nÃ©rale, Ã  coup sÃ»r des hommes de main du Flipper, regardent la dÃ©pouille et Marie-Odile Tremblay parle avec un prÃ©posÃ© Ã  lâentretien.
+\end_layout
+
+\begin_layout Standard
+
+- Câest lui qui a dÃ©barrÃ© la salle Ã  matin, prÃ©cise Tropecolo. MÃ©chante surprise !
+\end_layout
+
+\begin_layout Standard
+
+Dart Vader, la carcasse crispÃ©e, les traits rÃ©vulsÃ©s, la bouche ouverte pleine de dÃ©bris de crevettes, un de ses petits Ã©couteurs dÃ©crochÃ© de lâoreille, la canule arrachÃ©e, du sang coagulÃ© sur le cou, le bas du corps maculÃ© de fÃ©cÃ¨s presque sÃ©chÃ©es, est Ã©tendu par terre, les jambes sous la table, la tÃªte un peu surÃ©levÃ©e sur la plinthe en acajou longeant le mur. Autour de lui, de la nourriture gÃ¢chÃ©e et, sur la table, un dÃ©sordre de cabarets dÃ©barrassÃ©s dâune partie de leurs contenus.
+\end_layout
+
+\begin_layout Standard
+
+Avec son DPP, Tropecolo photographie les deux lettres accolÃ©es, celle du CA et celle de Dauphin, tandis que Marie-Odile remercie le pauvre concierge et sâapproche de TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Tu le connaissais bien ?
+\end_layout
+
+\begin_layout Standard
+
+- Bâen, je lâaimais bien. Il Ã©tait emmerdant, mais câÃ©tait un bon bonhomme.
+\end_layout
+
+\begin_layout Standard
+
+- Tu penses Ã  quoi quand tu vois le corps amanchÃ© de mÃªme ?
+\end_layout
+
+\begin_layout Standard
+
+- Ãa me semble clair quâil a Ã©touffÃ©. Mais je comprends pas le sang.
+\end_layout
+
+\begin_layout Standard
+
+- Moi câest les deux portes barrÃ©es de lâextÃ©rieur, celle de Dauphin et celle du CA, que je comprends pas.
+\end_layout
+
+\begin_layout Standard
+
+Lâagente pointe don index vers lâoreille gauche de cadavre oÃ¹ lâÃ©couteur est toujours en place.
+\end_layout
+
+\begin_layout Standard
+
+- As-tu une idÃ©e de ce quâil Ã©coutait ?
+\end_layout
+
+\begin_layout Standard
+
+- Il aimait bien Ã©couter de la musique quÃ©bÃ©coise, de la chansonnette franÃ§aise. Il connaissait Mouloudji par cÅur.
+\end_layout
+
+\begin_layout Standard
+
+- Qui ?
+\end_layout
+
+\begin_layout Standard
+
+- Mouloudji.
+\end_layout
+
+\begin_layout Standard
+
+- Mou â¦ De toute faÃ§on, Ã§a va Ãªtre analysÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Leur attention se porte alors sur le directeur des communications qui a commencÃ© Ã  crier dans sa boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- AllÃ´ ! Oui câest moi, qui câest quâtu veux quâce soit dâautre ? Envoi, shoot ! Le point de vue officiel ? Le bonhomme est mort dâune indigestion. Une mort royale ! Câest Ã§a ! Essaie de trouver le moyen de comparer avec la mort du roi Adolphe FrÃ©dÃ©ric de SuÃ¨de. Oui. Adolphe FrÃ©dÃ©ric de SuÃ¨de. Ãa sâest passÃ© en 1771. Il est mort aprÃ¨s avoir bÃ¢frÃ© en une seule ripaille des quantitÃ©s abominables de homards, de caviar, de choucroute, de coleslaw, de kippers et de poisson fumÃ©, sans oublier quatorze portions de semla. Hein ? De la semla câest une sorte de chou Ã  la crÃ¨me servi dans un bol de lait chaud, ouin, du lait chaud, le tout bâen arrosÃ© de champagne. Câest Ã§a. Le bonhomme aura commis une derniÃ¨re extravagance. Le CA ? Jâai des gens qui communiquent prÃ©sentement avec les membres pour leur dire que la rÃ©union est remise sine die. OK. Bye.
+\end_layout
+
+\begin_layout Standard
+
+Carl Michaud qui a lui aussi Ã©tÃ© obligÃ© dâÃ©couter le monologue du Flipper, sâen approche vivement.
+\end_layout
+
+\begin_layout Standard
+
+- Avec qui parlais-tu ?
+\end_layout
+
+\begin_layout Standard
+
+- Avec AngÃ©lique, ma responsable des relations mÃ©dias.
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoute-moi bien, Philippe. On nâadmet rien. On ne dit rien. Le vieux chnoque est mort de sa belle mort.
+\end_layout
+
+\begin_layout Standard
+
+- Il a prÃ©venu les mÃ©dias et Dennis-Dubeau de ses intentions; ils vont rappliquer, ils vont nous Ã©cÅurer.
+\end_layout
+
+\begin_layout Standard
+
+- Tu leur diras quâil ne sâest rien passÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- OK boss !
+\end_layout
+
+\begin_layout Standard
+
+- On fait venir les gars du frigo, on le met le bonhomme dans un sac zippÃ© et on le grille Ã  la prochaine cÃ©rÃ©monie.
+\end_layout
+
+\begin_layout Standard
+
+En entendant la dÃ©cision du directeur gÃ©nÃ©ral, TimothÃ©e ressent une montÃ©e dâadrÃ©naline.
+\end_layout
+
+\begin_layout Standard
+
+- Excusez-moi, monsieur, mais on nâa pas le droit de faire Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+Carl Michaud lui jette un regard chargÃ© dâembÃ»ches lÃ©tales, de trappes fatales, de lames empoisonnÃ©es, de grosses misÃ¨res et de mille dangers. Mais il nâa pas le temps de rÃ©pliquer. Tropecolo sâest avancÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Tardif a raison, monsieur. Nous sommes en prÃ©sence dâune mort suspecte. Il y a du sang, du bordel, la victime nâavait pas dâaffaire ici, elle Ã©tait enfermÃ©e sous clÃ©, son visage est convulsÃ©, ses membres crispÃ©s et sa bouche pleine de nourriture. Et il venait de passer quasiment une semaine en prison sans aucune justification administrative. Câest louche. Pour le moins. Dans un cas comme celui-lÃ , la loi nous oblige Ã  en rÃ©fÃ©rer Ã  la police, qui, Ã  coup sÃ»r, va faire venir un mÃ©decin lÃ©giste.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen voyons ! On va quand mÃªme pas dÃ©ranger les flics pour une niaiserie de mÃªme, sâobjecte Philippe Dauphin.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai bien peur que oui, mon Flipper.
+\end_layout
+
+\begin_layout Standard
+
+- De toute faÃ§on, coupe Marie-Odile, il est trop tard pour sâastiner, je viens de les appeler. Ils vont Ãªtre ici dans quinze minutes.
+\end_layout
+
+\begin_layout Standard
+
+Visage convulsÃ©, membres crispÃ©s, bouche pleine de crevettes, excrÃ©ments, TimothÃ©e est intriguÃ©. Et si câÃ©tait une rÃ©action allergique ? Le vieillard souffrait peut-Ãªtre dâintolÃ©rance par rapport Ã  certains aliments. Apercevant le terminal quantique sur une table au fond de la salle, il ouvre une session et se fait sortir le dossier Robert Gagnon, 5e Nord. Or rien nâapparaÃ®t au rayon allergies. Rien !
+\end_layout
+
+\begin_layout Standard
+
+Au mÃªme moment, il entend la voix de Marie-Odile.
+\end_layout
+
+\begin_layout Standard
+
+- Chinois, va voir vite !
+\end_layout
+
+\begin_layout Standard
+
+Elle pointe en direction du bureau de Dauphin. Tropecolo y dÃ©couvre le haut gradÃ© en train de gratter la feuille que Dart Vader avait accolÃ©e en dÃ©but dâorgie Ã  sa table de travail.
+\end_layout
+
+\begin_layout Standard
+
+- Flipper, arrÃªte. Tu nâas pas le droit. Ne touche plus Ã  rien, ordonne-t-il.
+\end_layout
+
+\begin_layout Standard
+
+- Tout le monde doit immÃ©diatement sortir, corrobore Marie-Odile. Seuls Tropecolo et moi pouvons rester en attendant la police.
+\end_layout
+
+\begin_layout Standard
+
+Comme Dauphin ne semble pas faire de cas de lâavertissement, Tropecolo revient Ã  la charge.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur, ce que je dis et vois prÃ©sentement est numÃ©risÃ© par mon DPP. La feuille que vous essayez dâarracher a Ã©tÃ© filmÃ©e plus tÃ´t et ce que vous Ãªtes en train de faire est illÃ©gal et pourra Ãªtre retenu contre vous.
+\end_layout
+
+\begin_layout Standard
+
+- âStie de zÃ©lÃ©, lui rÃ©torque le cadre administratif qui dÃ©guerpit.
+\end_layout
+
+\begin_layout Standard
+
+Apercevant TimothÃ©e en train de refermer le terminal, il poursuit sur le ton Â«mesure de guerreÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Vous aussi, monsieur Tardif, je vous ai dans mon DPP. Vous devez quitter cette piÃ¨ce immÃ©diatement.
+\end_layout
+
+\begin_layout Standard
+
+Le CS-1 le regarde avec une certaine douceur.
+\end_layout
+
+\begin_layout Standard
+
+- Merci Tropecolo, merci Marie-Odile. JâapprÃ©cie votre rigueur. Monsieur Gagnon le mÃ©rite.
+\end_layout
+
+\begin_layout Standard
+
+Dans le couloir, il se gratte le crÃ¢ne et, sans hÃ©siter, il descend au sous-sol et fonce en direction sud vers le laboratoire du docteur Bellavance. La salle dâaccueil est plutÃ´t exiguÃ«, mais la jeune femme qui y est affectÃ©e est agrÃ©able Ã  zieuter avec son petit nez retroussÃ©. Elle paraÃ®t encore sous le charme du soleil matinal devant lequel elle a dÃ» sâattarder tout Ã  lâheure.
+\end_layout
+
+\begin_layout Standard
+
+- Tu peux entrer, lui dit-elle en pointant vers une porte Ã  sa gauche. Il tâattend dans son bureau. Ãa va Ãªtre complÃ¨tement au fond, Ã  ta droite.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e doit alors traverser une grande piÃ¨ce comptant une vingtaine de lits oÃ¹ semblent dormir des zombis intubÃ©s, des morts maintenus vivants et socialement utiles, dâanciens ingÃ©nieurs, fonctionnaires, commerÃ§ants, pÃªcheurs, enseignants, avocats, menuisiers, hommes et femmes, devenus des matrices Ã  hormones, des animaux inertes que lâon entretient et que lâon trait ou tond. Si la plupart sont seuls, certains ont lâinsigne honneur dâavoir une porteuse de sarrau, quelque instrument en main, en train de leur contrÃ´ler le truc du machin de la patente, de leur gratter un bout de peau, de leur tapoter un tube ou de leur vÃ©rifier un signe vital. Ne sachant plus comment ne pas regarder cette scÃ¨ne dâhorreur, le CS-1 aboutit dans le grand bureau du mÃ©decin chercheur oÃ¹ il est accueilli avec chaleur.
+\end_layout
+
+\begin_layout Standard
+
+Il a tÃ´t fait de lui raconter dans le dÃ©tail ce quâil vient de voir dans la salle du CA et lui fait part de son questionnement sur la possibilitÃ© dâune violente rÃ©action allergique.
+\end_layout
+
+\begin_layout Standard
+
+- Avez-vous des connaissances mÃ©dicales, monsieur Tardif ?
+\end_layout
+
+\begin_layout Standard
+
+- Un peu, jâai quasiment un DEC en soins infirmiers.
+\end_layout
+
+\begin_layout Standard
+
+- Je comprends vos interrogations et la justesse de la piste que vous envisagez dâapprofondir.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Vous avez sÃ»rement entendu parler de choc anaphylactique ?
+\end_layout
+
+\begin_layout Standard
+
+Et le mÃ©decin de lui rappeler la nature Ã©minemment dangereuse de cette pathologie, une rÃ©action allergique exacerbÃ©e pouvant entraÃ®ner la mort. Si personne nâest sur place pour lui administrer de lâadrÃ©naline, le patient a alors de trÃ¨s bonnes chances de trÃ©passer. On parle dâune chute prÃ©cipitÃ©e de la pression artÃ©rielle, de tachycardie, de troubles respiratoires, de vomissements et de diarrhÃ©es, le tout dans les minutes qui suivent lâabsorption de la substance irritante.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa ressemble Ã  ce que je viens de voir, sans les vomissements.
+\end_layout
+
+\begin_layout Standard
+
+- Attention, ce nâest quâune piste que le mÃ©decin lÃ©giste devra explorer.
+\end_layout
+
+\begin_layout Standard
+
+- Mais docteur, la fiche patient de monsieur Gagnon nâindique aucune allergie.
+\end_layout
+
+\begin_layout Standard
+
+- Dans lâhypothÃ¨se dâun choc anaphylactique, Ã§a veut dire quâentre le moment oÃ¹ elle a Ã©tÃ© complÃ©tÃ©e, la fiche, et le moment de sa mort, au monsieur, il peut trÃ¨s bien en avoir dÃ©veloppÃ© une allergie, pour peu que cette piste soit la bonne. Et ici, jâaurais envie dâaccuser les crevettes, une nourriture fortement iodÃ©e qui nâen est pas Ã  ses premiers mÃ©faits.
+\end_layout
+
+\begin_layout Standard
+
+- Mais pourquoi il aurait saignÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+- Faudra voir avec le mÃ©decin lÃ©giste.
+\end_layout
+
+\begin_layout Standard
+
+- Depuis trois ans quâil est ici, monsieur Gagnon nâa Ã©tÃ© nourri quâau Nutrisuz. Pourrait-il y avoir un lien de cause Ã  effet entre cela et le dÃ©veloppement dâune allergie ?
+\end_layout
+
+\begin_layout Standard
+
+- LâhypothÃ¨se est intÃ©ressante et mÃ©riterait dâÃªtre vÃ©rifiÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Le docteur Bellavance plonge ses yeux invasifs dans ceux de TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Tardif, on peut parler librement. Jâai obtenu quâici au labo, rien, ni conversation, ni action, ne puisse Ãªtre enregistrÃ© Ã  la SÃ©cu.
+\end_layout
+
+\begin_layout Standard
+
+Sâil y a lien, explique-t-il, si la piste tient la route, les protagonistes du Nutrisuz risquent dâavoir lâair un peu fou; ils pourront avoir des comptes Ã  rendre. Pour le moins, il y aura enquÃªte Ã  la grandeur du QuÃ©bec, peut-Ãªtre mÃªme du Canada, si le FÃ©dÃ©ral sâen mÃªle. Depuis quâon administre cette rinÃ§ure chimique aux vieux, combien sont dÃ©cÃ©dÃ©s Ã  la suite dâun choc anaphylactique ? Sera-t-il possible de vraiment le savoir avec cette manie quâont les CRG de tout gommer, de tout mettre en sac, de tout faire disparaÃ®tre Ã  chaque mois lors des cÃ©rÃ©monies ? Rien ne sera moins limpide. Il faudrait partir Ã  zÃ©ro, procÃ©der par Ã©chantillonnage de bÃ©nÃ©ficiaires que lâon remet Ã  la vraie nourriture, les suivre repas par repas. Et, pour arriver Ã  une telle Ã©tude, il serait essentiel quâau dÃ©part il y ait des pistes significatives. Pas seulement au QuÃ©bec. Peut-Ãªtre mÃªme aux Ãtats-Unis ou ailleurs au monde oÃ¹ de telles politiques gÃ©riatriques ont Ã©tÃ© implantÃ©es.
+\end_layout
+
+\begin_layout Standard
+
+- Ce que je vous dis, monsieur Tardif, câest que tous les Michaud et Dauphin du rÃ©seau, tous ces profiteurs, vont faire tout en leur pouvoir pour Ã©touffer cette histoire. Nâest-ce pas lÃ  quâune affaire banale de personnes Ã¢gÃ©es qui passent lâarme Ã  gauche ? Crever dâallergie ou du cancer ou dâun infarctus ou dâune surexposition aux ondes, ce nâest que mourir. Tout le monde connaÃ®t son heure. Pourquoi devrait-on sâexciter les lobes dâoreille lÃ -dessus ? Pourquoi est-ce que Ã§a devrait devenir un scandale mÃ©diatisÃ© ? Si la sociÃ©tÃ© vote massivement pour des politiciens qui encagent les vieux et les nourrissent au Nutrisuz, pourquoi trouverait-elle rÃ©prÃ©hensible que certains dÃ©cÃ¨dent Ã  la suite dâun choc anaphylactique ?
+\end_layout
+
+\begin_layout Standard
+
+PÃ©nÃ©trer dans lâantre du diable, dans la grotte cachÃ©e dâun savant fou, dans la cave sinistre du docteur Frankenstein, pour se faire assÃ©ner une telle vÃ©ritÃ© relÃ¨ve du prodige.
+\end_layout
+
+\begin_layout Standard
+
+- Et je les connais bien ces profiteurs, continue le toubib. Je pourrais vous en parler, monsieur Tardif.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Je pourrais mÃªme vous parler de trafic dâhormones.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦ Attendez, attendez, docteur, pourquoi vous me dites Ã§a Ã  moi ? Croyez-moi, jâai plus vraiment de place dans ma pauvre tÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi ? Simplement parce que vous Ãªtes honnÃªtes et que, bien malgrÃ© vous, vous avez prÃ©sentement Ã  les combattre, ces Michaud et Dauphin. Et je dispose de certaines preuves irrÃ©futables que mon travail ici nâenrichit pas le Centre tel que prÃ©vu au dÃ©part du projet, mais la poche dâune petite mafia dont Michaud et Dauphin sont deux reprÃ©sentants, une mafia rÃ©gionale dont fait partie Pete Barrett, lâhomme des basses Åuvres de Sylvain Turcotte, notre bien-aimÃ© dÃ©putÃ© ministre. Connaissez-vous Claude Sey ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui.
+\end_layout
+
+\begin_layout Standard
+
+- Il est en danger et il le sait. Nous avons travaillÃ© de concert sur la dÃ©couverte du pot aux roses.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e a atteint son seuil de tolÃ©rance. Le crÃ¢ne lui travaille fort pour Ã©clater.
+\end_layout
+
+\begin_layout Standard
+
+- Docteur, on sâen reparle. Je dois filer. Je suis trÃ¨s en retard.
+\end_layout
+
+\begin_layout Standard
+
+- Quand vous voudrez, monsieur Tardif, mais ne tardez pas, jâachÃ¨ve, ici.
+\end_layout
+
+\begin_layout Standard
+
+- Vous partez ?
+\end_layout
+
+\begin_layout Standard
+
+- Disons quâon ne me fait plus confiance.
+\end_layout
+
+\begin_layout Standard
+
+La premiÃ¨re personne sur qui le chef de section tombe lorsquâil arrive au 5e Nord, câest Jean Saint-Gelais. Il sâavoue consternÃ© et prÃ©vient quâil va venger Dart Vader. Il ne sait pas comment, mais il est certain quâil le fera. TimothÃ©e est encore en train dâessayer de se dÃ©barrasser du bonhomme quand Ronnie Ross lui fait signe de venir le joindre derriÃ¨re le comptoir du poste de garde. Il a la mine plus basse que normale.
+\end_layout
+
+\begin_layout Standard
+
+- Jâsais pas comment tâannoncer Ã§a, MottÃ©, mais faut que jâte dise que les deux Martel, tes amis de la petite chambre, Laurent pâis moi, on vient de les retrouver morts tous les deux.
+\end_layout
+
+\begin_layout Standard
+
+Le coup est violent. Imparable.
+\end_layout
+
+\begin_layout Standard
+
+- Morts ? Comment est-ce possible, cÃ¢lisse !
+\end_layout
+
+\begin_layout Standard
+
+- On a rien touchÃ©, viens voir.
+\end_layout
+
+\begin_layout Standard
+
+Lâun Ã  pied, les deux autres en Saguewanish, le trio arrive devant la piÃ¨ce en question oÃ¹ Ronnie dicte le code dâouverture. Dans le petit lit, lâhomme et la femme reposent cÃ´te Ã  cÃ´te, les traits paisibles, on jurerait deux vieux amants faisant la sieste. Par terre, une feuille de papier sur laquelle on a Ã©crit :
+\end_layout
+
+\begin_layout Standard
+
+Comme en 2033, la vie des vieillards nâa dâautre sens que celui de ce rapprochement quotidien dâun grabat dans la salle palliative en attente de la CÃ©rÃ©monie mensuelle, nous pensons que ce nâest plus notre place ici et quâil est prÃ©fÃ©rable aller voir ailleurs si câest mieux. Grand merci Ã  ceux qui, comme le Chef du 5e Nord, ont essayÃ© dâamÃ©liorer notre sort. Quant aux autres, quâils se disent que nous avons fini de les haÃ¯r.
+\end_layout
+
+\begin_layout Standard
+
+Il nây a pas lâombre dâun doute; câest encore une histoire de pilule du bonheur. Les yeux mouillÃ©s de larmes, TimothÃ©e arrive Ã  peine Ã  rÃ©pondre aux deux prÃ©posÃ©s qui veulent savoir comment procÃ©der avec ce double dÃ©cÃ¨s.
+\end_layout
+
+\begin_layout Standard
+
+- On fait comme dâhabitude. La routine cÃ¢lisse. On fait comme si on ignorait quâils se sont suicidÃ©s et on appelle les gars du frigo. Ensuite, vous connaissez la marche Ã  suivre. Et moi aussi. Deux de partis, deux dâarrivÃ©s. Deux dossiers Ã  fermer, deux nouveaux Ã  ouvrir. Encore des cÃ¢lisses de statistiques Ã  modifier.
+\end_layout
+
+\begin_layout Standard
+
+- OK MottÃ©.
+\end_layout
+
+\begin_layout Standard
+
+La journÃ©e avait pourtant si bien commencÃ© se dit le CS-1 en longeant le mur en direction du bureau de Robespierre Alcide.
+\end_layout
+
+\begin_layout Standard
+
+Quand elle le voit entrer et sâÃ©craser sur la chaise libre, Mme Bellow juge Ã  propos de sortir prendre sa pause promenade.
+\end_layout
+
+\begin_layout Standard
+
+- Ou-lÃ -lÃ , fait le colosse.
+\end_layout
+
+\begin_layout Standard
+
+- Ils sont morts tous les deux, Robespierre
+\end_layout
+
+\begin_layout Standard
+
+- Qui Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Viens pas me dire que tu le sais pas ! Câest pas toi qui les distribues, les cÃ¢lisses de pilules ?
+\end_layout
+
+\begin_layout Standard
+
+Le gaillard ne bronche pas.
+\end_layout
+
+\begin_layout Standard
+
+- Ã matin, Robert Gagnon, maintenant, les deux Martel, maudit que la vie est moche !
+\end_layout
+
+\begin_layout Standard
+
+Et tel lâenfant quâil avait probablement cessÃ© dâÃªtre Ã  lâÃ©poque du Lac Saint-Mathieu, TimothÃ©e Ã©clate en sanglots. Un sanglot profond, puissant, ancien, total, siphonnant. Un sanglot chargÃ© de douleur que tout le 5e Nord doit entendre en baissant la tÃªte. Un sanglot dâun dÃ©sespoir tel que personne ne lâoubliera jamais. Incapable de se retenir, Robespierre sâapproche de la chaise, se met un genou Ã  terre, relÃ¨ve dÃ©licatement la tÃªte de son ami et se la place sur lâÃ©paule. Puis, de ses grands bras, il lui enserre doucement le haut du dos et se met Ã  lui rÃ©pÃ©ter, telle une comptine :
+\end_layout
+
+\begin_layout Standard
+
+- Laisse-toi aller mon ami, laisse tout le mauvais sortir.
+\end_layout
+
+\begin_layout Standard
+
+Ã lâarrivÃ©e des policiers dans la salle du CA, Marie-Odile avait jugÃ© que sa prÃ©sence nâÃ©tait plus essentielle. Par contre, son collÃ¨gue Tropecolo Ã©tant celui qui avait tout captÃ© avec son DPP, ne demandait pas mieux que de rester sur place avec les flics de la grande maison ce qui, dans sa tÃªte, lui confÃ©rait beaucoup dâimportance, sans parler de lâexpÃ©rience. Peut-Ãªtre mÃªme pourrait-il dÃ©velopper un contact et avoir sa chance dâÃªtre admis dans la ligue des vrais.
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s sâÃªtre assurÃ©e de la disponibilitÃ© de BÃ©atrice Martin, elle sâÃ©tait mise en route vers la demeure de lâinfirmiÃ¨re en congÃ© maladie et sur le point dâÃªtre en recherche dâemploi. Car pour elle, il nâÃ©tait plus question de retourner en HaÃ¯ti; sa santÃ© lui rendant dÃ©sormais ce scÃ©nario impensable.
+\end_layout
+
+\begin_layout Standard
+
+- Bonjour, dit-elle Ã  Marie-Odile en ouvrant, je suis BÃ©atrice Martin.
+\end_layout
+
+\begin_layout Standard
+
+Lâapercevant toute souriante dans le cadre de porte, la femme flic comprend quâil va lui falloir trimer dur pour ne pas perdre TimothÃ©e. Non seulement cette femme est beaucoup plus jolie quâelle, mais son sourire est la merveille des sept mers, son aura une fÃ©erie vibrante sur laquelle on veut se rÃ©chauffer, sa peau, en tout cas, celle de sa main quâelle serre, dâune douceur Ã  se faire lesbienne ad perpet. Et ces yeux qui brillent comme ceux dâune Sainte-Vierge Ã©clairÃ©e aux lampions. Et cette petite robe quâelle peut porter, elle, et qui la fait paraÃ®tre comme incarnant la quintessence de la fÃ©minitÃ©, un look qui rend les hommes dingues et quâelle, la grosse Tremblay, nâa jamais pu se permettre de sa chienne de vie. Marie-Odile Ã©value quâÃ  Ã¢ge et taille sensiblement Ã©gales, la pimbÃªche doit traÃ®ner une vingtaine de kilos en moins quâelle, une Â«tomboyÂ» plus barattÃ©e quâondulÃ©e. Du coup, elle la dÃ©teste dâune haine sourde comme celles qui tÃ©tanisent les muscles maxillaires jusque dans lâinconfort, comme celles qui fait en sorte quâon regarde calmement, en souriant, quelquâun se noyer en se fichant de se faire accuser de non-assistance de personne en danger de mort, comme celles qui ont inspirÃ© des gÃ©nÃ©rations de fabricants de poupÃ©es vaudou.
+\end_layout
+
+\begin_layout Standard
+
+Sauf que lâagente de sÃ©curitÃ© est une professionnelle. Elle sera froide et distante, mais elle demeurera polie et respectueuse. Rien de sa rancÅur ne paraÃ®tra. Elle captera sa dÃ©position selon les rÃ¨gles de lâart, se la fera jouer pour vÃ©rification, remerciera la belle infirmiÃ¨re et, de sa dÃ©marche lourde, masculine, sâen retournera Ã  sa voiture de fonction.
+\end_layout
+
+\begin_layout Standard
+
+Câest le pauvre docteur Gagnon, un autre dont Marie-Odile sâÃ©tait assurÃ© de la prÃ©sence, qui subira les consÃ©quences de ses vingt kilos en trop de et de sa dÃ©gaine de perdante dans un contexte oÃ¹ la gagnante est une dÃ©esse.
+\end_layout
+
+\begin_layout Standard
+
+Ã la maniÃ¨re dâun livreur dâeau en bouteille, elle pÃ©nÃ¨tre dans la clinique et, de la faÃ§on la plus naturelle du monde, demande oÃ¹ se trouve le bureau du bon docteur. La rÃ©ceptionniste pointe vers une porte, mais se dÃ©pÃªche dâajouter que son patron est en consultation. Cela ne dÃ©courage pas lâintruse qui continue vers le local indiquÃ©, cogne et entre sans attendre dâinvitation. Une patiente, le genre friquÃ© dont les fringues doivent coÃ»ter trois fois le salaire mensuel quâon verse aux agents classe 1 au CRG-BSL, la regarde sans broncher. La piÃ¨ce embaume le parfum horriblement cher.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce qui se passe ? demande Ãtienne Gagnon.
+\end_layout
+
+\begin_layout Standard
+
+- Yâs passe que madame, ici lÃ , sâen va patienter deux minutes dans la salle dâattente. Ce que jâai Ã  vous rÃ©vÃ©ler, monsieur, ne la concerne pas du tout. Le praticien hausse le ton.
+\end_layout
+
+\begin_layout Standard
+
+- Vous Ãªtes qui, vous ?
+\end_layout
+
+\begin_layout Standard
+
+Affichant lâair le moins sÃ©duisant du monde, Marie-Odile Tremblay prÃ©sente sa plaque dâagente de sÃ©curitÃ© au CRG.
+\end_layout
+
+\begin_layout Standard
+
+- Je vous rÃ©pÃ¨te, monsieur, que ma visite ne regarde que vous, personnellement.
+\end_layout
+
+\begin_layout Standard
+
+- Allez mâattendre Ã  lâaccueil, je serai Ã  vous dans vingt minutes, lui dit-il avec morgue.
+\end_layout
+
+\begin_layout Standard
+
+- Ah bon ! Câest comme Ã§a que vous voulez la jouer, la partie. Parfait. Je vais vous parler devant la madame. JâenquÃªte, monsieur, sur un complot visant Ã  voler des produits pharmaceutiques au Centre Ã  la suite de traitements que vous avez consentis Ã  une dame Ã¢gÃ©e du quartier Nazareth, plus particuliÃ¨rement sur la rue Crouet, une certaine Marie â¦.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa va, Ã§a va ! Madame Robert, vous voulez me donner quelques instants ? Je suis Ã  vous dans deux minutes.
+\end_layout
+
+\begin_layout Standard
+
+Sans parler, la patiente ondule sur ses escarpins presque Ã©chassiers vers la porte et disparaÃ®t entraÃ®nant avec elle une fragrance susceptible de transformer nâimporte biÃ¨re en jus de chaussette. Marie-Odile referme lâhuis et se tapote la boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- Je suis ici pour prendre votre dÃ©position dans une affaire impliquant le chef de section TimothÃ©e Tardif. Jâai ici, dans ce petit dispositif, deux tÃ©moignages officiels dont copies sont dÃ©jÃ  dans le serveur de la SÃ©cu au Centre. Il y a celle de monsieur Tardif qui prÃ©tend Ãªtre venu vous chercher dâurgence, le mercredi 20 juillet dernier, pour vous amener traiter une de ses amies, madame BÃ©atrice Martin, une infirmiÃ¨re en congÃ© maladie, pour des raisons mÃ©dicales qui nâintÃ©ressent pas mon enquÃªte. Cette dÃ©claration est corroborÃ©e par celle de Mme Martin qui reconnaÃ®t que vous lui avez procurÃ© Ã  ce moment et Ã  trois occasions par la suite, des soins de grande qualitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce câest que cette histoire farfelue ?
+\end_layout
+
+\begin_layout Standard
+
+- Jây arrive. Vous allez maintenant me dÃ©clarer la mÃªme chose. Jâen ferai votre dÃ©position officielle et jâirai clore mon enquÃªte.
+\end_layout
+
+\begin_layout Standard
+
+Gagnon est abasourdi.
+\end_layout
+
+\begin_layout Standard
+
+- Vous Ãªtes folles, dit-il en direction de son terminal. Jâappelle Carl Michaud immÃ©diatement.
+\end_layout
+
+\begin_layout Standard
+
+Elle lui jette un disque mini 3DVD.
+\end_layout
+
+\begin_layout Standard
+
+- Je ne ferais pas cela Ã  votre place. Voici votre derniÃ¨re conversation avec monsieur Tardif. Si vous vous donnez la peine de visionner cette copie certifiÃ©e et numÃ©rotÃ©e par la SÃ©cu, vous constaterez que vous lui consentez un dÃ©lai pour quâil vous vole des produits pharmaceutiques. Je refile Ã§a Ã  nâimporte quel flic et vous Ãªtre arrÃªtÃ©. Je refile Ã§a Ã  nâimporte quel journaliste et votre rÃ©putation est dÃ©truite.
+\end_layout
+
+\begin_layout Standard
+
+Si les yeux humains disposaient de fonctions lance-flamme, Marie-Odile Tremblay ne serait plus quâun amas de suif en train de fondre.
+\end_layout
+
+\begin_layout Standard
+
+- En rÃ©sumÃ©, nous allons nous entendre sur trois choses. Un, vous me faites une dÃ©position dans le sens que je vous ai suggÃ©rÃ© tantÃ´t. Deux, vous oubliez dÃ©finitivement monsieur Tardif pour vous procurer des produits pharmaceutiques. Trois, vous Ã©liminez de votre mÃ©moire tout ce qui est relatif Ã  ses parents. Si vous dÃ©rogez Ã  ces trois conditions, je vous dÃ©truis.
+\end_layout
+
+\begin_layout Standard
+
+- Est-ce quâils sont tous aussi baveux que vous, Ã  la SÃ©curitÃ© du Centre ?
+\end_layout
+
+\begin_layout Standard
+
+- Votre rÃ©ponse, monsieur ?
+\end_layout
+
+\begin_layout Standard
+
+- Je me plie Ã  votre chantage, mais vous pouvez Ãªtre assurÃ©e, madame la Â«grosse policeÂ», que la mÃ¨re de votre ami Tardif, elle pourra crever avant que je remette les pieds lÃ .
+\end_layout
+
+\begin_layout Standard
+
+- Câest un beau geste de votre part, monsieur. Les malades craignent les rats; Ã§a leur donne des cauchemars.
+\end_layout
+
+\begin_layout Standard
+
+Vingt minutes plus tard, Marie-Odile est de retour au CRG avec, dans sa besace, deux dÃ©positions hautement favorables Ã  TimothÃ©e dont lâune contient lâexpression indÃ©lÃ©bile dâune haine Ã©ternelle. Elle a tÃ´t fait dâen tirer un rapport quâelle dicte Ã  son systÃ¨me et quâelle tÃ©lÃ©verse dans la boÃ®te dâaccueil de la direction gÃ©nÃ©rale. Les grandes lignes ? Le CS-1 TimothÃ©e Tardif est blanc comme neige. Rien dâillÃ©gal ou de contraire aux intÃ©rÃªts du CRG-BSL ne peut Ãªtre retenu contre lui. Idem pour le docteur Ãtienne Gagnon, mÃ©decin visiteur audit CRG-BSL.
+\end_layout
+
+\begin_layout Standard
+
+Le mieux, se dit-elle en ravalant son cafard, serait maintenant de monter au 5e en avertir lâintÃ©ressÃ© lui-mÃªme. Son excellence lâintÃ©ressÃ©, sa sÃ©rÃ©nissime splendeur, sa trÃ¨s haute grandeur toute potelÃ©e, Sa MajestÃ© toute pansue qui, effoirÃ© au sommet de ses trois cent trois coussins moelleux, lui condescendra, Ã  elle, cette femelle parmi tant dâautres femelles, Ã  la condition quâelle le mÃ©rite, cela va de soi, un regard, peut-Ãªtre mÃªme un geste pouvant Ãªtre interprÃ©tÃ© comme quoi il la juge sur la bonne voie, celle menant au plaisir inouÃ¯, unique, recherchÃ©, de se faire honorer par sa virilitÃ© prodigieuse de grand homme, schlac, ouf, ouf, iiÃ¨Ã¨ii, euh ! Elle rumine, la Marie-Odile, elle broie du noir, elle transpire du vinaigre, elle digÃ¨re ses sucs gastriques, elle grince des dents, elle se hÃ©risse le poil des aisselles, elle sâescrime les hÃ©morroÃ¯des, elle tÃ©lÃ©porte des ondes lÃ©tales Ã  cette BÃ©atrice Martin, rombiÃ¨re, princesse, gÃ©daille, nouvelle maigre qui doit avoir le ventre, les seins et le cul striÃ©s de vergetures, sans parler du haut des cuisses qui doit Ãªtre picotÃ© de cellulite, cette ancienne jeune aux petits sourires hypocrites, traÃ®tres, qui nâattend quâun cave avec du fric pour en Ãªtre la sangsue. Un cave comme TimothÃ©e, imbÃ©cile aussi dÃ©lurÃ© quâun poisson rouge, qui rampera pour lui lÃ©cher le dessous des semelles. Oui mais TimothÃ©e nâen a pas de fric. Quel salaud quand mÃªme ! Tous des salauds ! AprÃ¨s ce quâelle a fait pour lui, au risque de se faire attraper et de perdre son boulot. Les hommes ! Tu leur consens un pouce, ils prennent un pied.
+\end_layout
+
+\begin_layout Standard
+
+Comme elle sâapprÃªte Ã  monter lui dÃ©verser quelques litres de fiel, des crampes lui rappellent ces quelques annÃ©es Ã  tirer avant de frapper sa mÃ©nopause. DâoÃ¹ sa dÃ©prime et sa jalousie, quâelle conclut. NâempÃªche que le fils Tardif et un beau salaud et cette Martin, une belle gourgandine, une marie-couche-toi-lÃ  de la pire espÃ¨ce, celle des petites kioutes Ã  qui tu donnerais le Bon Dieu sans confession.
+\end_layout
+
+\begin_layout Standard
+
+De si agrÃ©able humeur, elle saute sur sa saguigi et file en direction du 5e Nord. Parce quâau CRG-BSL il nây a ni poules en libertÃ©, ni marmotte qui traversent les couloirs, ni enfants en train de jouer, elle nâen Ã©crase aucun. Elle sort de lâascenseur tellement vite, quâelle Ã©vite de justesse de frapper Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+- Tout doux, Marie-Odile. Y a assez eu de morts pour la journÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Excuse ! Ãa va assez mal de mÃªme !
+\end_layout
+
+\begin_layout Standard
+
+Comme elle semble se diriger vers le bureau de TimothÃ©e, il la hÃ¨le.
+\end_layout
+
+\begin_layout Standard
+
+- Excuse-moi, tu tâen vas chez notre ami ?
+\end_layout
+
+\begin_layout Standard
+
+Elle ralentit et hoche affirmativement de la tÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Câest pas de mes affaires, mais si tes Ã©tats dâÃ¢me le concernent, si tâes pour lui dire des choses dÃ©sagrÃ©ables comme il les mÃ©rite sÃ»rement, tâes quand mÃªme une femme de qualitÃ©, il faudrait peut-Ãªtre que tu mâÃ©coutes un instant.
+\end_layout
+
+\begin_layout Standard
+
+Puis, se tournant vers Mme ThÃ©riault qui fait mine de ne rien entendre, il sourit.
+\end_layout
+
+\begin_layout Standard
+
+- Bonjour madame, je peux vous aider ?
+\end_layout
+
+\begin_layout Standard
+
+La vieillarde ne rÃ©pond pas et disparaÃ®t en direction du salon communautaire.
+\end_layout
+
+\begin_layout Standard
+
+- Envoille, je tâÃ©coute !
+\end_layout
+
+\begin_layout Standard
+
+- VoilÃ . TimothÃ©e en a plein le casque : Dart Vader en arrivant, deux de ses bÃ©nÃ©ficiaires quâil apprÃ©ciait particuliÃ¨rement un peu plus tard. Je lâai ramassÃ© Ã  la petite cuillÃ¨re tout Ã  lâheure; tâas pas idÃ©e ! Crois-moi, il nâest plus capable dâen prendre. Si tu lui dis des choses mÃ©chantes, câest certain quâIl va tilter. Je lâai jamais vu aussi abattu. SÃ©rieusement, ce nâest vraiment pas le moment dâen rajouter.
+\end_layout
+
+\begin_layout Standard
+
+Il lui a mis ses grosses paluches sur les Ã©paules.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas pas le choix, ma grande. Ravale ta colÃ¨re et donne-lui un break. Garde Ã§a pour un autre jour.
+\end_layout
+
+\begin_layout Standard
+
+Elle semble hÃ©siter.
+\end_layout
+
+\begin_layout Standard
+
+- Sâil te plaÃ®t ?
+\end_layout
+
+\begin_layout Standard
+
+- Bon, OK !
+\end_layout
+
+\begin_layout Standard
+
+Lentement, il retire ses mains et la gracie du plus Alcide de ses sourires.
+\end_layout
+
+\begin_layout Standard
+
+- Si je peux tâaider, fais-moi signe.
+\end_layout
+
+\begin_layout Standard
+
+Et le Robespierre de sâeffacer.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e est assis Ã  son bureau en train de consulter un album de photos dâenviron dix centimÃ¨tres dâÃ©pais, le type cartable vendu en pharmacie. Photos noir et blanc des annÃ©es 1930, 40 et 50, photos couleur, souvent dÃ©lavÃ©es, Ã  partir des annÃ©es 60, photos numÃ©riques dÃ©coupÃ©es, le bleu presque disparu, dÃ¨s lâAn 2000, belle jeunesse sur des skis de bois durant lâhiver 1943, scÃ¨nes de la conflagration rimouskoise de 1950, gamins quasiment en joie devant des mononks endimanchÃ©s, petite biÃ¨re en main, paquet dâenfants hilares dans un Mercury Meteor 1962, photos de diplÃ´mÃ©s les cheveux plein de colle, couple souriant sur un sofa orange et brun contre un mur dÃ©corÃ© pour NoÃ«l, jeunots surex Ã  lâExpo 67, alignement de quelques aÃ®nÃ©s avec, au centre, deux jeunes mariÃ©s, fÃªtes, anniversaires, voyages, plage, neige, camping, mer, personnages dâÃ¢ge certain, dâÃ¢ge trÃ¨s certain.
+\end_layout
+
+\begin_layout Standard
+
+- Câest tout ce qui reste de leur vie, dit-il Ã  Marie-Odile sans la regarder. Des photos banales, plates. Des clichÃ©s de leur routine annuelle. On les voit ensemble pendant une bonne soixantaine dâannÃ©es. Elle semblait belle et lui, il avait lâair fier. On dirait quâils nâont pas eu dâenfants.
+\end_layout
+
+\begin_layout Standard
+
+La femme-flic fait un lien avec les Â«deux bÃ©nÃ©ficiairesÂ» dÃ©cÃ©dÃ©s et laisse le monologue durer encore quelques instants.
+\end_layout
+
+\begin_layout Standard
+
+- Jâsuis dÃ©solÃ©e, soupire-t-elle. Mais jâviens pas pour Ã§a. Câest pour te confirmer que jâai terminÃ© mon rapport et que je lâai uploadÃ© dans la quiou de la direction gÃ©nÃ©rale. Fait que tâes blanchi, tÃ©moignages Ã  lâappui. Pour lâinstant, ils vont devoir te sacrer patience. Je dis bien Â«pour lâinstantÂ». Du cÃ´tÃ© de Gagnon, il a perdu ses dents. Lui non plus, il peut plus tâembÃªter. Pour lâinstant. Câest au moins Ã§a comme bonnes nouvelles, non ? Mais il y en a une mauvaise.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e la regarde comme une victime dâindigestion qui lorgnerait un immense plat de choucroute.
+\end_layout
+
+\begin_layout Standard
+
+- La mauvaise, continue-t-elle, câest que cet enfant de chienne a dÃ©cidÃ© de ne plus jamais mettre les pieds chez ta mÃ¨re. Si on le force pas, va falloir trouver quelquâun dâautre. Et si on le force, Ã§a risque dâÃªtre aussi pire. Imagine ta mÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Il retire ses verres et les glisse entre deux boutons de sa chemise pour les essuyer.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen y a BÃ©atrice Martin. Elle est infirmiÃ¨re et hier, elle a mâa dit quâelle pourrait peut-Ãªtre passer. Je vais lui demander.
+\end_layout
+
+\begin_layout Standard
+
+Incapable de se contenir, Marie-Odile se lÃ¨ve brusquement, tous les muscles du visage traitÃ©s aux hormones de croissance. Heureusement, la mine de Robespierre lui revient et arrive Ã  calmer ses volcans internes. Elle se contente de dire quâelle ne se sent pas bien, quâelle a ses menstruations difficiles, quâelle doit aller prendre des mÃ©dicaments, quâelle va probablement rentrer chez elle pour se coucher, bref, que leur tÃªte-Ã -tÃªte de soirÃ©e est remis Ã  un autre jour. Puis, avant mÃªme quâil nâait le temps dâaccuser rÃ©ception Ã  cette ouverture de cage, une ouverture contre toute attente, elle attrape sa trottinette et disparaÃ®t.
+\end_layout
+
+\begin_layout Standard
+
+Exit Ilsa la louve ! Non sans soulagement, il se replonge dans lâalbum des Martel. Mais sa tÃªte est ailleurs.
+\end_layout
+
+\begin_layout Standard
+
+- BÃ©atrice Martin, dit-il Ã  son terminal.
+\end_layout
+
+\begin_layout Standard
+
+Le systÃ¨me se retrouve bredouille.
+\end_layout
+
+\begin_layout Standard
+
+- Il ne semble pas y avoir de fiche correspondante, serine la machine.
+\end_layout
+
+\begin_layout Standard
+
+- Information, Rimouski, rue Pouliot, Martin B.
+\end_layout
+
+\begin_layout Standard
+
+- Il y a une seule inscription rÃ©pondant Ã  ces critÃ¨res. Voulez-vous que je lâajoute Ã  la liste des contacts ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui !
+\end_layout
+
+\begin_layout Standard
+
+- CoordonnÃ©es ajoutÃ©es. Voulez-vous que jâappelle ce nouveau contact ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui !
+\end_layout
+
+\begin_layout Standard
+
+Les aveugles qui ont Ã  se constituer lâimage mentale dâun interlocuteur adoreraient sÃ»rement parler Ã  BÃ©atrice; ils en tomberaient amoureux Ã  coup sÃ»r. Autant cette femme est belle, chaleureuse, agrÃ©able et sÃ©duisante, se dit TimothÃ©e, autant sa voix est chaude, empathique, vivante et sensuelle. On jurerait que tous les anges du ciel font le cercle autour dâelle pour que chacune de ses paroles soit un vrai moment de bonheur. Au tÃ©lÃ©phone !
+\end_layout
+
+\begin_layout Standard
+
+- Câest TimothÃ©e Tardif, euh, du CRGâ¦
+\end_layout
+
+\begin_layout Standard
+
+Lâidiot ! Pourquoi lui a-t-il fallu prÃ©ciser lâorigine de son salaire. Comme sâil trouvait normal quâelle ne le replace pas, quâil se pouvait quâelle ait dÃ©jÃ  oubliÃ© le fils Tardif Ã  qui elle avait remis une si terrible lettre, comme sâil voulait garder ses distances en se cachant derriÃ¨re son foutu centre gÃ©riatrique. Tant quâÃ  y Ãªtre, pourquoi ne recommencerait-il pas le vouvoiement !
+\end_layout
+
+\begin_layout Standard
+
+- Moi câest BÃ©atrice Martin, bacheliÃ¨re en nursage provisoirement en convalescence, monsieur du CRG, quâelle rÃ©pond avec, on peut imaginer, un petit sourire moqueur. Je le sais bien que câest toi !
+\end_layout
+
+\begin_layout Standard
+
+- Euh, ouais. Euh, je voulais te parler du docteur Gagnon.
+\end_layout
+
+\begin_layout Standard
+
+Et il lui relate lâessentiel de la visite de Marie-Odile. En un mot, le mÃ©decin profiteur a Ã©tÃ© neutralisÃ©, lâenquÃªte interne renvoie Michaud et Dauphin Ã  la case de dÃ©part, la pression est devenue un peu moindre, mais il nây a plus personne pour offrir de soins Ã  sa mÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen voyons TimothÃ©e, je suis lÃ  !
+\end_layout
+
+\begin_layout Standard
+
+- Mais Ã§a nâa pas de bons sens de tâembarquer dans une histoire de fous comme Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi ?
+\end_layout
+
+\begin_layout Standard
+
+- Câest rien de bien drÃ´le, ma mÃ¨re est un peu spÃ©ciale. Pâis tâes en convalescence et, jâsais pas moi, sâil surgissait quelque chose de grave ? Tu serais mal prise.
+\end_layout
+
+\begin_layout Standard
+
+- Tu veux dire Â«graveÂ» comme seul un docteur peut traiter ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouin. Pâis en plus, je sais pas trop comment on va faire pour payer tes honoraires.
+\end_layout
+
+\begin_layout Standard
+
+- Mes honoraires ? Quels honoraires ? Est-ce que tu penses vraiment que je suis une personne qui essaierait faire des sous avec du bon monde comme vous autres ? Ãcoute, espÃ¨ce de fils inquiet cassÃ© comme un clou, en quinze ans de dispensaire bÃ©nÃ©vole en HaÃ¯ti, jâen ai vu de toutes les couleurs et je pourrais en montrer Ã  plusieurs mÃ©decins, surtout aux jeunes fiers-pets qui croient tout savoir. Pâis de lâargent, jâhais Ã§a !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e sâen veut tellement quâil se frapperait la tÃªte contre ses murs en bÃ©ton. Quel con, mais quel con, il est ! Il a la chance de parler Ã  la plus belle femme de la planÃ¨te, lui dont lâexercice rÃ©cent du romantisme a pour cadre un stalag, il a le privilÃ¨ge de tenir au bout de la ligne la personne la plus chaleureuse, la plus douce, jamais croisÃ©e dans sa mochetÃ© dâexistence, il rÃ©ussit Ã  lui faire hausser le ton, il ne fait quâaccumuler les impairs. Pendant une minute ou deux, il va ainsi essayer de remonter la pente. Maladroitement. Il va prÃ©texter sa confusion mentale, sa fatigue et lâÃ©tat de sa journÃ©e qui nâest pourtant quâÃ  moitiÃ© passÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Et elle, la bonne Rapuntzel, elle va lâaider. Elle va lui affirmer comprendre sa situation, Â«jâignore comment tu fais pour survivre Ã  autant dâennuisÂ». Elle va lui ouvrir toutes grandes ses portes. Elle va lui raconter quâau dispensaire, ils avaient recrutÃ© un mÃ©decin, un QuÃ©bÃ©cois qui dÃ©sirait sâimpliquer pour soulager la misÃ¨re des HaÃ¯tiens. Mais Ã  peine dÃ©barquÃ©, il avait voulu prendre le contrÃ´le des opÃ©rations et sâÃ©tait mis Ã  traiter BÃ©atrice comme une assistante sans envergure, Â«quand on est payÃ© des pinottes, nâest-ce pas ?Â» Pire, pendant des mois, il avait tentÃ© de sâen faire une maÃ®tresse. ExcÃ©dÃ©e, elle lui avait rivÃ© son clou en faisant ressortir son insuffisance professionnelle. Le gars posait parfois de mauvais diagnostics et il lui arrivait de se tromper dans ses prescriptions. Voyant en elle une coopÃ©rante apparemment plus compÃ©tente, assurÃ©ment plus fiable et manifestement plus apprÃ©ciÃ©e des gens, les autoritÃ©s de la clinique avaient renvoyÃ© chez lui le prÃ©tentieux toubib.
+\end_layout
+
+\begin_layout Standard
+
+- Le problÃ¨me, câest quâon nâa jamais pu le remplacer.
+\end_layout
+
+\begin_layout Standard
+
+- Mais pourquoi tâas pas choisi de te faire mÃ©decin au lien dâinfirmiÃ¨re ?
+\end_layout
+
+\begin_layout Standard
+
+Quel con, quel con, mais quel con !
+\end_layout
+
+\begin_layout Standard
+
+- Parce que mes parents nâen avaient pas les moyens.
+\end_layout
+
+\begin_layout Standard
+
+Elle fait une pause bien sentie, puis reprend, Ã  peine plus sÃ¨chement.
+\end_layout
+
+\begin_layout Standard
+
+- Pour en revenir Ã  ta mÃ¨re, le mieux serait que tu lui dises que je suis disponible et, selon sa rÃ©action, je pourrais passer la rencontrer plus tard dans la journÃ©e. PrÃ©cieux conseil que TimothÃ©e va suivre Ã  la lettre, soucieux de ne pas rater cette autre chance. Mais quelle autre chance ? Pourquoi y en aurait-il une autre ? Il vient de la rater magistralement, sa foutue chance. Et il lâa ratÃ© parce quâil a Ã©tÃ© en dessous de tout. Parce quâil est un gros con qui nâa jamais su comment parler aux femmes. Quand on ne saisit pas sa chance au vol quand elle passe, on ne peut que la regarder filer; la vie est ainsi faite. Â«Il nây a plus de place, mon pauvre vous, mais on vous a inscrit sur une liste dâattente. Sait-on jamais, quelquâun de choisi, dâÃ©lu, de nommÃ©, quelquâun sur la liste principale, sur la seule liste qui compte vraiment, quelquâun de plus futÃ©, de mieux friquÃ©, quelquâun avec de meilleures notes ou de meilleures relations que vous, peut se dÃ©sister, dÃ©mÃ©nager, mourir, Ãªtre enlevÃ© par un OVNI. Ã ce moment-lÃ , on vous contacteraÂ». Ou encore : Â«il y a une minute que le bus est parti, mon pauvre vous; vous lâavez ratÃ© de justesse. Mais ne bougez pas, on va essayer de voir si Ã§a se peut quâon en arrive Ã  Ãªtre capable de pouvoir en faire partir un autre dâici une heureÂ». Ãvidemment, il nây a jamais de deuxiÃ¨me bus. Comme cette fois oÃ¹ il sâÃ©tait inscrit en techniques bibliothÃ©conomiques. Le groupe ayant Ã©tÃ© complÃ©tÃ©, on avait placÃ© son nom sur une liste, le prÃ©venant quâil y avait habituellement de sÃ©rieuses chances quâune place se libÃ¨re. Mais on ne lâavait jamais rappelÃ©. Jamais. Aujourdâhui, a-t-il dÃ©jÃ  perdu celle qui sait encore moins que lui quâelle pourrait Ã©ventuellement, un jour, peut-Ãªtre, devenir le siÃ¨ge permanent de son amour infini ? La vie est-elle aussi cruelle ?
+\end_layout
+
+\begin_layout Standard
+
+De toute faÃ§on, il y a sÃ»rement un problÃ¨me avec cette femme. Comment est-ce possible dâavoir autant de qualitÃ©s physiques et morales sans avoir, Ã  sa porte, jour et nuit, une filÃ©e incommensurable de soupirants issus des meilleures familles du QuÃ©bec, les uns la bite sous le bras, les autres tenus en laisse par leur mÃ¨re ? Elle doit souffrir dâune maladie, cette bonne femme, ou elle a eu un gros accident ou elle est gouine ou elle milite dans lâOpus Dei ou il y a un empÃªchement trÃ¨s dissuasif de que seuls des yeux amoureux ne peuvent voir. Des yeux amoureux ? Serait-il amoureux ? Et Marie-Odile-la-tÃ´liÃ¨re ? Seigneur !
+\end_layout
+
+\begin_layout Standard
+
+Il se pointe Ã  nouveau le nez en direction de son terminal.
+\end_layout
+
+\begin_layout Standard
+
+- Maman, le docteur Gagnon ne viendra plus. Plus jamais ! Mais jâai trouvÃ© quelquâun dâautre pour le remplacer, une infirmiÃ¨re haut de gamme.
+\end_layout
+
+\begin_layout Standard
+
+- Ah !
+\end_layout
+
+\begin_layout Standard
+
+- Tu la connais de loin.
+\end_layout
+
+\begin_layout Standard
+
+- Châest qui ?
+\end_layout
+
+\begin_layout Standard
+
+- BÃ©atrice Martin, la petite-fille de lâamie de ta mÃ¨reâ¦
+\end_layout
+
+\begin_layout Standard
+
+Un silence de trois secondes vient Ã©prouver TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- La fille qui avait la lettre ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui.
+\end_layout
+
+\begin_layout Standard
+
+Rien, derechef !
+\end_layout
+
+\begin_layout Standard
+
+- Elle est trÃ¨s bonne et trÃ¨s dÃ©vouÃ©e, pâis Ã§a, Ã§a arrive dans un contexte oÃ¹ il faut jouer trÃ¨s trÃ¨s serrÃ©. On a pas le choix, il faut que tu soies suivie comme du monde.
+\end_layout
+
+\begin_layout Standard
+
+Ã nouveau, une mÃ©ditation.
+\end_layout
+
+\begin_layout Standard
+
+- AllÃ´, tâes encore lÃ  ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui oui, je rÃ©flÃ©chichais.
+\end_layout
+
+\begin_layout Standard
+
+- Ah !
+\end_layout
+
+\begin_layout Standard
+
+- Bon, châest correct, si châest che qui te fait peur, je la mangerai pas ton infirmiÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+SoulagÃ©, il raccroche et, dÃ©cidÃ© Ã  faire mentir ses constats voulant que les deuxiÃ¨mes listes ne servent jamais, il rappelle cet Ãªtre de toutes les splendeurs, de toutes les fÃ©licitÃ©s, de tous les rÃªves, lui le binoclard grassouillet dont les cheveux ont atteint leur automne, et il lui rÃ©vÃ¨le le verdict de la Maririou.
+\end_layout
+
+\begin_layout Standard
+
+- Je serai chez toi, la seule maison de cÃ´tÃ© nord de la rue Crouet, vers 19 h, promet-elle.
+\end_layout
+
+\begin_layout Standard
+
+Et câest exactement ce qui se produit.
+\end_layout
+
+\begin_layout Standard
+
+Ãmu, nerveux, malade dans son ventre, TimothÃ©e ouvre et accueille BÃ©atrice dans son bien triste faux cottage oÃ¹ tout semble Ãªtre Ã  rÃ©nover. Il a bien sÃ»r fait du mÃ©nage comme un forcenÃ©, mais il sait que nâimporte quelle femme normalement constituÃ©e y trouverait beaucoup Ã  redire. MÃªme que la plupart jetteraient Ã  la rÃ©cup lâessentiel du mobilier. Ãmettant de petits rires casse-glaces entrelardÃ©s de courtes paroles gentilles, lâinfirmiÃ¨re le suit nÃ©anmoins jusquâau sous-sol. Elle ne semble ni rÃ©vulsÃ©e, ni dÃ©Ã§ue. Elle ne donne pas lâimpression de quelquâun qui dÃ©couvre sâÃªtre placÃ© dans une histoire foireuse.
+\end_layout
+
+\begin_layout Standard
+
+Et, soudain, un miracle sâaccomplit; cette femme est nÃ©cessairement dâessence divine, songe le fils Tardif. La saloperie de chien-rat qui depuis lâentrÃ©e de BÃ©atrice, en haut, dans la maison, nâavait cessÃ© de japper, de gronder, de vouloir monter Ã  lâattaque, se tait et se prosterne littÃ©ralement aux pieds de la nouvelle venue qui apparaÃ®t dans le salon. Par rÃ©flexe, Marie qui tient la lettre de Marceline dÃ©pliÃ©e, probablement lue, ordonne Ã  Gazou, cette erreur de la nature aux petites pattes crochues, de venir se coucher. Mais la bÃªte hÃ©site, sile, fait mine dâobÃ©ir, change dâidÃ©e, halÃ¨te, pour, finalement obtempÃ©rer, par crainte justifiÃ©e dâun coup dâarchet.
+\end_layout
+
+\begin_layout Standard
+
+- Châest toi qui lâa remise Ã  TimothÃ©e, châte lettre ?
+\end_layout
+
+\begin_layout Standard
+
+- CâÃ©tait dans les affaires de ma mÃ¨re. Elle lâavait placÃ©e avec ses papiers importants. Quand elle est morte, il a fallu que je fasse le mÃ©nage dans sa paperasse. Câest comme Ã§a que jâai dÃ©couvert lâenveloppe et, grÃ¢ce Ã  un ami commun, je lâai remise Ã  votre garÃ§on.
+\end_layout
+
+\begin_layout Standard
+
+- ChâÃ©tait qui ta mÃ¨re ?
+\end_layout
+
+\begin_layout Standard
+
+- Jacinthe Martin. Une Joncas.
+\end_layout
+
+\begin_layout Standard
+
+- Elle est morte Ã  quel Ã¢ge ?
+\end_layout
+
+\begin_layout Standard
+
+- 82 ans.
+\end_layout
+
+\begin_layout Standard
+
+- Quand ?
+\end_layout
+
+\begin_layout Standard
+
+- Il y a trois mois.
+\end_layout
+
+\begin_layout Standard
+
+- Cha tâa fait de la peine ?
+\end_layout
+
+\begin_layout Standard
+
+- Faut pas trop que jâen parle, jâai encore de la misÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas bien fait.
+\end_layout
+
+\begin_layout Standard
+
+BÃ©atrice ne comprend pas.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas bien fait de me la faire parvenir, la lettre. Tu lâas lue ?
+\end_layout
+
+\begin_layout Standard
+
+Romain et TimothÃ©e se regardent, inquiets. Gazou fixe BÃ©atrice comme sâil sâagissait de la Madone.
+\end_layout
+
+\begin_layout Standard
+
+- Il le fallait. Si je ne lâavais pas fait, je nâaurais pas su quoi faire avec.
+\end_layout
+
+\begin_layout Standard
+
+Nerveux, lâex Romain-le-GelÃ© se lÃ¨ve et marche jusquâÃ  la fenÃªtre panoramique. Ã cette heure, le spectacle offert par les Ã®les et le fleuve y est magnifique. Pour sa part, Marie replie minutieusement la longue missive.
+\end_layout
+
+\begin_layout Standard
+
+- Moi, je lâai lue tantÃ´t.
+\end_layout
+
+\begin_layout Standard
+
+Elle fait une pause. Puis, elle regarde successivement son compagnon et son fils.
+\end_layout
+
+\begin_layout Standard
+
+- Je chais maintenant que je nâavais rien compris au chujet de ma mÃ¨re et que cha a gÃ¢chÃ© ma vie. Commenchait Ã  Ãªtre temps que je vous le dise. Ã 82 jans, je viens de comprendre quâelle me protÃ©geait contre un monchtre, mon pÃ¨re, et, châest bÃªte Ã  dire, mais â¦ quâelle mâaimait.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+35mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-timothee-pleur.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Lâimprobable aveu a pour effet de pÃ©nÃ©trer lâarmature de TimothÃ©e qui, pour la deuxiÃ¨me fois de la journÃ©e, se retrouve entiÃ¨rement dÃ©stabilisÃ© et incapable de se contenir. MalgrÃ© une idÃ©e furtive indiquant quâil torpillait toute chance, pour peu quâil en eÃ»t, auprÃ¨s de la belle infirmiÃ¨re, il se brise en sanglots.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes bien chanceuse de le savoir, sanglote-t-il, moi, je ne lâai jamais su. Va-t-y falloir que jâattende dâavoir 82 ans ?
+\end_layout
+
+\begin_layout Standard
+
+Les mains sur la monture de ses verres, il part se rÃ©fugier dans la cuisine oÃ¹, instantanÃ©ment, Romain va lâenserrer dans ses bras. Gazou Ã©met un dÃ©but de grondement, mais il replace ses yeux sur BÃ©atrice et reprend sa contemplation. Câest la vieille qui casse la glace, initiative quâapprÃ©cie la visiteuse qui lutte elle-mÃªme pour ne pas chavirer dans les eaux de ses Ã©motions.
+\end_layout
+
+\begin_layout Standard
+
+- Châest vrai que je ne lui ai jamais dit que je lâaimais, pauvre pâtit garchon. Pourtant, pourtant â¦
+\end_layout
+
+\begin_layout Standard
+
+Elle ne finit pas sa phrase.
+\end_layout
+
+\begin_layout Standard
+
+- Maudite vie, reprend-elle. Jâai eu une vie complÃ¨tement foquÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+DeuxiÃ¨me miracle de la soirÃ©e, Marie, fille de Marceline et dâEdmond Rioux, se met Ã  se raconter, sans pudeur, sans le souci dâembarrasser cette Ã©trangÃ¨re qui semble si rÃ©ceptive. Les mots vont sortir drus, puissants, libÃ©rÃ©s, comme une riviÃ¨re longtemps empÃªtrÃ©e par un barrage de castor, ce qui lui a donnÃ© lâallure dâun petit lac, et qui, soudain, se met Ã  couler et Ã  couler. Pour la premiÃ¨re fois de sa vie, la Maririou dÃ©balle son histoire. Elle se lâoffre Ã  elle, sans fixer personne, ni Romain ni TimothÃ©e qui se sont approchÃ©s, ni BÃ©atrice dont les yeux sont humides. Elle regarde le tapis et, Ã  grands coups dâarchet, achÃ¨ve la destruction de sa maison de castor.
+\end_layout
+
+\begin_layout Standard
+
+Au mÃªme moment sur la rue Crouet, une voiture est immobilisÃ©e en face du cimetiÃ¨re. Marie-Odile qui nâavait plus de Midol pour calmer ses douleurs Ã©tait sortie sâen procurer Ã  la pharmacie. Ã son retour, elle avait dÃ©cidÃ© de venir se Â«racheterÂ» auprÃ¨s de TimothÃ©e, convaincue que plus tÃ´t dans la journÃ©e, elle nâavait pas Ã©tÃ© Ã  la hauteur de lâaccablement avec lequel il Ã©tait aux prises. En dÃ©bouchant sur la rue, elle a aperÃ§u une voiture stationnÃ©e devant la maison de son amant, phÃ©nomÃ¨ne inhabituel puisquâil dÃ©plorait ne jamais recevoir de visiteurs, et, en femme flic, bien que lourdement menstruÃ©e, elle a voulu savoir qui en Ã©tait le propriÃ©taire. Utilisant sa boucle dâoreille et certaines habiletÃ©s policiÃ¨res, elle a fait une courte recherche et a pu apprendre que la bagnole Ã©tait au nom dâune certaine BÃ©atrice Martin.
+\end_layout
+
+\begin_layout Standard
+
+Câest ce vÃ©hicule quâelle regarde prÃ©sentement, la mÃ¢choire crispÃ©e et les yeux en tempÃªte.
+\end_layout
+
+\end_body
+\end_document

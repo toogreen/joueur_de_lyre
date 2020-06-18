@@ -1,0 +1,1117 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Grande bouffe pour Dart Vader, le 26 juillet 2033
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Si on en croit Charles Baudelaire,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ homme de lettres naguÃ¨re fort respectÃ©, le mal se ferait sans effort, naturellement, par fatalitÃ© et le bien serait toujours le produit dâun art. Pourtant, cette perle de sagesse ne sâapplique presque pas dans le cas de Robert Gagnon, maigre vieillard trachÃ©otomisÃ© et Ã©dentÃ© surnommÃ© Dart Vader, ce qui fait de lâaphorisme baudelairien un sophisme au lieu dâun truisme. Car pour faire le bien quâil a choisi de faire, entendre ici Â«chÃ¢tier un mÃ©chantÂ», le bonhomme a dÃ©cidÃ© de faire le mal, un mal prÃ©mÃ©ditÃ© et planifiÃ©. Quant Ã  la fatalitÃ©, si elle a Ã©tÃ© de la fÃªte, elle ne sâest pas retrouvÃ©e Ã  lâorigine de ce mal calculÃ©, mais dans son exÃ©cution qui sâest brutalement soldÃ©e par une conclusion aussi dramatique quâaccidentelle - la vie nous rÃ©servant bien des surprises â câest-Ã -dire une fin en queue de poisson incarnÃ©e dans un plat de crevettes Ã©caillÃ©es, cuites et aromatisÃ©es Ã  lâail. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+En dÃ©but de journÃ©e, lorsquâil a Ã©tÃ© subir les foudres haineuses de Philippe Â«FlipperÂ» Dauphin en compagnie de TimothÃ©e, son chef de section, Dart Vader a pris bonne note du fait quâen fin de soirÃ©e, on livrerait des plats quâun traiteur avait prÃ©parÃ©s pour la rÃ©union du Conseil dâadministration du lendemain. Claude Sey, le plus jeune des adjoints de Dauphin, a mÃªme prÃ©cisÃ© lâheure de la livraison, soit entre 21 h 30 et 22 h, moment prÃ©cis oÃ¹ le concierge vient faire le mÃ©nage, ce qui signifie que les portes seront ouvertes. Dans lâesprit de lâancien noceur de toutes les galÃ¨res et de tous les tabacs, il ne fait alors aucun doute que le trÃ©sor festif sera apportÃ© dans la cuisinette attenante Ã  la salle du Conseil. Dans sa vieille tÃªte malfaisante et rusÃ©e, il ne lui reste plus quâÃ  trouver le moyen de sâapproprier une telle merveille. Pas seulement pour faire bombance, mais pour foutre une pagaille monstre dans lâorganisation du Flipper. Il fera en sorte que lâon sache partout que grÃ¢ce Ã  lâincurie de Dauphin, lui, Robert Gagnon, misÃ©rable avaleur de Nutrisuz depuis trois ans, il a pu se livrer Ã  une orgie alimentaire mÃ©morable Ã  mÃªme la bouffe de ces salauds du CA.
+\end_layout
+
+\begin_layout Standard
+
+Le plan quâil se met dÃ¨s lors Ã  mijoter sera cousu de fil blanc et dâimpondÃ©rables, mais il aura le mÃ©rite dâÃªtre simple. Tant et si bien que Gagnon va lâappliquer Ã  la lettre. Depuis quâil est pensionnaire au CRG-BSL, il a observÃ© au hasard de ses promenades dans lâÃ©tablissement â ce quâon a fini par lui interdire - que la circulation au rez-de-chaussÃ©e commenÃ§ait Ã  se faire rare dans lâheure qui suit la fermeture de la cafÃ©tÃ©ria et quâaux alentours de 21 h, il nây avait plus personne dans les parages, sauf dâÃ©ventuels gardiens en Saguewanish. Sauf, Ã©galement, un prÃ©posÃ© Ã  lâentretien qui vient passer lâaspirateur, Ã©pousseter ce qui peut lâÃªtre, vider les corbeilles et ramasser le pire dans les bureaux et les salles.
+\end_layout
+
+\begin_layout Standard
+
+Câest ainsi quâÃ  21 h, Vader emprunte les escaliers et, reprenant hÃ©roÃ¯quement son souffle Ã  chaque palier, descend lentement vers le rez-de-chaussÃ©e. Il estime quâen utilisant lâascenseur, il attirerait davantage lâattention des autoritÃ©s. Bien sÃ»r, il se sait filmÃ©, mais si on le remarque, ce ne sera que le lendemain quand on soumettra les enregistrements de la soirÃ©e et de la nuit Ã  un logiciel de reconnaissance et identification du mouvement (RIM). Ãa, câest le bonhomme Asselin qui le lui avait expliquÃ© lâan dernier.
+\end_layout
+
+\begin_layout Standard
+
+Rendu en bas, il observe et Ã©coute attentivement. On dirait un rongeur flairant les traces de renard. Convaincu que rien ne bouge ni ne respire, il se glisse furtivement sur sa droite, Ã  la maniÃ¨re dâun ectoplasme, et, les doigts croisÃ©s, gagne la toilette des hommes sise de biais, en face de la salle du CA. Ã lâintÃ©rieur, il sâassied dans un cubicule la tÃªte dans les mains et les coudes sur les cuisses. Le bonhomme vient de se placer en mode attente. Mais au prÃ©alable, il a accolÃ© sur la porte un Ã©criteau bricolÃ© plus tÃ´t indiquant que cette cuvette Ã©tait en dÃ©rangement. Si jamais quelquâun entrait, il grimperait sur le siÃ¨ge pour ne pas quâon lui remarque les jambes; il aurait normalement le temps de le faire puisque les Â«visiteursÂ» seraient empÃªtrÃ©s avec leur trottinette. Sauf si câÃ©tait le balayeur. Et advenant quâon veuille quand mÃªme pÃ©nÃ©trer dans son cubicule, il se ferait dÃ©noncer, ce qui lui vaudrait â il lâacceptait dâavance - un nouveau sÃ©jour dans les geÃ´les des Papyblues. Mais, basta !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+45mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-vader-bouffe.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Aux cinq minutes Ã  partir de 21 h 30, Dart Vader va Ã©couter Ã  la porte, se risquant mÃªme Ã  lâentrouvrir pour tÃ¢cher trÃ¨s discrÃ¨tement dâobserver aussi bien le concierge que les livreurs. Il ignorait alors quelle tournure la suite prendrait, mais il misait sur le fait quâil pourrait peut-Ãªtre se glisser Ã  lâinsu de tous dans la salle du CA et de sây cacher sous la grande table. Car il y a toujours une grande table, nâest-ce pas ? Faut-il rappeler que son plan Ã©tait truffÃ© dâimpondÃ©rables ?
+\end_layout
+
+\begin_layout Standard
+
+Ã 21 h 40, un taupin arrive juchÃ© sur un chariot Ã©lectrique et, avec vacarme, arrÃªte son antiquitÃ© mal rafistolÃ©e devant la porte de la salle suprÃªme. Par la magie de sa boucle dâoreille, il donne le code de la porte laquelle, comme celle des quarante voleurs dâAli Baba, sâouvre silencieusement. Sans se douter que des yeux affamÃ©s le surveillaient, il y entre avec tout son barda et commence son mÃ©nage. Puis, au bout de quinze minutes, il migre dans la cuisinette attenante oÃ¹ il poursuit sa mission hygiÃ©nique. Câest Ã  22 h 07 que deux porteurs de cabarets fermÃ©s se pointent en se racontant des trucs du mÃ©tier qui laissent Dart Vader de glace; par contre, il passe Ã  un poil de dÃ©faillir tant leur traÃ®nÃ©e odorifÃ©rante lui apparaÃ®t paradisiaque, appÃ©tissante, violente, sensuelle, capiteuse, irrÃ©sistible. Câest tout juste sâil ne bondit pas leur arracher les contenants.
+\end_layout
+
+\begin_layout Standard
+
+Lâhomme de mÃ©nage les accueille selon les rÃ¨gles de lâart viril.
+\end_layout
+
+\begin_layout Standard
+
+- CommenÃ§ait Ã  Ãªtre temps, jâsuis Ã  veille de tout barrer ! Il me reste rien que le bureau du boss Dauphin Ã  faire !
+\end_layout
+
+\begin_layout Standard
+
+En dÃ©posant sa pile de cabarets, un des livreurs esquisse une excuse.
+\end_layout
+
+\begin_layout Standard
+
+- Ils se sont aperÃ§us que le cÃ©leri faisait pitiÃ©. Y ont dÃ» le changer. Câest pour Ã§a quâon est un peu serrÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Ouin, ouin !
+\end_layout
+
+\begin_layout Standard
+
+- LÃ  lÃ , on a encore un voyage de cabarets, pâis on a fini.
+\end_layout
+
+\begin_layout Standard
+
+- Jâen ai pour cinq minutes, rÃ©pond le concierge en ouvrant la porte sÃ©parant la cuisinette du bureau du Flipper, prÃ©cisÃ©ment comme elle lâÃ©tait au moment de lâengueulade du matin.
+\end_layout
+
+\begin_layout Standard
+
+Ã ce moment, trois actions se produisent en rafale. Les livreurs se dÃ©pÃªchent vers la sortie, le prÃ©posÃ© Ã  lâentretien fait partir son aspirateur chez Dauphin et Dart Vader quitte les toilettes pour se glisser dans la salle du CA. Sâil avait encore des doutes sur lâexistence dâun Dieu pour les anciens ivrognes et fumeurs extrÃªmes, ils sont alors annihilÃ©s. Car la table du CA est non seulement gigantesque, mais elle dispose sur toute sa longueur, dâune quille de soutien, une mÃ©diane en bois foncÃ© qui bloque toute vue ou communication de Â«dessous de tableÂ» entre participants vis-Ã -vis. FÃ©brile, le vieillard file se dissimuler Ã  lâautre extrÃ©mitÃ© du long meuble en acajou, le nez sur la pointe de la quille. Si les livreurs entrent avec leurs contenants, son plan est de se cacher Ã  la droite de lâimmense panneau ligneux et si le concierge repasse dans la piÃ¨ce, il se glissera vers la gauche. Dans les deux cas, lâangle de vision sera obstruÃ©. Câest prÃ©cisÃ©ment ce quâil fait. Les traiteurs reviennent se dÃ©barrasser de leur fardeau sans rien remarquer et lancent une vague salutation au prÃ©posÃ© qui, Ã  son tour, rÃ©apparaÃ®t dans la grande salle oÃ¹, une fois son chariot ramenÃ© dans le couloir, il Ã©teint lâÃ©clairage et verrouille la porte.
+\end_layout
+
+\begin_layout Standard
+
+Lâentendant rouler vers les bureaux du fond, le vieux sacripant se relÃ¨ve pÃ©niblement en sâappuyant des deux mains sur la table de confÃ©rence. Il a rÃ©ussi ! Il est maintenant enfermÃ© jusquâau lendemain matin, Ã  moins quâil ne parvienne Ã  sortir sans se faire attraper. Mais de cela, il doute sÃ©rieusement. Un capteur le cafarderait aussitÃ´t quâil arriverait Ã  ouvrir la porte. Et lÃ , crac ! Au trou ! Bof ! Il a dÃ©jÃ  vu pire ! Pour lâinstant, le vieillard famÃ©lique est seul avec une quarantaine de grands cabarets-contenants pleins de nourriture infiniment troublante. Comme il savait quâen mettant lâÃ©clairage, il ne faudrait mÃªme pas cinq minutes avant quâun gardien de sÃ©curitÃ© ne vienne en vÃ©rifier la cause, il sâÃ©tait alors apportÃ© une halogÃ¨ne Ã  piles, ces torches bonnes pour cinq heures une fois rechargÃ©es, quâil avait Â«empruntÃ©eÂ» au poste de garde du 5e Nord.
+\end_layout
+
+\begin_layout Standard
+
+Avant de cÃ©der Ã  ses envies insupportables, il sort de sa poche intÃ©rieure deux feuilles de papier et un tube de colle hydrofuge. Ã petits pas, il passe dans la cuisinette oÃ¹ il doit se faire violence pour ne pas bondir sur le rÃ©frigÃ©rateur, puis il continue dans le burlingue de cette canaille de Flipper. Comme il lâa devinÃ©, ces portes ne sont jamais verrouillÃ©es. Ã lâaide de sa lampe, il colle un des documents Ã©crits Ã  la main, comme au temps des stylos bille, sur le bureau de Dauphin et retourne dans la salle fixer lâautre sur la table du CA, Ã  lâendroit mÃªme oÃ¹ siÃ¨ge le prÃ©sident du conseil. Ils devront gratter longtemps avant de pouvoir les enlever. On peut y lire :
+\end_layout
+
+\begin_layout Standard
+
+Parce que tu es incroyablement con, Flipper, tu mâas permis de savoir, ce matin quand tu voulais tordre le rÃ¨glement pour me retourner en prison, quâil y aurait du vrai manger, ce soir, dans ta cuisinette, Ã  quelle heure on viendrait le porter, le manger, et Ã  quelle heure il nây aurait plus personne pour mâempÃªcher de tout le bouffer. Ãa fait que je vais bÃ¢frer tout ce que je peux et ce que je ne pourrai pas, mettons que Ã§a arrive, je vais le cochonner pour ne pas en laisser Ã  ta gang de crosseurs du CA. Et comme je te truste pas, que tâes un faux jeton, Flipper, jâai utilisÃ© le terminal du quanticordi dans le salon communautaire du 5e Nord, pour expliquer Ã  Carl Michaud avec copie conforme Ã  des journalistes et Ã  Thierry-Ian Dennis-Dubeau, le politicien qui aime pas le manger mou, que je crevais de faim dans tes cages Ã  chiens et que pour manger autre chose que de la cochonnerie de Nutrisuz, jâavais dÃ» voler la nourriture du Conseil dâadministration. Ce qui fait que tu es en beau joual vert aprÃ¨s moi et que je serai sÃ»rement emprisonnÃ© Ã  nouveau. Ã lâheure oÃ¹ tu lis cette feuille, les Papyblues sont probablement dÃ©jÃ  en train de se limer les dents. Jâai horodatÃ© le message pour quâil parte une heure avant que tu entres dans ton bureau. Bye-bye et bonne journÃ©e mon cave !
+\end_layout
+
+\begin_layout Standard
+
+Et comme un prÃªtre Ã  qui on a interdit de cÃ©lÃ©brer la messe pendant trop longtemps, le pÃ¨re Gagnon sâapproche du rÃ©frigÃ©rateur, vaste tabernacle oÃ¹ on a entreposÃ© la manne cÃ©leste, et, salivant comme un danois affamÃ© devant un Ã©tal de boucher, il transporte tous les rÃ©cipients dans la grande salle, les plaÃ§ant sur lâautel quâÃ©tait devenue la table du Conseil. Ensuite, mÃ©ticuleusement, il les ouvre un Ã  un, jetant les couvercles Ã  bout de bras. Il dÃ©couvre ainsi une vÃ©ritable corne dâabondance faite dâamuse-gueules (olives, choux-fleurs, cÃ©leris, concombres libanais, cerises de terre, tomates en grappe et biscottes tartinÃ©es de foie gras) avec leurs contenants de sauce trois fromages, de la salade choux - carottes rÃ¢pÃ©s au raisins secs, du taboulÃ©, du jambon melon, du saumon mayonnaise, un monceau de petites crevettes de Matane avec un plat de sauce chili, de la confiture dâoignons Ã  lâancienne, un plateau complet de fromages (morceaux de cheddar blanc et orangÃ© montÃ©s en cubes sur mini brochettes, bleu aux relents affolants, gouda en boulettes de cire rouge, emmenthal bien croÃ»tÃ© et camembert bas de gamme), un cabaret gorgÃ© de caramboles en tranches, de noix, de raisins verts, de figues et de poires naines, enfin un dernier plat oÃ¹ sont cordÃ©s des carrÃ©s de gÃ¢teaux secs, des tartelettes Ã  lâÃ©rable et au coulis de fraise, ainsi que des biscuits Ã  lâamande. Sur le comptoir Ã  cÃ´tÃ© du frigo, il a remarquÃ© un sac gonflÃ© de petits pains et six bouteilles de ChÃ¢teauneuf-du-pape, un cru de 2024, dont il a vivement dÃ©vissÃ© tous les bouchons et les a ajoutÃ©es au dÃ©sordre gastronomique de la table.
+\end_layout
+
+\begin_layout Standard
+
+Dans une de ses poches de robe de chambre, il trouve un petit lecteur musical, le truc bÃªte Ã  dix sous oÃ¹, lâan dernier, il sâÃ©tait amusÃ© Ã  se tÃ©lÃ©charger tout sa musique. Il se lâajuste aux oreilles et, du bout du doigt, navigue jusquâÃ  Jean-Pierre Ferland. Clic, câest fait. La fougue du vieux barde lui emplit les Ã©motions.
+\end_layout
+
+\begin_layout Standard
+
+Avant de mâassagir Avant de jeter lâancre De mÃ©nager mon cÅur De couver ma santÃ© Avant de raconter Mes souvenirs Ã  lâencre De vouloir sans pouvoir De compter mes lauriers Avant cette saison Avant cette retraite Je veux sauter les ponts Les murs et les hauts bords Je veux briser les rangs Les cadres et les fenÃªtres Je veux mourir ma vie Et non vivre ma mort
+\end_layout
+
+\begin_layout Standard
+
+Alors, calmement, comme un amant qui se retient dâexulter trop tÃ´t dans une prestation prometteuse, il sâassied, sourit dâaise et entonne le premier chant de sa grande messe. Il sâagit de cruditÃ©s, dont des tiges de cÃ©leri et des pommettes de chou-fleur, ces lÃ©gumes quâil engloutissait de faÃ§on compulsive quand il Ã©tait gamin, avant quâil ne devienne lâivrogne impÃ©nitent quâil fut envers et contre tous. Sa prothÃ¨se dentaire enfilÃ©e, il pose, fou de dÃ©sir, ce geste lourdement codÃ© dans son ADN, geste dâun rÃ©confort sans bornes et quâil nâa pu oublier en trois ans de manger mou, consistant Ã  se placer un bÃ¢ton de cÃ©leri entre les dents, dâen suÃ§oter le jus, de le croquer bruyamment, de le mastiquer avec dÃ©lectation et de lâavaler.
+\end_layout
+
+\begin_layout Standard
+
+Je veux vivre en mon temps Saboter les coutumes Piller les conventions Sabrer les rÃ¨glements Avant ce coup de vieux Avant ce mauvais rhume Qui tuera mes envies Et mes trente-deux dents Et si je le pouvais Je ferais mieux encore Je me dÃ©doublerais Pour vivre comme il faut Le jour pour ce quâil est La vie pour ce quâelle vaut Ãa câest mourir sa vie Et non vivre sa mort
+\end_layout
+
+\begin_layout Standard
+
+MalgrÃ© lâorgasme, malgrÃ© Ferland, il est Ã©tonnÃ© de la sensation dÃ©plaisante quâil ressent aux gencives. Pour la premiÃ¨re fois en trois ans, ses dents artificielles viennent de forcer, de travailler. Aucunement inquiet, Dart Vader poursuit sa marche vers le paradis avec un morceau de chou-fleur. MÃªme dÃ©sagrÃ©ment sous les dentiers, additionnÃ© cette fois dâun dÃ©but de tiraillement dans les massÃ©ters, ces muscles masticatoires atrophiÃ©s pour cause de non-usage. Dans le plat, tout Ã  cÃ´tÃ©, que lui prÃ©sente son halogÃ¨ne, il remarque une quantitÃ© folle de noix, une des grandes passions de sa terrible vie. Il a tÃ´t fait de sâen mettre une poignÃ©e sous la dent. Mais dÃ¨s quâil commence Ã  les broyer, la douleur lui devient insoutenable et il doit tout recracher. Inquiet, quelque peu frustrÃ©, il plonge la main dans le cabaret de jambon melon et, cette fois, il ne ressent presque pas de pression aux gencives et câest Ã  peine si ses muscles lui font sentir leur Ã©tat de dÃ©chÃ©ance. Pour quâil en soit autrement, il va devoir y aller Ã  deux mains et se fouler la cavitÃ© buccale comme sâil sâagissait dâun moulin Ã  viande. Mais sa fatigue masticatoire devient telle quâil se fixe au bec le goulot dâun ChÃ¢teauneuf et quâil se sert du prÃ©cieux liquide pour avaler ce quâil nâa plus la force de mÃ¢cher.
+\end_layout
+
+\begin_layout Standard
+
+- âStie qui est bon, câte rouge-lÃ  !
+\end_layout
+
+\begin_layout Standard
+
+Et voilÃ  le pÃ¨re Gagnon en train dâÃ©cluser pour la premiÃ¨re fois en trois ans, un de ces nectars qui, en synergie avec bien dâautres, lui ont fait perdre, tout au long de sa trÃ©pidante vie, femmes, emplois et possessions matÃ©rielles. Le vieil homme tente ensuite quelques exercices en sâÃ©tirant les maxillaires. Puis, le gosier Ã  nouveau empli de rouge papabile, il sâempare dâune piÃ¨ce de saumon. Il essaie de ne pas trop lâÃ©craser de son rÃ¢telier, mais une douleur du fond de la bouche, lÃ  oÃ¹ commence lâÅsophage, lui tÃ©moigne dâune certaine intolÃ©rance envers tout ce qui est plus structurÃ© que le Nutrisuz. Prenant une pause de quelques secondes, il repÃ¨re le taboulÃ©. Une forte pulsion lâentraÃ®ne alors Ã  sây plonger la tÃªte comme un clÃ©bard abandonnÃ©, une manÅuvre dÃ©plorable qui lui fait frÃ´ler lâÃ©touffement. Dâun geste brusque, il propulse le met fautif sur le tapis et, au passage, attrape les fromages. Il taponne dâabord le bleu et, le jugeant assez mou, sâen emplit la trappe Ã  malice. Quelle extase ! Quels souvenirs ! Ã nouveau, une sÃ©rieuse rasade de vin et, derechef, une gÃ©nÃ©reuse poignÃ©e de bleu. Comme dans le bon vieux temps ! Ãventrant le sac de petits pains Â«sour doughÂ» de style San Francisco, il en dÃ©fait un en trois et, comme pour communier, sâen place un morceau dans la bouche.
+\end_layout
+
+\begin_layout Standard
+
+- Bleu blanc rouge, grince-t-il de sa canule.
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s une pause pipi dont il confie le cadre au bureau de Philippe Dauphin, il continue son festin cette fois avec les biscottes quâil se contente de lÃ©cher pour nâabsorber que le foie gras. Et comme il sent que le conduit stomacal va lui exploser, il vide presque le quart de sa bouteille et entreprend de malaxer le tout avec force bruits de succion et de dÃ©glutition. Câest Ã  ce moment quâil aperÃ§oit le plat de crevettes, un des rares mets pour lesquels il aurait tuÃ© du temps oÃ¹ il ne sâappelait pas Dart Vader. Il a tÃ´t fait de se purger la bouche sur le siÃ¨ge voisin et dây engouffrer une solide poignÃ©e de crustacÃ©s sans mÃªme les plonger dans la sauce rouge. Les misÃ©rables crevettes ont tellement Ã©tÃ© cuites et trafiquÃ©es quâil nâest nul besoin de les mastiquer. Il suffit de les arroser de ChÃ¢teauneuf.
+\end_layout
+
+\begin_layout Standard
+
+- âStie que câest bon !
+\end_layout
+
+\begin_layout Standard
+
+Mais au moment oÃ¹ il sâapprÃªte Ã  sâoffrir un troisiÃ¨me service des deux mains, dâÃ©tranges sensations commencent Ã  attirer son attention. Des sensations de lourdeur en progression, de picotement croissant dans les extrÃ©mitÃ©s, dâÃ©tau en train de se resserrer sur ses cÃ´tes, sur ses poumons et sur son cÅur, dâair qui ne parvient plus Ã  passer. Presque en panique, le bonhomme sâempare dâune petite brochette de cheddar, se dÃ©barrasse vivement du fromage et introduit le bÃ¢tonnet dans sa canule quâil croit obstruÃ©e. Du sang gicle alors de la trachÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Son dernier geste avant quâil ne sâÃ©crase sur les cadavres de biscottes lÃ©chÃ©es, sera de sâarracher la canule.
+\end_layout
+
+\begin_layout Standard
+
+Mais tout cela, TimothÃ©e ne le saura quâau matin et, surtout, quelques jours plus tard quand le docteur PrÃ©vost aura pu terminer son travail.
+\end_layout
+
+\begin_layout Standard
+
+Pour lâinstant, il vient de quitter Shimoune qui doit reprendre son boulot et sâen retourne au 5e avec une nouvelle certitude en tÃªte. Il se passe quelque chose de rÃ©prÃ©hensible au Bic, quelque chose dâexplosif et de mortel pour une carriÃ¨re de politicien, et sa mÃ¨re, la Maririou, connaÃ®t probablement la fine fleur impliquÃ©e dans cette histoire. Elle a travaillÃ© Ã  la premiÃ¨re Ã©lection du Gros Turcotte, dâoÃ¹ la lettre de cette enflure accrochÃ©e sur un mur du sous-sol de la rue Crouet. Sâil est vrai que les gÃ©niteurs Turcotte ne sont pas morts, pourquoi, eux, vivent-ils dans un paradis sous lâaile dâun ministre omnipuissant, alors que son pÃ¨re et sa mÃ¨re Ã  lui, TimothÃ©e-Milet Tardif, croupissent dans la misÃ¨re noire sur le bras de leur nono de fils ? Tout autre que lui imaginerait dÃ¨s lors un plan visant Ã  prendre ces accaparateurs la main dans le sac afin dâen tirer des bÃ©nÃ©fices pour ses propres parents; car, il y a sÃ»rement quelque chose Ã  faire. Le problÃ¨me, câest quâau moment oÃ¹ Dieu a distribuÃ© le talent de stratÃ¨ge aux humains, le pauvre garÃ§on Ã©tait malheureusement dehors en train de rÃ©parer la crevaison que des voyous venaient de lui infliger.
+\end_layout
+
+\begin_layout Standard
+
+Câest madame Loubert qui le tire de sa rÃ©flexion.
+\end_layout
+
+\begin_layout Standard
+
+- Ronnie Ross dit quâil nây a pas dâautres sacs et que va falloir que je mâhabitue aux nouveaux.
+\end_layout
+
+\begin_layout Standard
+
+Ãa nâa aucun bon sens !
+\end_layout
+
+\begin_layout Standard
+
+- Vous dites que les nouveaux coulent ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui et ils me salissent toute !
+\end_layout
+
+\begin_layout Standard
+
+Aucun, mais aucun bon sens !
+\end_layout
+
+\begin_layout Standard
+
+- Venez avec moi, madame Loubert.
+\end_layout
+
+\begin_layout Standard
+
+Dans son bureau, il tape sur la fonction tÃ©lÃ©phonique de son terminal et demande les Approvisionnements.
+\end_layout
+
+\begin_layout Standard
+
+- Direction des Approvisionnements ! fait une voix mÃ©nopausÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e Tardif, 5e Nord.
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã  quel sujet ?
+\end_layout
+
+\begin_layout Standard
+
+- Au sujet de votre derniÃ¨re batch de sac Ã  colostomie, ils coulent.
+\end_layout
+
+\begin_layout Standard
+
+- Un instant, je vous communique avec un agent de procuration.
+\end_layout
+
+\begin_layout Standard
+
+Quinze secondes de silence suivent oÃ¹ madame Loubert nâose mÃªme pas parler.
+\end_layout
+
+\begin_layout Standard
+
+- Adrien Dumont, comment puis-je vous aider ?
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e Tardif, 5e Nord.
+\end_layout
+
+\begin_layout Standard
+
+- Ah, le MottÃ© ! Quâest-ce qui se passe ?
+\end_layout
+
+\begin_layout Standard
+
+- Il y a des problÃ¨mes avec votre derniÃ¨re batch de sacs Ã  colostomie, elle est de mauvaise qualitÃ© et les sacs tendent Ã  couler.
+\end_layout
+
+\begin_layout Standard
+
+- Pâis ?
+\end_layout
+
+\begin_layout Standard
+
+- Bâen pâis ? Ãa fait du dÃ©gÃ¢t et jâai une patiente qui se plaint.
+\end_layout
+
+\begin_layout Standard
+
+- Va falloir quâal endure, on nâen a pas dâautres !
+\end_layout
+
+\begin_layout Standard
+
+Deux petits fils se touchent alors dans le crÃ¢ne du CS-1.
+\end_layout
+
+\begin_layout Standard
+
+- Comment Â« quâal endure Â» ! Câest pas une rÃ©ponse, Ã§a !
+\end_layout
+
+\begin_layout Standard
+
+- Bâen câest celle que jâte donne, le MottÃ© !
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoute-moi bien, cÃ¢lisse, si dâici demain je nâai pas reÃ§u ici, au 5e Nord, une caisse de sacs de la mÃªme qualitÃ© quâavant, je ramasse les pleins de marde qui coulent et je descends te les vider sur ton bureau ! As-tu compris ?
+\end_layout
+
+\begin_layout Standard
+
+Debout dans le cadre de porte, Ross voit son chef hurler pour la premiÃ¨re fois.
+\end_layout
+
+\begin_layout Standard
+
+- Demain au plus tard, vocifÃ¨re ce dernier par-dessus les protestations dâAdrien Dumont.
+\end_layout
+
+\begin_layout Standard
+
+Et il raccroche.
+\end_layout
+
+\begin_layout Standard
+
+- MottÃ©, MottÃ©, wouo, du calme !
+\end_layout
+
+\begin_layout Standard
+
+Le CS-1 regarde le prÃ©posÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Jâle connais, moi, Dumont. Si tu cries aprÃ¨s, MottÃ©, tâauras jamais rien. Laisse-moi faire, je vais descendre te nÃ©gocier quelque chose.
+\end_layout
+
+\begin_layout Standard
+
+- Jâmâen cÃ¢lisse de ce que tu vas faire, Ronnie ! Jâexige seulement quâil me monte une caisse de sacs normaux.
+\end_layout
+
+\begin_layout Standard
+
+- Jâte dis que jâmâen occupe. Tu vas lâavoir ta caisse.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e qui se doute bien de la motivation profonde de Ronnie Ross, nâa aucun doute que madame Loubert pourra compter, demain au plus tard, sur des sacs de qualitÃ©. Il sait que Ross est en gamique avec quelques salauds du Centre, dont Adrien Dumont, et il a la conviction, sans les preuves, que son employÃ© a trempÃ© de faÃ§on profitable pour sa poche, dans cette livraison de sacs dÃ©fectueux. Son intÃ©rÃªt est dâempÃªcher Ã  tout prix quâun CS-1 quelconque sâÃ©nerve, fasse des vagues et agite la fourmiliÃ¨re, ce qui pourra nâÃªtre que dÃ©favorable Ã  ses affaires.
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e Tardif, bougonne-t-il Ã  son terminal qui vient de lui transmettre un appel.
+\end_layout
+
+\begin_layout Standard
+
+Câest Claude Sey qui lui apprend avoir Ã©tÃ© suspendu sans solde, immÃ©diatement aprÃ¨s une visite dâAmÃ©dÃ©e Chicot chez Philippe Dauphin.
+\end_layout
+
+\begin_layout Standard
+
+- Mon congÃ©diement est dÃ©sormais une formalitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Vous Ãªtes probablement le prochain, monsieur Tardif. Pensez au docteur Bellavance.
+\end_layout
+
+\begin_layout Standard
+
+Il a raccrochÃ©. Quâest ce que câest que cette histoire avec le sinistre chercheur du sous-sol ? Le personnage est un peu abject, non ? Car utiliser des corps cliniquement morts pour produire des hormones est une pratique affreuse trÃ¨s discutable. En quoi est-ce que Ã§a pourrait le concerner, lui ce chef de section abusÃ©, ce fils accablÃ©, ce Casanova dÃ©routÃ©, ce binoclard grassouillet dont les cheveux tombent comme des samares Ã  lâautomne ? Y a-t-il un rapport entre cette Ã©trange recommandation de Sey et lâaffabilitÃ© dont lâinquiÃ©tant mÃ©decin fait habituellement preuve Ã  son endroit ? Pas plus tard quâhier, il lâa invitÃ© Ã  venir visiter sa Â«petite installationÂ» du sous-sol, celle qui est voisine de lâantre des Papyblues. Â«On parleraÂ», a-t-il dit.
+\end_layout
+
+\begin_layout Standard
+
+- Jâadore ta madame Bellow, fait la voix de Robespierre derriÃ¨re lui.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e regarde sa montre.
+\end_layout
+
+\begin_layout Standard
+
+- Il est 16 h 15; il arrive quoi pour ta copine BÃ©atrice Martin ?
+\end_layout
+
+\begin_layout Standard
+
+- Elle nous attend chez elle vers 19 h 30. Mais, oh, ce nâest pas ma copine, câest une amie. Quelquâun de trÃ¨s bien que tu vas avoir intÃ©rÃªt Ã  connaÃ®tre. Comment faire pour Ãªtre chez BÃ©atrice Ã  19 h 30, obtenir dâelle ce dont il a besoin pour neutraliser le docteur Gagnon, demeurer poli, tout en Ã©tant, une demi-heure plus tard, chez Marie-Odile Ã  lâautre bout de la ville ? La matrone a en effet prÃ©cisÃ© quâil devait se pointer Ã  20 h. Va donc falloir quâil lui tÃ©lÃ©phone pour se dÃ©gager une plage temporelle suffisante. Quand on sait quâil y a une semaine Ã  peine, TimothÃ©e nâavait jamais pu sâapprocher du charme fÃ©minin, il y a de quoi sâÃ©tonner de le voir maintenant en situation de nÃ©gocier avec lâune pour pouvoir aller chez lâautre.
+\end_layout
+
+\begin_layout Standard
+
+- Faut vraiment que jây sois ?
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce tâen penses, idiot ? Je passe te prendre chez toi Ã  19 h. Et, sans te mettre sur ton trente-six, enlÃ¨ve au moins ton uniforme de garde vieux.
+\end_layout
+
+\begin_layout Standard
+
+En route vers lâascenseur du personnel, le chef de section songe que son ami a parfaitement raison. Il devrait faire des efforts vestimentaires, au moins quand il se prÃ©sente chez les gens, surtout lorsquâil sâagit dâune dame qui vit seule, une trÃ¨s belle femme toute mignonne qui dÃ©gage tellement de douceur, dâempathie, de chaleur et de bontÃ©, quâon en tombe instantanÃ©ment amoureux. Ãvidemment, il y a la fatalitÃ©, celle qui oblige le rÃªveur Ã  quitter impÃ©rativement son monde onirique pour se concentrer sur la vraie vie, sur ce Ã  quoi il a eu droit, sur son lot, sur cette forte femme quâil redoute de plus en plus, sur cette femme-flic que lâon surnomme ici la Bitch Ã  Tremblay, sur cette mÃ©gÃ¨re qui lui a ordonnÃ© de venir se rapporter Ã  20 h.
+\end_layout
+
+\begin_layout Standard
+
+Deux vieux, main dans la main, le saluent.
+\end_layout
+
+\begin_layout Standard
+
+- Je voulais te remercier pour la petite chambre, chef. Tâas pris pour moi contre eux autres. Tâes quelquâun de bien !
+\end_layout
+
+\begin_layout Standard
+
+- Je nâai fait que mon travail, monsieur Martel.
+\end_layout
+
+\begin_layout Standard
+
+Lâhomme hoche de la tÃªte dâun air entendu et poursuit son chemin. Robespierre est impressionnÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Câest bien quâon te dise des choses comme Ã§a, non ?
+\end_layout
+
+\begin_layout Standard
+
+Mais TimothÃ©e ne rÃ©pond pas. Car, au sortir de lâescalier, dans le no manâs land sÃ©parant son service du 5e Centre, Luce Morency vient dâapparaÃ®tre.
+\end_layout
+
+\begin_layout Standard
+
+- Et merde !
+\end_layout
+
+\begin_layout Standard
+
+- Câest la madame du 6e â¦
+\end_layout
+
+\begin_layout Standard
+
+- Oui. Va me chercher une couverture, veux-tu Robespierre ? Et envoie un code Magenta au 6e Nord.
+\end_layout
+
+\begin_layout Standard
+
+Comme si tout Ã©tait normal, le CS-1 sâapproche en souriant de la dÃ©mente.
+\end_layout
+
+\begin_layout Standard
+
+- Comment allez-vous, madame Morency ?
+\end_layout
+
+\begin_layout Standard
+
+La vieillarde le regarde longuement, la mine profondÃ©ment angoissÃ©e, lâair totalement perdu.
+\end_layout
+
+\begin_layout Standard
+
+- On se connaÃ®t ?
+\end_layout
+
+\begin_layout Standard
+
+Il la prend par la main et la ramÃ¨ne dans la cage dâescalier oÃ¹ il sâassied sur une marche aprÃ¨s lui en avoir fait faire autant.
+\end_layout
+
+\begin_layout Standard
+
+Dans la seconde qui suit, Robespierre rÃ©apparaÃ®t.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai envoyÃ© le code Magenta, mais je trouve pas de couverture.
+\end_layout
+
+\begin_layout Standard
+
+Son ami hausse les Ã©paules et, calmement, sur le ton de la confidence, amorce un Ã©niÃ¨me monologue avec Ã  la vieille dame.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+30mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-morency.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+- Vous rappelez-vous au Lac Saint-Mathieu, madame Morency, cet Ã©tÃ© oÃ¹ il y avait eu une petite fille appelÃ©e Julie ? Une petite fille que vous aviez prÃ©sentÃ©e Ã  ma mÃ¨re comme Ã©tant votre niÃ¨ce de MontrÃ©al ? Une petite fille maltraitÃ©e que vous aviez acceptÃ© de garder pour lâÃ©tÃ© ? Elle Ã©tait toute menue, presque maigre. Ses yeux Ã©tait immenses, bleus comme le ciel quand il fait doux, le printemps. Ses cheveux Ã©taient longs, raides et dorÃ©s comme de la corde de chanvre. Et son visage, son visage, je ne me souviens plus de son visage. Ma mÃ¨re lui avait montrÃ© Ã  jouer de lâharmonica, Ã  dÃ©chiffrer des partitions.
+\end_layout
+
+\begin_layout Standard
+
+- Julie â¦
+\end_layout
+
+\begin_layout Standard
+
+- Oui, Julie. Elle Ã©tait tout le temps avec ma mÃ¨re. Tout le temps. Et elle ne me parlait jamais. Ãa me chagrinait un peu parce que jâen Ã©tais amoureux, amoureux fou comme en sont capables les petits garÃ§ons. Je me cachais sous la roulotte pour la regarder pratiquer sa musique Ã  bouche sur la petite galerie. Je pense quâelle le savait, mais elle ne faisait voir de rien. Au fil des jours, nous nous Ã©tions dÃ©veloppÃ© une complicitÃ© tacite oÃ¹ jâÃ©tais devenu, je pense, un voyeur dissimulÃ© dans la noirceur et elle, une belle que lâon observe furtivement.
+\end_layout
+
+\begin_layout Standard
+
+- Julie â¦
+\end_layout
+
+\begin_layout Standard
+
+- Quand nos vacances se sont terminÃ©es, elle a continuÃ© de venir chez nous, Ã  Saint-Anaclet. Des fois, madame Morency, vous nous lâameniez un lundi matin et vous passiez la reprendre le vendredi soir. Pour mon plus grand malheur. Un jour, vous nâÃªtes plus revenues et je nâai jamais su ce quâelle Ã©tait devenue. Jâai longtemps pensÃ© Ã  elle en rÃªvant quâelle arriverait chez nous, quâelle me tendrait ses bras, quâelle me dirait vouloir Ãªtre mon amie. Puis, un jour, je me suis fait Ã  lâidÃ©e quâelle ne reviendrait jamais. Vous vous rappelez de Julie, madame Morency ?
+\end_layout
+
+\begin_layout Standard
+
+- OK MottÃ©, on la ramÃ¨ne, fait Alain Santerre, un prÃ©posÃ© du 6e Nord qui se prÃ©sente avec une couverture blanche. Merci de tâen Ãªtre occupÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Julie, un de ses plus beaux souvenirs dâenfance. Julie dont il nâa jamais su le nom de famille. Morency ? Julie Morency ? Non, cette combinaison ne fonctionne pas. Quâa-t-elle fait de sa vie ? Sâen est-elle sortie ? Elle aurait aujourdâhui 43 ans. Peut-Ãªtre se souvient-elle de lui. De leur complicitÃ© ? Peut-Ãªtre que sâil la recherchait et la dÃ©couvrait, quâelle lui tendrait les bras et quâelle lui dirait vouloir Ãªtre son amie ?
+\end_layout
+
+\begin_layout Standard
+
+Cinq minutes plus tard, les deux compÃ¨res roulent vers Nazareth. Avec le dispositif personnel polyvalent, alias la boucle dâoreill, de Robespierre, TimothÃ©e rejoint Marie-Odile-la-dÃ©vorante et lui explique avec douze paires de gants blancs quâil ne pourra Ãªtre chez elle Ã  20 h en raison de sa dÃ©marche auprÃ¨s de cette BÃ©atrice Martin, amie de Robespierre prÃªte Ã  tÃ©moigner dans le bon sens de cette histoire Ã©pouvantable. La femme-flic trouve la nouvelle plutÃ´t fÃ¢cheuse, mais elle dit comprendre la situation. Câest le prix Ã  payer, nâest-ce pas, si on veut se sortir dâun engrenage qui ne peut que nous broyer. Ceci Ã©tant dit, en experte de ce genre dâintervention, elle estime quâil aura besoin dâune heure tout au plus et, en ajoutant trente minutes de voyagement, quâil pourra Ãªtre chez elle Ã  21 h, ce qui est quand mÃªme acceptable. Mais Ã  supposer quâil faille plus de temps, quâil faille tout expliquer, persuader, nÃ©gocier, il faudrait prÃ©voir un filet, non ? Pourquoi ne pas sâenlever du stress et sâentendre, disons, pour 22 h ? Ce nâest pas si tard, 22 h !
+\end_layout
+
+\begin_layout Standard
+
+- Bâen on avait dit 20 h, pâis lÃ  câest rendu Ã  21 h et tu veux quâon mette Ã§a Ã  22, gronde Marie-Odile. Tant quâÃ  y Ãªtre, pourquoi pas Ã  demain matin ? Ãcoute donc, es-tu sÃ»r que câest pour son tÃ©moignage que tu vas voir câte femme-lÃ  ? Ne non ! 21 h, câest une bonne heure; tu vas avoir le temps de tout faire ce que tu as Ã  faire.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Je tâattends. Travaille bien ! Ã tantÃ´t mon gros loup !
+\end_layout
+
+\begin_layout Standard
+
+Â«Mon gros loupÂ» ? Dieu du ciel ! Il se sent plutÃ´t chÃ¨vre accrochÃ©e Ã  un piquet, liÃ¨vre dans un habitat de martre, gnou en train de courser contre une femelle guÃ©pard, carpe dodue dans un bassin Ã  piranhas, voire hamster se sentant observÃ© par une grosse couleuvre. Le couvre-feu est Ã  21 h, quâelle a dÃ©crÃ©tÃ©, la maÃ®tresse femme! Cela parce quâelle entend se faire sauter Ã  21 h 05 ! Ce qui signifie que lui, il devra Ãªtre en mode service-service dÃ¨s 21 h 04. Le mode dâemploi est trÃ¨s simple, chÃ¨re madame. Vous appuyez ici, câest le bouton B, et instantanÃ©ment lâappareil tombe en Ã©tat de bandaison. Il vous suffit alors de le manÅuvrer Ã  votre convenance jusquâÃ  votre point G. Câest garanti ou argent remis; signez ici sur la ligne X.
+\end_layout
+
+\begin_layout Standard
+
+Tout cela Ã  cause du docteur Gagnon ! Et pendant ce temps-lÃ , la mÃ¨re du gros Turcotte, elle, elle doit sÃ»rement se faire soigner aux frais de la princesse, peu sâen faut par ce salopard de Gagnon, sans que son fils ne doive jouer de trombone, sans que personne ne doive culbuter de femme-flic ou de femelle guÃ©pard ou de mante religieuse. Elle est oÃ¹, la justice ?
+\end_layout
+
+\begin_layout Standard
+
+Quand Robespierre le dÃ©pose chez lui, il aperÃ§oit Louis-Marc Richard en conversation avec deux types dont la mine patibulaire tient davantage du flic que du malfrat. Tous trois sont collÃ©s sur la clÃ´ture qui fait face au fleuve, au bout du cimetiÃ¨re qui jouxte le gÃ®te des Tardif. Ils semblent sâintÃ©resser Ã  lâendroit oÃ¹ est situÃ©e la terrasse-poulailler-clapier du sous-sol, laquelle, heureusement, ils ne peuvent contempler en raison des arbres qui leur en masquent la vue. Quand Richard aperÃ§oit TimothÃ©e, il baragouine quelque chose et, immÃ©diatement, les deux lascars font semblant de ne pas dÃ©visager le grand noir assis dans la voiture Ã©lectrique et le binoclard bedonnant qui viennent dâen sortir.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas vu ces malfaisants, Robespierre ?
+\end_layout
+
+\begin_layout Standard
+
+Le colosse sâextirpe de sa sous-compacte.
+\end_layout
+
+\begin_layout Standard
+
+- Câest qui ?
+\end_layout
+
+\begin_layout Standard
+
+- Je te prÃ©sente mon voisin dâen face, câest le plus laid des trois. Il est en train de cafarder Ã  mon sujet. Les autres, ce sont deux flics, probablement des crÃ©atures au Flipper, si ce nâest pas des salopards du BAG.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre devise lâhybride sombre stationnÃ© devant la maison de Richard.
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã  vous, le char ? leur crie-t-il.
+\end_layout
+
+\begin_layout Standard
+
+Un des deux flics, ou pseudo-flics, opine.
+\end_layout
+
+\begin_layout Standard
+
+- Ouin, pourquoi ?
+\end_layout
+
+\begin_layout Standard
+
+Ã la vitesse de lâÃ©clair, lâarriÃ¨re-petit-fils de lâinventeur du Petepano fait virevolter un immonde glaviot dans le pare-brise.
+\end_layout
+
+\begin_layout Standard
+
+- Câest parce que la vitre est sale. On dirait quâil y a un morviat de negâ.
+\end_layout
+
+\begin_layout Standard
+
+Tandis que les visiteurs sâen reviennent Ã  la course, Robespierre file avec sa voiture et TimothÃ©e entre chez lui, presque souriant. Un instant, il songe Ã  Marie-Odile qui a promis de venir donner une bonne frousse Ã  cette mochetÃ© dâindic, puis il descend au sous-sol familial. Il a tÃ´t fait de rÃ©aliser que la Maririou lui tient rigueur de son retard; la rituelle pratique musicale nâa pu avoir lieu. Tellement quâelle laisse cette sale bÃªte de chien-rat japper, gronder et essayer de mordre aussi bien le mauvais fils que le pÃ¨re ronchonneur.
+\end_layout
+
+\begin_layout Standard
+
+- Maman, te souviens-tu quand jâÃ©tais petit, il y avait eu un Ã©tÃ© oÃ¹ tu avais enseignÃ© la musique Ã  une petite fille qui sâappelait Julie ? Tu sais, elle restait chez Luce Morency. Sais-tu ce quâelle est devenue ?
+\end_layout
+
+\begin_layout Standard
+
+Pour toute rÃ©ponse, la vieille dame se lÃ¨ve et disparaÃ®t dans la cuisine suivie de son bestiau. TimothÃ©e est conscient quâil nây a plus rien Ã  en tirer. Idem pour Romain qui fait semblant de regarder la tÃ©lÃ©. Alors, il dÃ©cide de regagner son appartement, mais avant, il sâapproche de cette lettre du gros Turcotte que la Maririou a Ã©pinglÃ©e au mur, une missive officielle qui lui est spÃ©cifiquement adressÃ©e en tant que professeure Ã  lâÃcole populaire de musique. Le paragraphe central attire son attention :
+\end_layout
+
+\begin_layout Standard
+
+Parmi les bÃ©nÃ©voles qui ont rendu possible mon Ã©lection comme dÃ©putÃ© de Rimouski et, ultÃ©rieurement, mon accession au cabinet, vous avez Ã©tÃ© une des plus efficaces et jâen serai Ã©ternellement reconnaissant, peut-Ãªtre pas Ã  vous, mais au projet qui vous tient tant Ã  cÅur, lâÃcole populaire de musique. Vous mâavez en effet convaincu de prendre partie et cause pour le sauvetage et la relance de ce bastion culturel solidement implantÃ© dans notre rÃ©gion depuis plus de 35 ans. Croyez-moi madame, lâÃcole a dÃ©sormais un gardien zÃ©lÃ© au Conseil des ministres.
+\end_layout
+
+\begin_layout Standard
+
+Gardien zÃ©lÃ© ? LâÃcole a dÃ» fermer ses portes en 2021 faute de financement public.
+\end_layout
+
+\begin_layout Standard
+
+BÃ©atrice Martin apparaÃ®t Ã  TimothÃ©e encore plus belle, plus agrÃ©able et plus douce quâil y a deux jours. Tellement quâil arrive Ã  peine Ã  parler.
+\end_layout
+
+\begin_layout Standard
+
+- Mon ami TimothÃ©e a une mÃ©chante histoire Ã  te raconter, ma BÃ©a, celle dâun fils qui nâa pas voulu laisser tomber ses parents malgrÃ© tout et celle dâun employÃ© du Centre qui croit que les vieux mÃ©ritent dâÃªtre respectÃ©s. Dans les deux cas, Ã§a fait de lui un hors-la-loi et un lÃ©preux. Bref, il est dans une merde pas possible. Mais, heureusement, tu peux lâaider.
+\end_layout
+
+\begin_layout Standard
+
+- Mon Dieu, câest excitant cette histoire !
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e, tu veux la lui raconter ?
+\end_layout
+
+\begin_layout Standard
+
+Lentement, avec plein de ratÃ©s au dÃ©marrage, le fils de la Maririou entreprend le rÃ©cit de sa situation et il nâomet aucun dÃ©tail, si ce nâest, en bonne chattemite, la nature honteusement intime de sa relation avec Marie-Odile Tremblay. Au passage, il note lâÅil de lâinfirmiÃ¨re qui sâenflamme lorsquâil aborde le chapitre du bon docteur Gagnon.
+\end_layout
+
+\begin_layout Standard
+
+- Autrement dit, cette policiÃ¨re voudrait que je lui dÃ©clare officiellement que câest Ã  moi et Ã  votre demande, monsieur Tardif, que le docteur Gagnon est venu porter des soins dâurgence.
+\end_layout
+
+\begin_layout Standard
+
+- Une saloperie que tu aurais attrapÃ©e en HaÃ¯ti, ajoute Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+- Mais, euh, vous nâaurez pas de prÃ©cision Ã  apporter; la nature de votre malaise nâintÃ©resse pas lâenquÃªteuse et nâapparaÃ®tra pas dans son, euh, rapport.
+\end_layout
+
+\begin_layout Standard
+
+- Est-ce que jâaurai Ã  prÃªter serment ?
+\end_layout
+
+\begin_layout Standard
+
+- Non, câest une simple dÃ©claration Ã  une agente de sÃ©curitÃ© du CRG-BSL.
+\end_layout
+
+\begin_layout Standard
+
+BÃ©atrice sâavance dans son fauteuil, dÃ©plie ses jambes recroquevillÃ©es et les pose par terre. Son beau visage devient terriblement sÃ©rieux.
+\end_layout
+
+\begin_layout Standard
+
+- Je vais le faire, dit-elle en sâÃ©bouriffant lÃ©gÃ¨rement sa chevelure dâÃ©bÃ¨ne, les yeux presque en colÃ¨re. Je vais le faire pour le plaisir de vous aider Ã  coincer ce profiteur.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e laisse percevoir un soupir. Le scÃ©nario de Marie-Odile se dÃ©roule Ã  la perfection.
+\end_layout
+
+\begin_layout Standard
+
+- Merci beaucoup, madame Martin.
+\end_layout
+
+\begin_layout Standard
+
+Elle le regarde de son visage redevenu serein, calme et doux.
+\end_layout
+
+\begin_layout Standard
+
+- Vous pouvez, tu peux, mâappeler BÃ©atrice, Ã§a serait plus simple.
+\end_layout
+
+\begin_layout Standard
+
+Le cÅur veut lui dÃ©foncer la cage thoracique.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- On voit pas Ã§a souvent, un homme mature aussi timide que toi, TimothÃ©e, rajoute la coquine du haut de son vertigineux donjon.
+\end_layout
+
+\begin_layout Standard
+
+Quâattend la belle Rapunzel, pour lui dÃ©rouler sa chevelure afin quâil puisse grimper la rejoindre ? Oh quâil sâen saisirait Ã  pleines mains ! Rapunzel, Ã´ Rapunzel, laisse choir tes longs cheveux !
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+Or, elle le fait ! Blou-lou-lou-lou, la mirifique tignasse dÃ©gringole jusquâen bas, jusquâÃ  ses pieds. Â«Grimpez, beau prince !Â» semble-t-elle lui dire.
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoute, si tu veux, je peux aller la visiter ta mÃ¨re, voir comment Ã§a se passe dans son bedon, prendre sa pression, vÃ©rifier des trucs, la dÃ©stresser.
+\end_layout
+
+\begin_layout Standard
+
+- Je te lâavais dit, mon ami. BÃ©atrice est un cÅur sur pattes.
+\end_layout
+
+\begin_layout Standard
+
+La faÃ§on dont elle lui rÃ©pÃ¨te Ãªtre trÃ¨s heureuse du fait quâil ait pensÃ© Ã  elle pour essayer de se sortir de son injuste malheur, allume chez TimothÃ©e une conflagration dâespoir. Et câest presque en flottant quâil regagne la rue, son camarade lâobservant du coin de lâÅil en souriant dâune oreille Ã  lâautre.
+\end_layout
+
+\begin_layout Standard
+
+Comme il a prÃ©fÃ©rÃ© de pas lui confier quâil sâen allait au logis de Marie-Odile, il le laisse le dÃ©poser chez lui.
+\end_layout
+
+\begin_layout Standard
+
+- HÃ©-hÃ©-hÃ© !
+\end_layout
+
+\begin_layout Standard
+
+- Quoi Â«hÃ©-hÃ©-hÃ©Â» ? rÃ©torque TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Juste Â«hÃ©-hÃ©-hÃ©Â».
+\end_layout
+
+\begin_layout Standard
+
+- Ãa veut dire quoi, Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Je me comprends.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes con Robespierre. Salut !
+\end_layout
+
+\begin_layout Standard
+
+Il lui faut maintenant aller poinÃ§onner chez sa geÃ´liÃ¨re et il se pourrait quâil soit en retard. En retard pour aller sâemmerder Ã  tirer son coup ! Un regard vers sa montre lui indique quâelle sâest arrÃªtÃ©e. Pile morte ? MÃ©canisme foutu ? Association de pensÃ©e avec sa boucle dâoreille, sa Saguewanish et son automobile ? Conjuration inexplicable ? Tout est possible.
+\end_layout
+
+\begin_layout Standard
+
+- Saloperie !
+\end_layout
+
+\begin_layout Standard
+
+Sur le moniteur de son quanticordi, il titille le bouton Taxi et court Ã  la salle de bain se laver les dents. LâhygiÃ¨ne malgrÃ© tout !
+\end_layout
+
+\begin_layout Standard
+
+- Ouille ouille ouille, mon jeune homme ! Tu me dis rien. Tu me laisses deviner. Attends ! Tu tâes encore mis de lâeau de Cologne, tâas des fringues propres, donc, tu tâen vas veiller dans le coin du Paul-Hubert, non ?
+\end_layout
+
+\begin_layout Standard
+
+- Bonsoir monsieur Kebbaj, vous avez bien devinÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Moi je te dis. Je me mettrais du parfum comme toi, ma moukÃ¨re elle me frapperait sur la tÃªte, sur le cou, sur le nez, partout, avec son balai. Boum ! Boum ! Boum ! Elle serait sÃ»re que jâaurais batifolÃ© dans mon taxi. Heureusement, je nây pense mÃªme pas ! MashaâAllah ! Mais toi, tu es jeune. Tu peux.
+\end_layout
+
+\begin_layout Standard
+
+Sur lâÃ©cran ACL du taximÃ¨tre, lâheure indiquÃ©e est 21 h 23.
+\end_layout
+
+\begin_layout Standard
+
+- Elle est bonne votre heure, monsieur Kebbaj ?
+\end_layout
+
+\begin_layout Standard
+
+- Si elle est pas bonne, mon jeune homme, leur satellite de merde il est maboul.
+\end_layout
+
+\begin_layout Standard
+
+Donc, TimothÃ©e est en infraction. La tauliÃ¨re lui en voudra sÃ»rement de ce retard.
+\end_layout
+
+\begin_layout Standard
+
+Effectivement, quand il arrive cinq minutes plus tard, elle le laisse entrer sans effusion, ni chaleur, ni sourire, ni rien. Par contre, elle parle.
+\end_layout
+
+\begin_layout Standard
+
+- Jâaime pas les surprises.
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- On avait dit 21 h et lÃ , il est et demi ! Tu penses-tu que jâai rien que Ã§a Ã  faire, moi, tâattendre ? Ãa donc bien pris du temps, ton histoire avec la bonne femme ?
+\end_layout
+
+\begin_layout Standard
+
+Le pauvre galant revoit, lâespace dâune nanoseconde, la longue chevelure de Rapunzel glissant sur les pierres du donjon, une chevelure devant laquelle, lyre en main, il a mis un genou Ã  terre.
+\end_layout
+
+\begin_layout Standard
+
+Une demi-heure plus tard, lâacte est nÃ©anmoins consommÃ© et, le coude sur lâoreiller, elle lui raconte comment, demain, elle ira cueillir la dÃ©position de BÃ©atrice Martin et comment, cette fois avec force dÃ©tails, elle ira neutraliser le docteur Gagnon. TimothÃ©e est loin de sourire. Il sait parfaitement bien que par ce geste, il deviendra infÃ©odÃ© Ã  cette terrible femme, emprisonnÃ© dans ses bras musclÃ©s, jouet dans ses cuisses bouillantes, avec comme potentiel dâÃ©vasion, une probabilitÃ© moindre que celle de gagner un gros lot de plusieurs millions Ã  la loterie.
+\end_layout
+
+\begin_layout Standard
+
+Au moment oÃ¹ elle lui place la tÃªte entre ses gros tÃ©tons, quelque part plus au nord de la ville, au rez-de-chaussÃ©e dâun Ã©difice redoutÃ©, Dart Vader amorce sa Grande Bouffe â¦
+\end_layout
+
+\end_body
+\end_document

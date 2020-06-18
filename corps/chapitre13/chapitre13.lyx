@@ -1,0 +1,927 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Les errements nyctalopes dâune grande folle, du 22 au 25 juillet 2033
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Etre gai Ã  Rimouski,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ ce nâest pas lâÃªtre Ã  San Francisco, Ã  Vancouver ou Ã  MontrÃ©al. Ã Rimouski, il nây a pas de Â«villageÂ», la communautÃ© Ã©tant Ã©talÃ©e un peu partout dans les quartiers, dans les paroisses limitrophes et dans les petites villes avoisinantes. Il nây a ni sauna, ni salon de coiffure, ni sex shop pour homosexuels. Si certains bars sont plus gais que dâautres, les clients Â«straightsÂ» y sont quand mÃªme omniprÃ©sents. Les Ã©pais Ã©galement. DâoÃ¹ les deux heures de musculation et de boxe que sâimpose Shimoune Saint-Pierre quatre ou cinq fois par semaine, si ce nâest pas plus. Câest ce qui explique pourquoi ses tenues extravagantes, voire fofolles, contrastent avec le diamÃ¨tre imposant de ses biceps et la forme inquiÃ©tante de ses poings. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Si dâaventure, il doit dÃ©fendre son personnage quâun idiot choisit bÃªtement dâagresser, il sâen tire toujours sans une Ã©gratignure, sauf peut-Ãªtre certaines rougeurs sur les jointures aprÃ¨s avoir fracturÃ© un nez, ouvert une arcade sourciliÃ¨re ou disloquÃ© une mÃ¢choire. Sa philosophie de base se rÃ©sume ainsi : Â«Simoune oui, moumoune, non !Â»
+\end_layout
+
+\begin_layout Standard
+
+Il en est des gais comme des hÃ©tÃ©ros. Les gens sont normalement dâun ennui mortel; leur quotidien est routinier, insipide, assommant, mÃ©canique, dÃ©primant. Pour se dÃ©sennuyer, ils regardent, de leur salon, de leur terminal, de leur tÃ©lÃ©, de leur coin de fenÃªtre sur la rue Crouet, la vie dâune poignÃ©e de marginaux qui eux, artistes, sportifs, malfaiteurs et autres vedettes, bourlinguent Ã  fond la caisse. Ils la commentent et lâanalysent, cette vie quâils Ã©pient. Ils lâaiment ou la dÃ©testent. Ils rÃªveront souvent de pouvoir se lâoffrir, de pouvoir ainsi rechercher les sensations fortes, les histoires folles, les sauteries prodigieuses, les partouzes dÃ©mentielles, les rencontres inoubliables, les voyages au bout de soi, les raids au bout de la nuit, les intoxications par substances lÃ©gales ou non, les moments puissants et les souvenirs inaltÃ©rables.
+\end_layout
+
+\begin_layout Standard
+
+Lâami Saint-Pierre, lui, il est un gai vivant. TrÃ¨s vivant ! Mais sauf exception, il est plutÃ´t raisonnable durant la semaine; pourquoi indisposer inutilement son patron AmÃ©dÃ©e Chicot en entrant au boulot avec une tÃªte de zombie, des yeux de poisson mort et lâintÃ©rieur de la bouche en plancher dâÃ©curie ? Par contre, le vendredi soir, dÃ¨s son quart de travail terminÃ©, il va se mettre Ã  lâaffÃ»t de Â«gros partys dÃ©bilesÂ» et sâil en trouve, zou!, il va tout faire pour fracasser son record personnel de dÃ©rape. On nâa quâune vie, non ? En revanche, si rien ne se passe, il va se changer les idÃ©es en alternant sa fin de semaine entre chez lui et le gymnase. Chez lui, il fera du mÃ©nage, Ã©coutera de la musique et prÃ©parera de la bouffe, au gym il suera et gardera un Åil ouvert sur les occasions. Surtout aux douches.
+\end_layout
+
+\begin_layout Standard
+
+Quand en dÃ©but de soirÃ©e, il a fait son entrÃ©e - remarquÃ©e comme toujours - Ã  lâErrance, un bar huppÃ© du quartier Saint-Germain, il a immÃ©diatement repÃ©rÃ© son ami Martin Â«TintinÂ» Arsenault, un collÃ¨gue de la jaquette dÃ©lirante, qui buvait du champagne avec un quinquagÃ©naire porteur de fringues que seuls les moralement pourris qui sont socialement acceptables peuvent sâoffrir. Son cerveau sâest alors mis en mode SQL et, en quelques secondes, il a identifiÃ© le bonhomme comme Ã©tant un comptable agrÃ©Ã© de Sainte-Luce associÃ© au parti Liberal, un dÃ©nommÃ© Jonathan Roy. Bon pÃ¨re de famille, notable apprÃ©ciÃ© dans son village de banlieue, il lui arrivait parfois de venir sâacoquiner avec de jeunes hommes de Rimouski, question dâassouvir les plus secrets de ses fantasmes.
+\end_layout
+
+\begin_layout Standard
+
+Comme Tintin lui a fait signe, Shimoune sâest approchÃ© et sâest fait offrir une coupe. Puis il y en a eu dâautres. Subodorant un potentiel dâagapes, il sâest accrochÃ© et, au bout de deux heures, câest-Ã -dire quatre bouteilles de Veuve, il sâest retrouvÃ© ami de longue date de Roy, qui, plus ivre que pompette, sâest dit prÃªt Ã  passer Ã  du plus costaud, du moins cucul.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune le regarde dans les yeux.
+\end_layout
+
+\begin_layout Standard
+
+- Genre ?
+\end_layout
+
+\begin_layout Standard
+
+- Genre que jâappelle un ami et quâon se fait inviter Ã  son party. Un bâen gros party dans une grosse cabane au Bic en face du fleuve. Y a jamais de trous du cul, seulement du monde qui ont de lâargent. On a lâastie de paix.
+\end_layout
+
+\begin_layout Standard
+
+- Quelle sorte de monde, mon Jon ?
+\end_layout
+
+\begin_layout Standard
+
+- Du monde qui aime la vie.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+50mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-simonstrip.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Tout un euphÃ©misme pour dÃ©crire une trentaine de bourgeois, hommes et femmes, gais, lesbiennes, hÃ©tÃ©ros, fÃ©tichistes, Ã©changistes, exhibitionnistes et autres dÃ©pravÃ©s, nâayant en commun que lâappartenance au parti libÃ©ral et lâargent. Beaucoup dâargent. Beaucoup plus quâil nâen faut pour bien faire comprendre Ã  ceux ou celles qui sâaviseraient de vouloir cancaner sur ces activitÃ©s sulfureuses, quâils ou quâelles le regretteraient toute leur vie quelle quâen soit la longueur rÃ©siduelle.
+\end_layout
+
+\begin_layout Standard
+
+La partouze a pour cadre une trÃ¨s grande maison construite il y a quinze ans, une construction oÃ¹ les matÃ©riaux dominants sont le chÃªne, lâÃ©rable, le cerisier et la pierre, dont les plafonds sont Ã  douze pieds et qui sâenorgueillit dâune longue vÃ©randa vitrÃ©e et chauffÃ©e faisant face au fleuve. Pour y accÃ©der, on doit quitter la 132 Ã  la baie HÃ¢tÃ©e, Ã  lâest du village du Bic. De lÃ , un mauvais chemin de terre serpente vers le nord jusquâÃ  la voie ferrÃ©e, la traverse dangereusement et continue en direction ouest pendant un kilomÃ¨tre. Un stationnement asphaltÃ© apparaÃ®t alors oÃ¹, ce soir, une quinzaine de voitures horriblement chÃ¨res sont alignÃ©es.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune qui nâa pas assez de doigts pour compter les chambres dans le plain pied dÃ©corÃ© de toiles, de sculptures et de tapisseries anciennes, remarque ici et lÃ , de petites soucoupes dâargenterie pleines de cocaÃ¯ne, de grands crus ouverts un peu partout, un bar Ã©tourdissant dont la spÃ©cialitÃ© semble Ãªtre le scotch, des cabarets dâamuse-gueules oÃ¹ le caviar russe a vraiment Ã©tÃ© privilÃ©giÃ©, une projection holographique de deux lesbiennes en train de sâaimer charnellement et deux immenses foyers hybrides Ã  combustion contrÃ´lÃ©e oÃ¹ des brasiers dâÃ©rable combattent la fraÃ®cheur fluviale de cette douce soirÃ©e de juillet. Le mur ouest du vaste salon est une verriÃ¨re donnant sur une piscine oÃ¹ quelques baigneurs batifolent, verre en main, dans leur plus simple appareil.
+\end_layout
+
+\begin_layout Standard
+
+Si la plupart des gens sont habillÃ©s, certains portant des kimonos en ratine blanche, quelques-uns, pas nÃ©cessairement les plus beaux, sont nus. On sâembrasse, on se caresse, on se sourit, on sâesclaffe, on se raconte des trucs. On est seul comme cet exhibitionniste qui circule partout, le braquemart mÃªme pas au garde-Ã -vous, en duo comme ces fÃ©tichistes hautement bottÃ©s qui sont venus en moto, en triplet comme ce couple arrivÃ© en compagnie dâune jeune fille du type voluptueux - Shimoune la reconnaÃ®t comme Ã©tant une des adjointes administratives de Carl Michaud, mais se garde bien dâaller la saluer â ou en quatuor comme ces deux couples Ã©changistes qui Ã©prouvent toutes les misÃ¨res du monde Ã  embrayer tellement lâune des deux paires est peu appÃ©tissante. Ce quâon parvient Ã  faire lâest au vu et au su de tous, ce qui contribue au climat gÃ©nÃ©ral de la petite fÃªte.
+\end_layout
+
+\begin_layout Standard
+
+Avant que ne se prÃ©sente Ã  lui cette femme extraordinairement belle et svelte, la seule Ã  porter un kimono noir, Shimoune, la Grande folle du manger mou, se sera adonnÃ© Ã  diffÃ©rents exercices. Tout dâabord, Ã  un indicible effeuillage au terme duquel ce qui lui sert de bobettes aura abouti, deux mÃ¨tres plus loin, sur lâincontestable Ã©vidence dâun sÃ©rieux cas de priapisme. Ensuite, il se sera investi dans une session trÃ¨s applaudie de lutte grÃ©co-romaine, calibre Â«jeux gaisÂ», oÃ¹ il aura pu rÃ©cupÃ©rer son soi-disant slip, son adversaire Ã©tant lâinfortunÃ© porteur dudit cas de priapisme. Quant aux autres activitÃ©s, contentons-nous dâimaginer quâelles correspondaient Ã  sa dÃ©finition de Â«gros party dÃ©bileÂ» !
+\end_layout
+
+\begin_layout Standard
+
+Il vient Ã  peine de porter Ã  ses narines une petite cuillÃ¨re de poudre blanche, que la blonde, tout en grÃ¢ce et en dignitÃ©, sâapproche, les deux mains dans ses cheveux coupÃ©s Ã  la nuque. De ses grands yeux verts, elle regarde Shimoune, la tÃªte un peu inclinÃ©e. Si elle est saoule, rien nây paraÃ®t et si elle est cokÃ©e, son calme le cache parfaitement. Elle lui dÃ©clare le trouver Â«magnifique et appÃ©tissantÂ», mÃªme sâil nâest Â«pas complÃ¨tement dÃ©shabillÃ©Â», mÃªme sâil semble passablement Ã©mÃ©chÃ©. Lentement, elle caresse, de ses longs doigts manucurÃ©s, les marques de lutte quâil sâest infligÃ© dans le haut des bras et, sans aucune retenue, lui annonce dans un franÃ§ais germanisÃ© quâelle souhaiterait quâil lui Â«fasse des chosesÂ». Quand il lui confesse son orientation sexuelle, une condition Ã  laquelle il nâa jamais pu dÃ©roger, elle nâinsiste pas et, sans mot dire, on la dirait rÃ©signÃ©e, habituÃ©e Ã  la fatalitÃ©, lâamÃ¨ne par la main jusquâÃ  lâautre bout du salon. Un pansu aux Ã©paules en bouteilles semble lâattendre depuis le divan de cuir oÃ¹ il est langoureusement Ã©tendu.
+\end_layout
+
+\begin_layout Standard
+
+- ChÃ© fous prÃ©sente mon mari, le propriÃ©taire de la maison. Ãa fait cinq ans quâil ne mâa pas baisÃ©; il ne sâintÃ©resse plus quâaux hommes. Moi, chÃ© mÃ© dÃ©merde comme chÃ© peux. Allez, chÃ© fous laisse, auf wiedersehen.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune connaÃ®t ce peu appÃ©tissant mollasson. Câest Pete Barrett, Pierre Barrette dans ses jeunes annÃ©es, lâhomme du pouvoir libÃ©ral occulte dans la rÃ©gion. Tout passe par ses petits doigts boudinÃ©s et sans lui, le gros Turcotte ne serait rien. On dit de cette limace baveuse quâil nâa pas dâamis, mais quâil est suicidaire de sâen faire un ennemi. On chuchote que Philippe Dauphin et Carl Michaud lui doivent leur poste. Idem pour cette enflure dâAmÃ©dÃ©e Chicot, le patron du centre nutritionnel.
+\end_layout
+
+\begin_layout Standard
+
+Il est inutile ici de prÃ©ciser la suite immÃ©diate de cette rencontre. Disons, pour rÃ©sumer, que malgrÃ© son Ã©tat compliquÃ©, abscons, brumeux, Shimoune pourra tÃ©moigner du fait que contrairement Ã  ce que peut laisser croire sa dÃ©gaine obÃ¨se de puissant patapouf dÃ©cadent, Barrett passera rapidement aux actes, ne sâen tiendra quâaux actes, câest-Ã -dire quâil ne sera jamais passif au sens receveur du terme, et se montrera dâune patience vicelarde jusquâÃ  ce que Shimoune arrive Ã  contrecarrer avec de sÃ©rieux rugissements, le handicap dont lâavait frappÃ© le cocktail polytoxique absorbÃ© depuis le dÃ©but de la soirÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Ã son Ã©tonnement, le gastÃ©ropode lui fait signe que câest terminÃ© et quâil ne sâattend pas Ã  se faire rendre la politesse. Presque en mÃªme temps, comme si elle avait Ã©tÃ© aux aguets, la blonde revient le chercher.
+\end_layout
+
+\begin_layout Standard
+
+- Si fous sÃªtes intelligent, fous ne rÃ©pÃ©terez Ã  perzÃ´ne, entendez-fous, Ã  perzÃ´ne, quâil zouffre de dysfonction Ã©rectile chronique. Si jamais fous parlez, si jamais fous le dites Ã  quelquâun et quâil lâapprend, il fa fous faire regretter le jour de fotre naissance. Il est trÃ© douÃ© pour ceula.
+\end_layout
+
+\begin_layout Standard
+
+Elle ouvre alors son kimono et, lâespace dâun instant, dÃ©voile une vilaine cicatrice rougeÃ¢tre qui lui balafre le ventre des seins jusquâau pubis.
+\end_layout
+
+\begin_layout Standard
+
+- Fous savez compris ?
+\end_layout
+
+\begin_layout Standard
+
+Shimoune en a la chair de poule. Quel porc ! Il fait jouer la rabatteuse pour impuissants Ã  cette magnifique Allemande, ensuite il lui fait faire le panneau avertisseur.
+\end_layout
+
+\begin_layout Standard
+
+Quelques mÃ¨tres plus loin, Tintin semble en avoir fini avec Jonathan BÃ©rubÃ©. Le bonhomme est couchÃ© par terre et ronfle comme un quanticordi dont le ventilateur est en train de sauter.
+\end_layout
+
+\begin_layout Standard
+
+- Câest du vin Ã  250 $ la bouteille, dit-il Ã  Shimoune , un ChÃ¢teau Balestard Ã  bout de bras.
+\end_layout
+
+\begin_layout Standard
+
+- AmÃ¨ne-le, on va le finir. Moi ici, jâai un ChÃ¢teau ClÃ©ment Pichon, Ã§a doit pas se donner Ã§a non plus.
+\end_layout
+
+\begin_layout Standard
+
+Les deux compÃ¨res se rhabillent et dÃ©cident de sortir avec leur pinard de millionnaire. Le jour est en train de se dÃ©gourdir de sa nuit, les chauves-souris sont retournÃ©es se suspendre Ã  leur plafond, les oiseaux les moins paresseux ont dÃ©jÃ  amorcÃ© leur jabotage et le fleuve commence Ã  changer de couleur. La journÃ©e sera trÃ¨s chaude.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai amenÃ© une soucoupe de poudre.
+\end_layout
+
+\begin_layout Standard
+
+- Jâpâus capabâ, rÃ©pond Shimoune qui lance son verre Ã  bout de bras.
+\end_layout
+
+\begin_layout Standard
+
+- Dâvait bâen y en avoir pour 100 $ !
+\end_layout
+
+\begin_layout Standard
+
+Cette fois, câest lâassiette qui file vers la stratosphÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- Sais-tu ce quâon devrait faire, continue Martin Arsenault, alias Tintin, on devrait aller marcher sur les galets au bord de la mer. Il fait tellement beau.
+\end_layout
+
+\begin_layout Standard
+
+- OK, jâte suis.
+\end_layout
+
+\begin_layout Standard
+
+La dentelle cÃ´tiÃ¨re dâune parfaite irrÃ©gularitÃ© qui sâÃ©tire Ã  lâouest vers le Bic et Saint-Fabien, nâest quâun jeu infini de galets parfois acÃ©rÃ©s, de rÃ©cifs imposants sur lesquels il faut souvent se hisser, dâanses tÃ©nues avec leurs familles de canards, de baies minuscules qui disparaissent Ã  marÃ©e basse, de terre-pleins en caillou ou en gros sable, avec, en avant, tantÃ´t trÃ¨s prÃ¨s, tantÃ´t plus Ã©loignÃ©es, des Ã®les grandes ou petites, et, derriÃ¨re, des caps et des falaises boisÃ©es dont des cÃ¨dres et des Ã©pinettes ayant poussÃ© tout croche au travers des roches. Le fleuve y est le maÃ®tre absolu avec ses vagues crÃ©mÃ©es dâÃ©cume salÃ©e, gavÃ©es de varech et de goÃ©mon arrachÃ©s, qui, en clapotant, viennent parfois lÃ©cher la grÃ¨ve comme sâil sâagissait dâun cÃ¢lin, mais qui parfois, avec fracas, tentent de tout dÃ©molir comme si la rage du tonnerre de Dieu voulait annihiler ce paysage antÃ©diluvien. Ici un huard mÃ©fiant, lÃ  des macreuses qui semblent ne pas comprendre ce que font, trop prÃ¨s dâelles, ces quelques bernaches Ã©garÃ©es et ces familles dâeiders plongeurs, Ã  moins que ce ne soient des macreuses. Plus loin, occupÃ©es Ã  brailler, des mouettes que lâon croirait libÃ©rÃ©es dâun site dâenfouissement sanitaire. Et, invisibles, parce quâil faut pouvoir prendre son temps si on veut les apercevoir et les observer, quelques loups marins rÃ´dent en quÃªte de leur premier festin de la matinÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Mais en cette journÃ©e qui sâamorce, le nez vers le vent du large, Martin et Shimoune sâintÃ©ressent Ã  peine aux oiseaux. Et vice versa, du reste. Comme la marÃ©e descend, leur expÃ©dition sâavÃ¨re moins difficile. Les passages oÃ¹ il faut se glisser dans un demi-mÃ¨tre dâeau glaciale sont presque tous en voie de se rÃ©sorber. Au besoin, les deux excursionnistes du petit matin sâentraident sans devoir parler. Une main tendue suffit. On monte, on saute, on ahane, on grimpe, on reprend son Ã©quilibre, on sâarrÃªte le temps de souffler.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas vu lÃ -bas ? Y a un oiseau qui vient de plonger.
+\end_layout
+
+\begin_layout Standard
+
+- Ouin, câest un balbuzard, rÃ©pond Shimoune, sÃ»r de lui.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen non, y en a pâus au Bic.
+\end_layout
+
+\begin_layout Standard
+
+- Bâen Ã§a doit Ãªtre un faucon pÃ¨lerinâ¦
+\end_layout
+
+\begin_layout Standard
+
+- Bâen non, espÃ¨ce de grande folle, Ã§a pÃªche pas, un faucon pÃ¨lerin.
+\end_layout
+
+\begin_layout Standard
+
+- Jâsais-tây moi !
+\end_layout
+
+\begin_layout Standard
+
+Dâefforts en repos, de silence en dÃ©bats ornithologiques, les jeunes gens finissent par aboutir Ã  la Pointe-aux-Anglais, face au chenal sÃ©parant la terre ferme de lâÃ®le-au-Massacre. Mais puisquâils sont fatiguÃ©s, hÃ©bÃ©tÃ©s, mouillÃ©s, devenus peu loquaces, ils dÃ©cident de sâen retourner chez Pete Barrett, question de se trouver un samaritain disposÃ© Ã  les ramener Ã  Rimouski. Ã la diffÃ©rence que cette fois, crevÃ©s par leur nuit inavouable, ils le feront par en haut, en empruntant lâancien chemin de randonnÃ©e qui traverse le bois en direction est. Le point de dÃ©part est le premier de ces trois chalets insolents qui ont Ã©tÃ© construits sur la pointe au siÃ¨cle dernier. AussitÃ´t dit, aussitÃ´t fait ! Malheureusement, la piste nâest plus que vaguement balisÃ©e et le trajet promet dâÃªtre aussi pÃ©nible quâÃ  lâaller. Tintin parle mÃªme de retourner au bord du fleuve.
+\end_layout
+
+\begin_layout Standard
+
+Or voilÃ  quâaprÃ¨s avoir contournÃ© un Ã©norme rocher, un pavillon du mÃªme style, mais encore plus impressionnant que la maison de Barrett, apparaÃ®t presque miraculeusement dans leur champ de vision. Construite au milieu dâune Ã©claircie probablement volÃ©e Ã  la forÃªt par lâentrepreneur, lâhabitation est entourÃ©e de pelouse, de bosquets, dâarbustes et de haies. Ã ce quâils peuvent voir, la partie avant du terrain paraÃ®t mieux nantie. Il semble mÃªme y avoir un chemin dâaccÃ¨s asphaltÃ© avec muret dâapparat et barriÃ¨re. Plus prÃ¨s dâeux, câest lâarriÃ¨re de la maison qui sâoffre avec une baie vitrÃ©e protÃ©geant contre les vents salins lâimmense vÃ©randa qui lâhabille en totalitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune croit apercevoir quelquâun en train de sây affairer.
+\end_layout
+
+\begin_layout Standard
+
+- Y a un Bon Dieu pour nous autres, sâÃ©crit-il. Je vais aller lui demander sâil y a un chemin facile pour se rendre chez Barrett.
+\end_layout
+
+\begin_layout Standard
+
+En sâapprochant, il remarque que les bas de fenÃªtres ont Ã©tÃ© ouverts afin que lâair frais du matin puisse bien pÃ©nÃ©trer par les moustiquaires. Câest ce qui lui permet dâentendre des exclamations, des rires et un certain brouhaha. ReplaÃ§ant ses cheveux de folle du mieux quâil le peut, il monte poliment lâescalier de la vÃ©randa oÃ¹, constate-t-il, il nây a plus personne. Par contre, merci aux grandes croisÃ©es de chaque cÃ´tÃ© de la porte, il voit que ce nâest pas le cas plus loin Ã  lâintÃ©rieur. Dans ce quâil lui apparaÃ®t comme Ã©tant une vaste salle Ã  manger, des gens vont et viennent, des gens apparemment arrivÃ©s Ã  un Ã¢ge avancÃ© Ã  lâexception dâun gaillard dâaspect jovial, une sorte dâHercule bedonnant quâil rencontre tous les jours au rez-de-chaussÃ©e du Centre sous la forme dâune statue en bronze, le gros Turcotte lui-mÃªme. Instinctivement, le prÃ©posÃ© au manger mou, fif de rÃ©putation, fait le mort. Sâil frappe Ã  la porte, il sera mis en prÃ©sence de lâhomme fort du rÃ©gime libÃ©ral. Passe encore le dysfonctionnel Pete Barrett, mais lâhomophobe Sylvain Turcotte câest un peu trop lui demander ce matin.
+\end_layout
+
+\begin_layout Standard
+
+Au moment oÃ¹ il va reculer prudemment pour rejoindre son compagnon dans le sous-bois, il voit le ministre sâÃ©crier Ã  grand renfort de gestes avant de disparaÃ®tre du champ de vision :
+\end_layout
+
+\begin_layout Standard
+
+- Papa, maman, bonyenne, arrÃªtez Ã§a. Quand on fÃªte son soixantiÃ¨me anniversaire de mariage, on fait pas le mÃ©nage. On reste assis et on se fait servir. Pas vrai matante Germaine ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui cher, fait une voix stridente. Ton pÃ©re pâis ta mÃ©re lâont bâen mÃ©ritÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Turcotte rÃ©apparaÃ®t avec, bras dessus bras dessous, un vieil homme aussi Ã©norme que lui et une vieille dame qui joue Ã  celle qui proteste.
+\end_layout
+
+\begin_layout Standard
+
+- Mon oncle Lucien, avez-vous crinquÃ© votâ violon pour la fÃªte dâÃ  soir ? crie, hilare, le gros Turcotte par-dessus son Ã©paule.
+\end_layout
+
+\begin_layout Standard
+
+- Oui mon homme, mâa te faire souigner la baraque.
+\end_layout
+
+\begin_layout Standard
+
+Papa, maman, tante Germaine, oncle Lucien ? Quâest-ce que câest que ce bordel ?
+\end_layout
+
+\begin_layout Standard
+
+- Maman, arrÃªte de faire la baboune. Aujourdâhui, tu relaxes, câest ta fÃªte, Ã  toi et Ã  papa ! Tâes quand mÃªme pas pour annoncer que tu demandes le divorce au bout de 60 ans !
+\end_layout
+
+\begin_layout Standard
+
+Profitant des rires puissants du ministre qui semble animer, Ã  grand effet de bide, ce qui pourrait Ãªtre un petit-dÃ©jeuner, Shimoune opte pour une retraite discrÃ¨te.
+\end_layout
+
+\begin_layout Standard
+
+Une fois dans les fourrÃ©s, il fait signe Ã  Martin de garder le silence et de le suivre sans faire de bruit. Son plan est simple, si, cÃ´tÃ© faÃ§ade, il y a une voie carrossable, câest que des voitures en provenance de la 132 peuvent venir. Donc, en contournant par le bois pendant quelques centaines de mÃ¨tres, on arrivera sÃ»rement Ã  un chemin dâaccÃ¨s sans risquer dâÃªtre vu par Turcotte ou par sa parentÃ©. De lÃ , il sera facile de se rendre chez Barrett.
+\end_layout
+
+\begin_layout Standard
+
+Effectivement, cinq minutes plus tard, les deux randonneurs dÃ©bouchent sur la route de desserte oÃ¹ il ne leur reste plus quâÃ  marcher une quinzaine de minutes pour atteindre la section locale de Sodome et Gomorrhe. Mais ce faisant, ils auront eu le temps de constater que deux taupins montaient la garde Ã  la barriÃ¨re dâentrÃ©e chez Turcotte. Ã moins que ce ne soient deux employÃ©s du cabinet de Turcotte en train de prendre lâair matinal. En y songeant bien, pourquoi faudrait-il des gardiens ? Y aurait-il quelque chose Ã  cacher ? Et si ce sont des gardiens, ils ne semblent pas trÃ¨s professionnels.
+\end_layout
+
+\begin_layout Standard
+
+- Ils nâont pas pensÃ© quâon pouvait arriver par le bois du cÃ´tÃ© du fleuve.
+\end_layout
+
+\begin_layout Standard
+
+- Qui Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Les deux gardiens.
+\end_layout
+
+\begin_layout Standard
+
+- Quels deux gardiens ?
+\end_layout
+
+\begin_layout Standard
+
+- Ceux du gros Turcotte !
+\end_layout
+
+\begin_layout Standard
+
+- Le gros Turcotte ?
+\end_layout
+
+\begin_layout Standard
+
+- Bâen oui, il est lÃ -dedans avec son pÃ¨re, sa mÃ¨re, avec des mononks, des matantes â¦
+\end_layout
+
+\begin_layout Standard
+
+- LÃ¢che la coke, ma chouette. Les parents Ã  Turcotte sont morts dans un accident, il y a quelques annÃ©es de Ã§a. Les mÃ©dias en ont fait tout un plat.
+\end_layout
+
+\begin_layout Standard
+
+- Je te dis que je viens de les voir !
+\end_layout
+
+\begin_layout Standard
+
+- Ouin ouin !
+\end_layout
+
+\begin_layout Standard
+
+ÃbranlÃ©, sa fatigue Ã©tant ce quâelle est, Shimoune nâinsiste pas, pas plus quâArsenault du reste. Se pourrait-il quâil ait hallucinÃ© ? Lâalcool, la coke et lâeffort physique en synergie ? Pourtant !
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s avoir dormi quelque dix heures en ligne, il refait surface hantÃ© par lâimage du ministre libÃ©ral. MÃªme en avalant ses Åufs bouillis, il nâarrive pas Ã  dÃ©crocher. Nâest-ce pas Ã  cet immonde manÅuvrier populiste que le QuÃ©bec doit de voir ses aÃ®nÃ©s bouffer du Nutrisuz, Ãªtre encagÃ©s comme des bÃªtes, Ãªtre exterminÃ©s pour cause dâimproductivitÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+Son ordinateur a beau Ãªtre une antiquitÃ© du dÃ©but de lâinformatique quantique grand public et son affichage cruellement dÃ©pourvu de la techno nÃ©cessaire aux prÃ©sentations holographiques, il permet nÃ©anmoins la navigation vocale et le traitement simultanÃ© en 3D de requÃªtes multiples. En prime, il sert de systÃ¨me musical sophistiquÃ©. Câest donc confortablement emmitouflÃ© dans la musique de Gilles BÃ©langer, celle des hommes rapaillÃ©s de Gaston Miron qui joue en boucle, que Shimoune vadrouille un petit trois heures dans le cyberespace.
+\end_layout
+
+\begin_layout Standard
+
+Sa premiÃ¨re dÃ©couverte troublante lui provient du GRFR (Grand registre foncier rÃ©gional) qui lui rÃ©vÃ¨le tous les dÃ©tails lÃ©gaux particuliers Ã  cet immense pavillon que frÃ©quente ou â¦ frÃ©quenterait Sylvain Turcotte. Il a Ã©tÃ© Ã©rigÃ© en 2028, lâannÃ©e du rÃ©fÃ©rendum et de la crÃ©ation des CRG, il appartient Ã  lâÃtat et est sous la juridiction du ministÃ¨re des Affaires gÃ©rontologiques (MAG).
+\end_layout
+
+\begin_layout Standard
+
+- Bingo, la boÃ®te du Â«gros verratÂ»!
+\end_layout
+
+\begin_layout Standard
+
+Construit au coÃ»t de 3,4 M$, sa valeur fonciÃ¨re est actuellement de 4,8 M$, ce qui inclut un terrain de 2,2 acres et un chemin privÃ© de 300 mÃ¨tres. Puis, une cybervisite dans les pages dÃ©claratoires sur lâaffectation des ressources immobiliÃ¨res du MAG apprend au fouineur que le bÃ¢timent sert aux relations publiques du ministÃ¨re, en ce sens quâon y tient parfois des sessions de travail loin de la trÃ©pidation urbaine. Son responsable est Philippe Dauphin, cadre du MAG et directeur des communications au CRG/BSL.
+\end_layout
+
+\begin_layout Standard
+
+- âStie, le Flipper !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+50mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-turcotte1.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+EncouragÃ©, Shimoune entreprend alors de suivre la carriÃ¨re de Turcotte Ã  la trace et, fatalement, il aboutit Ã  cet horrible accident survenu en juin 2029 oÃ¹ un minibus avait fait une embardÃ©e sur la 20 Ã  la hauteur du pont de la riviÃ¨re ChaudiÃ¨re. Six personnes, tous membres de la famille du ministre libÃ©ral, avaient ainsi perdu la vie. ÃplorÃ©, Sylvain Turcotte avait parlÃ© de la Â«cruautÃ© du sortÂ» qui Â«sans prÃ©avisÂ» privait son pÃ¨re, sa mÃ¨re, deux de ses oncles et deux de ses tantes, Â«des gens modestes, sans autonomie financiÃ¨re mÃªme sâils ont travaillÃ© fort toute leur vieÂ», de cette belle retraite qui les attendait au nouveau CRG de Rimouski, le Â«fleuronÂ» du rÃ©seau institutionnel quâil venait Ã  peine dâinaugurer. La cÃ©rÃ©monie funÃ©raire avait Ã©tÃ© presque civique et les cendres avaient Ã©tÃ© Ã©parpillÃ©es aux quatre vents sur le fleuve.
+\end_layout
+
+\begin_layout Standard
+
+- Peuvent pas Ãªtre plus morts que Ã§a !
+\end_layout
+
+\begin_layout Standard
+
+Et soudain, Shimoune reÃ§oit un voyage de pierres sur le crÃ¢ne. Un reportage vidÃ©o lui prÃ©sente Turcotte en compagnie de ses parents lors de la campagne rÃ©fÃ©rendaire de 2028. Qui plus est, Mimi Turcotte, sa mÃ¨re, une femme dâallure sÃ©vÃ¨re que lâon identifie comme Ã©tant la responsable rÃ©gionale du recrutement des bÃ©nÃ©voles, affirme que la campagne va trÃ¨s bien et quâelle est trÃ¨s fiÃ¨re de son fils dont le projet envers les aÃ®nÃ©s va entrer dans lâhistoire du QuÃ©bec. Or, Ã  quelques dÃ©tails prÃ¨s, cette dame est exactement la mÃªme que celle quâil a aperÃ§ue ce matin, celle qui semblait vouloir se faire tirer lâoreille. Sâil avait vu juste. Sâil nâavait pas hallucinÃ©. Mais depuis quand hallucine-t-on avec de la coke de riches ? Quâest-ce que câest que ces embrouilles ?
+\end_layout
+
+\begin_layout Standard
+
+Et Miron de pousser dans les enceintes de Shimoune:
+\end_layout
+
+\begin_layout Standard
+
+- Ã tourmenter la nuit les vents lÃ -haut les ciels poudreux dâÃ©toiles brÃ»lÃ©es oÃ¹ sont par ce temps mes pÃ¨res et mÃ¨res ma famille que jamais je ne revois et les visages peints de mes croyances
+\end_layout
+
+\begin_layout Standard
+
+jâerre dans la ville sans Ãªtre heureux par rues et rafales sans hÃ¢te de dormir â¦
+\end_layout
+
+\begin_layout Standard
+
+Une histoire qui nâest pas sans ressemblance avec celle des parents de son ami TimothÃ©e Tardif, une prof de musique avec un CV impressionnant et un camionneur retraitÃ©. Tous deux morts dans un incendie criminel, mais qui sont rÃ©apparus sous forme dâillÃ©gaux Ã  la charge de leur fils. Ãtrange !
+\end_layout
+
+\begin_layout Standard
+
+Une sÃ©rie de clips provenant de la campagne de 2019 attire nÃ©anmoins son attention. Câest le dÃ©but de carriÃ¨re du gros Turcotte. Il a peut-Ãªtre quatorze ans de moins sur le compteur, mais il est aussi gros, aussi grand, aussi fort en gueule. Un des reportages nous le montre au sein de son comitÃ© Ã©lectoral oÃ¹, encore une fois, Mimi Turcotte apparaÃ®t, identifiÃ©e cette fois comme Ã©tant la directrice adjointe de lâorganisation libÃ©rale du comtÃ©. On lâentend dire quâelle a rÃ©ussi Ã  recruter des gens de qualitÃ© en provenance de tous les milieux, des artistes, des professionnels, des cultivateurs, des jeunes, des immigrants, qui viennent sâimpliquer parce quâils sont convaincus de la plateforme progressiste et juste du candidat Sylvain Turcotte, son fils. Et parmi ces bÃ©nÃ©voles extraordinaires quâelle cite en exemple, elle en a justement trois prÃ¨s dâelle, un Ã©tudiant en sociologie, lettres et communications Ã  de lâUniversitÃ© du QuÃ©bec Ã  Rimouski, Philippe Dauphin, un comptable agrÃ©Ã© de Sainte-Luce, Jonathan Roy, et une violoncelliste de renommÃ©e mondiale, Marie Rioux.
+\end_layout
+
+\begin_layout Standard
+
+- Attends un peu â¦
+\end_layout
+
+\begin_layout Standard
+
+Shimoune aura besoin dâune quinzaine de minutes bÃ©nÃ©dictines dans les archives de lâactualitÃ© rÃ©gionale avant de tomber sur lâhistoire de lâincendie criminel de Saint-Anaclet. Le reportage lui semble clair. Les deux victimes sont Romain Tardif, un camionneur retraitÃ©, et Marie Rioux, la violoncelliste bien connue Â«dont lâincessante contribution au milieu culturel rÃ©gional en fait une perte irremplaÃ§ableÂ». Les rouages de son cerveau se mettent alors en marche, tellement quâon croirait entendre le grincement des roues dâengrenage mal huilÃ©es. Deux tragÃ©dies violentes en deux ans, des tragÃ©dies impliquant des gens du parti libÃ©ral dont on nâa jamais retrouvÃ© les corps. Les uns se seraient entiÃ¨rement consumÃ©s dans un terrible incendie, les autres auraient Ã©tÃ© traitÃ©s dans un crÃ©matorium puis dissipÃ©s sur le fleuve. Pas de trace. Sauf que, le couple Tardif-Rioux vit cachÃ© dans un sous-sol de Nazareth, TimothÃ©e le lui a dit lâautre jour Ã  la pizzeria, et le couple Turcotte semble lui aussi bien vivant, en tout cas, il lâÃ©tait ce matin dans un pavillon du Bic soustrait aux regards indiscrets dans une petite forÃªt rabougrie faisant face Ã  la mer. La diffÃ©rence est cependant majeure. Lâun vit dans la pauvretÃ©, lâautre dans lâopulence.
+\end_layout
+
+\begin_layout Standard
+
+Et TimothÃ©e, ce bien Ã©trange lascar, en presque trois ans dâamitiÃ©, il ne sâest jamais ouvert sur sa vie privÃ©e que lâautre jour chez Da Peperone, probablement parce quâil Ã©tait terriblement mal pris. En fait, Shimoune ne connaÃ®t que le CS-1 marginal, peu loquace, souffre-douleur rÃ©signÃ©, bouc Ã©missaire statutaire, victime chronique des Monger et des Lavoie, fermÃ© comme une huÃ®tre prise sous un pilier de quai. Se pourrait-il quâil soit au courant pour ces dÃ©funts quâon retrouve florissants au Bic ? Ãa serait logique, non ? Se pourrait-il quâil ait une Â«vie secrÃ¨teÂ» ce qui expliquerait sa nature rase murs et sÃ©pulcrale ? Bref, se pourrait-il que ses parents, cette Marie Rioux et ce Romain Tardif, vivent leur quotidien au vu et au su du parti libÃ©ral et du gros Turcotte ? Car, Ã  bien y penser, comment un chef de section si peu autoritaire, si peu apprÃ©ciÃ©, si dÃ©criÃ©, si marginal, pourrait-il se maintenir en poste dans une institution contrÃ´lÃ©e par des crÃ©atures Ã  Pete Barrett, sâil nâen Ã©tait une lui-mÃªme ?
+\end_layout
+
+\begin_layout Standard
+
+Aussi bien dire que TimothÃ©e Tardif est un salaud comme les autres, mais selon toute probabilitÃ©, un salaud pris le couteau sur la gorge. Quâest-ce qui a bien pu se produire pour quâil ne puisse plus quÃ©rir de lâaide mÃ©dicale auprÃ¨s du gros Turcotte ?
+\end_layout
+
+\begin_layout Standard
+
+- Ma belle, tâes vraiment pas faite pour un monde aussi dur.
+\end_layout
+
+\begin_layout Standard
+
+On jurerait que Gaston Miron lâa compris.
+\end_layout
+
+\begin_layout Standard
+
+- Que je meure ici au cÅur de la cible au cÅur des hommes et des horaires que je meure ici au cÅur de la cible au cÅur des hommes
+\end_layout
+
+\begin_layout Standard
+
+Ne reste plus quâÃ  confronter ce salopard. Mais, en attendant, une petite vÃ©rification sâimpose.
+\end_layout
+
+\begin_layout Standard
+
+Câest ainsi que le dimanche matin, Shimoune conduit sa bagnole jusquâau stationnement public menant Ã  la Pointe-aux-Anglais et Ã  lâÃle-au-Massacre. De lÃ , il a tÃ´t fait de grimper, de se faufiler au travers la dense vÃ©gÃ©tation jusquâau sous-bois prÃ¨s du pavillon et, embusquÃ© thermos de cafÃ© Ã  la main, de se placer en mode observation. Quand il revient, une heure et demie plus tard, il a acquis deux convictions. Primo, il nâa pas eu la berlue hier matin. Mimi Turcotte, la femme des clips de nouvelles, frÃ©quente ce pavillon. GrÃ¢ce Ã  son DPP (dispositif personnel polyvalent), il vient mÃªme de la photographier Ã  plusieurs reprises. Par contre, le gros Turcotte ne sâest pas montrÃ©; Shimoune ne lâa ni vu ni entendu. Secundo, les deux soi-disant gardiens Ã  lâentrÃ©e sont Ã  leur poste, mÃªme si le ministre ne semble pas sâÃªtre prÃ©sentÃ©. La probabilitÃ© quâils soient de simples employÃ©s prenant lâair du matin sâestompe donc un peu. Encore lÃ , le DPP a Ã©tÃ© mis Ã  contribution.
+\end_layout
+
+\begin_layout Standard
+
+DÃ¨s son arrivÃ©e au Centre le lendemain, le prÃ©posÃ© au Nutrisuz tente de joindre son plus que probable faux frÃ¨re. Il lui laisse mÃªme un message laconique, Â«jâai de lâinfo qui pourra tâintÃ©resserÂ». Mais toute la journÃ©e, TimothÃ©e joue au chat et Ã  la souris. Se doute-t-il de quelque chose ? Comme il fallait sây attendre, la partie ne sera pas facile.
+\end_layout
+
+\begin_layout Standard
+
+Le mardi avant midi, alors quâAmÃ©dÃ©e Chicot est en train de lâÃ©plucher, Â«putain de gonzesse, câest pas de la graisse Ã  pÃ©dale, Ã§a, câest du Nutrisuz !Â», Claude Sey se prÃ©sente Ã  la cafÃ©tÃ©ria.
+\end_layout
+
+\begin_layout Standard
+
+- Avez-vous un instant, monsieur Saint-Pierre ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui mon beau pâtit pit, si tu veux voir Shimoune, tu vas le trouver. Quâest-ce que je peux faire pour toi, mon chou ?
+\end_layout
+
+\begin_layout Standard
+
+Chicot les regarde tous les deux avec haine.
+\end_layout
+
+\begin_layout Standard
+
+- Tous les lopettes, nom de Dieu !
+\end_layout
+
+\begin_layout Standard
+
+Shimoune sâest approchÃ© du comptoir.
+\end_layout
+
+\begin_layout Standard
+
+- Sâil vous plaÃ®t, monsieur Saint-Pierre, arrÃªtez votre cirque, vous et moi sommes assez intelligents pour nous en passer.
+\end_layout
+
+\begin_layout Standard
+
+- Câest comme tu veux, mon pâtit chÃ©ri. Mais cesse de mâappeler Â«monsieurÂ» et de me vouvoyer. Jâai pas la scoumoune, mÃªme si jâm e nomme Shimoune ! Ãa me met la chaiiiiirrrr de poule aux burrrrrnnnnes.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-claude.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Sey hausse les Ã©paules et raconte tout ce Ã  quoi il vient dâassister dans le bureau de Dauphin : TimothÃ©e, Dart Vader, Tropecolo et la violente colÃ¨re du Flipper.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi que tu me contes Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Parce que tu es ami avec TimothÃ©e et que Dauphin va vraiment se venger. Il a dÃ©jÃ  contactÃ© Michaud. Ces salauds sont capables de tout. Ton copain est dans une merde pas possible. Avertis-le et essaie de lâaider Ã  prÃ©venir les coups.
+\end_layout
+
+\begin_layout Standard
+
+- Comment ?
+\end_layout
+
+\begin_layout Standard
+
+- Je peux pas trop parler, mais il y a comme un dÃ©but de piste, le docteur Bellavance.
+\end_layout
+
+\begin_layout Standard
+
+- Bellavance ? Câest quoi le rapport ?
+\end_layout
+
+\begin_layout Standard
+
+- Peut-Ãªtre que sâil voit TimothÃ©e Ãªtre obligÃ© de se dÃ©fendre contre cette chienlit, il aura le goÃ»t de lui dire des choses.
+\end_layout
+
+\begin_layout Standard
+
+- Quelles choses ?
+\end_layout
+
+\begin_layout Standard
+
+- Je peux pas tâen dire plus.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune est sceptique.
+\end_layout
+
+\begin_layout Standard
+
+- SÃ©rieusement, pourquoi tu viens me dire Ã§a ici, Ã  matin, ma belle pâtite crotte ? Si tu travailles pour le Flipper, tâes aussi pourri que lui non ? Et lÃ  en plus, tu viens me le dÃ©noncer. Quâest-ce qui me dit que tu nâes pas en service commandÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+- Râgarde, tu fais comme tu veux. Je tâai racontÃ© dans le dÃ©tail ce quâil venait de se passer. Si tu me crois pas, questionne Tropecolo, Marie-Odile Tremblay ou monsieur Gagnon. Tu peux aussi aller vÃ©rifier ici, en bas, en demandant aux Papyblues. Ceci Ã©tant dit, le comique, essaie de ne pas trop tâÃ©touffer dans ta parano de sniffeuse de poudre cheap !
+\end_layout
+
+\begin_layout Standard
+
+Bouche bÃ©e, Shimoune regarde filer Claude Sey.
+\end_layout
+
+\begin_layout Standard
+
+Et il le restera jusquâÃ  sa pause de quatorze heures quand TimothÃ©e viendra le chercher. En attendant, il tentera de refaire le point. Au terme, son amitiÃ© aura pris le dessus sur sa mÃ©fiance. Car si son copain est un pourri, sâil est une des crÃ©atures de Barrett et du gros Turcotte, comment peut-il prendre le parti dâun vieillard diminuÃ©, ayant dÃ©jÃ  Â«un pied dans la tombeÂ», contre Dauphin et Michaud ? Et comment pourrait-il avoir tenu ces propos sur le vieil informaticien, jeudi dernier, lors de la sÃ©ance du ComitÃ© de dÃ©ontologie ? Est-ce la raison pour laquelle la bande Ã  Turcotte nâentend pas lâaider avec les graves ennuis de sa mÃ¨re et quâil doive faire affaire avec le docteur Gagnon ? Est-ce parce que TimothÃ©e voudrait prendre ses distances par rapport Ã  lâorganisation libÃ©rale ? Hum !
+\end_layout
+
+\begin_layout Standard
+
+Mais dâun autre cÃ´tÃ©, il se peut aussi que lâÃ©quation Mimi Turcotte â Marie Rioux ne soit pas bonne, que ces similitudes ne soient que fortuites, quâil nây ait aucun rapport entre le squat de la rue Crouet et le pavillon reclus du Bic. Et câest connu, des vieux qui sont planquÃ©s pour se soustraire aux CRG, il y en a des masses. Si ce nâÃ©tait pas le cas, il nây aurait pas les flics du BAG, cette SPCA spÃ©cialisÃ©e dans le ramassage de vieux. Aussi bien dire quâil est tout Ã  fait malhonnÃªte de vouloir Ã©tablir un lien entre ces deux histoires. Les seuls faits quâon peut vraiment invoquer sont que, dâun cÃ´tÃ©, il y a Turcotte, sa famille qui Ã©chapperait aux CRG en Ã©tant cachÃ©e dans un bÃ¢timent relevant du MAG, le Flipper et Michaud qui trempent dans cette sale combine, enfin Pete Barrett qui a lâÅil ouvert et le bon, ensuite que, dâun autre, il y a TimothÃ©e Tardif qui se saigne pour dissimuler ses parents, qui a une mÃ¨re malade, qui en arrache avec un profiteur du systÃ¨me et qui ne sait plus Ã  quel saint se vouer.
+\end_layout
+
+\begin_layout Standard
+
+Si tel est le cas, il nây a plus lieu de confronter ce pauvre diable. Pourquoi lâennuyer avec des histoires de libÃ©raux qui bafouent leur propre loi ? Mais il lâa soupÃ§onnÃ©. Sans compter que sa mÃ¨re a Ã©tÃ© associÃ©e Ã  lâorganisation de Turcotte. Puis, quelque part, le Momo ne lui dit pas tout. Rien nâest moins limpide que ce paquet dâembrouilles; il y a anguille dans les bobettes. Et maintenant quâil lâa prÃ©venu quâil avait de lâinfo pouvant lâintÃ©resser, il aurait lâair Ã©trange de reculer, de tourner son appel tÃ©lÃ©phonique en plaisanterie, en erreur. Sans oublier cette histoire avec le docteur Bellavance, le sinistre fermier hormonal. Le mieux est sÃ»rement de tout lui raconter, au TimothÃ©e, y compris sa suspicion. Un ami que lâon soupÃ§onne un instant du pire et Ã  qui lâon ne se confesse pas dâavoir ainsi pensÃ©, nâest probablement dÃ©jÃ  plus un ami, mais une relation mondaine.
+\end_layout
+
+\begin_layout Standard
+
+- Tiens, si câest pas le beau Momo, fait-il en le voyant se pointer Ã  la porte de la cafÃ©tÃ©ria. Moman que tâas pas dâlâair en forme, toi ! Tu râsembles Ã  un mort qui a mal ressuscitÃ©. As-tu bouffÃ© au moins ? Jâai une glaciÃ¨re dans mon char avec des fruits, du fromage, des viandes froides. Y a mÃªme un litre de jus dâananas. Je mâen allais manger Ã§a en prenant le soleil. Ãa te tente de partager ?
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦ je ne veux pas tâenlever le pain de la bouche.
+\end_layout
+
+\begin_layout Standard
+
+- Mon de doux ! Jâen ai en masse, sâil y en a pour un, il y en a pour deux, Momo ! De toute faÃ§on, jâai une mÃ©chante histoire Ã  te conter. Viens !
+\end_layout
+
+\begin_layout Standard
+
+Les regardant sâen aller, AmÃ©dÃ©e Chicot se tape la boucle dâoreille et demande la Direction des communications.
+\end_layout
+
+\begin_layout Standard
+
+- AllÃ´ ? Jâaimerais parler Ã  Philippe Dauphin.
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã  quel sujet ?
+\end_layout
+
+\begin_layout Standard
+
+- Putain de ta mÃ¨re, connasse ! Tu lui dis que Chicot a de lâinfo pour lui, merde, et que Ã§a urge !
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,833 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Trio pour clarinette, violon et â¦ trombone, le 18 juillet 2033
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Les sabots de frein geignant,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ TimothÃ©e se stationne comme il le fait du lundi au vendredi, Ã  la mÃªme heure, devant sa maison, une imitation de cottage anglais particuliÃ¨rement mal rÃ©ussie. Pourquoi endure-t-il le revÃªtement de bardeaux dâamiante blancs remontant au siÃ¨cle dernier ? Ne sont-ils pas cancÃ©rigÃ¨nes ? Pourquoi ne les fait-il pas recouvrir de planches synthÃ©tiques ? Il ne le fait pas parce quâil nâa pas de sous. Il a deux parents, sans oublier leur sale bÃªte de chien-rat, Ã  nourrir, Ã  vÃªtir, Ã  soigner, Ã  soutenir, Ã  rassurer, Ã  protÃ©ger. Ã cacher !
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Un chatouillement lui titille lâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- TimothÃ©e Tardif !
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Tardif ? Allanah Desrosiers de la Caisse populaire de Rimouski, vous allez bien ?
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Je vous appelle parce que votre compte chÃ¨que est Ã  dÃ©couvert de 97,64 $.
+\end_layout
+
+\begin_layout Standard
+
+- Ah !
+\end_layout
+
+\begin_layout Standard
+
+- Vous allez vous en occuper avant demain matin 9 h ?
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Parfait, Monsieur Tardif, au revoir !
+\end_layout
+
+\begin_layout Standard
+
+Lâhomme sâescrime quelques instants avec sa portiÃ¨re aux gonds Ã  moitiÃ© pourris, rÃ©ussit Ã  sortir de sa traction amÃ©ricaine et se retourne pour agripper deux sacs dâÃ©picerie, deux Â«extra-forts jetables et 100 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% compostablesÂ». Ce faisant, il rÃ©alise que Louis-Marc Richard est, encore une fois et comme toujours, en train de lâÃ©cornifler.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Du cÃ´tÃ© fleuve de la trÃ¨s fleurie rue Crouet, il nây a quâune maison, celle de TimothÃ©e, une construction artisanale de deux Ã©tages, sans parler de son prodigieux sous-sol, laquelle fut Ã©rigÃ©e en 1970 sur la crÃªte de lâÃ -pic escarpement, avec triple ancrage bÃ©tonnÃ© sous la chaussÃ©e, ce qui nÃ©cessita certains accommodements Ã  la Ville. CâÃ©tait le seul endroit possible du versant nord; plus Ã  gauche, le haut de la falaise est trop Ã©troit et Ã  droite, câest le terrain du cimetiÃ¨re nazarÃ©en qui dÃ©bute. Rapidement, lâinvraisemblable cottage se mÃ©tamorphosa en curiositÃ© quâon vint voir. Du coup, le voisin dâen face perdit sa vue sur le Saint-Laurent, ses couchers de soleil sur la CÃ´te-Nord et sa belle tranquillitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Lorsquâil prit sa retraite en 2010, il vendit son Ã©norme bungalow Ã  Louis-Marc Richard lequel, Ã  son tour, commenÃ§a Ã  dÃ©tester lâaffligeante bicoque qui lui obstruait le panorama. Tellement, dit-on, que tous les jours, il fait une priÃ¨re pour quâelle sâÃ©croule sur la voie ferrÃ©e au pied du cap et, quâau mÃªme moment, un convoi ferroviaire la pousse sur les battures noirÃ¢tres du fleuve.
+\end_layout
+
+\begin_layout Standard
+
+Quand, il y a dix ans, Richard apprit que lâinquiÃ©tante propriÃ©tÃ© avait changÃ© de mains, il espÃ©ra, un instant, que lâacheteur lâamÃ©liorerait, lâembellirait, lâarrimerait davantage Ã  lâesthÃ©tique ambiante de la rue et de sa dizaine de maisons. Mais non, rien ne se produisit, pas un coup de marteau ne fut entendu. Ses espoirs furent cependant ravivÃ©s cinq ans plus tard, en apercevant un fardier y livrer des feuilles de gypse, des panneaux de contreplaquÃ©, du bois en formats variÃ©s, une immense fenÃªtre Ã  espagnolette et tout le nÃ©cessaire pour effectuer des travaux majeurs. Mais encore lÃ , ce fut une dÃ©ception. Tout disparut Ã  lâintÃ©rieur.
+\end_layout
+
+\begin_layout Standard
+
+- Dis donc, voisin, lui avait-il demandÃ©, tu rÃ©noves ?
+\end_layout
+
+\begin_layout Standard
+
+- Je construis un logement dans le sous-sol.
+\end_layout
+
+\begin_layout Standard
+
+- Pour toi ?
+\end_layout
+
+\begin_layout Standard
+
+- Non. Pour louer.
+\end_layout
+
+\begin_layout Standard
+
+- Ã des locataires ?
+\end_layout
+
+\begin_layout Standard
+
+- Ã des locataires.
+\end_layout
+
+\begin_layout Standard
+
+- Mais y en a pas dans notre rue !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e lui avait alors tournÃ© le dos et sâen Ã©tait retournÃ© Ã  ses occupations. OffusquÃ©, furibond, Richard lâavait mortellement haÃ¯ et, depuis, il ne lui avait plus jamais parlÃ©. Dans un premier temps, il avait bien remarquÃ© quâune porte dâentrÃ©e avait Ã©tÃ© amÃ©nagÃ©e sur la faÃ§ade permettant dâaccÃ©der directement au logement. Mais, quelques mois plus tard, elle avait Ã©tÃ© bouchÃ©e, laissant paraÃ®tre cette affreuse cicatrice que lâon pouvait encore contempler aujourdâhui. Louis-Marc Richard supposait que son vis-Ã -vis avait changÃ© dâidÃ©e pour les locataires â en fait, il nâen avait jamais vu lâombre dâaucun â et quâil avait tout simplement agrandi son espace vital. Oui, mais pourquoi ?
+\end_layout
+
+\begin_layout Standard
+
+Cet Ã©trange voisin qui ne recevait jamais de visite, qui semblait toujours seul et â¦ sans femme, occupait dÃ©jÃ  un grand rez-de-chaussÃ©e et, par surcroÃ®t, un Ã©tage assez spacieux pour abriter deux chambres normales. Pourquoi lui fallait-il un sous-sol en plus ? Lui, un cÃ©libataire dont la voiture Ã©tait un outrage Ã  la rue Crouet et la tenue vestimentaire, une illustration de misÃ¨re noire. Sans parler de ce chien jaune quâon avait envie de fesser Ã  coups de pied, une bÃªte sournoise quâil se contentait dâenvoyer marcher par GPS quand il y pensait. Ãtrange ! Bizarre ! Ã surveiller !
+\end_layout
+
+\begin_layout Standard
+
+Câest ce quâil fit, se mettant mÃªme Ã  Ã©valuer le volume des sacs dâÃ©picerie que TimothÃ©e charriait parfois tous les jours en fin dâaprÃ¨s-midi. Comment un homme seul dâapparence aussi modeste, pouvait-il manger autant que les trois Richard rÃ©unis, le pÃ¨re et ses deux ados ? Intrigant !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[r]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+60mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/gazou.jpg
+	height 35mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e hausse les Ã©paules et, sacs en main, disparaÃ®t Ã  lâintÃ©rieur. Sans sâarrÃªter dans sa taniÃ¨re, il dÃ©vale directement un escalier Ã  pic et tout en bas, cogne du pied. Mais dÃ©jÃ , Gazou lâa repÃ©rÃ© et sâest mis Ã  aboyer avec furie, son sale museau de fausset tout plissÃ© par la haine. Heureusement, un ordre susceptible dâintimider un adjudant-chef dâinfanterie se fait entendre :
+\end_layout
+
+\begin_layout Standard
+
+- Ichi ! Ã cÃ´tÃ© de Maman !
+\end_layout
+
+\begin_layout Standard
+
+InstantanÃ©ment, le chien-rat se tait et TimothÃ©e franchit le seuil de la porte. Lâun retourne sâÃ©craser prÃ¨s du fauteuil de sa maÃ®tresse, lâautre salue gauchement. HabituÃ© aux senteurs ambiantes, il les ignore et va placer les provisions sur le comptoir de la cuisinette. En passant, il dÃ©pose les quatre livres de poche remis par lâancienne bibliothÃ©caire sur une pile de bouquins non classÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Au moins, ils ont sorti les vidanges, remarque-t-il.
+\end_layout
+
+\begin_layout Standard
+
+Ã son pÃ¨re qui lâa suivi pour lâaider, il glisse un petit dix onces de vodka que le bonhomme a tÃ´t fait de cacher dans une armoire. Puis, Ã  voix basse
+\end_layout
+
+\begin_layout Standard
+
+- LâÃ©cornifleux mâa encore guettÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Penses-tu quâil commence Ã  soupÃ§onner quelque chose ?
+\end_layout
+
+\begin_layout Standard
+
+La question reste sans rÃ©ponse. Comment savoir ? Sâil y a danger dâÃªtre dÃ©noncÃ©, Ã§a ne peut venir que de Louis-Marc Richard. Les autres rÃ©sidents de la rue sont trop Ã©loignÃ©s pour remarquer quoi que ce soit, pour se douter de quelque chose. Et, en dix ans, mis Ã  part Richard, personne ne lui a jamais adressÃ© la parole, personne nâa jamais paru sâintÃ©resser Ã  lui, personne nâen a eu besoin.
+\end_layout
+
+\begin_layout Standard
+
+- Merci pour tout Ã§a, TimothÃ©e-Milet.
+\end_layout
+
+\begin_layout Standard
+
+Quand son pÃ¨re lâappelle ainsi, câest quâil est heureux de sa prÃ©sence et quâil a envie dâÃ©changer, de raconter, de rire.
+\end_layout
+
+\begin_layout Standard
+
+- As-tu vu, vous recommencez Ã  avoir des fourmis, fait le fils en Ã©crapoutissant trois bestioles prises en flagrant dÃ©lit dâÃ©corniflage sur le comptoir.
+\end_layout
+
+\begin_layout Standard
+
+Le vieillard se tord les maxillaires en un sinistre bÃ¢illement et sâen retourne sâÃ©craser dans son fauteuil malgrÃ© la Maririou qui psalmodie son habituelle liturgie. Elle en a long Ã  dire. Mais TimothÃ©e ne lâÃ©coute pas lui non plus. Il garde plutÃ´t les yeux fixÃ©s sur cette immense fenÃªtre pleine de lumiÃ¨re dâoÃ¹ il peut voir le fleuve Ã©voluer autour des Ã®les Canuel et Saint-BarnabÃ©. En mÃªme temps, il pense Ã  tous ces gens heureux quâil a croisÃ©s en route. Ã ces filles qui riaient. Ã ces filles Ã©courtichÃ©es et immodestes qui vivaient dÃ©bordantes de santÃ©, de jeunesse, dâinsouciance. Finiront-elles comme Luce Morency ? Allez savoir ! Mais dans ce coq Ã  lâÃ¢ne onirique, le masque hargneux de Louis-Marc Richard, une figure fielleuse, toxique, mortelle, vient durement chasser celui triste et perdu de la dÃ©mente. Et voilÃ  quâÃ  son tour, il cÃ¨de la place Ã  celui du bonhomme Martel et Ã  ses insinuations sur son Saguewanish, puis, swoosh !, aux traits tout en sourire, en simplicitÃ© et en politesse surannÃ©e de Bea Bellow.
+\end_layout
+
+\begin_layout Standard
+
+Bea Bellow, les Giono ! TimothÃ©e a tÃ´t fait de repÃ©rer les livres promis sur un des rayons Ã  gauche de la fenÃªtre.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/romain1.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Pendant ce temps, chattemite incorrigible, Romain augmente subrepticement le volume de son Ã©couteur sans fil; lâheureux homme nâentend plus le flot rÃ©criminatoire de sa conjointe; savoir utiliser son expÃ©rience Ã  bon escient constituerait, dit-on, une preuve dâintelligence. TimothÃ©e, lui, a droit au grand jeu. Il a mis trop de temps Ã  revenir de son travail. Il a traÃ®nÃ©. Ã quoi a-t-il pensÃ© ? Voit-il une femme ? On espÃ¨re bien que non ! A-t-il bu ? Eux autres, les vieux, ils commenÃ§aient Ã  sâinquiÃ©ter ! Qui peut prÃ©voir une descente de police ? Le BAG frappe toujours sans prÃ©venir. Et patati et patata.
+\end_layout
+
+\begin_layout Standard
+
+Puis voilÃ  que soudain, sans quâon ne le sente venir, elle se tait. Consciente de cÃ©lÃ©brer un cÃ©rÃ©monial essentiel Ã  sa vie, elle se saisit du violoncelle debout prÃ¨s de son fauteuil. Câest le signal ! ImmÃ©diatement, Gazou file se cacher sous un lit et les deux hommes, rÃ©signÃ©s, vont au placard chercher leur instrument, le fils un trombone, le pÃ¨re une clarinette.
+\end_layout
+
+\begin_layout Standard
+
+- Trio pour clarinette, violonchelle et piano, opuch 2 de Vinchent dâIndy, chuinte la mÃ¨re. Pis toi. Gajou, tu te tais, sinon tu vas avoir affaire Ã  Maman !
+\end_layout
+
+\begin_layout Standard
+
+Avec son trombone, instrument quâil dÃ©teste de plus en plus et quâil a cessÃ© de maÃ®triser depuis belle lurette, Ã  preuve les couacs intermittents, TimothÃ©e suit sans plaisir la partition bricolÃ©e par sa mÃ¨re, faute dâavoir un piano. Mais il finit nÃ©anmoins par se rendre au bout. Avec son trombone, il ne peut Ã©videmment rendre justice Ã  lâopus original qui a Ã©tÃ© composÃ© pour clarinette, violoncelle et piano. Il le sait. Et sa mÃ¨re aussi. Sauf que cette contrariÃ©tÃ© lui donne une occasion supplÃ©mentaire pour se dire dÃ©Ã§ue de ce fils paresseux, un enfant qui avait tellement de talent musical, tellement de potentiel. Une nouvelle litanie est lancÃ©e et sur le point de passer au crescendo. Mais Romain en a assez; il sâimmisce.
+\end_layout
+
+\begin_layout Standard
+
+- LÃ , tu vas arrÃªter. Je te rappelle que TimothÃ©e, un Â«travaillantÂ» du CRG oÃ¹ on garde les vieux comme nous autres en cage, nous cache ici, dans sa maison, et paie tout de sa poche. Sâil se fait prendre, il est fini pour le reste de ses jours. Tu vas lui sacrer patience. Ãa nâa pas de maudit bon sens ! Marie se tait. Elle regarde fixement son homme, puis, faÃ§on dâadmettre quâelle a eu tort, elle baisse la tÃªte vers Gazou qui est revenu et qui gronde en direction du vieillard. Ignorant TimothÃ©e, elle se lÃ¨ve et marche, lâanimal grotesque Ã  sa suite, jusquâÃ  la cuisine. Peut-Ãªtre quâelle va y apercevoir quelques fourmis et se dÃ©fouler sur les malheureux hymÃ©noptÃ¨res, se dit TimothÃ©e. Mais, au son, elle semble plutÃ´t vouloir bardasser. Il lui faut ramasser la vaisselle du midi et prÃ©parer le repas du soir.
+\end_layout
+
+\begin_layout Standard
+
+Avant, Romain ne rouspÃ©tait jamais. Il laissait toujours Â«borderÂ», ce qui convenait parfaitement bien au caractÃ¨re invivable de la Maririou. Mais, avec les annÃ©es, il lui a fallu rÃ©duire, rarÃ©fier, puis arrÃªter sa consommation de hash; la substance ne lui rÃ©ussissant plus, le bien-Ãªtre ayant Ã©tÃ© remplacÃ© par la paranoÃ¯a et lâangoisse. Pire, il y avait eu lâÃ©tÃ© 2027 et cette affaire ratÃ©e depuis laquelle, tous deux Ã©taient reclus. VoilÃ  qui suffit amplement Ã  changer un caractÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Ãmu, le fils se lÃ¨ve Ã  son tour, va ranger son instrument, caresse timidement lâÃ©paule de son pÃ¨re en passant et, escortÃ© par Gazou qui essaie vicieusement de lui mordre un mollet, sâengage dans lâescalier.
+\end_layout
+
+\begin_layout Standard
+
+- CouchÃ© Gazou, mÃ©chant chien !
+\end_layout
+
+\begin_layout Standard
+
+Et si jamais Robespierre Alcide lui fournissait les petites pilules du bonheur, ces cachets sans lendemain, quâen ferait-il ? Comment aborderait-il la question avec son pÃ¨re, avec la Maririou ? Â«Tenez, avalez Ã§a avec un verre dâeau. Ne craignez rien, ce nâest pas souffrant, câest comme un somnifÃ¨re, un gros gros somnifÃ¨re ! Un somnifÃ¨re pour toujours !Â» Nây a-t-il pas une autre solution ? Une faÃ§on diffÃ©rente de vivre ? Ãa nâa plus de bon sens. LâagressivitÃ©, la vindicte, lâacrimonie semblent en escalade constante. Et leur aire dâhabitation aux vieux, elle mÃ©riterait un grand mÃ©nage au savon fort, au plÃ¢tre, Ã  la peinture, une rÃ©novation importante avec des rideaux neufs, des meubles moins cabossÃ©s. Ãa sent mauvais, câest sale, humide, Ã©touffant, dÃ©primant.
+\end_layout
+
+\begin_layout Standard
+
+Il est vrai que sa mÃ¨re tire souvent de trop gros boulets sur de trop petites cibles, mais quand mÃªme. Il faut comprendre le contexte pÃ©nible dans laquelle elle vivote depuis six ans. Câest comme si on avait mis en cage une lionne de la savane, une lionne dans la force de lâÃ¢ge avec le museau tachÃ© de sang. Pour une personne qui, comme elle, en menait large dans lâunivers culturel de la rÃ©gion, la situation est carrÃ©ment invivable. Et câest ainsi depuis six ans !
+\end_layout
+
+\begin_layout Standard
+
+Jeune fille volontaire, opiniÃ¢tre, studieuse, travailleuse, bÃ»cheuse, non diplomate, incapable dâhumour, toujours sÃ©rieuse et, gÃ©nÃ©ralement, insupportable, elle sâest retrouvÃ©e en 1972, elle avait 21 ans, Premier Prix du Conservatoire de musique de QuÃ©bec en violoncelle. Ensuite, elle a jouÃ© comme remplaÃ§ante avec lâOrchestre symphonique de QuÃ©bec, ainsi quâavec la SociÃ©tÃ© de musique contemporaine du QuÃ©bec. De lÃ , elle est passÃ©e en France oÃ¹, avec son caractÃ¨re Ã©prouvant, elle a bourlinguÃ© un peu partout, mais surtout dans le Midi. Des gens ont pleurÃ© Ã  cause dâelle, aussi bien par amour que par haine.
+\end_layout
+
+\begin_layout Standard
+
+Puis, Ã  29 ans, elle est revenue au pays lors dâune tournÃ©e avec lâOrchestre de Chambre de Toulouse. ForcÃ©e au repos, elle a alors dÃ©couvert un projet dâÃ©cole populaire de musique, un projet anarchique qui devint, au fil des ans, une institution rÃ©gionale ayant ses hauts et ses bas et quâelle appuiera jusquâÃ  la fin, en 2021. LâidÃ©e Ã©tait noble: transfÃ©rer des rudiments de musique aux moins bien nantis de la sociÃ©tÃ©. Ãvidemment son caractÃ¨re nâaidant pas, elle y sema bisbille et zizanie, sây fit des ennemis, sâaliÃ©na ses camarades et les gens Ã  qui elle enseignait. Ces derniers lâappelaient dâailleurs la Â«sÅur directriceÂ» et ses collÃ¨gues, Â«la MaririouÂ», un peu comme sâils avaient dit Â«la malariaÂ», Â«la maladieÂ», Â«la mort-aux-ratsÂ» ou Â«la malepesteÂ». Elle claqua la porte sans toutefois partir bredouille, puisquâelle amena dans ses jupes le beau Romain, un clarinettiste autodidacte de grand talent qui tripait dans la go-gauche entre deux cargaisons de hashish.
+\end_layout
+
+\begin_layout Standard
+
+Car le gaillard faisait venir sa Â«dopeÂ» de MontrÃ©al, gÃ©nÃ©ralement du brun verdÃ¢tre de la rÃ©gion de Ketama au Maroc, cela en plaquettes dâun kilo. Ã la rÃ©ception, le drÃ´le les dÃ©peÃ§ait en 39 bÃ¢tonnets dâune once, alors quâen rÃ©alitÃ©, sâil avait Ã©tÃ© vraiment honnÃªte, il nâaurait pu en tirer que 35 onces et des poussiÃ¨res. Mais, comme il le disait Ã  tout le monde, ces quatre Â«oncesÂ» bricolÃ©es aux dÃ©pens des autres Ã©taient sa Â«cutÂ», son dÃ©dommagement Â«pour son troubleÂ». Il ne lui fallait gÃ©nÃ©ralement pas plus de 24 heures pour tout Ã©couler, sans jamais sâaccorder de profit; il revendait presque Ã  son coÃ»tant, pour peu que lâon fasse abstraction des quatre portions prÃ©levÃ©es. Cette pÃ©nible nÃ©cessitÃ© terminÃ©e, il entreprenait alors de fumer sa part, ce qui pouvait lui prendre jusquâÃ  deux semaines. DâoÃ¹ son surnom de Â«Romain le GelÃ©Â» ou du Â«GelÃ© Ã  TardifÂ» !
+\end_layout
+
+\begin_layout Standard
+
+Ã lâÃ©poque, le beau Romain ne faisait jamais de dÃ©claration de revenus et ne travaillait quâau noir, quand il travaillait. Cinquante ans plus tard, voici que sa vie nâest pas vraiment diffÃ©rente, mise Ã  part sa condition reliÃ©e Ã  lâÃ¢ge. Lui et La Maririou ne donnent plus de nouvelles Ã  lâÃtat, ne font plus de dÃ©clarations de revenus, ne rÃ©sident pas dans un CRG, tout en nâÃ©tant plus en Ã¢ge de travailler. Quelque part dans le systÃ¨me du ministÃ¨re, de son ministÃ¨re Ã  lui, TimothÃ©e-Milet, ses parents doivent Ãªtre fichÃ©s comme Â«disparusÂ». Soit quâils aient dÃ©guerpi vers lâÃ©tranger, comme bien dâautres, soit quâils soient devenus des Â«illÃ©gauxÂ». Mais comme ils sont cachÃ©s dans un sous-sol de Nazareth, ils sont des Â«sans-papiersÂ» pourchassÃ©s par les sbires du BAG. Ã cette pensÃ©e, lâestomac du CS-1 se resserre.
+\end_layout
+
+\begin_layout Standard
+
+Parfois TimothÃ©e, dont le vrai nom, celui Â«avec des traits dâunionÂ» quâon avait enregistrÃ© Ã  lâÃ©tat civil, est Â«Romain-Marie TimothÃ©e-Milet Rioux-TardifÂ», se dit que sa vie est fondamentalement improbable. Impensable. Comment se pouvait-il que deux Ãªtres aussi dissemblables puissent en arriver Ã  se rapprocher au point de commettre lâÅuvre de chair, cette Åuvre mal taillÃ©e dont il fut lâincarnation ? Tout semblait les sÃ©parer, y compris leur faÃ§on de concevoir la musique. Lui, il aimait jammer avec des copains, fumer du hash sur fond de jazz et allumer son poÃªle avec ses partitions. Elle, elle nâentendait interprÃ©ter que du Saint Saens, du de Debussy, du Chopin, du Mendelsohn, du Schubert, du Dvorak, du Bocherini, du Beethoven ou du Brahms oÃ¹ le violoncelle Ã©tait mis en Ã©vidence. Et elle les jouait, trÃ¨s sÃ©rieuses, les reins cambrÃ©s et la jambe placÃ©e comme il se devait.
+\end_layout
+
+\begin_layout Standard
+
+Dans le fond, elle le trouvait beau, touchant et doux. Elle ne lui sentait aucune malice, aucune mÃ©chancetÃ© dont elle souffrirait. Elle comprenait que son agressivitÃ© Ã  elle, ainsi que sa rigueur et son totalitarisme, ne pouvaient avoir aucune prise sur lui. Elle voyait bien quâil ne pourrait jamais exister dâaffrontement entre eux puisque Romain le GelÃ© nâavait aucun talent pour le combat, aucune aptitude envers les affrontements. Elle intuitionnait quâil laisserait toujours faire les choses et, quâainsi, faute dâaccÃ©lÃ©rant, sa colÃ¨re mourrait. Autrement dit, elle se connaissait assez pour savoir quâavec lui, elle pourrait Ãªtre moins Ã©prouvante.
+\end_layout
+
+\begin_layout Standard
+
+Lui ? Il la trouvait sÃ©duisante avec son grand cou sensuel, sa dÃ©marche de ballerine, son port de princesse, ses yeux embrasÃ©s par on ne sait quelle rage, sa faÃ§on dâÃªtre scandalisÃ©e par ce que lui considÃ©rait comme Ã©tant des Â«niaiseriesÂ», son parler clair et direct, ses questionnements incessants et ses rigueurs inutiles. Elle le faisait sourire, surtout quand il Ã©tait dans un Ã©tat second.
+\end_layout
+
+\begin_layout Standard
+
+Mais en mÃªme temps, elle lui inspirait le dÃ©sir. Â«Lâest pât-Ãªtre pas domptable, mais âest bâen mettableÂ», avait-il adoptÃ© comme justification mantique. Et quand celle-ci fut mise en application (Ã§a se passa dans une boÃ®te de camionnette stationnÃ©e dans un sous-boisâ¦), ce fut pourtant bien ordinaire. Du dÃ©cevant, Romain nâÃ©tant pas de ce genre dâhommes Ã  sâenorgueillir dâavoir dÃ©florÃ© une jeune fille. Si dans les semaines qui suivirent, il nâavait quâÃ  lui sentir la peau pour redevenir instantanÃ©ment en situation de service, elle, câÃ©tait la croix et la banniÃ¨re pour quâelle redevienne en situation de franche ouverture. MalgrÃ© tout, il y eut, en 1990 - la Maririou avait 39 ans - lâapparition insolite de TimothÃ©e, un bÃ©bÃ© sorti dâon aurait dit nulle part, tant il Ã©tait diffÃ©rent de ce Ã  quoi on aurait pu sâattendre en voyant les parents. En rÃ©alitÃ©, il tenait de lâarriÃ¨re-grand-pÃ¨re maternel de Marie, un dÃ©nommÃ© LÃ©once Belzile.
+\end_layout
+
+\begin_layout Standard
+
+- Câest curieux la gÃ©nÃ©tique, se dit TimothÃ©e en contemplant une trÃ¨s rare photo du couple Ã  lâÃ©poque de leurs jeunes frÃ©quentations.
+\end_layout
+
+\begin_layout Standard
+
+Le bambin apprit trÃ¨s jeune Ã  Ã©viter la maison, Ã  se plaire avec les poules et les oies qui eux, nâen avaient rien Ã  glander que cet humain ait pour prÃ©nom TimothÃ©e-Milet, Ã  jouer au cowboy tout seul dans les rangs de blÃ© dâInde, Ã  se complaire dans la cueillette solitaire des fraises, framboises, cerises et autres gadelles, Ã  courir avec les chiens, Ã  cÃ¢liner les portÃ©es de minous, Ã  sâamÃ©nager dâinfinis tunnels dans les bancs de neige, Ã  passer des heures sans bouger assis dans lâEconoline de son pÃ¨re dans lâespoir quâil lui demande un petit coup de main. Ne lâappelait-il pas son petit Â«helperÂ» ? Mais, rÃ©guliÃ¨rement, il se faisait attraper par sa mÃ¨re qui lâinspectait de pied en cap, le nettoyait sommairement et lui imposait une grosse heure de thÃ©orie musicale sur le piano du salon. Parfois, avant quâil ne puisse se sauver, elle sâen saisissait et, le maintenant fermement sur une chaise, lui coupait les cheveux aux ciseaux, comme pour le punir dâon ne sait quoi, ce qui lui donnait lâallure dâun enfant tout crottÃ© du Moyen Age.
+\end_layout
+
+\begin_layout Standard
+
+En raison de sa nature sauvage et de sa grande timiditÃ©, il nâeut jamais dâamis. Surtout pendant son secondaire Ã  lâÃ©cole Paul-Hubert, cinq annÃ©es quâil associa Ã  lâenfer. Les yeux sur la photo quâil ne voit plus, TimothÃ©e pense Ã  ses collÃ¨gues de travail au CRG, des brutes sans jugement, des salauds quâil a presque tous connus, dans le temps, au Paul-Hubert. DÃ©jÃ  Ã  cette Ã©poque ils le persÃ©cutaient. GrÃ©garitÃ© oblige, les animaux agissent ainsi. Sans savoir pourquoi, obÃ©issant Ã  une consigne quâon nâarrive jamais Ã  retracer, possiblement la saute dâhumeur dâun mÃ¢le dominant, ils sâen prennent Ã  lâun des leurs et ils sâacharnent sur le malheureux tant quâil ne disparaÃ®t pas.
+\end_layout
+
+\begin_layout Standard
+
+- Et il a fallu que Ã§a tombe sur moi !
+\end_layout
+
+\begin_layout Standard
+
+Son frigo Ã©tant vide comme un tombeau pillÃ©, il double-tape sa boucle dâoreille.
+\end_layout
+
+\begin_layout Standard
+
+- Rikizaria bonjour, quâest-ce quâon peut faire pour vous aujourdâhui ?
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur T.-L. Tardif ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui â¦
+\end_layout
+
+\begin_layout Standard
+
+- Vous appelez de votre domicile ?
+\end_layout
+
+\begin_layout Standard
+
+- Euh â¦ oui â¦
+\end_layout
+
+\begin_layout Standard
+
+- Vous prenez comme dâhabitude ?
+\end_layout
+
+\begin_layout Standard
+
+- Comme dâhabitude.
+\end_layout
+
+\begin_layout Standard
+
+- Parfait, on vous livre Ã§a dâici 20 minutes.
+\end_layout
+
+\begin_layout Standard
+
+- Euh, merci !
+\end_layout
+
+\begin_layout Standard
+
+- Rien dâautre ?
+\end_layout
+
+\begin_layout Standard
+
+- Non â¦
+\end_layout
+
+\begin_layout Standard
+
+- Ãa sera 42 $ service compris. On vire Ã§a de votre compte ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui.
+\end_layout
+
+\begin_layout Standard
+
+- Dâaccord. Dites âjâaccepteâ.
+\end_layout
+
+\begin_layout Standard
+
+- Euh, jâaccepte.
+\end_layout
+
+\begin_layout Standard
+
+- Câest fait.
+\end_layout
+
+\begin_layout Standard
+
+- â¦
+\end_layout
+
+\begin_layout Standard
+
+- Au revoir M. Tardif et merci dâavoir choisi Rikizaria !
+\end_layout
+
+\begin_layout Standard
+
+Encore une pizza ! Encore un autre repas mauvais pour la santÃ© quâil avalera tout seul, trop vite, sans plaisir et pour lequel il ne conservera aucun souvenir. AprÃ¨s, comme dâhabitude, il sâÃ©crasera devant son terminal de quanticordi pour regarder un film ou pour sâoccuper de ses finances personnelles. La dame de la Caisse ne lui a-t-elle pas dit de rÃ©gler son dÃ©couvert ? Ã moins quâil ne se fasse aller lâavatar. Il fera cela, comme dâhabitude, comme toujours, assis sur son fauteuil dÃ©crÃ©pi aux odeurs fauves, avec ses taches de nourriture, ses rognures dâongles assorties, ses dÃ©bris de pizza, de croustilles, de pinottes, de biscuits et de tacos. Ne devrait-il pas sâen dÃ©barrasser ? En acheter un neuf ? Pourquoi le ferait-il ? Et surtout, pour qui ? Il ne vient jamais personne. De toute faÃ§on, il nâen a pas les moyens.
+\end_layout
+
+\begin_layout Standard
+
+Deux heures passent ainsi avant quâune prÃ©sence essoufflÃ©e et un grondement nâattirent son attention du cÃ´tÃ© de lâescalier.
+\end_layout
+
+\begin_layout Standard
+
+- Jâveux pas te dÃ©ranger.
+\end_layout
+
+\begin_layout Standard
+
+Câest Romain qui est montÃ© avec le dix onces de vodka, Gazou aux talons. Le chien-rat arbore son collier GPS.
+\end_layout
+
+\begin_layout Standard
+
+- Ta mÃ¨re dort.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e sâassure que les rideaux sont tous bien tirÃ©s et que lâÃ©clairage nâest pas trop violent. Louis-Marc Richard est sÃ»rement aux aguets. Il entrebaille la porte et laisse sortir la sale bÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Je pourrais en profiter pour jeter son maudit chien vicieux en bas du cap. Jâai rien quâÃ  ouvrir en bas, puis, ououou-you-you-you ! Partie la maudite engeance !
+\end_layout
+
+\begin_layout Standard
+
+Mais TimothÃ©e ne sourit pas.
+\end_layout
+
+\begin_layout Standard
+
+- Une bonne fois, il va nous dÃ©noncer.
+\end_layout
+
+\begin_layout Standard
+
+Le vieillard verse de lâalcool dans deux verres mal lavÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Qui ? Richard ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui, rÃ©pond TimothÃ©e. Je sens Ã§a venir !
+\end_layout
+
+\begin_layout Standard
+
+Si lâimpuissance par rapport Ã  la fatalitÃ© pouvait se mesurer par la profondeur du silence dans lequel se plongent deux adultes, celle-ci serait infinie.
+\end_layout
+
+\begin_layout Standard
+
+- Maudit que nos vies sont moches, finit par dire Romain. De la maniÃ¨re que Ã§a va, on va finir, ta mÃ¨re et moi, dans la cave de ton docteur Bellavance ! On va au moins servir Ã  dâquoi, bonyeu !
+\end_layout
+
+\begin_layout Standard
+
+- Câest pas MON docteur Bellavance, câest le leur !
+\end_layout
+
+\begin_layout Standard
+
+- Tant quâÃ  y Ãªtre, pourquoi ils font pas du manger Ã  chien avec les restes, comme dans le film, lÃ  â¦
+\end_layout
+
+\begin_layout Standard
+
+- Soleil vert ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouin !
+\end_layout
+
+\begin_layout Standard
+
+Lâoccasion est inespÃ©rÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- La meilleure faÃ§on dâÃ©viter Ã§a, câest de tâen aller vivre sur Anticosti avec les autres. Non ?
+\end_layout
+
+\begin_layout Standard
+
+Romain regarde la petite bouteille.
+\end_layout
+
+\begin_layout Standard
+
+- Pour vivre lÃ -bas, faut Ãªtre en forme. Faut pouvoir aller chasser, couper du bois avec une scie Ã  chaÃ®ne. Jouer Ã  âcachette dans le bois. Moi, jâsuis rendu trop vieux pour Ã§a. Pis Ã§a fait six ans que je regarde la tÃ©lÃ© au lieu de bouger. Jâsuis fini, vieux, maganÃ©, pâus capabâ ! Je bande mÃªme pâus. En plus, ta mÃ¨re, elle, elle a jamais aimÃ© Ã§a le bois. Pis tu lâimagines avec un paquet de vieux autour dâelle ? Elle prendrait le nerf et, au bout dâune semaine, elle les tirerait Ã  coups de douze.
+\end_layout
+
+\begin_layout Standard
+
+- Oui, mais il y aura le bon air pur, vous seriez libres. Jâirais vous conduire jusquâau bateauâ¦
+\end_layout
+
+\begin_layout Standard
+
+- Oublie Ã§a, jâte dis !
+\end_layout
+
+\begin_layout Standard
+
+Le silence vient derechef occuper tout lâespace. Debout, son verre Ã  la main, TimothÃ©e reprend la photo.
+\end_layout
+
+\begin_layout Standard
+
+- Comment Ã§a se fait que vous nâavez quasiment pas de photos de vous autres, des souvenirs de vos dÃ©buts ensemble, toi et maman ? Des photos de plus tard, avec ton camion de livraison ? Dâelle avec ses millions de pots de confiture. De quand elle Ã©tait jeune et quâelle donnait des concerts. Des souvenirs de la maison Ã  Saint-Anaclet, du terrain, des chiens ! On nâa mÃªme pas de vidÃ©os. Tâen souviens-tu du jars qui me suivait partout ? Jâaimerais tant Ã§a avoir sa photo aujourdâhui.
+\end_layout
+
+\begin_layout Standard
+
+- Ta mÃ¨re nâaimait pas Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+- Elle nâaime pas le passÃ©, maman. Y a jamais moyen de savoir ce qui sâest rÃ©ellement passÃ© dans vos vies.
+\end_layout
+
+\begin_layout Standard
+
+Le silence enveloppe Ã  nouveau la piÃ¨ce ! Un silence Ã  peine perturbÃ© par le glouglou de la vodka que Romain verse derechef dans les verres.
+\end_layout
+
+\begin_layout Standard
+
+- Je parlais dâil y a six ans. De lâhistoire de fous qui vous a forcÃ© Ã  venir vous cacher ici. Câest comme si vous mâaviez toujours trouvÃ© trop nono pour bien mâexpliquer.
+\end_layout
+
+\begin_layout Standard
+
+- Câest une vieille affaire quâon ne peut pas changer. On ne peut rien faire. Câest du passÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Du passÃ© qui nous cochonne le prÃ©sent et qui hypothÃ¨que notre avenir. Ici, faut se cacher des voisins !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e inspecte ses rideaux du regard, ce qui lui fait penser Ã  Gazou.
+\end_layout
+
+\begin_layout Standard
+
+- Papa, dit-il en laissant entrer le chien, est-ce que tu pourrais me la raconter comme il faut, la maudite histoire, et sans rien oublier, me dire, une fois pour toutes, ce qui sâest passÃ© ? Jâai beau avoir une idÃ©e gÃ©nÃ©rale, mais il me manque plein de petits bouts pour que je comprenne. Câest important pour moi.
+\end_layout
+
+\begin_layout Standard
+
+Romain fixe son verre, rÃ©flÃ©chit longuement et, sans un regard pour son garÃ§on, se replonge en septembre 2027, dans ce lundi chaud et ensoleillÃ© qui sâannonÃ§ait pourtant anodin, au terme duquel sa vie, celle de Marie et celle de TimothÃ©e, ont basculÃ©. Pour de bon.
+\end_layout
+
+\begin_layout Standard
+
+Quant Ã  Gazou, se sachant en terrain hostile, il a filÃ©, keclic, keclic, keclic, vers le sous-sol. 
+\end_layout
+
+\end_body
+\end_document

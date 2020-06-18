@@ -1,0 +1,43 @@
+%\documentclass[10pt,letterpaper]{book} - To print on Letter Paper 
+\documentclass[10pt]{book}
+\usepackage{main/VotreFramabook}
+\makeindex % dit à LaTeX de générer les index
+\usepackage{graphicx}
+\usepackage{floatflt}
+\usepackage{pstricks}
+
+\begin{document}
+\frontmatter % Intro (numéro de page en chiffres romains)
+\include{framabook/titre}
+\sommaire
+\include{intro/preface/preface}
+% LES "INCLUDES" SUIVANTS DONT DÉSACTIVÉS CAR JE N'EN AI PAS ENCORE DE BESOIN POUR LA MARIRIOU. JE LES LAISSE JUSTE AU CAS OU! 
+%\include{intro/notrepublic/notrepublic}
+%\include{intro/planlivre/planlivre}
+%\include{framabook/conventions}
+%\include{intro/remerciements/remerciements}
+%\include{intro/aproposauteur/aproposauteur}
+\mainmatter % Corps du livre
+\include{corps/chapitre1/chapitre1}
+\include{corps/chapitre2/chapitre2}
+\include{corps/chapitre3/chapitre3}
+\include{corps/chapitre4/chapitre4}
+\include{corps/chapitre5/chapitre5}
+\include{corps/chapitre6/chapitre6}
+\include{corps/chapitre7/chapitre7}
+\include{corps/chapitre8/chapitre8}
+\include{corps/chapitre9/chapitre9}
+\include{corps/chapitre10/chapitre10}
+\include{corps/chapitre11/chapitre11}
+\include{corps/chapitre12/chapitre12}
+\include{corps/chapitre13/chapitre13}
+\include{corps/chapitre14/chapitre14}
+\include{corps/chapitre15/chapitre15}
+\include{corps/chapitre16/chapitre16}
+\include{corps/chapitre17/chapitre17}
+\include{corps/chapitre18/chapitre18}
+\include{corps/chapitre19/chapitre19}
+%\include{intro/postface/postface}
+\backmatter % Fin du document
+\include{framabook/fermeture}
+\end{document}	

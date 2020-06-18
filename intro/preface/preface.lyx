@@ -1,0 +1,705 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+TitreIntro
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+PrÃ©face
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+newline
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% J'ai enlevÃ© la lettrine car ca faisait pas beau. Si vous trouvez comment amÃ©liorer ca Ã  vous de le changer!
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+begin{floatingfigure}[]{5mm}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+includegraphics[height=10mm]{intro/preface/img/lettrine-i.jpg}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+end{floatingfigure}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Il arrive quoi dans un sous-sol dÃ©moralisant, anÃ©miant et sale, lorsque des gens jusque-lÃ  prostrÃ©s, cloÃ®trÃ©s et gommÃ©s des registres, se mettent Ã  vivre toute une gamme de sentiments humains, partant de vieilles blessures cachÃ©es bien creux qui sâouvrent, passant par des dÃ©cennies de non-dit, de colÃ¨re refoulÃ©e et dâambitions dÃ©truites, finissant dans les larmes, le sourire et le bonheur ? Il arrive quoi si ces gens sont Ã¢gÃ©s, dÃ©sabusÃ©s, dÃ©munis et totalement dÃ©pendants de la bienveillance sans borne dâun fils persÃ©cutÃ© qui, Ã  43 ans, est encore puceau et dÃ©teste jouer du trombone ? Que se passe-t-il quand ces gens se cachent dâun systÃ¨me qui traque et enferme les vieux dont certains se retrouvent intubÃ©s dans un projet de production hormonale ? Il arrive une histoire sordide oÃ¹ les mÃ©chants sont vraiment affreux, une histoire rocambolesque oÃ¹ les bons sont hauts en couleur, une histoire dâamour pleine de chaudes Ã©motions sous fond de musique allemande, Wie einst Lili Marleen, une histoire de commando dont le colonel est lâarriÃ¨re-petit-fils de lâinventeur du PÃ©tÃ©pano et la gÃ©nÃ©rale, une joueuse de violoncelle..
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[r]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/hopital.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Pourtant, lâidÃ©e de dÃ©part Ã©tait bien diffÃ©rente. Elle Ã©tait sensÃ©e rÃ©pondre Ã  mes craintes quant aux annÃ©es Ã  venir. Elle se basait sur un fait vÃ©cu, une anecdote dÃ©plaisante que jâavais Ã  peine arrangÃ©e et qui avait pour cadre une salle dâurgence quÃ©bÃ©coise durant lâÃ©tÃ© 2008.La dame a son expression des grands jours, celle oÃ¹ câest Ã©crit Â«jâai pas le temps de niaiserÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Maman, ils mâont dit de venir te chercher, quâils ne pouvaient plus te garder, quâil me fallait te ramener Ã  la maison.
+\end_layout
+
+\begin_layout Standard
+
+Puis, pour elle-mÃªme, elle ajoute :
+\end_layout
+
+\begin_layout Standard
+
+- Quâil fallait quâÃ  57 ans, jâapprenne Ã  Ãªtre ton Â«aidant naturelÂ».
+\end_layout
+
+\begin_layout Standard
+
+La vieillarde dÃ©coiffÃ©e et Ã©dentÃ©e lÃ¨ve un peu la tÃªte de sa civiÃ¨re. De ses yeux creux, elle regarde cette femme en larmes qui la dÃ©visage de si prÃ¨s. Elle ne comprend pas et se retourne vers le mur. DerriÃ¨re elle, devant elle, dâautres civiÃ¨res. Des cancers, des poumons, des boyaux, des os, des enflures, des cirrhoses. Ãa sent le cabinet dâaisance achalandÃ©. Il fait chaud Ã  vomir. Ãa geint, Ã§a craint, Ã§a ne veut pas Ãªtre seul, Ã§a veut savoir. Sans arrÃªt, des hommes et des femmes en uniforme dâhÃ´pital passent, toujours Ã  la course, toujours pour dâautres, toujours avec dâautres prioritÃ©s, toujours sans les regarder. Des ambulanciers vont et viennent des dossiers en main. Des bonhommes promÃ¨nent leur verre de styromousse plein de cafÃ© de machine, dâautres essaient de regarder une tÃ©lÃ© pas de son quâon a boulonnÃ©e trop haut pour Ãªtre vue sans torticolis, dâautres se sont ramassÃ© le Journal de QuÃ©bec et, aprÃ¨s les petites annonces, en sont rendus Ã  lire les avis de dÃ©cÃ¨s non sans quelque espoir de pouvoir bientÃ´t y figurer. Des portes claquent, des chaises grincent, des chariots couinent.
+\end_layout
+
+\begin_layout Standard
+
+- Maman, aide-moi. Faut que tu tâasseyes ici; je tâai amenÃ© une chaise roulante.
+\end_layout
+
+\begin_layout Standard
+
+La vieille dame ne bouge pas.
+\end_layout
+
+\begin_layout Standard
+
+- S.V.P., maman.
+\end_layout
+
+\begin_layout Standard
+
+Rien ne se passe jusquâÃ  ce quâune prÃ©posÃ©e expÃ©rimentÃ©e ne vienne sâen mÃªler.
+\end_layout
+
+\begin_layout Standard
+
+- Madame DubÃ©, fait-elle Ã  voix haute de son timbre pointu, Madame DubÃ© !
+\end_layout
+
+\begin_layout Standard
+
+Rien !
+\end_layout
+
+\begin_layout Standard
+
+- Madaaaam ! Madaaaam !
+\end_layout
+
+\begin_layout Standard
+
+Toujours rien !
+\end_layout
+
+\begin_layout Standard
+
+- Vous voyez bien quâelle nâest pas capable, dit la dame Ã  la prÃ©posÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Vous Ãªtes sa fille ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui. Ils mâont dit de venir la chercher.
+\end_layout
+
+\begin_layout Standard
+
+- Madaaaam ! Madaaaam !
+\end_layout
+
+\begin_layout Standard
+
+Vingt minutes passent pendant lesquelles deux ambulances viennent dÃ©verser les deux victimes dâun gros accident sur les lits dÃ©jÃ  trop pleins de lâUrgence. Faut voir les proches qui pleurent, qui se consolent, qui veulent savoir, qui ne comprennent pas. Qui va-t-on tasser pour faire place Ã  ces nouveaux qui saignent, qui ont plein de trous par oÃ¹ la vie est en train de filer ?
+\end_layout
+
+\begin_layout Standard
+
+La prÃ©posÃ©e est revenue avec une infirmiÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- Vous Ãªtes sa fille ? demande cette derniÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- Oui. Ils mâont dit de venir la chercher.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi quâelle est ici ?
+\end_layout
+
+\begin_layout Standard
+
+- Alzheimer, de lâeau aux poumons, de lâarythmie et elle va avoir 87 ans.
+\end_layout
+
+\begin_layout Standard
+
+- Pelaille ! Pâis ils vous ont dit de venir la chercher ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui, ils peuvent pas sâen occuper.
+\end_layout
+
+\begin_layout Standard
+
+La prÃ©posÃ©e sâest penchÃ©e sur la vieille.
+\end_layout
+
+\begin_layout Standard
+
+- Madame DubÃ©, Madaaaam !
+\end_layout
+
+\begin_layout Standard
+
+- Attends un peu, je vais vÃ©rifier de quoi, lui dit lâinfirmiÃ¨re, stÃ©thoscope sur les oreilles.
+\end_layout
+
+\begin_layout Standard
+
+La dame aimerait pleurer, mais elle se retient du mieux quâelle le peut.
+\end_layout
+
+\begin_layout Standard
+
+- Je reviens, lui dit lâinfirmiÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Cette fois, il faut moins de deux minutes. La professionnelle rÃ©apparaÃ®t avec un mÃ©decin cernÃ© comme sâil nâavait pas dormi de la semaine. Il se penche, regarde, taponne, Ã©coute, stÃ©thoscopise.
+\end_layout
+
+\begin_layout Standard
+
+- Vous Ãªtes sa fille ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui. Je suis Sylvie DubÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Il faut la rentrer aux soins intensifs. Demain, on verra. Mais Ã  soir, on la monte.
+\end_layout
+
+\begin_layout Standard
+
+- Oui, mais ils mâont dit de venir la chercher â¦
+\end_layout
+
+\begin_layout Standard
+
+- Madame, faut la monter tout de suite.
+\end_layout
+
+\begin_layout Standard
+
+Une heure plus tard, la dame est assise dans lâauto de son conjoint qui vient dâarriver, les essuie-glaces en folie. Le visage bouleversÃ©, peut-Ãªtre apeurÃ©, elle lui demande :
+\end_layout
+
+\begin_layout Standard
+
+- Que câest que Ã§a va Ãªtre, quand Ã§a va Ãªtre notre tour ?
+\end_layout
+
+\begin_layout Standard
+
+Cette derniÃ¨re rÃ©plique mâa servi de titre de travail pendant quelques semaines, le temps dâimaginer une histoire avec plein de vieux dans des lits, des vieux trÃ¨s malheureux, tout entubÃ©s, mal nettoyÃ©s, traitÃ©s comme des lÃ©preux. Et des prÃ©posÃ©s absolument pas respectueux, trÃ¨s dÃ©testables, des tÃªtes Ã  attendre la paie, Ã  Ãªtre malhonnÃªtes et profiteurs. Sans parler de familles absentes, heureuses de sâÃªtre dÃ©barrassÃ©es de leurs misÃ©rables fardeaux. Une histoire qui se termine en 2034, 50 ans aprÃ¨s 1984, annÃ©e choisie par George Orwell pour prÃ©senter une sociÃ©tÃ© de machines oÃ¹ la norme est de ne pas avoir de cÅur.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+15mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/simon1.jpg
+	height 15mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+MalgrÃ© ce cadre Ã©pouvantable, mon histoire est trÃ¨s rapidement devenue humaine et son ton, humoristique. DâentrÃ©e de jeu, elle a versÃ© dans un rapport mÃ¨re-fils compliquÃ©, un problÃ¨me dâestime de soi majeur, des relations interpersonnelles difficiles, des histoires de haine intergÃ©nÃ©rationnelle, sans parler dâune difficile cohabitation avec un chien trÃ¨s laid et trÃ¨s mÃ©chant. Jâai vite compris quâil me fallait demander conseil au copain Simon Atkins, un psy de la grande rÃ©gion de Toronto - lÃ -bas, ils disent Â«psychotherapistÂ» - qui, effectivement, mâa fait lâamitiÃ© de me redresser un personnage ou deux.
+\end_layout
+
+\begin_layout Standard
+
+Voici dâailleurs ce quâil raconte sur cet exercice.
+\end_layout
+
+\begin_layout Standard
+
+Â«De ma banquette, jâÃ©coute, malgrÃ© le brouhaha du resto, la narration dâune histoire qui arrive Ã  sa conclusion, un chassÃ©-croisÃ© harmonieux de mots en train de se tisser en un dernier accord. Je perÃ§ois trÃ¨s bien la couleur, lâÃ©motion, lâobscuritÃ©, puis la lumiÃ¨re qui prÃ©cÃ¨de lâaurore annonciatrice. En mÃªme temps, je me sens un peu triste de ne pas entendre la langue de Ducharme, de Vigneault, de Desjardins. Mais, connaissant Nelson depuis des lustres, jâai quand mÃªme droit au rÃ©cit avant publication.
+\end_layout
+
+\begin_layout Standard
+
+Ce gars est un conteur douÃ©, un conteur gÃ©nÃ©reux, qui nous convie, au propre et au figurÃ©, Ã  le retrouver dans son jeu crÃ©atif, dans un plaisir enrichissant oÃ¹ nous faisons nÃ´tres, les luttes auxquelles doivent se livrer les personnages. Le joueur de lyre nous rappelle ce qui est vraiment important dans nos vies, dans nos relations et dans notre communautÃ©. Je suis convaincu que de nombreux lecteurs et lectrices sentiront de faÃ§on particuliÃ¨re les blessures, la solitude et mÃªme le dÃ©sespoir qui se dÃ©gagent au fil des chapitres.
+\end_layout
+
+\begin_layout Standard
+
+Quel est le prix Ã  payer pour avoir portÃ©, toute notre vie, de vieilles blessures qui nous ont empoisonnÃ© le quotidien et qui nous ont empÃªchÃ© de communiquer comme il lâaurait fallu avec notre entourage ? Qui a-t-il de bon Ã  vieillir, si nous devons nous retrouver en marge de la vie active, celle des jeunes et des puissants ? Quel est le rÃ´le de la culture dans la dÃ©finition de qui nous sommes et dans la nature des rÃ©flexions ou des rÃªves que nous aimerions partager avec nos proches ? Autant dâinterrogations avec lesquelles ce roman nous interpelle en pointant sur notre passÃ© pour mieux comprendre notre parcours actuel.
+\end_layout
+
+\begin_layout Standard
+
+Lâauteur nous a accrochÃ©s Ã  son histoire en la publiant par tranches, chaque semaine, sur la Cyberpresse oÃ¹ il nous a invitÃ©s Ã  rÃ©agir. Cela lui a permis dâÃªtre en situation de mieux la dessiner. Ce faisant, il nous a rassemblÃ©s autour dâune nouvelle forme de rÃ©cit, une collaboration en ligne qui remet en question, donc renforce, le fil conducteur du roman. Ã lâinstar de TimothÃ©e de Milet, ce musicien de la GrÃ¨ce antique qui aurait rajoutÃ© quelques cordes Ã  la lyre de son Ã©poque, Nelson nous entraÃ®ne Ã  ajouter des notes Ã  sa trame romanesque, des notes accordÃ©es en notre for intÃ©rieur qui viennent former un chÅur.
+\end_layout
+
+\begin_layout Standard
+
+Si lâallÃ©gorie utilisÃ©e peut nous faire rÃ©flÃ©chir sur lâÃ©tat de notre quotidien familial, elle peut surtout nous inspirer le courage de vouloir guÃ©rir nos vieilles blessures, la sagesse dâÃ©viter les piÃ¨ges dans lesquels nous sommes dÃ©jÃ  tombÃ©s et le goÃ»t dâaller offrir de la tendresse aux gens autour de nous, quelque soit notre Ã¢ge.
+\end_layout
+
+\begin_layout Standard
+
+Je vous souhaite dâapprÃ©cier la musicalitÃ© des mots qui sâÃ©chappent de la lyre de Nelson.
+\end_layout
+
+\begin_layout Standard
+
+Alliston, janvier 2009 Â»
+\end_layout
+
+\begin_layout Standard
+
+Ce chÅur dont parle Simon, câest celui qui sâest spontanÃ©ment formÃ© quand, le 16 septembre 2008, jâai commencÃ© Ã  mettre Le joueur de lyre en ligne, un chapitre par semaine. Pour intÃ©grer cette douce activitÃ© de scribouillage dans ma semaine dâÃ©criture professionnelle (jâai Ã  publier des articles technos tous les jours), les autoritÃ©s de la Cyberpresse (quâau passage, je remercie chaleureusement) acceptÃ¨rent quâelle devienne ma prestation du vendredi. Si jâarrivais Ã  divertir mes lecteurs tout en respectant leur intelligence, peut-Ãªtre me fourniraient-ils la rÃ©troaction nÃ©cessaire Ã  la fabrication de mon histoire. Ce qui fut fait pendant quatre mois, jusquâau 16 janvier 2009 (il y eut relÃ¢che le 2 janvier), pÃ©riode au cours de laquelle 19 chapitres furent Ã©crits, publiÃ©s, commentÃ©s et bonifiÃ©s. Des personnages durent Ãªtre ajoutÃ©s, des personnages secondaires empruntant souvent des pseudonymes utilisÃ©s par des usagers de la Cyberpresse. Avec leur assentiment, va sâen dire.
+\end_layout
+
+\begin_layout Standard
+
+Au dÃ©but, les suggestions furent nombreuses quant Ã  la suite Ã  apporter Ã  cette sombre histoire de centres rÃ©gionaux gÃ©riatriques, de vieillards traquÃ©s par la police, de grabataires nourris au manger mou, câest-Ã -dire au Nutrisuz. Puis, ce fut lâaccalmie. Comme si on prÃ©fÃ©rait me regarder aller avec ma trame romanesque. Comme si on sâaccommodait de mes personnages caricaturaux qui vivaient de dures pÃ©ripÃ©ties dâhumain, mais qui luttaient pour sâen sortir, ce qui laissait prÃ©sager dâune fin heureuse et acceptable dans toutes les bibliothÃ¨ques familiales. Certaines et certains continuÃ¨rent Ã  mâÃ©plucher, Ã  me dÃ©nicher des erreurs de fait, Ã  mâÃ©pingler sur des incongruitÃ©s, sans oublier lâinÃ©vitable cortÃ¨ge de fautes dâorthographe. Elles, ils, le firent jamais mÃ©chamment, toujours avec humour. Un vrai plaisir.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[r]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+30mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-bibelotine.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Ãvidemment, je suis journaliste pigiste, ce qui est un avantage rÃ©el par rapport au romancier de mÃ©tier, un crÃ©ateur isolÃ© qui, comme le veut le clichÃ©, applique avec rigueur la trame quâil a imaginÃ©e et qui, durant le processus de crÃ©ation, limite lâinteraction au minimum vital. Câest quâavec le temps, le pigiste nâa plus dâego; les Ã©diteurs, rÃ©dacteurs en chef et autres chefs de pupitre le lui ont bouffÃ© en totalitÃ©. Ainsi, que des lecteurs lui mettent publiquement sous le nez une Â«hÃ©naurmeÂ» faute dâorthographe, une phrase boiteuse, une imprÃ©cision mortelle, une invraisemblance inopportune, Ã§a ne lâaffecte pas. Bien au contraire. Il sâen montre ravi, convaincu que son produit vient dâÃªtre amÃ©liorÃ©. Quâune lectrice ou un lecteur lui change un recoin dâhistoire en y ajoutant une perspective amusante, il la fait sienne et se dÃ©pÃªche dâen donner le crÃ©dit Ã  la si gentille personne.
+\end_layout
+
+\begin_layout Standard
+
+Dans les pages qui suivent ce roman, vous trouverez mon analyse du processus encouru, une dÃ©marche que lâon dit de type Â«Web 2.0Â». Vous rencontrerez le chÅur dont parle Simon, vous jugerez du sÃ©rieux de son apport, de sa gÃ©nÃ©rositÃ© et de sa gentillesse. Vous saurez pourquoi, dans Le joueur de lyre, il ya des personnages qui se nomment Bea Bellow, Vlado Markovsky, Anton Suzkinne, Thierry-Ian Dennis-Dubeau, Louise Lavoie, Tropecolo, Philippe Flipper Dauphin, les Papyblues et autres docteurs Bellavance. Surtout, vous comprendrez mon envie de recommencer la mÃªme expÃ©rience avec une nouvelle histoire dÃ¨s que ce sera possible.
+\end_layout
+
+\begin_layout Standard
+
+En parallÃ¨le avec ce magnifique chÅur, jâai soumis mes interrogations, mes angoisses, mes incomprÃ©hensions, Ã  une belle soliste, ma blonde Darisse, une personne dâune sensibilitÃ© prodigieuse qui a su me saupoudrer lâhistoire de considÃ©rations humaines. Je lui dois notamment les rÃ©actions complexes du personnage de Marie-Odile Tremblay. Plus globalement, elle a, semaine aprÃ¨s semaine, Ã©coutÃ© mon rÃ©cit du chapitre devant Ãªtre mis en ligne et mâa rÃ©guliÃ¨rement aidÃ© Ã  le solidifier.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+begin{floatingfigure}[l]{15mm}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+includegraphics[height=10mm]{intro/preface/img/druide1.jpg}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+end{floatingfigure}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+En terminant, un remerciement Ã  AndrÃ© dâOrsonnens, PDG de Druide informatique, qui mâa gracieusement fourni un exemplaire dâAntidote, le coffret dâoutils linguistiques bien connu. Dans le cas dâun pigiste devant mettre en ligne, tous les vendredis matin, un texte de quelque 7 000 mots se voulant un nouveau chapitre du Joueur de lyre, ce logiciel montrÃ©alais mâa fait gagner beaucoup de temps.
+\end_layout
+
+\begin_layout Standard
+
+VoilÃ  ! Bienvenu dans mon histoire et bonne lecture ! On se retrouve plus tard, pour la partie analyse.
+\end_layout
+
+\begin_layout Standard
+
+Nelson Dumais, janvier 2009
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,908 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+LâÃ¢ge du Nutrisuz
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Assis dans son officine 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+en train de jouer Ã  la dame de pique sur son terminal de quanticordi et de se rÃ©curer les ongles, TimothÃ©e qui ne pense dÃ©jÃ  plus aux sacs de madame Loubert, rÃ©flÃ©chit sur sa vie de grand timide qui nâarrive jamais Ã  sourire en public et de pestifÃ©rÃ© qui craint ses collÃ¨gues de travail, ces imbÃ©ciles qui le traitent de Â«MottÃ©Â» et parfois de Â«pâtit gros qui saute la grande folle du manger mouÂ». Effectivement, son ami, Shimoune Saint-Pierre, est gai comme phoque et ne se gÃªne pas pour assumer, particuliÃ¨rement au Centre nutritionnel oÃ¹ il travaille, son exubÃ©rante homosexualitÃ©, au demeurant inoffensive.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Tous deux se sont connus aux rÃ©unions du ComitÃ© de dÃ©ontologie de lâÃ©tablissement oÃ¹ TimothÃ©e siÃ¨ge en tant que reprÃ©sentant des cadres de premier niveau, les CS-1, et Shimoune en tant que dÃ©lÃ©guÃ© du personnel de soutien. Comme ils ont tous deux Ã©tÃ© dÃ©signÃ©s unilatÃ©ralement par la direction gÃ©nÃ©rale, quâils nâont absolument pas lâappui de leurs pairs et quâils sont les deux seuls participants â un bien grand mot - Ã  trouver les sÃ©ances surrÃ©alistes, ils ont rapidement fraternisÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Un cyberpsy, personnage de synthÃ¨se parfois plus humain que les vrais psychologues, a naguÃ¨re rÃ©vÃ©lÃ© Ã  TimothÃ©e quâil devait son trouble de personnalitÃ© Ã  sa mÃ¨re, en fait, Ã  la tyrannie de sa mÃ¨re, la redoutable Maririou. Une Rioux avec un X, une Rioux musicalement virtuose, un air bÃªte quâon a envie de fesser, une fendante quâon aime haÃ¯r, une grosse tÃªte omnisciente, une force sinueuse, une manipulatrice experte, une inquisitrice qui ferait peur aux Dominicains de lâOpus Dei, une vaginocrate qui nâa, de sa vie, jamais perdu le nord, une Ã©corchÃ©e vive qui, au cours des 43 derniÃ¨res annÃ©es, a Ã©tÃ© cruellement privÃ©e de fibre maternelle.
+\end_layout
+
+\begin_layout Standard
+
+Mais attention, câest quand mÃªme lui, Romain, qui a eu lâidÃ©e de cet invraisemblable prÃ©nom de TimothÃ©e-Milet, davantage lâexpression dâun antagonisme handicapant ou dâun particularisme peu accommodable, que dâun prÃ©nom. Lui, le nono prostrÃ© dont on fait les gorges chaudes, il porte le nom dâun fonceur, dâun poÃ¨te, dâun musicien, dâun rÃ©formateur, dâun maÃ®tre Ã  penser ayant fait Ã©cole. TimothÃ©e de Milet ! Si Dieu existait vraiment, jamais il nâaurait permis tel dÃ©prÃ©dation dâun grand nom, telle offrande Ã  la mÃ©chancetÃ© des hommes de 2033 ! Lui, TimothÃ©e, fils de Marie Rioux et Romain Tardif, il nâest musicien que parce quâon le lui a imposÃ©. Sâil est devenu joueur de trombone, un instrument quâil a appris Ã  haÃ¯r, câest avec une fourche Ã  foin lui piquant le bas du dos.
+\end_layout
+
+\begin_layout Standard
+
+Il se considÃ¨re comme un Â«dommage collatÃ©ralÂ» ayant dÃ» apprendre Ã  vivoter sans blonde, cela grÃ¢ce aux psychosÃ©vices de cette terrible femme, ainsi quâ Ã  la nature de lâair quâelle a pompÃ© dans sa vie dâÃ©ternel perdant et dans celle de Romain, son compagnon des 53 derniÃ¨res annÃ©es. En fait, TimothÃ©e nâen a jamais eu de blonde, pas plus quâil nâenvisage en avoir. Pas quâil nâen voudrait pas. Bien au contraire. Câest que pour parler Ã  une femme, pour lâintÃ©resser, pour en arriver Ã  pouvoir lui reparler, il faut savoir quoi dire, comment le dire et quand le dire, mÃªme si on nâa rien Ã  dire. Lui, il ne lâa jamais appris. Avec le temps, il sâest rÃ©signÃ© au cÃ©libat. Ã la vie de vieux-garÃ§on !
+\end_layout
+
+\begin_layout Standard
+
+Il compense avec des rencontres holographiques par avatars interposÃ©s, une techno Web 4.0 popularisÃ©e Ã  partir de 2025 avec la banalisation des ordinateurs quantiques, une faÃ§on de faire moins gÃªnante, moins terrifiante que la Â«vraie affaireÂ». Ãvidemment, lâonanisme nâÃ©quivaudra jamais Ã  la copulation, mais, croit-il, câest mieux que rien. Cela dit, il se refuse dâimiter certains collÃ¨gues cÃ©libataires, des employÃ©s qui ne voient aucun mal Ã  utiliser des grabataires en soins palliatifs, du moins certains qui sans devises Ã  plume, probablement dâanciens Boomers dÃ©pravÃ©s, nâont dâautres recours, pour survivre un mois ou deux de plus, que de laisser leur prÃ©posÃ© assouvir ses bas instincts. Ces pitoyables loques transforment ainsi leur bouche Ã©dentÃ©e en avantage. Ã plus forte raison quâils reposent dans un lit montÃ© Ã  hauteur rÃ©glementaire pour Ã©viter les blessures cervicales dorsales ou lombaires. Ces prestations de service aussi passives quâillicites sont cependant passibles de congÃ©diement. Sauf quâici, comme en bien des choses, personne ne sÃ©vit.
+\end_layout
+
+\begin_layout Standard
+
+La voix de Dart Vader le tire de ses rÃ©flexions morbides.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai pognÃ© la diarrhÃ©e, chef. Jâpourrais-t y avoir des bananes ? Ou des fraises ?
+\end_layout
+
+\begin_layout Standard
+
+Câest le coup classique. Dans un recoin de leur cÅur, les vieillards conservent un tout petit morceau dâespÃ©rance. Peut-Ãªtre quâun jour, ils pourront se mettre sous la dent (ou sous les gencives) autre chose que du manger mou. TimothÃ©e se garde bien dâaccepter; toutes ses Ã©conomies y passeraient. Sans compter quâil se ferait prendre et congÃ©dier. Quâarriverait-il, alors, de ses parents? De Romain bon comme la romaine, de Marie dure comme lâhiver ?
+\end_layout
+
+\begin_layout Standard
+
+Il la revoit lui dire, alors quâil Ã©tait ce gamin attachÃ© sur la banquette arriÃ¨re de la Toyota:
+\end_layout
+
+\begin_layout Standard
+
+- Ravale ta nausÃ©e, TimothÃ©e, sinon le gros mÃ©chant Harpeur va venir te manger !
+\end_layout
+
+\begin_layout Standard
+
+Ou encore :
+\end_layout
+
+\begin_layout Standard
+
+- Si tâarrÃªtes pas de chialer, Harpeur va venir tâattraper avec sa gang de conservateurs !
+\end_layout
+
+\begin_layout Standard
+
+Harpeur ! Harpeur comme Â«peurÂ», comme Â«harpieÂ», comme Â«harponÂ» ! Comme dans :
+\end_layout
+
+\begin_layout Standard
+
+- Maman, jâai peur de cette harpie Harpeur qui veut me harponner !
+\end_layout
+
+\begin_layout Standard
+
+Ce ne serait lÃ  quâune histoire idiote comme il y en a mille dans sa vie, sâil nâavait pas vieilli avec, dans sa pauvre tÃªte, un croque-mitaine appelÃ© Harpeur et des dÃ©mons crochus et cornus appelÃ©s Â«conservateursÂ». Il lui faudra bien des annÃ©es pour finir par comprendre que sa mÃ¨re rÃ©fÃ©rait ainsi au premier ministre canadien de lâÃ©poque.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune avait bien ri quand il lui avait contÃ© cette anecdote. Mais Shimoune riait tout le temps. Il Ã©tait heureux, Shimoune. Ã part AmÃ©dÃ©e Chicot, son patron qui le faisait bien suer, Ã  part les remarques crues de certains idiots dont il se fichait comme de lâAn 40, rien ne le dÃ©rangeait vraiment. Grand, mince, fortement musclÃ© et plutÃ´t bien fait de sa personne, il ne craignait pas de brandir lÃ  oÃ¹ il le fallait, tous les doigts dâhonneur qui sâimposaient, pour traiter qui de droit, sourire en coin, de Â«trouâtâcul pas baisableÂ», pour amuser les bÃ©nÃ©voles de la cafÃ©tÃ©ria avec les pires boutades sur le Nutrisuz, mieux connu sous le vocable de Â«manger mouÂ», ou pour braver le courroux de son supÃ©rieur avec de trÃ¨s extravagants maquillages. Ce nom de Shimoune faisait partie du personnage. En rÃ©alitÃ©, ses parents lui avaient plutÃ´t donnÃ© le prÃ©nom de Shimun en lâhonneur de son grand-pÃ¨re maternel, un Bellefleur de Unaman-Shipu, sur la Basse CÃ´te-Nord.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e le soupÃ§onnait dâavoir une vie nocturne bien remplie et, Ã  lâoccasion, fort Ã©prouvante.
+\end_layout
+
+\begin_layout Standard
+
+- Mais Ã§a, mon Momo, lui avait-il serinÃ©, Ã§a fait partie de la vie de tapette. Jâadoooore !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/simon.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Ãtre prÃ©posÃ© au centre nutritionnel signifie quâÃ  raison de trois fois par jour, jamais plus et parfois moins, lâon sâoccupe du Nutrisuz, une marque de commerce appartenant Ã  la multinationale Monsanto. Il sâagit dâune nourriture industrielle trÃ¨s Ã©conomique, une base alimentaire Ã©laborÃ©e pour des bÃ©nÃ©ficiaires Ã¢gÃ©s, que lâon retrouve Ã  la grandeur des provinces canadiennes et dans plusieurs Ã©tats amÃ©ricains. Encore une fois, le QuÃ©bec nâa rien inventÃ©. La trouvaille est plutÃ´t attribuable au docteur Anton Suzkinne, un chimiste dâorigine russe faisant carriÃ¨re chez Monsanto.
+\end_layout
+
+\begin_layout Standard
+
+Le principe est simple. Tout ce qui est nÃ©cessaire pour la santÃ© est prÃ©sent dans cette purÃ©e. On dirait une sorte de gruau sans goÃ»t, mais riche en protÃ©ines, glucides et lipides, sans oublier un savantissime dosage de produits gÃ©nÃ©tiquement modifiÃ©s, auquel on ajoute les supplÃ©ments individuels (sur ordonnance), ainsi que les arÃ´mes et colorants requis, tous tirÃ©s de substances artificielles. Le catalogue de Monsanto fait Ã©tat de 750 saveurs chacune livrable en moins de 24 heures en contenants de cinq litres.
+\end_layout
+
+\begin_layout Standard
+
+En cas de contre-indication, il existe du Nutrisuz Base, une nourriture insipide nâoffrant que lâessentiel de lâessentiel, auquel (sur ordonnance) on rajoute mÃ©caniquement ce que la personne doit et peut assimiler. Ainsi, le vieillard numÃ©ro BSL-34567-98 reÃ§oit un plat de manger mou qui lui est propre, c.-Ã -d. quâun voisin ne saurait avaler, un plat vitaminÃ© oÃ¹ ont Ã©tÃ© incorporÃ©s tous les mÃ©dicaments dont il a besoin. Idem pour les saveurs du matin, du midi ou du soir; la panoplie est assez vaste. Le logiciel choisit au hasard parmi celles qui ont Ã©tÃ© incluses dans la fiche du bÃ©nÃ©ficiaire, Ã  sa demande. Cela constitue une petite surprise qui Ã©vite lâÃ©cÅurement et les dÃ©pressions. Par exemple, le manger mou du matin sera aux fraises, celui du midi au poulet teriyaki et celui du soir, Ã  la sole meuniÃ¨re. Le lendemain ce sera Åufs, poutine cajun et dinde aux marrons. Et ainsi de suite. On a compris pourquoi les arÃ´mes et colorants ne pouvaient Ãªtre dâorigine naturelle.
+\end_layout
+
+\begin_layout Standard
+
+Avec Chicot, un immigrant belge viscÃ©ralement homophobe qui le dÃ©teste pour le battre, Shimoune est prÃ©sent cinq jours par semaine entre 8 h et 10 h le matin, entre midi et 14 h, puis entre 17 h et 18 h. En raison du fait que leur quart est divisÃ© en trois blocs entrelardÃ©s de creux Ã  rien faire, le CRG les paie quand mÃªme pour huit heures, mÃªme sâils nâen font que six. Les vendredis aprÃ¨s-midi, OphÃ©lie Marcotte vient se joindre Ã  eux. PrÃ©posÃ©e Ã  temps partiel, elle assume en sa totalitÃ© le quart de fin de semaine. DâoÃ¹ sa prÃ©sence du vendredi aprÃ¨s-midi, question de sâassurer que tout baignera dans lâhuile, puisquâelle sera seule pendant les deux jours qui suivent.
+\end_layout
+
+\begin_layout Standard
+
+VoilÃ  un arrangement horaire qui laisse bien du temps Ã  lâignoble Chicot pour poser ses mines, des mines quâarrive parfois Ã  dÃ©samorcer Shimoune et Ã  transfÃ©rer Ã  son avantage. Ainsi, il y a deux mois, le Belge avait dissimulÃ© les poches de Paxil et de Zyban, des antidÃ©presseurs lourdement utilisÃ©s en CRG, afin de rendre le quart dâOphÃ©lie Â«inoubliableÂ». Quand, Ã  la fin de son premier service, Ã  10 h. le samedi matin, la jeune femme reÃ§ut du systÃ¨me un message selon lequel il nây aurait pas assez de Paxil et de Zyban pour les prÃ©parations de Nutrisuz du midi, elle tenta de joindre Chicot, lequel se fit un malin plaisir de ne pas rÃ©pondre. En panique, elle communiqua alors avec Saint-Pierre qui, flairant le coup fourrÃ©, accourut. Il fouilla dans tous les recoins du centre nutritionnel et finit par repÃ©rer les deux poches au fond dâun cagibi Ã  dÃ©sinfectant.
+\end_layout
+
+\begin_layout Standard
+
+En clignant de lâÅil Ã  OphÃ©lie, il referma lâarmoire sans ne rien toucher et appela la sÃ©curitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- On nâa plus de Paxil et de Zyban pour la fin de semaine, dÃ©clara-t-il. Va falloir que jâaille en chercher dans lâentrepÃ´t du sous-sol et moi, jâai pas le code pour entrer lÃ .
+\end_layout
+
+\begin_layout Standard
+
+Ce quâil fit, accompagnÃ© dâun agent de la SÃ©cu, lequel, de retour Ã  son bureau dÃ»t faire un rapport dâincident. Câest ce qui explique que le lundi matin, AmÃ©dÃ©e Chicot fut accusÃ© de Â«nÃ©gligence en matiÃ¨re dâapprovisionnementÂ» sans quâil puisse se dÃ©fendre. Eut-il essayÃ© de le faire, il aurait eu lâair un peu idiot; il aurait suffi dâune demande Ã  la SÃ©curitÃ© pour que la Direction puisse visionner la vidÃ©o - car elle existait sÃ»rement - de Chicot en train de fouiner dans le cagibi Ã  dÃ©sinfectant. Un blÃ¢me fut mÃªme ajoutÃ© Ã  son dossier dâemployÃ©. Depuis ce jour, quoi que Shimoune dise, quoi quâil fasse, la belle OphÃ©lie le trouve gÃ©nial ! Dommage quâil soit affligÃ© de mÅurs aussi discutables !
+\end_layout
+
+\begin_layout Standard
+
+Mais doit-on prÃ©ciser que dans un centre nutritionnel, nul nâest besoin de technicien en cuisine ou en pharmacie ? Un prÃ©posÃ© sans qualifications particuliÃ¨res suffit, ce qui est le cas de Shimoune qui nâa jamais terminÃ© son cÃ©gep ou dâOphÃ©lie qui sâest spÃ©cialisÃ©e en poÃ©sie innue Ã  lâUniversitÃ© du QuÃ©bec Ã  Rimouski. Câest dâailleurs une des raisons pour lesquelles Chicot les dÃ©teste tant. Lui, il a Ã©tudiÃ© des annÃ©es pour devenir patron de cuisine. Il est passÃ© par de nombreux restos, a servi, toque sur la tÃªte, sous de nombreux chefs, tout cela pour aboutir Ã  41 ans, dans Â«le CN dâun CRG de merdeÂ», dans un Â«pays pourriÂ» loin de MontrÃ©al, de New York, de Bruxelles. Lui qui se voyait maÃ®tre queux aussi couru que craint, prÃ©pare aujourdâhui du manger mou, cette Â«putain de saloperie de Nutrisuz Ã  la conÂ», avec pour gÃ¢te-sauces, une Â«lopetteÂ» et une Â«meufÂ», deux Â«tarÃ©s complÃ¨tement nulsÂ» !
+\end_layout
+
+\begin_layout Standard
+
+Car le travail y est dÃ©solant. Lorsquâun bÃ©nÃ©ficiaire se prÃ©sente Ã  la cafÃ©tÃ©ria, salle aux effluves dâeau de javel, il commence par faire la queue au comptoir oÃ¹ lâaccueille un assistÃ© social bÃ©nÃ©vole qui lui capte son Ã©metteur personnel (EP). Le segment pertinent de lâinfo dont regorge la puce, dispositif essentiel Ã  toute vie, surtout quand on est vieux ou, pire, pensionnaire dâun CRG, est immÃ©diatement traitÃ© par le systÃ¨me du CN. Si tout est en ordre, ce qui signifie que le petit vieux nâest pas censÃ© Ãªtre enfermÃ© au sous-sol ou Ãªtre dÃ©cÃ©dÃ© ou Ãªtre grabataire, un timbre se fait entendre. DÃ¨s lors, Saint-Pierre ou Marcotte, mais jamais Chicot, place un contenant dâABS dâun litre sous un pÃ©riphÃ©rique dâordinateur appelÃ© Â«malaxeur sanitaireÂ». Câest cette machine intelligente qui y injecte, comme les couleurs chez un quincaillier vendeur de peinture, la bonne dose de Coumadin, de SyntroÃ¯d, de Paxil, dâacÃ©taminophÃ¨ne, etc. Le Viagra avait Ã©tÃ© retirÃ© de la liste un an aprÃ¨s le dÃ©but des CRG, ce qui nâavait mÃªme pas soulevÃ© de grogne dans les 2P. Selon les prÃ©fÃ©rences qui apparaissent sur le fichier quantique du bÃ©nÃ©ficiaire, le Nutrisuz est chauffÃ© ou servi froid. LâopÃ©ration ne dure que cinq secondes.
+\end_layout
+
+\begin_layout Standard
+
+DÃ¨s quâil a fini de suÃ§oter son manger mou, le vieux doit aller rincer son plat sous un des cinq robinets dâeau tiÃ¨de prÃ©vus Ã  cette fin. Cela lui permet, juste Ã  cÃ´tÃ©, de lâemplir dâeau froide, de limonade ou de thÃ© chaud; câest Ã  son goÃ»t. Pour Dart Vader, câest un de ses moments favoris de la journÃ©e. Ciblant bien ses tables, il sâassoie sans attendre dâinvitation et, avec une serviette de papier, entreprend de se rÃ©curer le Â«trouÂ» respiratoire. Lâimpact de son humour est gÃ©nÃ©ralement immÃ©diat.
+\end_layout
+
+\begin_layout Standard
+
+Au fur et Ã  mesure quâils ont fini de se sustenter, les vieux qui nâont rien Ã  discuter, surtout pas le bout de gras, quittent la cafeteria Ã  petits pas mesurÃ©s. Mais avant, ils sâassurent quâun bÃ©nÃ©vole les dÃ©charge de leur plat et de leur cuillÃ¨re pour les dÃ©poser dans une grande laveuse Ã©lectronique. LÃ , ces ustensiles sont aseptisÃ©s, prÃªts Ã  servir de nouveau.
+\end_layout
+
+\begin_layout Standard
+
+- Rappelons que tout le systÃ¨me repose sur les Ã©conomies Ã©normes que rÃ©alise lâÃtat, une machine fabuleuse qui doit pouvoir digÃ©rer ses Boomers, avait expliquÃ© rÃ©cemment le gros Turcotte lui-mÃªme. Ainsi, avant la Loi 173, lâactivitÃ© gouvernementale â je vous parle de lâensemble des postes budgÃ©taires affÃ©rents - qui consiste Ã  sâoccuper des personnes Ã¢gÃ©es coÃ»tait jusquâÃ  64 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% de plus quâaujourdâhui. Pour illustrer, on peut prendre lâexemple du CRG-BSL ici Ã  Rimouski, oÃ¹ deux prÃ©posÃ©s et demi arrivent Ã  sustenter, sans virer fous, plus de 840 bÃ©nÃ©ficiaires, de deux Ã  trois fois par jour. Un miracle de gestion et de logistique !
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Bien beau, mais dans son for intÃ©rieur, TimothÃ©e ne peut concevoir que lâon nourrisse les gens de cette faÃ§on. En ce sens, il est dâaccord avec Ti-DÃ©dÃ©, câest-Ã -dire Thierry-Ian Dennis-Dubeau (T.I.D.D), le charismatique leader des Verts et chef de lâopposition Ã  QuÃ©bec, qui, demain, est sensÃ© venir visiter le Centre avec un cortÃ¨ge de journalistes. Ãvidemment, câest une pensÃ©e quâil garde bien pour lui; il ne la partage mÃªme pas avec Saint-Pierre, surtout quâil ne le rencontre que dans lâÃ©tablissement, enclave sinistre oÃ¹ les cafards Ã©lectroniques sont omniprÃ©sents. Pire que dans ce roman de George Orwell dont il a oubliÃ© le nom.
+\end_layout
+
+\begin_layout Standard
+
+On a compris quâil nâÃ©tait pas une personne aussi cultivÃ©e quâil ne le souhaiterait. Avant dâÃªtre mutÃ© au CRG-BSL dans les mois qui suivirent la crÃ©ation de ces Ã©tablissements, TimothÃ©e Ã©tait agent de bureau senior, un classe IV, ce qui nâÃ©tait pas rien, Ã  la direction rÃ©gionale du ministÃ¨re de la SantÃ©, oÃ¹, attestation collÃ©giale en poche, il Ã©tait entrÃ© en 2015 Ã  lâÃ¢ge de 25 ans. Mais auparavant, il avait dÃ» se farcir deux ans dâÃ©tudes en soins infirmiers pour plaire Ã  sa mÃ¨re; elle exigeait quâil lui soit utile, Â«utile Ã  ton tourÂ», disait-elle en tapant du pied. Malheureusement pour elle, il avait dÃ» abandonner cette formation cauchemardesque, Ã©tant incapable de supporter la vue du sang. Une petite hÃ©morragie pouvait lui faire perdre tous ses moyens.
+\end_layout
+
+\begin_layout Standard
+
+Il entend encore sa mÃ¨re :
+\end_layout
+
+\begin_layout Standard
+
+- Câest pas si terrible que Ã§a, du sang ! Câest rien que la vie !
+\end_layout
+
+\begin_layout Standard
+
+Aucune menace nâayant pu rÃ©gler sa phobie, il avait bifurquÃ© vers la technique informatique et sâÃ©tait dÃ©crochÃ©, sans passion aucune, un certificat en informatique dâaffaires. DâoÃ¹ son statut dâagent classe IV. Avec un tel CV, les autoritÃ©s du CRG-BSL nâavaient pas hÃ©sitÃ© Ã  lui donner la responsabilitÃ© dâune section, la 5 Nord avec ses 56 vieillards, qui plus est, avec grade de CS-1. Quasiment une promotion ! Et mÃªme pas besoin dâavoir appris lâanglais !
+\end_layout
+
+\begin_layout Standard
+
+Un lÃ©ger frottement sur le cadre de porte de son bureau le tire de sa rÃ©flexion.
+\end_layout
+
+\begin_layout Standard
+
+- Bonjour Madame Bellow, fait-il Ã  lâex-bibliothÃ©caire avec la mÃªme rÃ©vÃ©rence marquÃ©e que sâil sâadressait Ã  un ancien allumeur de rÃ©verbÃ¨res.
+\end_layout
+
+\begin_layout Standard
+
+- Je mâexcuse de vous importuner, Monsieur Tardif, mais je nâai plus rien Ã  lire, sourit-elle en lui prÃ©sentant de ses deux petites mains ratatinÃ©es, quatre livres de poche. Jâai terminÃ© le dernier hier soir. TimothÃ©e sâempare des livres.
+\end_layout
+
+\begin_layout Standard
+
+- Aimeriez-vous avoir dâautres Giono ? Jâen ai trois ou quatre autres, si vous voulez.
+\end_layout
+
+\begin_layout Standard
+
+- Oh ! Ãa sera parfait, Monsieur Tardif. Jean Giono câest trÃ¨s bien. TrÃ¨s bien mÃªme.
+\end_layout
+
+\begin_layout Standard
+
+- Je vous amÃ¨ne Ã§a demain, Mme Bellow. Mais faut pas le dire Ã  personne, câest promis ?
+\end_layout
+
+\begin_layout Standard
+
+- Promis, monsieur Tardif.
+\end_layout
+
+\begin_layout Standard
+
+Et le fantÃ´me des temps dâautrefois repart dans le silence de ses pantoufles roses.
+\end_layout
+
+\begin_layout Standard
+
+Ce cÃ´tÃ© Â«contrebandier pas mÃ©chantÂ» de TimothÃ©e ne lâempÃªchait pas de diriger, depuis cinq ans, une petite Ã©quipe de prÃ©posÃ©s aux bÃ©nÃ©ficiaires. Ainsi, de 8 h Ã  16 h, son quart de travail Ã  lui, deux gaillards lâassistaient. Il pouvait sâagir de Steve Grenier ou de son comparse Laurent BÃ©rubÃ©, deux Ã©metteurs de farces idiotes et vulgaires, ou encore de Ronnie Ross - Ã§a se prononce Â«WrÃ¢nÃ© WrÃ¢ssÂ» - ou de son complice des coups sournois, Charles Chuck Chicoine - faut dire Â«Tchok TchicouaineÂ» - ou encore, dâun petit nouveau appelÃ© MÃ©rovÃ©e dâAnjou. Ils Ã©taient donc trois employÃ©s, ce qui Ã©tait amplement suffisant pour sâoccuper de sept salles pleines de vieux, dont certains dÃ©goulinant par toute sorte de bouts.
+\end_layout
+
+\begin_layout Standard
+
+De 16 h Ã  minuit, deux PB venaient prendre leur relÃ¨ve. Personne voulant Ãªtre de ce quart, TimothÃ©e devait produire la liste des affectations au moins un trimestre dâavance. Et mÃªme lÃ , certains se vengeaient. Ainsi, ces couches dÃ©goÃ»tantes dans le tiroir principal du bureau de TimothÃ©e, ce vieillard oubliÃ© trois heures durant sur une cuvette, ce poivre en poudre ajoutÃ© au manger mou de grabataires, etc. Enfin, de minuit Ã  8 h, il fallait se fier au personnel de nuit, des PB comptÃ©s sur les doigts de la main qui relevaient de la directrice des soins infirmiers sans avoir de comptes Ã  rendre Ã  TimothÃ©e, ce qui convenait parfaitement Ã  ce dernier. Est-on obligÃ©, dans la vie, de multiplier les sources de problÃ¨mes ?
+\end_layout
+
+\begin_layout Standard
+
+Ã ces gens sâajoutaient, au jour le jour, des assistÃ©s sociaux qui venaient Â«donner des heuresÂ» pour pouvoir manger ou se faire soigner et Ã  qui on confiait exclusivement les tÃ¢ches dites ingrates : changer les couches dans les salles 3P et SP (aucune couche nâest tolÃ©rÃ©e dans les 2P; advenant quâil faille en arriver lÃ , la bÃ©nÃ©ficiaire est mutÃ©e en 3Pâ¦), donner le manger mou aux vieillards impotents en 3P et, parfois, en SP, servir le manger mou Ã  la cafeteria, piloter les zambo (sorte de balayeuse, laveuse et cireuse combo) dans les passages et les salles, tondre la pelouse, pelleter la neige, jouer de la musique dans les salons communautaires, piÃ¨ces rÃ©servÃ©es aux rÃ©sidents en 2P et, sur approbation expresse, aux nouveaux en 3P, etc. Et si jamais on manquait dâassistÃ©s sociaux, on mobilisait les pensionnaires des salles 2P, cela Ã  leur grande indignation. En cas de force majeure, on avait recours aux bÃ©nÃ©ficiaires les moins poquÃ©s du Centre rÃ©gional de rÃ©adaptation et dâhÃ©bergement pour handicapÃ©s intellectuels sis deux coins de rue plus loin.
+\end_layout
+
+\begin_layout Standard
+
+Par sa porte grande ouverte, TimothÃ©e perÃ§oit des imprÃ©cations en provenance du poste de garde situÃ© Ã  quelques enjambÃ©es de son bureau. Câest Laurent BÃ©rubÃ© qui, dâaprÃ¨s ce que le CS-1 voit aprÃ¨s sâÃªtre Ã©tirÃ© le cou, est en train de fouiller sans mÃ©nagement le bonhomme Martel, un rÃ©sidant bien malgrÃ© lui qui accepte mal sa nouvelle vie de Â«bÃ©nÃ©ficiaireÂ». Surtout que son Ã©pouse des 51 derniÃ¨res annÃ©es est elle-mÃªme pensionnaire dans une salle 2P sur le mÃªme Ã©tage.
+\end_layout
+
+\begin_layout Standard
+
+- Vous lâavez cachÃ© oÃ¹, votre bouteille, le pÃ©re ?
+\end_layout
+
+\begin_layout Standard
+
+- Jâen nâai pas de bouteille, maudit voyou !
+\end_layout
+
+\begin_layout Standard
+
+- Vous sentez la tonne Ã  plein nez, vieux menteur !
+\end_layout
+
+\begin_layout Standard
+
+- Mâa tâen faire des Â«vieux menteursÂ», espÃ¨ce de mal Ã©levÃ©. Jâvais porter plainte. Pour ne pas que la scÃ¨ne ne dÃ©gÃ©nÃ¨re davantage, TimothÃ©e manÅuvre sa Saguewanish vers le poste de garde.
+\end_layout
+
+\begin_layout Standard
+
+- Laisse tomber, Laurent, je mâen occupe.
+\end_layout
+
+\begin_layout Standard
+
+- Visiblement, le gaillard nâapprÃ©cie pas.
+\end_layout
+
+\begin_layout Standard
+
+- Câest comme tu veux, le MottÃ©. Câest toi le chef !
+\end_layout
+
+\begin_layout Standard
+
+Et il recule se rÃ©fugier de lâautre cÃ´tÃ© du comptoir, le front plissÃ© de rides malicieuses.
+\end_layout
+
+\begin_layout Standard
+
+- Venez, Monsieur Martel, on va aller se calmer, fait le chef de section en marchant Ã  cÃ´tÃ© de sa bÃ©cane.
+\end_layout
+
+\begin_layout Standard
+
+Câest comme sâil avait appuyÃ© sur un bouton, clic ! Ã coups de paroles courtes et saccadÃ©es, le petit vieux se met Ã  dÃ©verser lâexcÃ©dent de son exaspÃ©ration accumulÃ©e. Il en ressort que le CRG-BSL nâest pas une maison de repos pour vieux, mais un abattoir oÃ¹ lâÃtat a embauchÃ© des fier-Ã -bras sans classe, des brutes, des moins que rien, des sans cÅur qui sÃ©parent les conjoints, qui dÃ©font les familles, qui maltraitent les gens, des gens qui ont trimÃ© dur toute leur vie, qui ont payÃ© des impÃ´ts comme des idiots pendant une soixantaine dâannÃ©es, pour finir ravalÃ©s au rang de bÃªtes, des bÃªtes sans droit Â«juste bonnes pour attendre la mortÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Jamais, on ne mâa manquÃ© autant de respect dans ma vie !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e aide le vieillard Ã  sâasseoir sur son lit.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Martel, faites seulement un peu plus attention. La bouteille de rhum que vous cachez dans la poche de linge sale de votre garde-robe, il y a trop de monde qui vous voient vous en servir. Soyez juste un peu plus discret.
+\end_layout
+
+\begin_layout Standard
+
+- Jâen peux plus !
+\end_layout
+
+\begin_layout Standard
+
+- Si BÃ©rubÃ© fait un rapport, je vais Ãªtre obligÃ© de donner suite. Vous connaissez la procÃ©dure, va falloir vous amener chez les Papyblues. Mais lÃ , faites-vous-en pas, je vais aller arranger Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+AtterrÃ©, le vieil homme reste coi. TimothÃ©e a utilisÃ© le mot magique, Papyblues, lâhorrible patronyme des tourmenteurs psychopathes qui rÃ´dent dans les dÃ©dales du sous-sol.
+\end_layout
+
+\begin_layout Standard
+
+HÃ©las ! deux lits plus loin, lâIlluminÃ© dÃ©marre son cirque habituel.
+\end_layout
+
+\begin_layout Standard
+
+- Â«Malheur Ã  ceux qui de bon matin courent aprÃ¨s les boissons enivrantes et qui bien avant dans la nuit sont Ã©chauffÃ©s par le vin !Â» Câest Ã©crit dans la Bible, misÃ©rables impies ! Et mÃªme Saint Luc le dit dans son Ãvangile : Â«Car il sera grand devant le Seigneur. Il ne boira ni vin, ni liqueur enivrante, et il sera rempli de lâEsprit Saint dÃ¨s le sein de sa mÃ¨re !Â» Pourquoi ne craignez-vous pas la colÃ¨re de Dieu ? Vous Ãªtes en train de transformer ce lieu de mÃ©ditation et de prÃ©paration vers la vie Ã©ternelle en filiale sordide de Sodome et Gomorrhe !
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Savoie, calmez-vous, dit-il Ã  lâilluminÃ©. Monsieur Martel a besoin de se reposer.
+\end_layout
+
+\begin_layout Standard
+
+Jean-Roch Savoie, un authentique Bleuet dâAlma, sâÃ©tait Ã©tabli dans le 3e Rang de Saint-Fabien (25 kilomÃ¨tres de Rimouski) vers la fin des annÃ©es 2010. LÃ , il avait dÃ©marrÃ© une sorte de secte nÃ©o-catholique qui lui avait permis de ne pas trop travailler pendant une vingtaine dâannÃ©es. Relativement inoffensif, il embÃªtait nÃ©anmoins les autres pensionnaires du 5e Nord avec ses visions apocalyptiques et ses certitudes dâÃªtre de plus en plus prÃ¨s dâun Dieu terriblement courroucÃ© par rapport Ã  sa CrÃ©ation.
+\end_layout
+
+\begin_layout Standard
+
+- Tais-toi donc, espÃ¨ce de fanatique !
+\end_layout
+
+\begin_layout Standard
+
+Martel semble pour le moins trÃ¨s agacÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Chef, ajoute-t-il, je vais te dire quelque chose, service pour service.
+\end_layout
+
+\begin_layout Standard
+
+- Vous ne me devez rien, Monsieur Martel.
+\end_layout
+
+\begin_layout Standard
+
+- Moi, mon âtit garÃ§on, je nâai jamais eu de dettes de toute ma vie ! Ãcoute-moi bien, jâvas tâle dire juste une fois. Ton Saguewanish a Ã©tÃ© sabotÃ©. LÃ  il fait du bruit, mais fais bien attention, il est Ã  veille de sauter. Ã ta place, je ne le monterais plus.
+\end_layout
+
+\begin_layout Standard
+
+- Comment vous savez Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Je les ai vus faire vendredi passÃ© quand tu es allÃ© jaser dans le bureau dâAlcide. Tu avais laissÃ© ta bÃ©cane dans le passage, fait quâils en ont profitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Qui Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Il est Ã©crit: Â«Nâabandonne pas un vieil ami, le nouveau ne le vaudra pas !Â» coupe lâIlluminÃ©. RÃ©flÃ©chis Martel, rÃ©flÃ©chis avant de vendre tes frÃ¨res Ã  Pharaon ! Car il est aussi Ã©crit: Â«Comme tu as fait il te sera fait : tes actes te retomberont sur la tÃªteÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Ãtouffe, vieux sans dessein !
+\end_layout
+
+\begin_layout Standard
+
+Puis, regardant TimothÃ©e:
+\end_layout
+
+\begin_layout Standard
+
+- Je peux pas de dire Ã§a, chef, tout ce que je peux te dire câest dâamener ton saguigui au garage. Au mÃªme moment, TimothÃ©e voit filer devant la porte de la salle lâombre furtive de Robespierre Alcide.
+\end_layout
+
+\begin_layout Standard
+
+- Parlant du loup, fait observer Martel.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre arrive probablement des commoditÃ©s. DâoÃ¹ pourrait-il venir pendant les heures dâouvrage, sinon de lÃ  ? Et oÃ¹ pourrait-il aller, sinon lÃ  ? Comme on ne le remarque jamais au salon des employÃ©s, quâil mange dans son bureau, quâil ne fait partie dâaucuns comitÃ© et quâil ne frÃ©quente jamais les fÃªtes ou les partys, personne ne sâentretient avec lui, sauf TimothÃ©e, ravi dâavoir trouvÃ© quelquâun lui ressemblant quelque peu, faÃ§on de parler. Tant et si bien que le personnage est devenu un ami comme lâest Shimoune Saint-Pierre, quelquâun avec qui il peut Ã©changer.
+\end_layout
+
+\begin_layout Standard
+
+InquiÃ©tÃ© par les propos du pÃ¨re Martel, le CS-1 quitte la salle sans prendre place sur son Saguewanish et, de son petit pas poussif, se dirige vers le bureau de Robespierre, traÃ®nant sa trottinette derriÃ¨re lui.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[r]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+35mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/alcide.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Le grand-pÃ¨re Alcide, un footballeur haÃ¯tien (un joueur de soccer, pas de football amÃ©ricain), avait immigrÃ© au QuÃ©bec il y a bien longtemps et, depuis, la famille sâÃ©tait signalÃ©e en sport et en loisirs. Lui, Robespierre, il Ã©tait directeur des loisirs du CRG-BSL. Fier dÃ©tenteur dâune maÃ®trise en Ã©ducation physique et dâun bac en rÃ©crÃ©ologie gÃ©rontologique de lâUniversitÃ© Laval, il en avait mÃªme portÃ© les couleurs au football interuniversitaire. Pourtant, son actuelle fonction avait un sÃ©rieux inconvÃ©nient pour quelquâun dâaussi qualifiÃ© que lui; au cours des quatre derniÃ¨res annÃ©es, on ne lui avait pas consenti de budget. ZÃ©ro ! MÃªme pas de quoi acheter deux raquettes de badminton au Dollorama. Les vieux des dortoirs 2P en Ã©tait rÃ©duits Ã  traÃ®ner leurs savates dans les salles communautaires, Ã  parler du bon vieux temps, Ã  jouer aux cartes, Ã  regarder la tÃ©lÃ©, Ã  sommeiller ou, plus rarement, Ã  sâamuser avec le terminal du quanticordi. Le gymnase avait Ã©tÃ© converti en salon du personnel avec certaines facilitÃ©s alimentaires et rÃ©crÃ©atives. Quant Ã  la piscine, on lâavait tout simplement vidÃ©e et condamnÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Puisque le poste de directeur des loisirs est considÃ©rÃ© obligatoire dans la Loi constituante des CRG, Robespierre faisait partie des effectifs de celui du Bas-Saint-Laurent et, Ã  ce titre, Ã©tait tenu dâÃªtre prÃ©sent cinq jours semaine. Le pauvre diable passait ainsi ses grandes journÃ©es enfermÃ© dans son bureau, un rÃ©duit situÃ©, Ã  la limite des ailes nord et centre du 5e Ã©tage, Ã  proximitÃ© de lâofficine de TimothÃ©e. Quây faisait-il ? Personne, Ã  part ce dernier, ne savait quâil y lisait des romans et surtout des ouvrages psychologiques, un dada quâil cultivait avec dÃ©lectation, quâil Ã©crivait de la poÃ©sie, quâil faisait des redressements et poussait des pompes, enfin, quâil entretenait un monde virtuel oÃ¹ une communautÃ© essentiellement quÃ©bÃ©co-haÃ¯tienne venait revivre les aventures de Toussaint Louverture telles que rÃ©Ã©crites et lourdement musclÃ©es par Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+- Tu sais TimothÃ©e, lui avait-il racontÃ© un jour, le pÃ¨re de mon grand-pÃ¨re, Terrence-Raoul Alcide, qui Ã©tait un peu chimiste ou, plutÃ´t, alchimiste autodidacte, avait trouvÃ© une faÃ§on de mÃ©langer des herbes, de la levure, de lâeau avec dâautres trucs ignobles. Il faisait chauffer et mijoter cette soupe pendant presque deux jours, laissait dÃ©canter et remplissait de petits flacons quâil vendait dans tous les bars des GonaÃ¯ves. Il avait appelÃ© son Ã©pouvantable mixture Â«PÃ©tÃ©panoÂ». Il suffisait dâen boire quelques gorgÃ©es pour devenir, peu aprÃ¨s, en virile situation de fournir, Ã  leur satisfaction, autant de dames que la biensÃ©ance communale pouvait lâexiger. DâoÃ¹ le nom Â«PÃ©tÃ©panoÂ». Câest cette trouvaille qui permit Ã  Terrence-Raoul de bien nourrir sa famille et faire en sorte que son aÃ®nÃ© devienne un footballeur Ã©toile.
+\end_layout
+
+\begin_layout Standard
+
+Si Robespierre sâÃ©tait complu dans une anecdote aussi savoureuse, câÃ©tait pour illustrer que chez les Alcide, aussi bien en HaÃ¯ti quâau QuÃ©bec, il y avait une tradition dâentraide. Il fut un temps oÃ¹ toutes les semaines, son grand-pÃ¨re, joueur de soccer, allait porter des caisses de bananes plantains dans un centre communautaire de MontrÃ©al-Nord, de la nourriture quâil avait payÃ©e de sa poche. Son propre pÃ¨re, lui-mÃªme ailier droit au soccer, mais surtout rappeur et slameur, se produisait gratuitement partout oÃ¹ il estimait pouvoir rendre service Ã  la communautÃ©. Et lui ?
+\end_layout
+
+\begin_layout Standard
+
+Il nâavait pas rÃ©pondu. Mais Ã  petits coups de dÃ©ductions, de mini observations, dâinavouables spÃ©culations et de fines intuitions, TimothÃ©e avait fini par lâassocier, Ã  tort ou Ã  raison, Ã  la fourniture de pilules du bonheur, un service des temps modernes que Robespierre pouvait rendre Ã  la communautÃ© du CRG.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce que je peux faire pour toi, mon ami ?
+\end_layout
+
+\begin_layout Standard
+
+Le tristounet binoclard sâassied sur la seule chaise Ã  ne pas Ãªtre encombrÃ©e de livres. Pendant cinq minutes, il va tourner autour du pot sans rien oser. Puis, sans transition :
+\end_layout
+
+\begin_layout Standard
+
+- Tu as sÃ»rement une idÃ©e sur ces fameuses pilules qui nâexistent pas ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouais, les pilules du bonheur.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e vise lâahurissant capharnaÃ¼m, plus particuliÃ¨rement cette masse murale hÃ©tÃ©roclite constituÃ©e de livres empilÃ©s et de souvenirs du Rouge et Or, lâÃ©quipe de lâUniversitÃ© Laval.
+\end_layout
+
+\begin_layout Standard
+
+- Jâen cherche. Euh, si jamais tu entends parler de quelque chose â¦
+\end_layout
+
+\begin_layout Standard
+
+Il se lÃ¨ve, les yeux sur le souk ambiant, et gagne le corridor sans que Robespierre lui rÃ©ponde.
+\end_layout
+
+\begin_layout Standard
+
+Son attention est immÃ©diatement portÃ©e vers Luce Morency, une ancienne jolie fille maintenant Ã¢gÃ©e de 86 ans. Elle sâest encore Ã©vadÃ©e de son lit de la salle 3P-L 6 Nord, laquelle, heureusement, nâest pas de la juridiction de TimothÃ©e. La bonne femme nâa pas ses dents, ses cheveux sont longs, laids, sales et en dÃ©sordre. Comme elle est nue, sa maigreur pendouillante donne la chair de poule aux gens quâelle croise. TimothÃ©e se pince la boucle dâoreille et dit :
+\end_layout
+
+\begin_layout Standard
+
+- 6e Nord, code magenta !
+\end_layout
+
+\begin_layout Standard
+
+On lui rÃ©pond et il rapporte la fugueuse. Dans lâattente quâon vienne la chercher, il lui prend nÃ©anmoins la main, Â«venez avec moi, madame MorencyÂ», et la fait sâasseoir sur une des chaises prÃ¨s de lâascenseur. Il en fait autant sur le siÃ¨ge voisin et lui parle du lac Saint-Mathieu oÃ¹ la vieille dame habitait un chalet converti en maison. Pendant une trentaine dâannÃ©es, elle y avait exploitÃ© une petite affaire de location de roulottes rapaillÃ©es quâelle destinait aux villÃ©giateurs venus de la ville. Puis un jour, un de ses amants Ã©tait disparu avec la caisse, juste avant un dÃ©pÃ´t, et moralement abattue, aux prises avec des dettes insolvables, Luce Morency avait fait faillite. Le reste nâavait Ã©tÃ© que dÃ©bÃ¢cle, dÃ©sastre et misÃ¨re noire.
+\end_layout
+
+\begin_layout Standard
+
+Peu aprÃ¨s, un prÃ©posÃ© du 6e se pointe, câest le gros Lavoie, un calamiteux qui mange Ã  tous les rÃ¢teliers. Tellement quâil possÃ¨de trois immeubles dâhabitation au Centre-ville de Rimouski. Il a amenÃ© un fauteuil roulant et une couverture dans laquelle il drape la mÃ¨re Morency. En la morigÃ©nant comme une pouilleuse, il la roule jusque dans lâascenseur et ils disparaissent. Quel fils de salaud !
+\end_layout
+
+\begin_layout Standard
+
+- Je lâai connue, dans le temps, la Luce Morency !
+\end_layout
+
+\begin_layout Standard
+
+La mÃ¨re ThÃ©riault qui dÃ©cidÃ©ment ne pouvait rater une si belle occasion, brandit son sourire malicieux des grands jours.
+\end_layout
+
+\begin_layout Standard
+
+- Câest dâvaleur quâelle vieillit aussi mal ! MÃ©chante belle femme, dans le temps ! Dans le temps de nos bals Ã  lâhuile du lac Saint-Mathieu. Elle Ã©tait tout le temps lÃ . Mais on aurait dit quâelle se mÃ©fiait de moi â¦ Pourtant !
+\end_layout
+
+\begin_layout Standard
+
+Sans plus tenir compte de la radoteuse, TimothÃ©e file vers son bureau, question de vÃ©rifier si rien qui ne peut attendre sâest affichÃ©, de signaler sa fin de quart au systÃ¨me et de placer son terminal en mode veille.
+\end_layout
+
+\begin_layout Standard
+
+Quand la cage de lâascenseur sâarrÃªte au 5e, Marie-Odile Tremblay, une forte femme de 37 ans que lâon surnomme la Bitch, sây trouve dÃ©jÃ  et semble sÃ©rieusement occupÃ©e Ã  contempler le tableau indicateur. Câest une agente de sÃ©curitÃ© sans charme, ni grÃ¢ce, ni coquetterie, une personne dont on craint la colÃ¨re, quâon nâa jamais vue sourire et quâon croit dÃ©latrice active. Nâest-elle pas cette flic maison qui a rÃ©cemment mis au jour un racket de nourriture clandestine, essentiellement du raisin sec, des abricots sÃ©chÃ©s et des noix, que deux prÃ©posÃ©s du 4e Centre, des misÃ©rables dÃ©sormais sans emploi, revendaient Ã  des dÃ©tenteurs de monnaie Ã  plume ?
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e nâose la saluer, mÃªme si, depuis quelque temps, il la soupÃ§onne dâÃªtre Ã  lâorigine de lâavatar avec lequel le sien sâamuse holographiquement depuis une semaine ou deux. La femme tourne lÃ©gÃ¨rement la tÃªte, comme pour le regarder. On dirait quâelle nourrit les mÃªmes soupÃ§ons.
+\end_layout
+
+\begin_layout Standard
+
+Mais au moment oÃ¹ les portes se referment, une main brune tout en muscles se glisse Ã  lâintÃ©rieur, ce qui enclenche automatiquement la rÃ©ouverture.
+\end_layout
+
+\begin_layout Standard
+
+- Je mâexcuse, fait Robespierre Alcide. Il est 16 heures et â¦
+\end_layout
+
+\begin_layout Standard
+
+HabituÃ© Ã  ce que personne ne sâintÃ©resse Ã  lui, il ne termine pas sa phrase.
+\end_layout
+
+\begin_layout Standard
+
+ArrivÃ©s au 2e, le CS-1 et lâagente de sÃ©curitÃ© sortent. Elle parce que câÃ©tait SA destination, la SÃ©curitÃ© occupant toute lâaile sud du 2e, lui parce quâil se croyait rendu au rez-de-chaussÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Au revoir, Marie-Odile, dÃ©clame Robespierre, un sourire tout craquelÃ© sur le bord des lÃ¨vres.
+\end_layout
+
+\begin_layout Standard
+
+Sans lui retourner sa politesse - une politesse intÃ©ressÃ©e ? - elle le regarde avec sÃ©vÃ©ritÃ©. Et câest avec le mÃªme air quâelle fixe cet autre Â«perdantÂ» qui tente bÃªtement de sâexcuser. ExcÃ©dÃ©e, elle hausse les Ã©paules et file sur son Saguewanish, toutes voiles dÃ©ployÃ©es. Un Saguewanish qui ne fait pas de bruit. HumiliÃ© encore une fois, TimothÃ©e entreprend de pitonner la console murale de lâascenseur. Pourquoi Robespierre ne lâa-t-il pas attendu ? Ã cause de sa requÃªte de tout Ã  lâheure ?
+\end_layout
+
+\begin_layout Standard
+
+Mais tout prÃ¨s, dans une officine Ã  peine plus grande que la sienne, un sexagÃ©naire Ã  bouc, selon cette mode grotesque qui frappa lâOccident dans les annÃ©es 2005-2010, lui fait signe de la main avec insistance. TimothÃ©e hÃ©site et se pointe le thorax de lâindex en hochant de la tÃªte Ã  rÃ©pÃ©tition. Lâautre fait signe que oui en rÃ©pÃ©tant son geste. Le CS-1 embraye donc sa vieille bÃ©cane. Il sait que cet Ã©trange personnage quâon ne voit jamais nulle part, lui non plus, est SÃ©bastien Larose, le dernier syndiquÃ© de la Fonction publique du QuÃ©bec. Tous les autres sont soit dÃ©cÃ©dÃ©s, soit retraitÃ©s, soit devenus cadres.
+\end_layout
+
+\begin_layout Standard
+
+La formule Rand ayant Ã©tÃ© dÃ©clarÃ©e inconstitutionnelle par la Cour SuprÃªme en 2018, QuÃ©bec lâavait supprimÃ©e lâannÃ©e suivante pour sâÃ©viter un trÃ¨s juteux recours collectif. En consÃ©quence, plus personne parmi les nouveaux employÃ©s de lâÃtat nâavait voulu adhÃ©rer au syndicat. Le vieux SÃ©bastien Ã©tait dÃ©sormais le seul de son espÃ¨ce. Ce qui signifie quâen vertu des lois du Travail en vigueur, le syndicat devrait Ãªtre dissolu par le Lieutenant-gouverneur en conseil le jour oÃ¹ Larose partirait. En attendant, il cumulait les postes de prÃ©sident, de secrÃ©taire, de trÃ©sorier et agissait comme assemblÃ©e gÃ©nÃ©rale. Ne sachant trop quoi en faire, voulant sâÃ©viter une structure patronale syndicale, les autoritÃ©s du CRG-BSL avaient prÃ©fÃ©rÃ© placer cet Ã©nergumÃ¨ne dâun autre Ã¢ge dans un bureau confortable oÃ¹ on lui foutait la paix dans lâattente de sa retraite, ce qui devrait arriver dans les huit prochains mois. Croyait-on en haut lieu !
+\end_layout
+
+\begin_layout Standard
+
+- Excuse-moi, mon homme, fait-il un crayon Ã  la main, je cherche un mot de dix lettres, dix lettres, qui signifie Â«rationalisation administrative efficaceÂ» et qui commence par les lettres HO â¦
+\end_layout
+
+\begin_layout Standard
+
+Il a prononcÃ© Â«mon hommeÂ» comme seuls les Bas-laurentiens savent le faire. Vouloir respecter le son, il faudrait Ã©crire Â«mÃ¢nemÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Euh ! Dix lettres ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouin, pâis Ã§a finit par un Eâ¦
+\end_layout
+
+\begin_layout Standard
+
+- Euh ! Rationalisation administrative efficace, attendez â¦
+\end_layout
+
+\begin_layout Standard
+
+- Dix lettres.
+\end_layout
+
+\begin_layout Standard
+
+- Je lâai. Câest HOLOCAUSTE.
+\end_layout
+
+\begin_layout Standard
+
+- Ahhh ! GÃ©nial ! Merci mon homme !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e ressort du petit bureau et reprend place sur son Saguewanish. Il sâengouffre dans lâascenseur et le quitte un Ã©tage plus bas, en face du portrait couleur de Sylvain Turcotte, lâhomme fort du rÃ©gime libÃ©ral. Ignorant quelques quolibets dâusage, il sort de lâÃ©difice et roule jusquâau stationnement oÃ¹ il aperÃ§oit Shimoune Saint-Pierre presque nu, couchÃ© sur le devant de son automobile Ã©lectrique en train de prendre le soleil de lâaprÃ¨s-midi.
+\end_layout
+
+\begin_layout Standard
+
+- Beau temps pour sâÃ©tendre ! Tâas fini ta journÃ©e, Momo ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouin.
+\end_layout
+
+\begin_layout Standard
+
+- Saint-Pierre ajuste ses verres fumÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Câest pas de mes affaires, mais je viens de voir le gros Lavoie placer un bout de papier dans ton pare-brise. - Ah ! TimothÃ©e salue son ami et se dirige vers la section du stationnement - câest la plus Ã©loignÃ©e âqui est rÃ©servÃ©e aux voitures Ã  essence. Effectivement, quelque chose de flageolant a Ã©tÃ© glissÃ© sous les essuie-glaces de sa bagnole, concentrÃ© de rouille construit en 2013. Câest une feuille toute dÃ©gueulasse, on la dirait souillÃ©e de matiÃ¨res abominables, oÃ¹ on le traite de Â«gros mottÃ© tÃ©teux de boss qui, un jour, va se faire casser sa yeule de ratÂ». Sans colÃ¨re, il chiffonne le brouillon et va le jeter dans un bac Ã  recup trois pas plus loin.
+\end_layout
+
+\begin_layout Standard
+
+Pourquoi le persÃ©cute-t-on tant ? Pourquoi le dÃ©teste-t-on tant ? Il nâen est pas certain. Possiblement parce quâil ne parle Ã  personne, parce quâil est chef de section, classe 1, parce quâil ne frÃ©quente pas le club social, Ã  lâinstar de Robespierre, de Shimoune ou du vieux SÃ©bastien Larose. SÃ»rement parce quâil a une tronche louche avec ses barniques Ã©paisses, ses cheveux trop Ã©claircis, sa trottinette qui en arrache, sa chemise tachÃ©e de sauce Ã  spaghetti, sa dÃ©gaine de perdant. Toute cette mÃ©chancetÃ© gratuite, cette bÃªte incomprÃ©hension, est, la plupart du temps, lourde Ã  porter et, comme câest le cas prÃ©sentement, lâemplissent dâun cafard qui lâhabitera encore, il le sait, bien aprÃ¨s quâil sera rendu chez lui. Aimerait-il pouvoir se venger, ruer, hurler, frapper, impressionner, susciter le respect, obtenir du gros Lavoie quâil lui demande pardon ? Peut-Ãªtre, mais ce nâest pas vraiment dans sa nature.
+\end_layout
+
+\begin_layout Standard
+
+Sans dire un mot, il place le bruyant Saguewanish dans la malle de la bagnole, quitte le terrain du CRG et prend la direction de Nazareth. En cette fin dâaprÃ¨s-midi de juillet, lâair du fleuve rend possible, voire dÃ©lectable, la chaleur extraordinaire - Ã  MontrÃ©al, ils disent Â«accablanteÂ» - qui assaille lâEst-du-QuÃ©bec depuis quelque temps. Les gens sont partout sur les trottoirs, les balcons, dans les parcs, sur la promenade du Fleuve, sur les pistes cyclables, sur les terrasses. On rit, on sourit, on crie, on sâarrose, on sâattrape, on sâaime, on est heureux. Mais lui, TimothÃ©e, il roule plutÃ´t vers autre chose, vers une sorte de tombeau sombre, sale et hostile oÃ¹ lâhumiditÃ© sera Ã©touffante et, comme câest de plus en plus le cas, nausÃ©abonde.
+\end_layout
+
+\begin_layout Standard
+
+- Merde, jâai oubliÃ© les sacs de la mÃ¨re Loubert ! 
+\end_layout
+
+\end_body
+\end_document

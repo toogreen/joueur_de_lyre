@@ -1,0 +1,879 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+La loi du Gros Turcotte
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Sur les cloisons du salon communautaire,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ piÃ¨ce bien Ã©clairÃ©e dâune centaine de mÃ¨tres carrÃ©s, les autoritÃ©s ont accrochÃ© quelques portraits de grands QuÃ©bÃ©cois dont celui, format gÃ©ant, du ministre Sylvain Turcotte, lâhomme fort du rÃ©gime libÃ©ral. PercÃ©es dans le mur du fond, deux grandes fenÃªtres Ã©tanches exposent le quartier Saint-Robert et son dÃ©cor immuable qui sâÃ©tire Ã  partir de la riviÃ¨re Rimouski, comme sâil nâavait jamais Ã©tÃ© dÃ©truit par le grand feu dâil y a 83 ans. Des fauteuils trop rigides, des chaises Ã  peine confortables, trois tables Ã  cartes, un fourre-tout pour les revues, un tÃ©lÃ©viseur plasma mural et le projo dâun terminal quanticordi CLTD (Cubic Laser Touch Display) constituent le mobilier.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% AVANT LES CHAPITRES 2 ET 3 ETAIENT DANS LE CHAPITRE 2 EN SECTIONS 1 ET 2. D'OU LA COMMANDE SUIVANTE QUI NE SERT PLUS. 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+section{La loi du Gros Turcotte, le lundi 18 juillet 2033}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+CachÃ© dans le plafond, un haut-parleur laisse couler du Michel Rivard, tÃ©moin de cette Ã©poque bÃ©nie oÃ¹ les rÃªves sâassouvissaient parfois dans lâimmÃ©diat par crainte de voir sâestomper lâespoir quâils soulevaient.
+\end_layout
+
+\begin_layout Standard
+
+Je voudrais voir la mer et ses plages dâargent Et ses falaises blanches, fiÃ¨res dans le vent Je voudrais voir la mer et ses oiseaux de lune Et ses chevaux de brume et ses poissons volants Je voudrais voir la mer quand elle est un miroir OÃ¹ passent sans se voir des nuages de laine Et les soirs de tempÃªte dans la colÃ¨re du ciel Entendre une baleine appeler son amour Je voudrais voir la mer Et danser avec elle pour dÃ©fier la mort Je voudrais voir la mer Et danser avec elle pour dÃ©fier la mort
+\end_layout
+
+\begin_layout Standard
+
+Lâair ambiant nâa de fraÃ®cheur que celui des vieux poumons qui la hument; par mesure dâÃ©conomie le systÃ¨me de ventilation ne crachote plus quâÃ  trÃ¨s bas rÃ©gime et la climatisation nâest disponible quâaux Ã©tages de bureaux. Dit autrement, Â«Ã§a sent le vieuxÂ» ! Effectivement, une dizaine de vieillards accoutrÃ©s de hardes que lâon dirait pigÃ©es dans un grand tas de guenilles usÃ©es, hÃ©tÃ©roclites, asexuÃ©es, sây trouvent, comme ils le font tous les jours, la plupart concentrÃ©s silencieusement sur leur partie de 500. Une dame Ã  moitiÃ© chauve, essaie de ne pas somnoler devant la tÃ©lÃ© dont on a dÃ©branchÃ© le son.
+\end_layout
+
+\begin_layout Standard
+
+Je vis dans une bulle au milieu dâune ville Parfois mon coeur est gris et derriÃ¨re la fenÃªtre Je sens tomber lâennui sur les visages blÃªmes Et sous les pas pesants qui traÃ®nent les passants Je voudrais voir la mer Et danser avec elle pour dÃ©fier la mort
+\end_layout
+
+\begin_layout Standard
+
+Une autre, toute sÃ©rieuse, assise prÃ¨s dâune fenÃªtre, est plongÃ©e dans un livre comme si elle Ã©tait seule au monde. Ã cÃ´tÃ© dâelle, Dart Vader sâest levÃ©. Câest ainsi quâon appelle Robert Gagnon, un ancien ivrogne fumeur compulsif sur qui il avait fallu pratiquer une trachÃ©otomie lâannÃ©e dâavant son admission au Centre. Depuis, il doit appuyer sur sa canule trachÃ©ale pour pouvoir Ã©mettre des sons et se faire comprendre.
+\end_layout
+
+\begin_layout Standard
+
+- Câest plate ici, Ã©met le bonhomme. Faudrait virer Ã§a en party ! Quâest-ce tâen dis, âBÃ©bÃ© Bloâ ?
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[r]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/timothee1.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Outre lâex-bibliothÃ©caire Bea Bellow, Anglo-GaspÃ©sienne sans dÃ©fense quâessaie dâagacer Dart Vader, personne ne porte attention Ã  sa remarque. Ni les joueurs de 500, ni la vieille tÃ©lÃ©phage, ni TimothÃ©e-Milet Tardif, surnommÃ© le MottÃ©, qui, juchÃ© sur un ancien Saguewanish, clone saguenÃ©en de la populaire trottinette Segway, vient faire sa tournÃ©e dâinspection.
+\end_layout
+
+\begin_layout Standard
+
+Comment lâavait-on affublÃ© dâun tel prÃ©nom ? Sa mÃ¨re Marie Rioux dite la Maririou, voulait lâappeler Dimitri, en lâhonneur du compositeur russe Dimitri Dimitrievitch Chostakovitch dont elle apprÃ©ciait au plus haut point les concertos pour violoncelle. Mais son pÃ¨re, Romain Tardif dit le gelÃ©, suggÃ©ra un compromis de taille, soit de sâinspirer du nom de TimothÃ©e de Milet. Ce musicien grec de lâAntiquitÃ© exigeait en effet que lâon oublie toute formation musicale avant de venir jouer avec lui. CâÃ©tait un poÃ¨te avant-gardiste qui dÃ©testait emprunter les sentiers battus. En outre, nâavait-il pas fait ajouter quatre cordes Ã  la lyre grecque ancienne, la kithara, parce que onze possibilitÃ©s sonores, au lieu de sept, pouvaient offrir un meilleur plaisir harmonique aux spectateurs ? Paradoxalement, Romain, un athÃ©e devenu anticlÃ©rical, et Marie, une non-croyante finalement apaisÃ©e, ignoraient quâen grec, TimothÃ©e signifiait Â«Celui qui craint DieuÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Yo chef, câest-y aujourdâhui que tu nous fais livrer du chinois ?
+\end_layout
+
+\begin_layout Standard
+
+En voilÃ  un qui ne peut vraiment pas sâhabituer au manger mou, se dit lâemployÃ© en saluant Gagnon de la tÃªte. Mais qui le pourrait ? Comment peut-on y arriver ?
+\end_layout
+
+\begin_layout Standard
+
+Ã 43 ans, TimothÃ©e est un binoclard en passe de devenir chauve, un binoclard rendu grassouillet, mÃªme des seins, des cuisses et du fessier. Comme une femme. Il sait quâil devrait cesser de toujours utiliser sa bÃ©cane Ã©lectronique et marcher davantage dans les longs couloirs de lâinstitution, ou encore, faire comme ses parents et sâen remettre Ã  un exerciseur de marche. Mais bon, Ã  quoi cela servirait-il ? Quel sens cela aurait-il ? De toute faÃ§on, il finira, Ã  son tour, dans un des casiers frigorifiÃ©s du sous-sol !
+\end_layout
+
+\begin_layout Standard
+
+Lâhomme est chef de section classe 1, un CS-1 comme il se dit dans le milieu. Huit heures par jour, il traÃ®ne sa dÃ©gaine au Centre rÃ©gional gÃ©riatrique du Bas-Saint-Laurent, alias le CRG-BSL, un Ã©tablissement rimouskois relevant du ministÃ¨re des Affaires gÃ©rontologiques (MAG), oÃ¹ il est responsable de sept salles gÃ©riatriques, de grandes piÃ¨ces aussi Ã©clairÃ©es que le salon communautaire, pour peu quâon veuille bien ouvrir les stores, source constante de conflits. LÃ , des personnes Ã¢gÃ©es, dÃ©primÃ©es ou neutralisÃ©es, autonomes ou moribondes, y vivent, y vÃ©gÃ¨tent, y reposent, y meurent. Plus aucune ne rÃªve. Il nây a pas de lit vacant; aussitÃ´t vidÃ©s, aussitÃ´t remplis.
+\end_layout
+
+\begin_layout Standard
+
+Cela ne signifie pas que TimothÃ©e soit gÃ©riatre ou gÃ©rontologue. Il ne dispose que dâun certificat collÃ©gial en technique informatique. Son travail est plutÃ´t de voir Ã  ce que tout turbine sans histoire dans son dÃ©partement. En cas de pÃ©pins, il a accÃ¨s Ã  des ressources professionnelles, pour peu quâil sache qui aller lÃ©cher dans le bon sens du poil ou, parfois, qui aller arroser dâun bakchich appropriÃ©. En ce sens, il est payÃ© pour coordonner. Pour que tout balance. Tant de vieux, tant de lits, tant de fichiers informatiques.
+\end_layout
+
+\begin_layout Standard
+
+- âTention le MottÃ© ! On pousse de la viande froide !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e regarde passer les deux prÃ©posÃ©s du grand frigo venus prendre livraison du pÃ¨re Morneau dont lâagonie avait Ã©tÃ© aussi rapide quâimprÃ©vue. Ãtait-ce encore une fois lâÅuvre de la Â«pilule du bonheurÂ», cette cause relativement frÃ©quente de mortalitÃ© qui, officiellement, nâexistait pas ? On ne pourra sÃ»rement pas se fier sur lâautopsie pour le savoir; une telle pratique nâÃ©tait plus requise dans le cas de ces dÃ©cÃ¨s survenus dans le respect des normes et Ã  lâintÃ©rieur du cadre Ã©tablie. Ã moins, bien sÃ»r, que quelquâun ne lâexige formellement.
+\end_layout
+
+\begin_layout Standard
+
+EmballÃ© dans un sac mortuaire, le cadavre du misÃ©rable a Ã©tÃ© placÃ© sur un chariot brinquebalant dont les couic couic signalent un dÃ©ficit inquiÃ©tant du cÃ´tÃ© lubrifiant. Le funÃ¨bre convoi file vers le No Manâs Land faisant la jonction entre les sections Nord et Centre du 5e Ã©tage. Ã cet endroit, le corridor sâÃ©largit en salle dâattente avec, en son milieu, sur une table du siÃ¨cle dernier, un terminal de quanticordi. Le pÃ¨re Morneau et ses misÃ¨res terminÃ©es doivent le contourner pour pouvoir accÃ©der aux ascenseurs, ce qui distrait, le temps dâun plissage de front, Steeve Desrosiers, lâarrogant chef de section (CS-1) du 5e Centre. CarriÃ©riste sans vergogne, il est occupÃ© Ã  initier un nouvel employÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Quel tableau ! PrÃ¨s du mur, un sac mortuaire et deux taupins qui jouent Ã  ceux qui nâentendent rien pour cause de rÃ©alitÃ©. Plus au centre, un terminal quantique et deux officiants qui jouent Ã  ceux qui ne voient rien pour cause dâavancement.
+\end_layout
+
+\begin_layout Standard
+
+Ã grand renfort dâeffets holographiques, un document promo prÃ©sente le CRG-BSL comme Ã©tant la onziÃ¨me merveille du monde, Â«lâÃ©difice intelligent le plus sophistiquÃ© Ã  lâest de QuÃ©becÂ». Au travers des inepties du publireportage, on apprend quâil a Ã©tÃ© Ã©rigÃ© sur les ruines dâun ancien centre commercial dÃ©moli, pour des raisons de sÃ©curitÃ©, en 2021. Lâimmeuble de sept Ã©tages est subdivisÃ© en trois pavillons : nord, centre et sud. Tandis que le sous-sol, le rez-de-chaussÃ©e et les deux premiers Ã©tages accueillent les diffÃ©rents services essentiels au bon fonctionnement de lâÃ©tablissement, les cinq niveaux subsÃ©quents sont propres Ã  lâhÃ©bergement des pensionnaires Ã¢gÃ©s. Sur ces Ã©tages, on y a structurÃ© la vie et sa logistique en trois sections pouvant accueillir chacune, un maximum de 56 bÃ©nÃ©ficiaires, dont certains provisoirement vivants, et parfois, pour de trÃ¨s courts sÃ©jours, dâautres dÃ©jÃ  trÃ©passÃ©s. Ainsi, Ã  pleine capacitÃ©, le CRG-BSL peut accommoder 840 personnes Ã¢gÃ©es. TimothÃ©e hausse les Ã©paules.
+\end_layout
+
+\begin_layout Standard
+
+- 840 petits vieux en attente dâun grand sac noir Ã  fermeture Ã©clair et dâun dernier voyage sur un charriot qui fait couic couic.
+\end_layout
+
+\begin_layout Standard
+
+Plus dans le dÃ©tail, peut-on voir en animation idÃ©alisÃ©e oÃ¹ tous les bÃ©nÃ©ficiaires sont, bien entendu, souriants, chaque section compte sept salles de huit lits chacune, un salon communautaire, une Â«petite chambreÂ» pour certains besoins â¦ intimes, un poste de garde et un bureau pour le CS-1. Ainsi, les quatre premiÃ¨res sont des salles communautaires pour personnes autonomes (SC2PA), des locaux communÃ©ment appelÃ©s 2P oÃ¹ les prÃ©posÃ©s nâentrent quasiment jamais. Deux de ces salles sont rÃ©servÃ©es aux dames, des 2P-F, et deux sont prÃ©vues pour ces messieurs, des 2P-H. Les pensionnaires y sont gÃ©nÃ©ralement en bonne santÃ©, en tout cas, ils le sont pour un certain temps, et ils sây dÃ©brouillent gÃ©nÃ©ralement seuls.
+\end_layout
+
+\begin_layout Standard
+
+- Dans les pires cas, ajoute Desrosiers, ce qui est assez frÃ©quent, ils sont dÃ©pressifs, colÃ©riques, violents, voire mÃªme anorexiques. Quand cela se produit, il faut les soulager et, surtout, les stabiliser par mÃ©dication appropriÃ©e que lâon ajoute mÃ©caniquement Ã  leur alimentation quotidienne.
+\end_layout
+
+\begin_layout Standard
+
+La recrue ne semble pas avoir compris le sens de ces Â«ajouts mÃ©caniquesÂ». Mais TimothÃ©e en a assez entendu et fonce en direction opposÃ©e. De toute faÃ§on, la voix de Steeve Desrosiers lâa toujours irritÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Sa boucle dâoreille, chef-dâÅuvre de miniaturisation qui cache un dispositif personnel polyvalent (DPP), lui chatouille soudainement le lobe.
+\end_layout
+
+\begin_layout Standard
+
+- 5e Nord, TimothÃ©e Tardif !
+\end_layout
+
+\begin_layout Standard
+
+- As-tu des morts depuis la fin de semaine, demande la voix dÃ©sagrÃ©able du directeur de lâhÃ©bergement, Jean-Pascal Lemoignan.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai un bÃ©nÃ©ficiaire de Cabano, Albert Morneau. Ils viennent de partir avec. Mais le systÃ¨me informatique est en panne. Fait que â¦
+\end_layout
+
+\begin_layout Standard
+
+- Jâsais, jâai râmarquÃ© ! Quand tu pourras !
+\end_layout
+
+\begin_layout Standard
+
+Lemoignan a raccrochÃ© sans avoir son rapport. Mais il lâaura, il le faudra bien. Tant de morts, tant de vivants, tant de lits, tant de tables, tant de fichiers, tant de verres dâeau. Des statistiques, des colonnes, des justifications, des analyses, des mÃ©mos oÃ¹ il nây a jamais place pour la vie vÃ©cue, celle des amours, des peines, des joies, des colÃ¨res, des coups de chance, des coups durs. Et le CS-1 ne devra surtout pas parler de sa perplexitÃ©, de ses soupÃ§ons, de cette improbabilitÃ© qui caractÃ©rise la fin dâAlbert Morneau, de cette prÃ©somption quâil pourrait y avoir eu recours Ã  la pilule du bonheur ! On lui ferait reprendre son rapport.
+\end_layout
+
+\begin_layout Standard
+
+- Que des faits, Tardif, que des faits, lui dirait-on.
+\end_layout
+
+\begin_layout Standard
+
+Dans les trois autres dortoirs dont TimothÃ©e est responsable, câest une tout autre histoire. Tout dâabord, les deux sexes y sont confondus. Perte de conscience ou dâautonomie aidant, il nâest plus aussi important de garantir lâintimitÃ©. Ã quoi cela servirait-il, nâest-ce pas ? Car dans les cinquiÃ¨me et sixiÃ¨me piÃ¨ces, des salles communautaires pour personnes en perte dâautonomie (SC3PA), câest-Ã -dire des 3P, on loge des hommes et des femmes qui ne peuvent plus demeurer en 2P, des cas devenus sÃ©niles, poquÃ©s, problÃ©matiques, incurables. Lâune est conÃ§ue pour les cas mineurs, la 3P-M, lâautre pour les cas plus lourds, la 3P-L.
+\end_layout
+
+\begin_layout Standard
+
+Enfin, le dernier local appelÃ© par dÃ©rision, surtout aux CRG de la rÃ©gion montrÃ©alaise, EOR (Â«End of the RoadÂ»), est un mouroir identifiÃ© en signalisation interne comme Ã©tant une salle palliative (SP). On y place les incurables qui nâen ont plus que pour quelque temps, ainsi que les moribonds. Il arrive que lâon doive y rajouter un lit ou deux.
+\end_layout
+
+\begin_layout Standard
+
+MÃªme sâil essaie dâaller le moins vite possible, TimothÃ©e est bien conscient que son Saguewanish est trop bruyant, comme vient de lui rappeler cette coquette de 84 ans en jaquette rose, dont le sourire lubrique nâa dâÃ©gal que la tenue hÃ©tÃ©roclite.
+\end_layout
+
+\begin_layout Standard
+
+- Je sais Madame BÃ©rubÃ©, faut que je mâen occupe.
+\end_layout
+
+\begin_layout Standard
+
+SÃ»rement un problÃ¨me dâinsonorisation sur le bloc moteur. Mais, bon, le modÃ¨le quâil chevauche nâest plus sur le marchÃ©. Il fait partie dâun lot de trente-cinq trottinettes dâoccasion achetÃ©es Ã  lâouverture du Centre, il y a cinq ans de cela. Et, câest connu, lâAdministration nâa pas les budgets nÃ©cessaires, du moins pour lâinstant, au renouvellement de sa flotte de bÃ©canes. Il va falloir patienter.
+\end_layout
+
+\begin_layout Standard
+
+Dans une 2P-F oÃ¹ il vient dâentrer, une scÃ¨ne lâinterpelle. Sans hausser le ton, comme sâil Ã©mettait une priÃ¨re secrÃ¨te, il dit en direction de deux coquines, lâune surtout grassouillette, lâautre surtout fripÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Regagnez votre lit, Madame ThÃ©riault. Si vous nâarrÃªtez pas votre petit manÃ¨ge, jâvais Ãªtre obligÃ© de faire un rapport sur votre homosexualitÃ©. Ils vont vous attraper et vous dÃ©mÃ©nager chez les foquÃ©s du sous-sol. Et vous connaissez les gardiens !
+\end_layout
+
+\begin_layout Standard
+
+Pour ne pas voir le rÃ©sultat de son intervention, il fait un rapide tour de la salle en se demandant comment une chambrÃ©e de vieillardes pouvait en arriver Ã  sentir aussi mauvais.
+\end_layout
+
+\begin_layout Standard
+
+- MÃ©chant moteur lÃ -dâdans, mon MottÃ©, lui signifie, un peu plus loin, prÃ¨s du poste de garde, un petit vieux en robe de chambre.
+\end_layout
+
+\begin_layout Standard
+
+- Va bâen falloir que je lâamÃ¨ne au garage, Monsieur Jean, lui rÃ©pond TimothÃ©e, viscÃ©ralement agacÃ©, mÃªme si rien ne paraÃ®t.
+\end_layout
+
+\begin_layout Standard
+
+Si le bonhomme lâa appelÃ© MottÃ©, câest quâil a des liens avec certains employÃ©s qui ont une opinion bien prÃ©cise sur TimothÃ©e. En existe-t-il seulement qui nâen ont pas ? Câest comme ces vieillards de tout Ã  lâheure, attablÃ©s au 500 dans le salon communautaire. Aucun dâeux ne lâa saluÃ©. Tous lâont ignorÃ©. Ils ne lui auraient parlÃ© que si nÃ©cessaire. Pourtant, ce nâest pas lÃ  lâeffet dâun complot, mais plutÃ´t le reflet dâune culture, celle des Boomers. Toute leur vie, ces gens ont mÃ©prisÃ© lâautoritÃ©. Ce nâest pas sur leurs vieux jours quâils commenceront Ã  agir autrement. Sale gÃ©nÃ©ration !
+\end_layout
+
+\begin_layout Standard
+
+Une forte odeur dâammoniac rappelle au chef de service que la veille, un des pensionnaires, AndrÃ© Maheu, a eu un Â«accidentÂ» en plein milieu de la piÃ¨ce. En plein dimanche aprÃ¨s-midi ! En pleine journÃ©e des visites alors que certains Â«parents autorisÃ©sÂ» ont le droit de venir aux Ã©tages sâasseoir, pendant une heure, devant un proche institutionnalisÃ© en 3P-M (salle pour cas lourds) ou SP (salle pour moribonds). Pas en 2P (autonomes) ni en 3P-L (poquÃ©s lÃ©gers). Les pensionnaires de ces milieux de vie doivent descendre au rez-de-chaussÃ©e dans le grand salon oÃ¹ les visites sont tolÃ©rÃ©es entre 13 h 30 et 16 h 30. Pas chanceux, le pÃ¨re Maheu ! On lâa depuis mis aux couches, ce qui signifie, pour lui, un transfert imminent en 3P. Mais, bon! Câest la vie !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e fait faire volte-face Ã  son Saguewanish et met le cap sur la lourde salle SP.
+\end_layout
+
+\begin_layout Standard
+
+- Chef, chef, fait une voix suppliante
+\end_layout
+
+\begin_layout Standard
+
+Diane Loubert, une septuagÃ©naire quâon dirait nonagÃ©naire, est une ancienne fonctionnaire du ministÃ¨re de lâAgriculture qui nâeut de vie que celle de ses registres de cheptel. Aujourdâhui, elle traÃ®ne ses savates dans les passages du CRG, rÃªvant de bovins broutant Ã  lâinfini et de fermes laitiÃ¨res sâÃ©tendant par-delÃ  lâhorizon.
+\end_layout
+
+\begin_layout Standard
+
+- Je nâai plus de sacs pour ma colostomie.
+\end_layout
+
+\begin_layout Standard
+
+- Je mâen occupe, Mme Loubert, rÃ©pond TimothÃ©e en Â«double tapantÂ» sa boucle dâoreille, question de numÃ©riser la demande.
+\end_layout
+
+\begin_layout Standard
+
+Câest vrai que sa bÃ©cane est vraiment bruyante, se dit-il en observant le dos voÃ»tÃ© de la bonne femme condamnÃ©e aux affres dâun anus artificiel. Reste que bruyant ou non, pouvoir se promener en Saguewanish au lieu de marcher, marcher et marcher dans un Ã©tablissement de santÃ© long Ã  ne plus finir comme le CRG-BSL, câest tout un progrÃ¨s. Justement, le foutu progrÃ¨s sâest installÃ© Ã  tous les niveaux, du haut en bas de la pyramide, Ã  gauche et Ã  droite de la sociÃ©tÃ©.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e connaÃ®t quasiment par cÅur la propagande gouvernementale, celle concoctÃ©e par les Ã©mules du docteur Joseph Goebbels Ã  lâÅuvre chez le gros Turcotte.
+\end_layout
+
+\begin_layout Standard
+
+- PoussÃ© par la criminalisation fÃ©dÃ©rale du tabagisme et des machines Ã  jeux vidÃ©o survenue en 2020, le QuÃ©bec, derniÃ¨re province canadienne Ã  le faire, a dÃ» se mettre Ã  la recherche de nouvelles sources de revenus, question dâÃ©viter les dÃ©ficits budgÃ©taires, une pratique illÃ©gale, tout en assumant le coÃ»t faramineux de lâentretien des baby-boomers devenus, pour la plupart, octogÃ©naires. CâÃ©tait vouloir rÃ©gler la quadrature du cercle, Ã  plus forte raison, que le FÃ©dÃ©ral avait, encore une fois, fait faux bond. Il a donc fallu innover, innover pour que la vie redevienne harmonieuse chez nous.
+\end_layout
+
+\begin_layout Standard
+
+Ce que la machine Ã  lÃ©nifier ne disait pas, câest quâÃ©tant issus des gÃ©nÃ©rations X, Y et Z, les politiciens qui avaient Ã  rÃ©gler ce casse-tÃªte, haÃ¯ssaient les baby-boomers, beaucoup plus ceux de la phase 1946 Ã  1954, que ceux de la 1955 Ã  1965, appelÃ©e Ã©galement Â«GÃ©nÃ©ration JonesÂ». Ã tort ou Ã  raison, ils se considÃ©raient comme victimes des Boomers, une nuÃ©e de sauterelles qui avait tout pris sans rien laisser, une cohorte de salopards qui ne sâÃ©taient pas donnÃ© la peine de leur transmettre, comme câÃ©tait leur devoir de le faire, les valeurs traditionnelles de la culture quÃ©bÃ©coise, avec ses piliers quâÃ©taient religion et famille, un troupeau de dÃ©gÃ©nÃ©rÃ©s sans repentir ne mÃ©ritant aucune compassion.
+\end_layout
+
+\begin_layout Standard
+
+Câest ainsi que lâindustrie thanatologique, les centres dâhÃ©bergement privÃ©s pour personnes Ã¢gÃ©es, les cliniques gÃ©riatriques privÃ©es, en fait, tout ce qui, du secteur privÃ©, concerne les Â«aÃ®nÃ©sÂ», avaient Ã©tÃ© nationalisÃ©s et fusionnÃ©s de faÃ§on rigoureuse dans le service public, en vertu de la loi 173, dite Loi Turcotte. Cette loi quÃ©bÃ©coise avait Ã©tÃ© adoptÃ©e dans la foulÃ©e dâimportants amendements constitutionnels votÃ©s Ã  Ottawa, au terme desquels, il nâÃ©tait restÃ© Ã  peu prÃ¨s rien de la Charte de Droits de Pierre Eliott Trudeau.
+\end_layout
+
+\begin_layout Standard
+
+Avaient Ã©tÃ© soustraits Ã  la loi 173, les retraitÃ©s qui, bardÃ©s de REER et de caisses de retraite, ou ayant des enfants fortunÃ©s, avaient la capacitÃ© physique et les moyens financiers dâhabiter chez eux et dây vivre en bonne santÃ©. Avaient Ã©tÃ© Ã©galement soustraits, les membres de communautÃ©s ethnicoreligieuses pouvant dÃ©montrer, inspections inopinÃ©es Ã  lâappui, que leur milieu ethnique, communautaire, sectaire ou religieux les prenait en charge aussi bien que pourrait le faire lâÃtat. CâÃ©tait lÃ  une dÃ©rogation bien hypocrite puisquâaucun DG de CRG ne voulait de Juifs hassidiques, de moines bouddhistes, de cathos intÃ©gristes ou de fondamentalistes islamistes, pour ne citer que ces exemples, dans une de ses salles dâhÃ©bergement. On imagine les protestations, les exigences dâaccommodements et tout le cirque associÃ©. Au printemps 2028, Sylvain Turcotte, ministre dâÃtat Ã  la RÃ©forme des services sociaux et dÃ©putÃ© de Rimouski, avait dÃ©posÃ© un vaste projet de rÃ©forme en chambre et lâavait fait lÃ©gitimer par un rÃ©fÃ©rendum gagnÃ© haut la main en octobre suivant, avec 68,53 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% de Â«ouiÂ».
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+DissimulÃ© dans un cadre de porte, Dart Vader se touche Ã  la canule.
+\end_layout
+
+\begin_layout Standard
+
+- Rien quâune barre de chocolat, chef! Jâsuis prÃªt Ã  te la payer le triple du prix !
+\end_layout
+
+\begin_layout Standard
+
+- Câest interdit, Monsieur Gagnon.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e nâest pas de ces employÃ©s qui sâadonnent Ã  la contrebande alimentaire; pour lui, câest trop risquÃ©; il est quand mÃªme CS-1. Mais ceux qui ont lâaudace de dÃ©jouer les capteurs Ã©lectroniques arrivent, semble-t-il, Ã  bien Â«arrondir leurs quinzainesÂ».
+\end_layout
+
+\begin_layout Standard
+
+Ce Gagnon nâest pas le seul Ã  vivre de petits espoirs, Ã  rechercher, malgrÃ© tout, les soubresauts de vie. Nombreux sont ceux qui nâont pas encore atteint le degrÃ© de rÃ©signation nÃ©cessaire Ã  la bonne marche administrative et logistique du Centre, ou le degrÃ© de dÃ©sespoir nÃ©cessaire Ã  la quÃªte dâune Â«pilule du bonheurÂ». Peut-Ãªtre quâaujourdâhui, avec de la chance, si tout fonctionne comme souhaitÃ©, si les planÃ¨tes ont le bon alignement, ils dÃ©nicheront une vraie pomme, une Cherry Blossom pas complÃ¨tement mangÃ©e, un sac de pinottes Ã  moitiÃ© plein, deux tranches de pain pas trop sec, un fond de Crunchy Nature ou, peut-Ãªtre, une petite poignÃ©e de caramels mous. Peut-Ãªtre recevront-ils la visite dâun fils, dâune fille, avec ou sans leur progÃ©niture, qui leur glissera un livre, une barre de chocolat, un sac de croustilles au vinaigre, un fromage au lait cru, quelques films en format mini 3DVD ou de quoi se crÃ©mer leur vieille peau sous les plis ? Peut-Ãªtre que leurs hÃ©morroÃ¯des, leur herpÃ¨s gÃ©nital, leurs ulcÃ¨res buccaux ou leur torticolis ne les rattraperont pas ce mois-ci. Peut-Ãªtre, peut-Ãªtre â¦ Pour ces gens, ce sera, plus que jamais, Â«un jour Ã  la foisÂ», puis une semaine, un mois, un an, cinq ans !
+\end_layout
+
+\begin_layout Standard
+
+Effectivement, cinq ans sâÃ©taient passÃ© depuis le Â«OuiÂ» au cours desquels le gros Turcotte Ã©tait devenu vice premier ministre et prÃ©sident du Conseil du TrÃ©sor. On lâappelait Â«lâhomme fort de RimouskiÂ» ! Mais dans le fond, ce fils de cultivateur au pif couperosÃ©, aux Ã©normes doigts velus, aux mollets dâhaltÃ©rophile traitÃ© et Ã  la panse de sumo, nâavait fait que poursuivre la RÃ©forme de la santÃ© enclenchÃ©e quelques annÃ©es auparavant, une rÃ©volution administrative oÃ¹ on avait notamment aboli lâAssurance-maladie et lâAssurance-mÃ©dicaments pour les sans-emploi. On imagine les Ã©conomies! En consÃ©quence, les assistÃ©s sociaux, les conjoints au foyer et, surtout, les retraitÃ©s avaient dÃ» retourner sur le marchÃ© du travail, question de redevenir en situation de payer leur juste part dâimpÃ´t et, du coup, de pouvoir redevenir Â«assurÃ©sÂ».
+\end_layout
+
+\begin_layout Standard
+
+MalgrÃ© la distance, TimothÃ©e entend la voix pÃ©dante de son collÃ¨gue du 5e Centre en train de tout expliquer au jeune prÃ©posÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Câest un principe actuariel fort simple, articule-t-il. Il faut quâen tout temps, lâimpÃ´t payÃ© compense, Ã  tout le moins, les coÃ»ts des services gouvernementaux reÃ§us. Câest lÃ  une pratique obligatoire en vertu de la Loi quÃ©bÃ©coise sur les Ã©quilibres budgÃ©taires promulguÃ©e en 2016. Depuis, le gouvernement gÃ¨re de faÃ§on trÃ¨s serrÃ©e et toute coupure est la bienvenue; les gens sont mÃªme incitÃ©s Ã  faire des suggestions.
+\end_layout
+
+\begin_layout Standard
+
+Un peu plus et le nouvel employÃ© prendrait des notes. Pourquoi le son porte-t-il autant dans ces grands couloirs ? se demande TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- En corollaire, poursuit lâexÃ©crable Desrosiers, toute nouvelle faÃ§on de faire des sous avec les services est, elle aussi, la bienvenue.
+\end_layout
+
+\begin_layout Standard
+
+Son visage devient rayonnant.
+\end_layout
+
+\begin_layout Standard
+
+- RÃ©guliÃ¨rement, avec grand dÃ©ploiement mÃ©diatisÃ©, la ministre du Revenu Eleonora del Campo remet des certificats de mÃ©rite aux citoyens dont la suggestion a Ã©tÃ© retenue. Personnellement, soit dit en passant mon jeune ami, je trouve que câest une femme dÃ©licieuse et trÃ¨s sÃ©duisante. On ne croirait jamais quâelle est une politicienne.
+\end_layout
+
+\begin_layout Standard
+
+Comment le faire taire ? Surtout que cet idiot passe sous silence la pÃ©nible pÃ©riode qui a prÃ©cÃ©dÃ© la Loi Turcotte. TimothÃ©e qui Ã©tait au ministÃ¨re de la SantÃ© se rappelle trÃ¨s bien le Â«trouÂ» quâavait gÃ©nÃ©rÃ© la RÃ©forme, un Â«trouÂ» quâon pourrait qualifier de dÃ©mographique. Il avait Ã©tÃ© prÃ©vu que dans les cas dâincapacitÃ© de retour au travail, les assistÃ©s sociaux tributaires dâune maigre allocation mensuelle Ã©mise par lâÃtat, les conjoints dÃ©connectÃ©s du marchÃ© du travail ou les personnes Ã¢gÃ©es trop fatiguÃ©es pour exercer un emploi, pouvaient faire affaire avec une clinique de jour comme il y en avait partout oÃ¹, moyennant de menus travaux, on leur servait deux repas par jour et on leur permettait dâaccÃ©der gratuitement Ã  un mÃ©decin salariÃ© de lâÃtat.
+\end_layout
+
+\begin_layout Standard
+
+Mais le poids dÃ©mographique des baby-boomers Ã©tant ce quâil est, trop de vieillards se retrouvÃ¨rent en mÃªme temps dans ces cliniques de misÃ¨re. DâoÃ¹ la suite que lâon confia au ministre Turcotte avec sa Loi 173, celle qui institua les CRG dans chaque rÃ©gion administrative du QuÃ©bec, sauf Ã  MontrÃ©al oÃ¹ il y en a eu quatre et Ã  QuÃ©bec, deux. Câest de cette faÃ§on que les Boomers furent extirpÃ©s de leur sordide condition.
+\end_layout
+
+\begin_layout Standard
+
+La porte de lâascenseur sâest ouverte et Jean Saint-Gelais, un snoreau impÃ©nitent, apparaÃ®t avec son escorte de prÃ©posÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Tiens, si câest pas le chef, grince le vieillard.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e lui lance un sourire.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Saint-Gelais, bon retour.
+\end_layout
+
+\begin_layout Standard
+
+- Ton ami Desrosiers est en train de se former un nouveau Â«screwÂ» ? rÃ©pond-il en pointant vers le 5e Centre.
+\end_layout
+
+\begin_layout Standard
+
+Le bonhomme vient de passer un mois en rÃ©clusion au sous-sol pour trafic de chocolat Cadbury, dâoÃ¹ le recours Ã  un terme mÃ©prisant normalement attribuÃ© Ã  du personnel carcÃ©ral. Câest un voisin dans sa 2P qui lâa dÃ©noncÃ©. Un voisin imposÃ© par le systÃ¨me. Quelquâun que lâon dÃ©teste, mais avec qui ont est tenu de cohabiter dans une petite salle. Cela, jusquâÃ  plus soif ! Ã lâexception de cas extrÃªmes comme cette histoire rÃ©cente de voisins de lits qui en Ã©taient venus Ã  sâÃ©changer des coups, on ne peut Ãªtre mutÃ© de salle 2P. Normalement, quand on quitte sa 2P, câest pour sâen aller en 3P, lâantichambre du mouroir. Et lÃ , câest fichu.
+\end_layout
+
+\begin_layout Standard
+
+- Techniquement, Ã¢nonne le CS-1 Desrosiers plus loin dans le passage, aussitÃ´t quâune personne Ã¢gÃ©e nâest plus en mesure de demeurer chez elle, dans sa maison, câest-Ã -dire quâelle commence Ã  coÃ»ter plus cher Ã  lâÃtat que ce quâelle lui rapporte (la colonne de gauche plus lourde que la colonne de droite), le CRG de sa rÃ©gion la prend en charge, quâelle le veuille ou non. Ses biens sont liquidÃ©s Ã  la satisfaction de ses hÃ©ritiers, ces derniers se retrouvant imposÃ©s Ã  raison de 50 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% de la VMEB (valeur marchande estimÃ©e des biens) et de 40 % du TLEP (total des liquiditÃ©s, des Ã©conomies et des placements). Sâil nây a pas dâhÃ©ritiers, le fonctionnaire-liquidateur verse lâargent obtenu dans le compte bancaire du nouveau pensionnaire. Cette procÃ©dure permet de sâassurer que le loyer sera fidÃ¨lement payÃ©, du moins pour un temps.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+- 2 500 $ par mois, câest Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+Le jeune fait montre dâintÃ©rÃªt. Un bon point pour lui.
+\end_layout
+
+\begin_layout Standard
+
+- Tout Ã  fait.
+\end_layout
+
+\begin_layout Standard
+
+On se croirait Ã  la radio de Radio-Canada dâil y a 25 ans !
+\end_layout
+
+\begin_layout Standard
+
+- Une fois logÃ©e dans son CRG, la personne doit effectivement acquitter un tarif mensuel fixe de 2 500 $ non nÃ©gociable. Ã dÃ©faut de paiement pour un deuxiÃ¨me mois consÃ©cutif, la somme due est saisissable chez les hÃ©ritiers sans avoir Ã  intenter de procÃ¨s. Ãvidemment, les baby-boomers Ã©tant ce quâils sont, il nây a pas toujours dâhÃ©ritiers. Auquel cas, advenant quâun bÃ©nÃ©ficiaire nâait dâautres revenus que sa pension du fÃ©dÃ©ral et celle de la RÃ©gie des rentes du QuÃ©bec, le CRG est contraint de le loger et le nourrir Ã  perte. En jargon administratif, on dit alors de ce vieillard quâil est un PH, câest-Ã -dire quâil bÃ©nÃ©ficie du Â«Programme humanitaireÂ» que chaque centre est tenu dâadministrer. Chaque annÃ©e, le cumulatif de ces pertes est acheminÃ© au ministÃ¨re de la SantÃ© pour remboursement. Reste que dans lâensemble, nous affichons, dans les CRG, des rÃ©sultats trÃ¨s intÃ©ressants. Bon an mal an, nos bilans font Ã©tat dâune moyenne nationale de 42 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% de profit, ce qui comble de bonheur la ministre del Campo, une comptable agrÃ©e dont la chaste beautÃ© ne cesse de mâÃ©mouvoir.
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Ã lâautre bout, TimothÃ©e se remÃ©more cette rÃ©cente altercation entre deux bonshommes, lâun traitant lâautre de Â«vieux PHÂ», une histoire pathÃ©tique qui sâÃ©tait terminÃ©e par une luxation de lâÃ©paule, juste ici, prÃ¨s du salon communautaire.
+\end_layout
+
+\begin_layout Standard
+
+MontÃ© sur sa Saguewanish, il est cependant tirÃ© de sa rÃ©flexion par Solange Gadoury, une octogÃ©naire toute rondelette, le genre Ã  ne pas sâen tenir quâau pitoyable manger mou, quâil entrevoit dans la SP, en sÃ©rieuse discussion avec un grabataire. Ayant elle-mÃªme aperÃ§u le fonctionnaire, elle quitta la salle et le regarde filer.
+\end_layout
+
+\begin_layout Standard
+
+- Va falloir que tu parles Ã  Monsieur Jones, chef !
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e lÃ¨ve le bras en signe dâacquiescement.
+\end_layout
+
+\begin_layout Standard
+
+Rares sont les retraitÃ©s qui acceptent de venir sâinstaller dans un CRG, lâimage de ces Ã©tablissements Ã©tant plutÃ´t mauvaise. Ne sont-ce que de grands mouroirs bien organisÃ©s oÃ¹ la qualitÃ© de vie est assez proche de zÃ©ro ? Sauf exception, les volontaires seront des personnes seules, peu fortunÃ©es et mal en point. Elles auront trÃ¨s souvent connu des vies dissolues et voudront enfin trouver le calme et la sÃ©curitÃ©.
+\end_layout
+
+\begin_layout Standard
+
+ComplÃ¨tement Ã  lâinverse, il y aura les rebelles, les insoumis. On rÃ©fÃ¨re ici aux marginaux qui, Ã  tort ou Ã  raison, auront chialÃ© toute leur vie contre Â«le systÃ¨meÂ», quel quâil soit. Ceux-lÃ  devront Ãªtre conduits manu militari dans un CRG, dâoÃ¹ plusieurs finiront par sâÃ©vader. Ils vivront dâexpÃ©dients, manqueront de tout, demeureront constamment cachÃ©s, sur le qui-vive, ne mangeront pas Ã  leur faim et souffriront de malpropretÃ©. Mais ils seront libres. Fiers! Ni dieu ni maÃ®tre! Viva la Muerte ! On les retrouvera parfois malades, Ã©puisÃ©s, presque morts, voire trÃ©passÃ©s. Un certain nombre difficile Ã  Ã©valuer de ces Â«dissidentsÂ» se sera rÃ©fugiÃ© sur Anticosti. Un vÃ©ritable village de vieillards insoumis aurait Ã©tÃ© construit Ã  la Baie-du-Renard, anse agrÃ©able sise dans la partie nord-est de lâÃ®le.
+\end_layout
+
+\begin_layout Standard
+
+DâoÃ¹ le BAG (Bureau des affaires gÃ©rontologiques), une police spÃ©ciale dont le mandat est de traquer ces Â«illÃ©gauxÂ», sauf ceux dâAnticosti. Le ministre Turcotte aurait des informations selon lesquelles un trÃ¨s grand nombre dâAnticostiens, des vieillards autarciques ne coÃ»tant absolument rien Ã  lâÃtat, auraient recours Ã  la âpilule du bonheurâ advenant un dÃ©barquement du BAG. Ce serait lÃ  un dÃ©nouement terrible, un dÃ©nouement impensable Ã  justifier dans les mÃ©dias.
+\end_layout
+
+\begin_layout Standard
+
+Quant aux Â«illÃ©gauxÂ» non organisÃ©s, ceux qui squattent ici et lÃ  dans les villes quÃ©bÃ©coises, ils nâont pas accÃ¨s aux services publics de santÃ© (mÃ©dicaments, consultation, verres, etc.), ils doivent sâen tenir aux mÃ©decines parallÃ¨les, aux mÃ©dicaments naturels, aux magouilles des mÃ©decins corrompus, voire Ã  la mÃ©ditation transcendantale. Les pistes sont multiples et le BAG a souvent la main heureuse. Sans compter que ces insoumis sont Ã  la merci de dÃ©lateurs prÃ©sents dans tous les milieux. TimothÃ©e songe Ã  Louis-Marc Richard, ce salaud qui habite en face de chez lui sur la rue Crouet. Câest que le BAG fait miroiter des primes intÃ©ressantes, des primes jamais en argent, mais en crÃ©dit sur certains services gouvernementaux, par exemple, deux mois gratuits dans un CRG quand son tour viendra â¦
+\end_layout
+
+\begin_layout Standard
+
+Bref, Ã  lâexception dâune petite minoritÃ© en assez bonne condition physique dont le nombre est difficile Ã  Ã©valuer et qui sâest organisÃ©e sur la grande Ã®le du golfe Saint-Laurent, les vieux Boomers rÃ©calcitrants sont Ã  la merci de parents, dâamis, Â«dâaidants naturelsÂ», des gens encore actifs qui arrivent Ã  les nourrir et Ã  en prendre soin. Mais Ã  lâinverse, ils sont des proies faciles pour une nuÃ©e dâindicateurs, parfois haineux, qui sont rÃ©solus Ã  les dÃ©noncer. Advenant quâils soient pris, ils sont enfermÃ©s pour un certain temps, dans une section spÃ©ciale du CRG de leur rÃ©gion, une section sous haute surveillance que lâadministration rÃ©serve aux tÃªtes brÃ»lÃ©es, aux vieillards asociaux et aux Â«nÃ©gatifsÂ» de toute farine. Doit-on ajouter quâun vent de profond conservatisme a lourdement changÃ© le QuÃ©bec ?
+\end_layout
+
+\begin_layout Standard
+
+Et le docteur Goebbels de continuer dans la tÃªte de TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Lâadmission dans un CRG nâa rien Ã  voir avec lâÃ¢ge. Seuls comptent les Ã©tats dâautonomie financiÃ¨re et de santÃ©. Tel commerÃ§ant pourra officier derriÃ¨re son comptoir, tel cultivateur dans son champ, tel pÃªcheur sur son bateau, sans difficultÃ© jusquâÃ  un Ã¢ge trÃ¨s avancÃ©, gagnant ainsi sa vie et, de ce fait payant de lâimpÃ´t. Mais dâautres, plus marquÃ©s par la maladie, par la misÃ¨re, par la malchance, par leur bagage gÃ©nÃ©tique, ne le pourront pas. Tout cela pour dire que certains, des sexagÃ©naires, des septuagÃ©naires, des octogÃ©naires, arriveront au Centre en assez bonne santÃ©, mais que dâautres, de tout Ã¢ge Ã©galement, se verront confÃ©rer un statut plus avancÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Ainsi va la vie !
+\end_layout
+
+\begin_layout Standard
+
+- PrÃ©cisons quâen parallÃ¨le, il existe un rÃ©seau dâinstitutions un peu similaires aux CRG, les CRRHH (Centre rÃ©gional de rÃ©adaptation et dâhÃ©bergement pour handicapÃ©s), les C2R2H. Ces Ã©tablissements ont Ã©tÃ© mis sur pieds pour prendre en charge les personnes handicapÃ©es incapables de fonctionner de faÃ§on autonome et rentable en sociÃ©tÃ©. Chaque rÃ©gion du QuÃ©bec peut compter sur un C2R2HI, pour les handicapÃ©s intellectuels, et sur un C2R2HP, pour les handicapÃ©s physiques.
+\end_layout
+
+\begin_layout Standard
+
+Son Saguewanish lâayant ramenÃ© vers la SP, TimothÃ©e lorgne un vieillard mal en point, lâoccupant du 7e grabat, qui lui fait signe.
+\end_layout
+
+\begin_layout Standard
+
+- Bonjour Monsieur Jones. Ãa va mieux aujourdâhui?
+\end_layout
+
+\begin_layout Standard
+
+Il sâapproche du semi-cadavre et descend de sa trottinette.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai un petit cadeau pour toi, siffle le bonhomme de peine et de misÃ¨re en lui prenant la main.
+\end_layout
+
+\begin_layout Standard
+
+La sienne est froide. Froide et humide. Froide, humide, longue, squelettique et dÃ©sespÃ©rÃ©e. Une rÃ©pugnante main de vieux que TimothÃ©e tient quand mÃªme avec compassion. GÃ©rard Jones, alias Tit-GÃ©rard, souffre dâun cancer du pancrÃ©as.
+\end_layout
+
+\begin_layout Standard
+
+- Un cadeau? Câest pas encore ma fÃªteâ¦
+\end_layout
+
+\begin_layout Standard
+
+- Jâai 500 piastresâ¦
+\end_layout
+
+\begin_layout Standard
+
+Le misÃ©reux pousse alors un bout de papier dans la main du chef de section, une main quâil nâa pas lÃ¢chÃ©e. En fixant les yeux incroyablement bleus de Tit-GÃ©rard, TimothÃ©e opine alors du chef, met le papier dans sa poche et, avec une pensÃ©e pour Solange Gadoury, cette bÃ©nÃ©ficiaire boulotte qui aime bien arranger ce genre de Â«petits marchÃ©sÂ», il repart sur sa mauvaise bÃ©cane. Il roule ainsi pensant quelques dizaines de mÃ¨tres jusquâÃ  son bureau, un coqueron sans fenÃªtres Ã  peine plus grand quâun placard Ã  balais. Par commande vocale, il appelle son logiciel de gestion personnelle, ce qui lâamÃ¨ne Ã  psalmodier une sÃ©rie de mots :
+\end_layout
+
+\begin_layout Standard
+
+- First Mohawks Nation Bank ! Ãpargne ! Transfert ! Oui ! Code dâopÃ©ration numÃ©ro 345-8440TRS-90 ! Oui ! Non ! Quitter !
+\end_layout
+
+\begin_layout Standard
+
+Sur lâimage CLTD que son quanticordi a projetÃ©e en avant de sa table de travail, il constate quâeffectivement, 500 $ viennent ainsi dâÃªtre ajoutÃ©s Ã  son compte. Ce que voyant, il appelle le logiciel de gestion de lâÃ©tablissement, un produit lourd, capricieux et inutilement compliquÃ© qui a coÃ»tÃ© une fortune Ã  Ãªtre installÃ© Ã  la grandeur des CRG, et il entreprend de naviguer jusquâaux donnÃ©es relatives au 7e lit de sa SP oÃ¹ la photo de GÃ©rard Jones apparaÃ®t. De commande en commande, il finit par repousser dâun mois la date de la CÃ©rÃ©monie de groupe Ã  laquelle le vieillard a Ã©tÃ© conviÃ©. Tant mieux si le bonhomme arrive Ã  se garder vivant un autre mois. Magouille ? AssurÃ©ment. Tous les CS-1 sây adonnent et la direction gÃ©nÃ©rale fait comme si de rien nâÃ©tait.
+\end_layout
+
+\begin_layout Standard
+
+Une fois par mois, le plus tÃ´t Ã©tant le mieux, les CRG tiennent une telle cÃ©rÃ©monie Ã  lâÃ©chelle de lâÃ©tablissement, cela sur une plage horaire possible pour tout le personnel impliquÃ©. La cÃ©lÃ©bration a lieu dans une piÃ¨ce conÃ§ue Ã  cette fin appelÃ©e Â«Chapelle ardenteÂ». Qui en fauteuil roulant, qui sur une civiÃ¨re, qui accrochÃ© Ã  un support de transfusion, les participants proviennent des SP. Dâautres sont dÃ©jÃ  morts. Ils sont dÃ©cÃ©dÃ©s depuis la tenue de la derniÃ¨re cÃ©rÃ©monie et, depuis, ont Ã©tÃ© tenus au frais. Ils sont nÃ©anmoins prÃ©sents, zippÃ©s dans de grands sacs noirs quâon a placÃ©s en ordre sur de misÃ©rables chariots.
+\end_layout
+
+\begin_layout Standard
+
+ConformÃ©ment au rÃ¨glement, ces Boomers arrivÃ©s Ã  la fin de leur route ont prÃ©alablement Ã©tÃ© dÃ©pouillÃ©s par leurs CS-1 de tout ce qui pouvait encore servir Ã  lâÃ©tablissement, montre, jaquette, dentiers, verres, etc. De bien mauvaises langues prÃ©tendent que tout ne parvient pas Ã  lâAdministration, quâen cours de routes, certains biens disparaissent.
+\end_layout
+
+\begin_layout Standard
+
+Ainsi, les verres disponibles sont placÃ©s sur des tables accrochÃ©es aux murs dâun petit salon attenant Ã  la cafeteria. Les intÃ©ressÃ©s nâont quâÃ  sây rendre et choisir ceux qui leur conviennent. De temps Ã  autre, un prÃ©posÃ© va y mettre de lâordre en classant les prothÃ¨ses selon leur force et leur complexitÃ© : simple foyer, double foyer, triple foyer, etc. Malheureusement, les problÃ©matiques ophtalmologiques plus rares, incluant certaines pathologies Ã©volutives, se retrouvent souvent nÃ©gligÃ©es. Ainsi, sauf exception, on nâopÃ¨re plus les octogÃ©naires aux yeux. En revanche, les gouttes contre le glaucome, les cataractes et autres maladies sont dÃ©versÃ©es Ã  tire-larigot.
+\end_layout
+
+\begin_layout Standard
+
+MÃªme logique pour les dents. Mais ici, il faut oublier le procÃ©dÃ© de repousse dentaire, une technique Ã  base dâultra-sons mise au point aux Ã.-U. au dÃ©but du siÃ¨cle. Comme il faut oublier ces magnifiques prothÃ¨ses sur implants, une techno de remplacement on ne peut plus efficace. Ici, on est en prÃ©sence de vieillards incapables, pour la plupart, de sâoffrir de tels luxes. Et il ne faut surtout pas regarder du cÃ´tÃ© de lâÃtat pour y pourvoir Ã  leur place. Depuis quelques annÃ©es, la partie Â«dentÂ» des dentiers est faite dâacrylique Hi-Impact, ce qui leur confÃ¨re une Â«espÃ©rance de vieÂ» dâau moins dix ans. Quant Ã  la partie couleur chair, celle quâon nomme Â«genciveÂ», elle est faite en acrylique Hi-Impact RP (Â«haute rÃ©sistance thermomallÃ©able Â»), ce qui permet de lâamollir en y injectant, sous chaleur, un liquide dÃ©mulsifiant Ã  base de nanobactÃ©ries. DÃ¨s lors, on le laisse refroidir juste assez pour lâinsÃ©rer sans inconfort dans la bouche dâune personne Ã©dentÃ©e afin dây mouler sa nouvelle empreinte. DÃ©licatement, pour ne pas que les dents ne se dÃ©placent sur la gencive, on retire ensuite la prothÃ¨se, on lâasperge dâun produit Ã  base de sildenafil et on chauffe quelques secondes dans un petit four Ã  micro-ondes. Lâappareil masticatoire est alors prÃªt pour amorcer sa nouvelle vie.
+\end_layout
+
+\begin_layout Standard
+
+Lâeffet pervers est, bien sÃ»r, que tous les porteurs ont des dents identiques. Mais au moins, ils en ont. Le seul problÃ¨me vÃ©ritable repose sur le fait que parfois, les utilisateurs ont encore quelques dents rÃ©siduelles. On doit alors les extraire pour que la personne puisse bÃ©nÃ©ficier du service de prÃªt.
+\end_layout
+
+\begin_layout Standard
+
+- Nâest-ce pas lÃ  une pratique, euh, inhumaine ? avait un jour demandÃ© TimothÃ©e Ã  son supÃ©rieur immÃ©diat.
+\end_layout
+
+\begin_layout Standard
+
+- Inhumaine? Pas du tout ! Ces gens que lâon dÃ©pouille ainsi, sont ceux qui, au moment de la cÃ©rÃ©monie, sont soit agonisants, une question dâheures ou de jours avant de trÃ©passer, soit condamnÃ©s par la facultÃ© Ã  pÃ©ricliter sans espoir dans la souffrance et la perte de dignitÃ©, une question de semaines, mais rarement de mois. Dans un cas comme dans lâautre, ce sont des morts en sursis qui, en attendant la conclusion ultime, ne peuvent que souffrir, sâembÃªter et coÃ»ter cher Ã  lâÃtat. DâoÃ¹ la rationalisation de leur dÃ©part. Il faut rappeler quâen vertu de la Loi Turcotte, les vÃªtements, les prothÃ¨ses et les montres nâappartiennent pas aux bÃ©nÃ©ficiaires, ils ne leur sont que prÃªtÃ©s. Si la personne Ã¢gÃ©e nâa plus usage de ses verres ou de ses dentiers pour cause de sÃ©nilitÃ©, dâagonie ou de dÃ©cÃ¨s, il est du devoir des autoritÃ©s de remettre ces objets en circulation; dâautres pourront les utiliser.
+\end_layout
+
+\begin_layout Standard
+
+EncadrÃ© par le DG et au moins trois gestionnaires du Centre, une spÃ©cification du manuel de RÃ©gie interne, un officiant de lâÃtat civil lit un discours bien mesurÃ©, remercie les vieillards pour leur participation Ã  lâessor du QuÃ©bec, serre les quelques mains qui sont encore capables de se tendre et quitte la Chapelle. Deux prÃ©posÃ©s jusque-lÃ  immobiles recueillent alors les passeports et les Ã©metteurs personnels (EP - puce RF montÃ©e sur un bracelet, une Ã©pinglette ou un pendentif ), documents officiels que les CS-1 ont placÃ©s dans une enveloppe transparente Ã©pinglÃ©e sur le devant de la jaquette des moribonds. Ils ferment ensuite les portes et les verrouillent.
+\end_layout
+
+\begin_layout Standard
+
+Ce que voyant, lâofficiant de lâÃtat civil sâempare des documents amassÃ©s et, dâun signe de tÃªte, indique au DG quâil peut appuyer sur une manette. Clouc ! Un gaz incolore, inodore, indolore, mais impitoyable, est alors Ã©mis et tous les officiants prÃ©sents baissent la tÃªte en recueillement. Au mÃªme instant, un timbre se fait entendre dans les haut-parleurs de lâÃ©tablissement, ce qui, parfois, a lâheur de dÃ©clencher des scÃ¨nes fort dÃ©chirantes; certains sentent partir un parent, un ami, et dâautres sâimaginent de la prochaine fournÃ©e. En moins de trente secondes, la mort a fait son Åuvre et, cinq minutes plus tard, de puissants ventilateurs ont dÃ©jÃ  fini de purifier lâair de la Chapelle. Tant et si bien que les deux prÃ©posÃ©s peuvent y retourner finir leur travail.
+\end_layout
+
+\begin_layout Standard
+
+Quand on lui avait expliquÃ© ce dÃ©tail de la rÃ©glementation, la Maririou avait eu peine Ã  retenir sa hargne.
+\end_layout
+
+\begin_layout Standard
+
+- PrÃªt pas prÃªt, jây vas pareil ! Je tâenferme dans jâune chambre Ã  gÃ¢che chi tu nâas pas eu la bonne idÃ©e de mourir avant ! Toi, le vieux Boomer, tu vas trÃ©pÃ¢cher Ã  lâheure prÃ©chise, Ã  la journÃ©e prÃ©chise, que les fonkchionnaires ont planifiÃ©e. Comme ches naichances au chiÃ¨cle dernier, dans les jannÃ©es 60 et 70, oÃ¹ les femmes accouchaient par provocachion au moment oÃ¹ lâobstÃ©trichien ou le gynÃ©cologue en avait fixchÃ© le moment dans chon achenda.
+\end_layout
+
+\begin_layout Standard
+
+En thÃ©orie, les corps sont alors inspectÃ©s et placÃ©s dans un sac noir dÃ»ment identifiÃ© Ã  leur nom et accompagnÃ© dâun code couleur. Il ne reste plus quâÃ  dÃ©gager les cadavres. Sur le cÃ´tÃ© nord de la Chapelle, une longue chute cachÃ©e derriÃ¨re une porte Ã  peine perceptible sert Ã  les faire glisser, dans le plus grand respect, jusquâau Centre de tri situÃ© au sous-sol. LÃ , en fonction des derniÃ¨res volontÃ©s, on sÃ©pare les Â«incinÃ©rÃ©sÂ» (code couleur rouge), des Â«enterrÃ©sÂ» (code couleur vert) et des Â«formolisÃ©sÂ» (code couleur jaune). On achemine ensuite les trois piles de sacs au bon endroit : site dâenfouissement spÃ©cialisÃ© (anciennement Â«cimetiÃ¨reÂ») pour les Verts, incinÃ©rateur pour les Rouges et camion-citerne pour les Jaunes (Ã  noter : advenant quâun mourant nâait pas dâidÃ©e prÃ©cise sur sa couleur, on lui suggÃ¨re invariablement le rouge, lâincinÃ©rateur Ã©tant intÃ©grÃ© au systÃ¨me de chauffage du Centre). Dans le cas de ceux qui lâont exigÃ©e par testament, une cÃ©rÃ©monie religieuse ou civile, câest selon, est organisÃ©e dÃ¨s le lendemain de la CG aux frais des hÃ©ritiers (pour ce que cela veut dire). Les photos reproduites et encadrÃ©es par la famille sont alors exposÃ©es pendant 90 minutes Ã  lâheure du lunch. Quant aux corps, ils sont dÃ©jÃ  rendus Ã  leur destination finale.
+\end_layout
+
+\begin_layout Standard
+
+Mais en pratique, TimothÃ©e sait quâil peut en Ãªtre tout autrement. Dieu du ciel ! Surtout depuis lâarrivÃ©e au CRG-BSL du sinistre Dr Bellavance. Chercheur renommÃ© auteur dâun traitÃ© psycho gÃ©riatrique Ã  lâusage des CRG, cet expert a convaincu les autoritÃ©s ministÃ©rielles de le laisser conduire un projet pilote de ferme hormonale. Ainsi, certains vieillards, ceux quâaucune famille ne rÃ©clame ou qui nâont pas de volontÃ©s ultimes devant Ãªtre prises en compte, sont traitÃ©s dans une Â«cÃ©rÃ©monieÂ» Ã  part. En effet, le gaz quâon leur administre ne les tue pas; il ne fait que les placer en Ã©tat permanent de mort cÃ©rÃ©brale. On transfÃ¨re alors ces vieux zombis au Â«royaumeÂ» du Dr Bellavance - câest au sous-sol du CRG-BSL - oÃ¹ ils sont parquÃ©s cÃ´te-Ã -cÃ´tÃ©, dÃ»ment harnachÃ©s Ã  une impressionnante variÃ©tÃ© de tubes et de cathÃ©ters. En leur injectant diverses substances connues du bon docteur, ces misÃ©rables corps se mettent alors Ã  produire certaines hormones parmi les plus recherchÃ©es. Lorsque prÃ©levÃ©es, une procÃ©dure bihebdomadaire, celles-ci sont revendues en toute lÃ©galitÃ© sur le marchÃ© canadien ce qui procure des revenus supplÃ©mentaires au CRG. Bref, ces vieillards mis involontairement Ã  contribution participent Ã  lâessentiel Ã©quilibre budgÃ©taire de lâÃ©tablissement. Affirme-t-on !
+\end_layout
+
+\begin_layout Standard
+
+Autre petite note discordante par rapport aux prÃ©sentations officielles, les cadavres non dÃ©tournÃ©s par le docteur Bellavance nâarriveraient pas toujours intacts, pas toujours au complet, Ã  destination. Dans certains cas, des morceaux, membres ou organes, encore utilisables - quand il en reste - seront prÃ©levÃ©s sur les dÃ©pouilles fraÃ®ches sans que personne ne le sache ou ne veuille le savoir. Un marchÃ© noir bien organisÃ© les fera rapidement disparaÃ®tre. Tout est prÃ©texte Ã  magouille.
+\end_layout
+
+\begin_layout Standard
+
+Par exemple, certains vieillards ne veulent pas mourir, en bons baby-boomers quâils sont. Sâils ont accÃ¨s Ã  de lâargent Ã©lectronique, il leur est alors possible de graisser leur CS-1. Car, doit-on le rÃ©pÃ©ter, tout est corrompu. Effroyablement corrompu. En fait, cet argent Ã©lectronique, alias la Â«monnaie Ã  plumeÂ», est une contradiction de taille par rapport au systÃ¨me en place. Pour quâun vieillard soit admis dans un CRG, il ne peut avoir dans son compte en banque, un solde mensuel supÃ©rieur au montant de son loyer qui est de 2 500 $. Pourquoi? Pour la tranquillitÃ© dâesprit des bÃ©nÃ©ficiaires et pour les protÃ©ger contre la rapacitÃ© Ã©ventuelle dâemployÃ©s pouvant Ãªtre malhonnÃªte. Dit-on ! Or, puisque le systÃ¨me bancaire canadien est inter reliÃ© et, quâen tout temps, un CS-1 peut accÃ©der en toute lÃ©galitÃ© au compte dâun de ses bÃ©nÃ©ficiaires, quelle que soit lâinstitution, il est devenu trÃ¨s difficile de cacher de lâargent. Ã plus forte raison que depuis une quinzaine dâannÃ©es, la monnaie de papier est devenue tellement louche que les gens nâen ont que trÃ¨s rarement. Alors, ils sâÃ©changent plutÃ´t des bouts de code et se livrent Ã  de petits virements P2P (point Ã  point).
+\end_layout
+
+\begin_layout Standard
+
+Câest lÃ  quâarrivent les Mohawks. Les cigarettes ne rapportant plus, le tabagisme ayant fortement dÃ©clinÃ© dans la population depuis sa mise hors la loi, les enfants de Pocahontas se sont recyclÃ©s dans la finance. Ils ont ainsi fondÃ© une banque, une vraie banque Ã  chartre baptisÃ©e First Mohawks Nation Bank (FMNB). Or, prÃ©textant leur statut dâIndiens et jouant sur la blanche hypocrisie des pouvoirs publics, ils nâont jamais acceptÃ© de relier leur information au rÃ©seau bancaire canadien. Comme rÃ©sultat, les comptes y sont vraiment confidentiels. Et puisque les gens de la FMNB sont loin dâÃªtres des idiots, ils ont compris que sâils abusaient, par exemple, sâils se livraient Ã  des fraudes, Ottawa ne pourrait le tolÃ©rer et lancerait ses ministÃ¨res de la Justice et des Affaires indiennes Ã  lâattaque. Tant et si bien que les dÃ©pÃ´ts faits Ã  cette nouvelle institution financiÃ¨re sont aussi en sÃ©curitÃ© que sâils Ã©taient chez Desjardins. VoilÃ  pourquoi bon nombre de vieillards pensionnaires des CRG y ont placÃ© leurs Ã©pargnes; dâoÃ¹ lâexpression Â«monnaie Ã  plumesÂ». Ils sâen servent pour amÃ©liorer illicitement leur misÃ©rable ordinaire.
+\end_layout
+
+\begin_layout Standard
+
+Quand les pensionnaires deviennent trop impotents, que la sÃ©nilitÃ© les gagne Ã  petit feu, quâils nâarrivent plus Ã  bien gÃ©rer cette Â«petite caisseÂ» grÃ¢ce au terminal installÃ© dans le salon communautaire, il leur arrive de confier ce souci Ã  un ami, un bÃ©nÃ©ficiaire moins poquÃ© quâeux.
+\end_layout
+
+\begin_layout Standard
+
+Câest le cas de Solange Gadoury, une ancienne vendeuse de hash et de pot dont les salpingites lâempÃªchÃ¨rent dâavoir une famille. OctogÃ©naire pÃ©tante de santÃ©, elle vit au CRG-BSL depuis le dÃ©but; elle avait dâailleurs fait des pieds et des mains pour pouvoir y Ãªtre admise. Pour tout dire, tout lui convient, sauf peut-Ãªtre, le manger mou, mais Ã§a, câest une autre histoire. Son grand plaisir, Ã  la mÃ¨re Gadoury, est de mettre son gros nez rond dans les affaires de ces petits vieux en perte dâautonomie, certains ayant Ã©tÃ© ses clients entre 1970 et 1984, date oÃ¹ elle cessa de vendre ses drogues douces pour se consacrer Ã  lâÃ©levage de lapins. Moyennant de Â«petits cadeauxÂ» quâelle dÃ©pose Ã  son compte Ã  la FNMB, elle sâoccupe de virer les sommes nÃ©cessaires aux pots-de-vin et aux petites dÃ©licatesses (par exemple de lâalcool, substance rigoureusement interdite dans les CRG).
+\end_layout
+
+\begin_layout Standard
+
+Plus loin, dans le passage, Diane Loubert, quitte un instant ses rÃªves bucoliques et fait signe Ã  TimothÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+- Nâoubliez pas mes sacs, chef ! 
+\end_layout
+
+\end_body
+\end_document

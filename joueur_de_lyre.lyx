@@ -1,0 +1,456 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\begin_preamble
+%\documentclass[10pt,letterpaper]{book} - To print on Letter Paper 
+
+\usepackage{main/VotreFramabook}\makeindex % dit Ã  LaTeX de gÃ©nÃ©rer les index
+\usepackage{floatflt}\usepackage{pstricks}
+
+
+\end_preamble
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+frontmatter
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% Intro (numÃ©ro de page en chiffres romains)
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "framabook/titre.lyx"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+sommaire
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "intro/preface/preface.lyx"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% LES "INCLUDES" SUIVANTS DONT DÃSACTIVÃS CAR JE N'EN AI PAS ENCORE DE BESOIN POUR LA MARIRIOU. JE LES LAISSE JUSTE AU CAS OU! 
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+include{intro/notrepublic/notrepublic}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+include{intro/planlivre/planlivre}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+include{framabook/conventions}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+include{intro/remerciements/remerciements}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+include{intro/aproposauteur/aproposauteur}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+mainmatter
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% Corps du livre
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre1/chapitre1.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre2/chapitre2.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre3/chapitre3.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre4/chapitre4.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre5/chapitre5.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre6/chapitre6.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre7/chapitre7.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre8/chapitre8.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre9/chapitre9.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre10/chapitre10.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre11/chapitre11.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre12/chapitre12.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre13/chapitre13.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre14/chapitre14.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre15/chapitre15.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre16/chapitre16.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre17/chapitre17.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre18/chapitre18.lyx"
+
+\end_inset
+
+ 
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "corps/chapitre19/chapitre19.lyx"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+include{intro/postface/postface}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+backmatter
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% Fin du document
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+preview false
+filename "framabook/fermeture.lyx"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_body
+\end_document

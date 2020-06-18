@@ -1,0 +1,1220 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+La fille sous la lanterne, le jeudi 28 juillet 2033 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Toute la nuit,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ TimothÃ©e rÃªve de manÅuvres militaires. Ici une lÃ©gÃ¨re avancÃ©e avec attaque par le flanc droit, lÃ  un repli stratÃ©gique avec rÃ©cupÃ©ration de deux lance-flammes, encore ici une infiltration en pleine nuit de la ligne ennemie, le couteau entre les dents, et lÃ , un enfouissement prÃ©cipitÃ© dans le sol sablonneux. Le colonel Robespierre Alcide est partout en train de dicter des ordres dans son microphone de casque, de pousser sur des traÃ®nards aux yeux hagards, de chapitrer ses subalternes immÃ©diats, de sâadonner au clichÃ© cinÃ©matographique du genre Â«ils font quoi les connards de lâaviation ?Â» ou Â«pourquoi câest toujours ma pomme qui hÃ©rite de la pire bleusaille ?Â» ou Â«il va falloir rapporter des dommages collatÃ©raux !Â». Des tirs de mortiers ajoutent Ã  lâambiance sans faire de dÃ©gÃ¢t, des fusÃ©es Ã©clairantes couvrent de magenta orangÃ© le terrain de manÅuvre, des nuages de fumÃ©e Ã  forte odeur pour abrÃ©ger la souffrance de ses frÃ¨res : morphine en injection, air comprimÃ© et tout le cirque. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Sans se soucier du mÃ©tal qui hurle Ã  des vitesses folles au-dessus de lui, charriant parfois une tÃªte, une jambe, une Ã©paule, le brancardier Tardif saute de trou en trou. Â«Faut que tu bouffesÂ», lui crie, confortablement assis dans le sien, Shimoune Saint-Pierre, caporal dâintendance, en lui lanÃ§ant un carton non recyclable de Nutrisuz. Mais soudain, le sergent Tremblay, Marie-Odile de son prÃ©nom, saute dans leur planque. Â« Quâest-ce que vous foutez ici en train de bouffer, mes salauds ? On sâentretue lÃ -bas ! Votre compte est bon !Â». Mais au moment oÃ¹ elle bondit pour retourner au casse-pipe, un shrapnell lui arrache la moitiÃ© gauche du visage emportant avec lui la majeure partie du cerveau. Â«Elle pourra plus nous faire fusillerÂ», fait remarquer Shimoune en mÃ¢chouillant, pour le principe, une bouchÃ©e de manger mou. Â«Le MottÃ©, câest Ã  toi !Â», lui hurle Ronnie Ross trouÃ© de balles, mais encore accrochÃ© Ã  sa sulfateuse .50. TimothÃ©e rampe jusquâau moribond, le dÃ©gage de la lourde mitrailleuse et, les yeux sur lâinutile collimateur, commence Ã  faire feu des deux poignÃ©es.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+50mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-timothee-guerre.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Loin en avant, une silhouette se dessine dans la brume et avance dans la pestilence. Â«ArrÃªte, TimothÃ©e-Milet ! ArrÃªte ! On a gagnÃ© !Â», Câest sa mÃ¨re, la Maririou, archet en main, mais sans son violoncelle. Pataugeant autour dâelle, Gazou a une main arrachÃ©e entre les crocs, la main dâun malheureux que les troupes du gros Turcotte ont dÃ©chiquetÃ©e. Â«Attention, maman, faut que je tire !Â». Mais elle continue dâavancer avec sa sale bÃªte, les rafales de .50 lui sifflant Ã  deux millimÃ¨tres du casque. Â« ArrÃªte TimothÃ©e, arrÃªte, elle tâaime !Â». Le mitrailleur Ã  la croix rouge sâÃ©tire le cou et aperÃ§oit BÃ©atrice en grand uniforme de major, les mÃ©dailles faisant clinc-clinc. Â«BÃ©atrice, je ne suis pas un fantassin, je suis un paramÃ©dic ! Sors-moi dâici ! Si tu le fais pas, je vais mourir.Â» Et la belle lâaide Ã  se lever et, comme si un Ã©cran antimÃ©tal avait cuirassÃ© la lumiÃ¨re de son aura, lâentraÃ®ne sous sa protection vers lâarriÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+Puis il se rÃ©veille. En sueur ! Il est 4h45 et dÃ©jÃ  certains oiseaux, possiblement les plus affamÃ©s ou les moins bien juchÃ©s, ont commencÃ© Ã  chicaner lâaurore qui tarde Ã  lancer son travail de mise en lumiÃ¨re. Il ouvre silencieusement sa porte et constate que la rue Crouet sert de canal Ã  une dÃ©licate brise bien tempÃ©rÃ©e par la chaleur des terres plus au sud. DÃ©cidÃ©ment, les temps sont dâune clÃ©mence jamais vue. Rien Ã  voir avec les Ã©tÃ©s prÃ©cÃ©dents o`1 il a surtout Ã©yÃ© question de pluie, dâorages, dâaverses et dâinondations. 4h45 ! Plus de sept heures Ã  tirer avant quâil ne se rapporte, ici mÃªme, au colonel Alcide pour les manÅuvres devant dÃ©buter Ã  midi. Il en sera ainsi pour Claude, Marie-Odile et Shimoune, lequel sâest fait remplacer par OphÃ©lie Marcotte pour la journÃ©e. Trop tard pour reculer.
+\end_layout
+
+\begin_layout Standard
+
+Un chanson lui revient Ã  lâesprit quand il referme sa porte pour sâen aller Ã  la douche.
+\end_layout
+
+\begin_layout Standard
+
+Vor der Kaserne Vor dem groÃen Tor Stand eine Laterne Und steht sie noch davor (Devant la caserne Quand le jour sâenfuit, La vieille lanterne Soudain sâallume et luit.)
+\end_layout
+
+\begin_layout Standard
+
+Le pire, câest quâune heure plus tard, en franchissant Ã  pied les quelque cinq kilomÃ¨tres le sÃ©parant du Centre, Â«Wie einst Lili MarleenÂ», celui de la voix chaude de Marlene Dietrich, lui restera collÃ© dans le creux de lâoreille tout au long de sa balade et mÃªme plus. Il aura beau sâefforcer de ne penser quâau plus horrible de ses cauchemars, il ne pourra sâen dÃ©barrasser. MÃªme quand Jawad Kebbaj stoppera son taxi prÃ¨s de lui au dÃ©but de la rue Sirois.
+\end_layout
+
+\begin_layout Standard
+
+- Mais quâest-ce qui se passe, mon jeune homme ? On affame le petit commerce, on nâutilise plus les services du vieux Jawad ?
+\end_layout
+
+\begin_layout Standard
+
+- Bonjour monsieur Kebbaj. Je profite du beau temps pour marcher jusquâau travail.
+\end_layout
+
+\begin_layout Standard
+
+- Tu fais bien, câest bon pour ta santÃ©, tu fais bien. Tu vas vivre plus longtemps et rester mon client plus longtemps, MashaâAllah !
+\end_layout
+
+\begin_layout Standard
+
+Quand Ã  6h15, il arrive Â«vor des KaserneÂ», câest-Ã -dire devant le Centre, pas un chat ne bouge, personne ne se montre le bout du nez. Seuls des goÃ©lands en bande anarchique animent le dÃ©cor. Mais Ã  lâintÃ©rieur, la vie commence Ã  donner des preuves quâelle bat vraiment. Surtout quand il se pointe au 5e Ã©tage oÃ¹ Octavio Torres, un prÃ©posÃ© de nuit, lâaccueille avec la circonspection dâun douanier de Tijuana en prÃ©sence dâun visiteur de San Diego.
+\end_layout
+
+\begin_layout Standard
+
+- Hola Senor Jefe, una gran desgracia â¦ votre bÃ©nÃ©ficiaire, Jean-Roch Savoie, le lit no 8 de votre SP, il a fait du bordel une partie de la nuit et il est mort tout Ã  lâheure. Il a empÃªchÃ© tout le monde de dormir. Hijo de puta ! LâIlluminÃ© a donc passÃ© lâarme Ã  gauche. Mort faute de traitements significatifs. Mort dâennui, de dÃ©ception, de frustration et de rage.
+\end_layout
+
+\begin_layout Standard
+
+- Merci monsieur Torres, je vais mâen occuper.
+\end_layout
+
+\begin_layout Standard
+
+Pour lâinstant, il nây a rien Ã  faire, les prÃ©posÃ©s du grand frigo nâarrivant au boulot quâÃ  8 h. Dans la salle palliative, la grogne de ceux qui en sont encore capables est Ã  son comble. TimothÃ©e fait le tour de ses grabats pour essayer de calmer ce quâil peut et sâarrÃªte devant celui de Jean-Roch Savoie, lâhomme qui connaissait sa Bible par cÅur. Il sâapproche du cadavre et, ramassant drap et couverture Ã©parpillÃ©s comme Ã  la suite dâune tornade, lâabrille respectueusement et lui joint les mains sur le livre saint quâil a retrouvÃ© sous le lit. Jâai dâlâargent pour toi, mon garÃ§on.
+\end_layout
+
+\begin_layout Standard
+
+La voix est celle dâun paquet dâos que plus personne ne lave et qui gÃ®t dans la couchette voisine.
+\end_layout
+
+\begin_layout Standard
+
+- Dormez, monsieur Logan, il nâest pas encore 7 h.
+\end_layout
+
+\begin_layout Standard
+
+- Je te vire 750 piastres, siffle le pitoyable vieillard, si tu me dÃ©barques de la prochaine cÃ©rÃ©monie.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e a soudainement envie de hurler, de donner de grands coups de pied dans la fourmiliÃ¨re.
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoutez-moi bien, monsieur Logan. Tant que je serai lÃ , y a personne qui va vous amener Ã  la cÃ©rÃ©monie. Personne ici nâira Ã  la cÃ©rÃ©monie. Il y en aura pâus de cÃ¢lisse de cÃ©rÃ©monie, câest-y clair, Ã§a ?
+\end_layout
+
+\begin_layout Standard
+
+- Jâte dis que jâai 750 piastres â¦
+\end_layout
+
+\begin_layout Standard
+
+Comment rassurer ce moribond qui, Ã  juste raison, est convaincu que seul un pot-de-vin peut lui rallonger sa vie de quelques semaines ? Comment lâamener Ã  croire que la pratique des cÃ©rÃ©monies gaz lÃ©tal - sac noir - chariot sera abolie dÃ¨s que le colonel Alcide aura gagnÃ© la guerre ?
+\end_layout
+
+\begin_layout Standard
+
+- Oubliez la cÃ©rÃ©monie, monsieur Logan, y en aura plus, plus jamais, lui rÃ©pÃ¨te-t-il en se sauvant.
+\end_layout
+
+\begin_layout Standard
+
+Ã son Ã©tonnement, le systÃ¨me informatique semble fonctionner. Vlado Marcovsky a-t-il fait des miracles ou est-ce lÃ  un effet du hasard ? Il va donc en profiter pour essayer de ne plus penser au rendez-vous de midi, pour tenter de se dÃ©barrasser de Lili Marleen qui lui squatte lâesprit et pour liquider tout le retard administratif accumulÃ© depuis une dizaine de jours. Ainsi, il ne voit pas le temps filer et est presque Ã©tonnÃ© quand Ronnie Ross et Steve Grenier se pointent, dix minutes en retard, pour commencer leur quart.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes dâbonne heure Ã  matin, MottÃ© ? sâexclame Ross.
+\end_layout
+
+\begin_layout Standard
+
+Le chef de section fait un lÃ©ger signe de tÃªte et leur annonce la mort de Jean-Roch Savoie.
+\end_layout
+
+\begin_layout Standard
+
+- Je viens dâappeler au frigo, ils arrivent. Ãa me prend quelquâun pour faire le nÃ©cessaire. Tu veux tâen occuper, Steve ?
+\end_layout
+
+\begin_layout Standard
+
+Le gaillard accepte sans rouspÃ©ter et disparaÃ®t avec son collÃ¨gue-comparse, tandis que le tÃ©lÃ©phone couine pour Ãªtre pris en charge.
+\end_layout
+
+\begin_layout Standard
+
+Câest le docteur PrÃ©vost, le mÃ©decin lÃ©giste qui est sur lâaffaire Robert Gagnon. Le toubib a le verbe pÃ©dagogique, celui de lâexpert qui sait que lâÃªtre humain ne comprend gÃ©nÃ©ralement rien Ã  rien. Sâil appelle, insiste-t-il, câest que son ami le docteur Bellavance le lui a recommandÃ©. DâentrÃ©e de jeu, il dit avoir une idÃ©e prÃ©cise des causes et des circonstances ayant pu causer la mort de Dart Vader et estime que le dossier devrait Ãªtre transfÃ©rÃ© Ã  un coroner enquÃªteur. Rien de moins !
+\end_layout
+
+\begin_layout Standard
+
+- Euh, il est mort de quoi â¦ ?
+\end_layout
+
+\begin_layout Standard
+
+- Dâun choc anaphylactique aux alentours de 23 h lundi soir.
+\end_layout
+
+\begin_layout Standard
+
+- Une rÃ©action allergique, euhâ¦, exacerbÃ©e â¦
+\end_layout
+
+\begin_layout Standard
+
+- Oui. Je vois que vous vous y connaissez un peu.
+\end_layout
+
+\begin_layout Standard
+
+Et le bon docteur de cliquer sur MÃ©decine 101 avec le ton, le dÃ©bit et la mÃ©thode, sans toutefois exiger que lâon prenne des notes. Le choc est une manifestation dâhypersensibilitÃ© immÃ©diate due Ã  un allergÃ¨ne, commence-t-il. En fait, le processus est dâune logique implacable. Pour rÃ©agir Ã  la prÃ©sence de lâallergÃ¨ne, le systÃ¨me libÃ¨re des mÃ©diateurs vasoactifs bien connus, des substances comme lâhistamine, la sÃ©rotonine, les prostaglandines, les leucotriÃ¨nes, et de tout leur cortÃ¨ge de misÃ¨res qui entraÃ®nent non seulement lâÃ©crasement des systÃ¨mes de rÃ©sistances vasculaires pÃ©riphÃ©riques, Â«ce qui, monsieur Tardif, peut gÃ©nÃ©rer une hypovolÃ©mie relativeÂ», mais aussi une augmentation de la permÃ©abilitÃ© des capillaires, ce qui, Ã  son tour, Â«peut causer une hypovolÃ©mie absolue et de lâÅdÃ¨meÂ».
+\end_layout
+
+\begin_layout Standard
+
+- Le patient commence Ã  mal aller â¦
+\end_layout
+
+\begin_layout Standard
+
+- Exactement, monsieur Tardif. Le cÅur tente de compenser en augmentant son rythme dans le but dâÃ©viter une chute de la pression artÃ©rielle. Mais Ã§a foire et on assiste rapidement Ã  un collapsus cardio-vasculaire. PrÃ©vost est affirmatif. Pour lui lâaffaire est entendue. Deux causes peuvent expliquer le dÃ©cÃ¨s du vieux Dart. Tout dâabord, un arrÃªt circulatoire a fait pomper le cÅur Ã  vide ce qui a provoquÃ© son arrÃªt, Â«un peu comme une pompe quâon dÃ©samorceÂ». Ensuite, la malignitÃ© de lâallergÃ¨ne a causÃ©, au mÃªme moment, de la spasticitÃ© au niveau du systÃ¨me respiratoire â¦
+\end_layout
+
+\begin_layout Standard
+
+- Ce qui lâa asphyxiÃ© â¦
+\end_layout
+
+\begin_layout Standard
+
+- Il nâa eu aucune chance, ponctue le mÃ©decin lÃ©giste.
+\end_layout
+
+\begin_layout Standard
+
+- CâÃ©tait quoi lâallergÃ¨ne ?
+\end_layout
+
+\begin_layout Standard
+
+- Les crevettes.
+\end_layout
+
+\begin_layout Standard
+
+- Il en avait plein la bouche â¦
+\end_layout
+
+\begin_layout Standard
+
+- Câest ce qui mâamÃ¨ne aux circonstances.
+\end_layout
+
+\begin_layout Standard
+
+Et voilÃ  lâhomme de science reparti. Robert Gagnon, continue-t-il, est un personnage connu pour sâÃªtre adonnÃ© toute sa vie aux plaisirs de la bouffe bien arrosÃ©e. Or, depuis trois ans, il est exclusivement au rÃ©gime Nutrisuz. On parle dâun patient dont le dossier mÃ©dical ne fait Ã©tat dâaucune allergie. Eut-il Ã©prouvÃ© des difficultÃ©s Ã  manger des crevettes ou autres dÃ©rivÃ©s iodÃ©s, on lâaurait su. On peut donc prÃ©sumer quâau moment oÃ¹ le dossier a Ã©tÃ© complÃ©tÃ©, il pouvait avaler des crustacÃ©s sans aucun effet secondaire. Pourtant, il a subi son choc anaphylactique fatal aprÃ¨s avoir absorbÃ©, Â«de par ce que jâai pu mesurer dans lâestomac, monsieur TardifÂ», une quantitÃ© de nourriture quâon pourrait qualifier Â«dâabus du temps des fÃªtesÂ», mais sÃ»rement pas Â«dâorgie alimentaireÂ». Il y avait un peu de tout, dont, en dernier, des crevettes. Bref, les circonstances de sa mort sont limpides : Robert Gagnon sâest introduit sans autorisation dans des locaux oÃ¹ on avait entreposÃ© de la bouffe et sâest mis Ã  bÃ¢frer. ArrivÃ© aux crevettes, il est mort dâun choc anaphylactique et nâa pas pu aller plus loin dans son projet, Â«sâil en avait unÂ». Ce qui signifie quâentre son admission au Centre, il y a trois ans, et ses frasques de lundi soir, Gagnon a dÃ©veloppÃ© une intolÃ©rance majeure aux crevettes et, probablement, aux autres dÃ©rivÃ©s iodÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- La question est maintenant de savoir pourquoi. Y a-t-il un lien avec le rÃ©gime au Nutrisuz ? Câest une piste qui, avouons-le, est trÃ¨s sÃ©duisante. Et, tant quâÃ  soulever cette hypothÃ¨se, y a-t-il dâautres cas au QuÃ©bec ? DâoÃ¹ mon intention de transfÃ©rer le dossier Ã  un collÃ¨gue coroner enquÃªteur. Quâen pensez-vous ?
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e est trÃ¨s impressionnÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Ã votre connaissance, monsieur Tardif, Robert Gagnon mangeait-il autre chose, vous savez cette nourriture qui leur arrive par voie de contrebande ?
+\end_layout
+
+\begin_layout Standard
+
+- SÃ»rement. Mais on parle toujours de nourriture sÃ¨che, de cochonneries, bonbons, chocolats, et ainsi de suite, des trucs qui se camouflent pour Ã©viter dâÃªtre repÃ©rÃ©s aux contrÃ´les. En trois ans, on nâa jamais interceptÃ© de vraie nourriture, en-tout-cas pas de crevettes ou de fruits de mer.
+\end_layout
+
+\begin_layout Standard
+
+De grands pans de mur ne cessent de tomber autour de TimothÃ©e. AprÃ¨s le docteur Bellavance qui est prÃªt Ã  collaborer pour dÃ©noncer le trafic dâhormones, aprÃ¨s la dÃ©couverte de Shimoune Saint-Pierre sur laquelle le commando Alcide va frapper tout Ã  lâheure, aprÃ¨s lâagent de sÃ©curitÃ© Tropecolo qui serait, affirme Marie-Odile, en train de monter un dossier sur les pouvoirs abusifs dâincarcÃ©ration dont jouit le tandem Michaud-Dauphin (incidemment, quâarrive-t-il du bonhomme Jean accusÃ© de sabotage de Saguewanish ?), aprÃ¨s le docteur Gagnon dont les dents ont toutes Ã©tÃ© arrachÃ©es grÃ¢ce Ã  un savantissime petit enregistrement numÃ©rique, voici maintenant une enquÃªte du coroner sur les consÃ©quences de cet abominable rÃ©gime au Nutrisuz. Autant de portes ouvertes qui nâexistaient pas il y a une semaine. Des portes qui mÃ¨nent directement aux terriers du gros Turcotte, de Pete Barrett, de Carl Michaud, de Philippe Dauphin et de bon nombre de leurs collaborateurs. Or, se dit TimothÃ©e, il a lui-mÃªme, personnellement et activement, participÃ© Ã  lâouverture de toutes ses portes, lui le binoclard en chauvaison dont la bedonnance dondaine ne lâaide sÃ»rement pas Ã  plaire aux femmes, Ã  plaire Ã  BÃ©atrice. Et, qui sait, si tout marche comme le prÃ©voit Robespierre, cet impavide colonel Alcide, il nây aura plus jamais de vieux provisoirement vivants qui seront gazÃ©s pour satisfaire aux exigences administratives du gouvernement. Peut-Ãªtre que le pÃ¨re Logan nâa finalement rien Ã  craindre. Et, qui dit Logan, dit Luce Morency, crÃ©ature inoffensive Ã  la merci des malfaiteurs qui sÃ©vissent le 6e Nord, malfaiteurs en lice pour une amÃ¨re dÃ©faite militaire.
+\end_layout
+
+\begin_layout Standard
+
+Vor der Kaserne Vor dem groÃen Tor Stand eine Laterne Und steht sie noch davor
+\end_layout
+
+\begin_layout Standard
+
+Ã 11 h 30, il est encore sous lâeffet du musicrobe allemand quand il quitte son officine pour gagner lâantre de Robespierre, un antre quâil dÃ©couvre aussi Ã  lâordre quâun satellite haut de gamme de la bibliothÃ¨que des Ursulines.
+\end_layout
+
+\begin_layout Standard
+
+- Madame Bellow a terminÃ© son nettoyage des Ã©curies dâAugias ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui, mais jâme retrouve plus !
+\end_layout
+
+\begin_layout Standard
+
+- On y va ?
+\end_layout
+
+\begin_layout Standard
+
+- Ouais, je viens juste de finir mon plan, rÃ©pond-il en brandissant un grand carton blanc dessinÃ© et coloriÃ© Ã  la main comme au temps de lâÃ©cole Ã©lÃ©mentaire. Tu veux amener le lutrin et la canne pointeuse, lÃ  ? Marie-Odile nous attend dans le stationnement. Letâs go !
+\end_layout
+
+\begin_layout Standard
+
+Le trio arrive sur la rue Crouet presque en mÃªme temps que Shimoune Saint-Pierre. Claude Sey est dÃ©jÃ  en train de humer lâair de Nazareth, nonchalamment appuyÃ© sur sa bagnole, et ne semble pas nerveux. En face, Richard nâest pas Ã  sa fenÃªtre. De toute faÃ§on, tout le monde sâen fiche !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+begin{floatingfigure}[l]{30mm}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics 
+	filename img/carte.jpg
+	height 80mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%
+\backslash
+end{floatingfigure}
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Robespierre a vite fait dâinstaller sa panoplie du petit gÃ©nÃ©ralissime dans le salon et, minutieux, il se met en devoir de rÃ©articuler tous les dÃ©tails de son plan dâintervention. Le commando partira avec deux voitures. Dans la premiÃ¨re, celle de Shimoune, les quatre hommes prendront place et, dans la seconde, une auto-patrouille officielle bien identifiÃ©e Ã  la SÃ©cu, Marie-Odile sera seule. Shimoune restera sur la 132 jusquâau Bic, et bifurquera vers la droite Ã  lâintersection menant Ã  la pointe aux Anglais.
+\end_layout
+
+\begin_layout Standard
+
+- Ici Ã  Â«EÂ», tape-t-il de sa canne.
+\end_layout
+
+\begin_layout Standard
+
+Le prÃ©posÃ© au Nutrisuz rÃ©prime in extremis le besoin de pouffer de rire.
+\end_layout
+
+\begin_layout Standard
+
+- De lÃ , on parcourt environ un kilomÃ¨tre et on stationne ici Ã  Â«DÂ». Y a toujours de la place. On verrouille et on suit Shimoune dans le bois qui nous amÃ¨ne en vue de lâobjectif reprÃ©sentÃ© ici par la lettre Â«AÂ». Pas besoin de machettes, câest assez dÃ©gagÃ©. On demeure embusquÃ© sans grouiller ni parler jusquâÃ  14 h. Pendant ce temps, continue le stratÃ¨ge, Marie-Odile quitte la 132 Ã  la Baie-HÃ¢tÃ©e, lettre Â«CÂ», et emprunte un chemin privÃ©. Il nây a aucune barriÃ¨re. Elle roule jusquâÃ  sa position dâattente et nâen bouge pas avant 13 h 58. Personne nâest censÃ© la voir. Câest ici, lettre Â«FÂ». Ã 13 h 58, elle redÃ©marre et, Ã  14 h, elle commence Ã  faire du bordel avec son auto-patrouille devant lâentrÃ©e. Normalement les deux gardiens vont sâapprocher pour savoir ce que la SÃ©cu vient faire dans leur petit paradis perdu. Jusquâici Ã§a va ?
+\end_layout
+
+\begin_layout Standard
+
+- Ãa va ! rÃ©pond-on en cÅur.
+\end_layout
+
+\begin_layout Standard
+
+- Nous autres, les gars, Ã  prÃ©cisÃ©ment 14h, on fonce vers le pavillon et on lâinvestit.
+\end_layout
+
+\begin_layout Standard
+
+Shimoune lÃ¨ve la main.
+\end_layout
+
+\begin_layout Standard
+
+- Y sâpasse quoi si Marie-Odile nâest pas arrivÃ©e ?
+\end_layout
+
+\begin_layout Standard
+
+- On va le savoir, on ne lâentendra pas faire son bordel. On va simplement patienter jusquâÃ  ce quâelle se pointe le bout du nez. Mais Ã§a ne se produira pas. Nâest-ce pas Marie-Odile ?
+\end_layout
+
+\begin_layout Standard
+
+La femme flic se contente de sourire.
+\end_layout
+
+\begin_layout Standard
+
+- Le fait de pÃ©nÃ©trer dans la maison va attirer lâattention des deux gardes et ils vont faire deux choses. Ils vont courir vers nous pour voir ce qui se passe et, en mÃªme temps, ils vont tÃ©lÃ©phoner Ã  leur supÃ©rieur pour annoncer un incident majeur. Pendant ce temps-lÃ , Marie-Odile vient se positionner sur la galerie avant, juste en haut des escaliers, et elle nous attend, Shimoune et moi. Câest nous trois qui protÃ©gerons TimothÃ©e et Claude. OK ? Shimoune, rappelle-moi ton rÃ´le !
+\end_layout
+
+\begin_layout Standard
+
+- Je te suis au pas, mon bel Hannibal, et je viens me faire aller les biceps Ã  cÃ´tÃ© de Marie-Odile sur la galerie avant. Youhou les amis, venez admirer mes formes voluptueuses ! Mais le premier qui se laisse tenter, je lui casse le nez.
+\end_layout
+
+\begin_layout Standard
+
+- EspÃ¨ce dâagace ! OK. Et toi, Marie-Odile ?
+\end_layout
+
+\begin_layout Standard
+
+- Je descends de mon auto et je gagne la galerie oÃ¹ je vous attends, toi et Shimoune. Le premier qui approche, je lui pÃ¨te les dents.
+\end_layout
+
+\begin_layout Standard
+
+- Ouille ! Et toi TimothÃ©e-Milet Rioux-Tardif ?
+\end_layout
+
+\begin_layout Standard
+
+- Je te suis dans la cour, jâattends que tu ouvres la porte dâen arriÃ¨re ou que tu la dÃ©fonces si on lâa verrouillÃ©e, jâentre Ã  mon tour et je fonce vers la droite oÃ¹ je filme tout ce que je vois en mode tÃ©lÃ©versement actif â câest la petite lumiÃ¨re bleue qui clignote. Mon objectif ? Les deux Turcotte.
+\end_layout
+
+\begin_layout Standard
+
+- OK ! Et notre jeune ami, monsieur Sey ?
+\end_layout
+
+\begin_layout Standard
+
+- MÃªme chose que TimothÃ©e, mais moi je fonce vers la gauche. Dites, monsieur Alcide, il arrivera quoi de lâappel Ã  lâaide que feront les agents qui nous verront attaquer le pavillon ?
+\end_layout
+
+\begin_layout Standard
+
+- Lâappel sera reÃ§u directement chez Barrett Ã  cinq minutes dâici. Câest la lettre Â«BÂ». Comme câest le haut lieu des basses Åuvres de lâorganisation Turcotte, il sây tient toujours des activitÃ©s partisanes. Ce qui mâincite Ã  croire quâil y a, en tout temps, des fiers-Ã -bras en attente de casse. Câest comme Ã§a que Ã§a marche. Jâimagine quâils vont venir avec une ou deux voitures, câest-Ã -dire avec deux ou quatre gorilles que Marie-Odile, Shimoune et moi devrons neutraliser. Le plus vite quâils peuvent arriver câest cinq minutes aprÃ¨s notre petite invasion domiciliaire. Mais cinq minutes câest amplement suffisamment pour que TimothÃ©e et vous, monsieur Sey, puissiez filmer la cible et tÃ©lÃ©verser vos enregistrements vidÃ©o dans le serveur sÃ©curisÃ© de la SÃ©cu, au Centre. DÃ¨s lors, les mÃ©chants seront foutus et, sâils tiennent malgrÃ© tout Ã  la bagarre, ils la perdront, nâest-ce pas Marie-Odile, nâest-ce pas Shimoune ? De toute faÃ§on, elle sera lÃ©galement retenue contre eux. RassurÃ©, monsieur Sey ?
+\end_layout
+
+\begin_layout Standard
+
+- Bâen, si câest ce quâil faut faire pour recommencer Ã  traiter les personnes Ã¢gÃ©es avec un peu de dignitÃ©, Ã  cesser de les considÃ©rer comme des animaux indÃ©sirables, pour leur ouvrir toutes grandes les fenÃªtres sur la vie, les jeunes, la nature, le vent du fleuve, la joie de vivre, ma rÃ©ponse, monsieur Alcide, moi le pâtit cul de 28 ans, câest que oui, Ã§a va et que je suis fier dâen Ãªtre.
+\end_layout
+
+\begin_layout Standard
+
+- Parfait ! Madame, messieurs, il ne nous reste plus quâÃ  synchroniser nos montres.
+\end_layout
+
+\begin_layout Standard
+
+Mais depuis un bon moment, Romain est en bas, au pied de lâescalier, et, trÃ¨s inquiet, il essaie de savoir ce qui se trame chez son fils. Ã sa connaissance, câest la premiÃ¨re fois quâil sây trouve autant de monde en mÃªme temps. Qui plus est, de jour ! Pour mieux arriver Ã  comprendre, il a mÃªme dÃ©posÃ© Gazou, manu militari, sur la corniche entre poules et lapin. Sans bouger, il prÃªte lâoreille, soucieux de dÃ©chiffrer les bribes de conversation qui lui parviennent. VoilÃ  maintenant que câest le carillon dâentrÃ©e qui se fait entendre, suivi de pas, de paroles vagues, puis encore dâautres pas qui, cette fois sâapprochent de lâescalier. Rapidement, le vieil homme regagne son salon.
+\end_layout
+
+\begin_layout Standard
+
+Câest BÃ©atrice qui apparaÃ®t dans le cadre de la porte. Elle avait effectivement promis la veille de passer visiter Marie en dÃ©but dâaprÃ¨s-midi. Oui elle a eu le loisir de voir les gens qui sont en haut, non elle ne sait pas de quoi ils discutent, bien quâelle ait remarquÃ© un plan affichÃ© sur un lutrin, et non elle ne les connaÃ®t pas tous.
+\end_layout
+
+\begin_layout Standard
+
+- Y a un blond bizarre avec des bras musclÃ©s et un plus jeune, une espÃ¨ce dâintello pas souriant. Les autres câest TimothÃ©e, notre ami Robespierre Alcide et une agente de sÃ©curitÃ© du Centre, Marie-Odile Tremblay.
+\end_layout
+
+\begin_layout Standard
+
+- Y sâpasse quelque chose en haut, Ã§a, câest sÃ»r.
+\end_layout
+
+\begin_layout Standard
+
+La Maririou ouvre de grands yeux.
+\end_layout
+
+\begin_layout Standard
+
+- Voyons Romain, que châest que tu veux quiâch pache ?
+\end_layout
+
+\begin_layout Standard
+
+Convaincu de devoir insister, Romain prÃ©sente la synthÃ¨se de ce quâil a perÃ§u, enrichi de ce que BÃ©atrice vient dâajouter. Cinq personnes rÃ©unies chez TimothÃ©e sont en train de parler trÃ¨s sÃ©rieusement â Â«y a mÃªme un agent de sÃ©curitÃ© avec euxÂ» - de sâen aller filmer les parents du gros Turcotte dans leur cachette. Ils savent oÃ¹ aller et ils ont un plan dâattaque.
+\end_layout
+
+\begin_layout Standard
+
+Ã lâextÃ©rieur, Gazou hurle Ã  la mort, ce qui affole les poules et angoisse les lapins. Sans parler des rÃ©sidents de la rue. Marie se lÃ¨ve, une Ã©trange lueur dans les yeux, et va faire entrer lâaffreuse bÃªte. En apercevant BÃ©atrice, le cabot ravale sa hargne et son hostilitÃ© pour aller se prosterner en face dâelle dans le plus mystique des silences.
+\end_layout
+
+\begin_layout Standard
+
+Le gros Turcotte ! Le pouvoir des colosses aux voix rauques, grasses et tonitruantes, aux mains Ã©normes, velues, tachÃ©es de nicotine, encroÃ»tÃ©es de malfaisances, des mains animales, primitives, exÃ©cutrices qui Ã©gorgent les Ã©coles de musique, qui frappent les petites filles de onze ans, qui dÃ©truisent les vies, qui institutionnalise lâÃ©chec dans la suite des choses.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes chertain que che chont les parents du gros Turcotte ?
+\end_layout
+
+\begin_layout Standard
+
+- Câest ce que jâai entendu Ã  quelques reprises.
+\end_layout
+
+\begin_layout Standard
+
+Si les jeunes, en haut, ont dÃ©cidÃ© dâagir ainsi, ce nâest probablement pas pour le plaisir de faire de lâexercice. Il faut plutÃ´t imaginer, puisquâil est question de parents illÃ©galement cachÃ©s, que la manÅuvre projetÃ©e est en rapport avec eux, Romain et Marie, deux vieux trop avancÃ©s en Ã¢ge pour quâon songe seulement Ã  leur en parler. TimothÃ©e veut-il essayer de faire chanter le ministre pour leur nÃ©gocier une meilleure qualitÃ© de vie ? Si cela est possible, le plan, quel quâil soit, les concerne. Cela ne risque-t-il pas de changer leur vie, en mieux ou en pire ? De toute faÃ§on, les choses ne peuvent aller plus mal que maintenant; il faut agir !
+\end_layout
+
+\begin_layout Standard
+
+- Câest choquant quâils ne nous consultent pas, on nâest quand mÃªme pas encore rendu gaga !
+\end_layout
+
+\begin_layout Standard
+
+- On est loin dâÃªtre rendu gaga, mon Romain ! Sâils jont trouvÃ© les gÃ©niteurs du gros verrat, faut que je chois lÃ , faut que je lâattrape le gros malfaijant, faut que jâlui coupe ches groches pattes Ã©peurantes pour plus quâil fache plus de mal Ã  perchonne.
+\end_layout
+
+\begin_layout Standard
+
+Romain se retient de rÃ©agir. Il sait que si sa vieille a une idÃ©e prÃ©cise en tÃªte, il nây a plus rien Ã  faire.
+\end_layout
+
+\begin_layout Standard
+
+- Comment tu vas faire Ã§a ? risque-t-il.
+\end_layout
+
+\begin_layout Standard
+
+En trois mots secs, elle explique que sâils montent au rez-de-chaussÃ©e, tous trois, lÃ  maintenant, TimothÃ©e et sa bande ne voudront jamais les intÃ©grer Ã  leur Ã©quipÃ©e. Ã coup sÃ»r, ils vont justifier le danger de lâopÃ©ration, lâÃ©tat de santÃ© de Marie, le tour de taille de Romain, la convalescence de BÃ©atrice, voir lâalignement des planÃ¨tes rendant impossible toute mission de plus de cinq exÃ©cutants. Il faut donc trouver une faÃ§on de participer Ã  la fÃªte sans attendre dâÃªtre invitÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- On Ã©coute che qui che pache en haut et quand on les jentend partir, on che dÃ©pÃªche et on les chuit dans le char Ã  BÃ©atriche. Tâas-tu un meilleur plan ?
+\end_layout
+
+\begin_layout Standard
+
+Romain bouge la tÃªte Ã  lâhorizontale et regarde BÃ©atrice qui hausse les Ã©paules en souriant.
+\end_layout
+
+\begin_layout Standard
+
+- Bon ! Jâmâen vas me prÃ©parer.
+\end_layout
+
+\begin_layout Standard
+
+Cinq minutes plus tard, elle ressort de sa chambre en robe fleurie jaune, verte, noire et blanche, avec collants gris et souliers vernis, toute coiffÃ©e comme pour la messe de minuit, tenant, dans sa main gauche, un parapluie. Constatant les regards dubitatifs sur son accessoire conÃ§u davantage pour le crachin atlantique que pour les chaudes aprÃ¨s-midi de juillet, elle leur en donne lâexplication.
+\end_layout
+
+\begin_layout Standard
+
+- Perchonne au monde ne bloque le chemin Ã  une pâtite vieille qui a lâair de chavoir manier un parapluie.
+\end_layout
+
+\begin_layout Standard
+
+Suit alors une courte pÃ©riode dâattente qui se termine par un branle-bas de combat au-dessus de leurs tÃªtes.
+\end_layout
+
+\begin_layout Standard
+
+- Cha y est !
+\end_layout
+
+\begin_layout Standard
+
+Ils perÃ§oivent clairement une voix de femme sâÃ©crier quâelle va suivre avec sa voiture. Suivre qui ? SÃ»rement TimothÃ©e et les autres gamins. Plus une seconde Ã  perdre ! BÃ©atrice et Romain commencent Ã  monter tandis que Marie ferme la porte au nez de Gazou, Â«Moman part pas longtemps, chois gentil !Â», lequel, aussi con quâun pot de beurre dâarachides, se remet Ã  hurler comme si la fin du monde Ã©tait arrivÃ©e. La contemplation de BÃ©atrice entraÃ®nerait-elle un Ã©tat de dÃ©pendance et son manque, une souffrance intolÃ©rable ?
+\end_layout
+
+\begin_layout Standard
+
+- Envoye, Romain, tâas donc bâen dâla misÃ©re Ã  grimper les marches !
+\end_layout
+
+\begin_layout Standard
+
+- Jâai pâus vingt ans !
+\end_layout
+
+\begin_layout Standard
+
+BÃ©atrice se prÃ©cipite vers la porte.
+\end_layout
+
+\begin_layout Standard
+
+- DÃ©pÃªchez-vous, elle vient de dÃ©coller.
+\end_layout
+
+\begin_layout Standard
+
+En ahanant, Romain parvient Ã  lâauto oÃ¹ la Maririou est en train de sâattacher sur le siÃ¨ge avant. Il a Ã  peine le loisir de sâasseoir que dÃ©jÃ , BÃ©atrice a embrayÃ© et que lâhybride chinoise fonce en direction ouest. Rue La Salle, elle entrevoit, au loin, le vÃ©hicule de la SÃ©cu qui vient dâarrÃªter au feu rouge du boulevard Saint-Germain.
+\end_layout
+
+\begin_layout Standard
+
+- On lâa rattrapÃ©e !
+\end_layout
+
+\begin_layout Standard
+
+Le reste de la filature est sans histoire. Trois cents mÃ¨tres prudemment en arriÃ¨re, BÃ©atrice a le temps dâapercevoir Marie-Odile quitter la 132 Ã  la Baie-HÃ¢tÃ©e. Comme on ignore oÃ¹ ce chemin privÃ© mÃ¨ne, le mieux, estime Romain, est de lâemprunter et de voir. Au pire, lâagente de sÃ©curitÃ© les remarquera et viendra les houspiller. Au mieux, ils la suivront, invisibles, jusquâÃ  sa destination.
+\end_layout
+
+\begin_layout Standard
+
+Peu aprÃ¨s, ils passent devant une ramification secondaire qui semble conduire Ã  une propriÃ©tÃ© cossue dont on entraperÃ§oit quelques dÃ©tails Ã©vanescents au travers les arbres. Dans le pare-brise, la petite route en gravelle serpente cahin-caha et bloque toute perspective de plus de 100 mÃ¨tres, tant et si bien que la conductrice doit redoubler de prudence pour ne pas Ãªtre repÃ©rÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s cinq ou six minutes de reptation Ã  bas rÃ©gime, lâinfirmiÃ¨re aperÃ§oit, de loin, ce qui pourrait Ãªtre la voiture de la SÃ©cu immobilisÃ©e et elle ferme son moteur. Son rythme cardiaque a augmentÃ© de faÃ§on perceptible.
+\end_layout
+
+\begin_layout Standard
+
+- Quâest-ce quâon fait si elle fait demi-tour ?
+\end_layout
+
+\begin_layout Standard
+
+- On a lâair fou, ronchonne Romain. Mais on dirait quâelle attend quelquâun ou quelque chose.
+\end_layout
+
+\begin_layout Standard
+
+- Je vais aller voir. Vous autres, restez pas dans lâauto. Si jamais quelquâun vientâ¦
+\end_layout
+
+\begin_layout Standard
+
+Doucement, on ouvre les portiÃ¨res et on entre dans le sous-bois. Avec toutes les ruses expÃ©rimentÃ©es au fil des millÃ©naires par lâensemble des peuplades amÃ©rindiennes, les vieux marchent jusquâÃ  la carcasse dâun tremble recouvert de mousse et BÃ©atrice sâavance en direction de Marie-Odile. Sans faire craquer de branches, elle rÃ©ussit Ã  sâen approcher Ã  dix mÃ¨tres oÃ¹, immobile, elle Ã©pie. Rien ne bouge, personne ne vient. Seuls les oiseaux font preuve de vie. Puis, comme si elle obÃ©issait Ã  une consigne, lâagente de sÃ©curitÃ© dÃ©marre en trombe et disparaÃ®t dans les courbes prononcÃ©es du chemin. LâinfirmiÃ¨re a beau sâÃ©tirer, elle ne la voit plus. HÃ©sitant sur la marche Ã  suivre, elle choisit de sâen retourner vers sa propre voiture, mais, chemin faisant, elle entend le moteur de Marie-Odile sâarrÃªter, une portiÃ¨re claquer et une voix fÃ©minine crier des choses quâelle nâarrive pas Ã  bien comprendre. Elle refait volte-face et continue sa progression dans la lourde couverture boisÃ©e. Elle a vite fait de repÃ©rer une clairiÃ¨re oÃ¹ elle aperÃ§oit lâauto-patrouille, puis lâagente de sÃ©curitÃ© en train de courir vers une grande maison, tandis que deux gaillards, on dirait des gardiens, se hÃ¢tent, eux aussi, vers lâarriÃ¨re de la propriÃ©tÃ©, la main sur leur systÃ¨me personnel de communication. Lâun dâeux invective lourdement la policiÃ¨re, utilisant des termes blessants, lâautre ne cesse de parler dans son appareil. Puis tous deux changent de cap et sâavancent vers Marie-Odile qui, en position dite du Â«sablier largeÂ», le Hangetsu-Dachi, les attend silencieusement en haut des marches de la galerie. La perspective de recevoir des coups les fait hÃ©siter et ils tentent de parlementer. Câest alors que Robespierre et son copain, le gars aux bras surdÃ©veloppÃ©s, apparaissent Ã  leur tour; ils Ã©taient dans la maison. Prudemment, les deux gardiens font machine arriÃ¨re ce qui incite le blond Ã  adopter la pose de Monsieur Univers et Ã  sâagiter la musculature.
+\end_layout
+
+\begin_layout Standard
+
+- HÃ© ! les tites filles, dites-moi pas quâon vous fait peur !
+\end_layout
+
+\begin_layout Standard
+
+Lâun des gardiens lui signifie un doigt dâhonneur.
+\end_layout
+
+\begin_layout Standard
+
+- On a âcÃ¢llÃ©â du renfort, tâes faite le fif, toi aussi la Bitch !
+\end_layout
+
+\begin_layout Standard
+
+Ce que BÃ©atrice comprend, câest quâune partie de ceux quâelle a vus tout Ã  lâheure sur la rue Crouet est ici en train de braver des gardiens de sÃ©curitÃ© qui ont appelÃ© du monde Ã  la rescousse. Elle ignore oÃ¹ sont les deux autres, TimothÃ©e et lâintello, mais elle sait que des gens sâen viennent, possiblement des taupins mal intentionnÃ©s, des gens qui vont obligatoirement emprunter le chemin oÃ¹ est approximativement garÃ©e sa voiture et prÃ¨s de laquelle patientent prÃ©sentement deux vieillards. Convaincue du pire, elle saute sur la gravelle et se met Ã  courir en leur direction.
+\end_layout
+
+\begin_layout Standard
+
+- Restez cachÃ©s, leur crie-t-elle tandis quâelle met le contact pour se stationner sur lâaccotement, un bien grand mot pour qualifier la roche grossiÃ¨re mal rÃ¢telÃ©e de chaque cÃ´tÃ© du chemin.
+\end_layout
+
+\begin_layout Standard
+
+Satisfaite de voir ses portiÃ¨res de droite empÃªtrÃ©es dans les premiÃ¨res branches, elle verrouille et se fond dans la verdure oÃ¹ elle vient rejoindre ses compagnons. Malheureusement, elle doit retourner Ã  lâauto, Marie tient absolument Ã  son ombrelle, ce quâelle fait sans maugrÃ©er.
+\end_layout
+
+\begin_layout Standard
+
+Pendant quâelle leur raconte tout ce quâelle a vu au pavillon, des bruits de moteur se font entendre. Tous trois se tapissent et assistent au passage Ã  vive allure de deux voitures trimbalant chacune, quatre casseurs. Aucun ne semble porter attention Ã  lâhybride de BÃ©atrice.
+\end_layout
+
+\begin_layout Standard
+
+- Ces gars-lÃ , madame Rioux, ils sâen vont Ã  la maison, lÃ -bas, ramasser TimothÃ©e et ses amis.
+\end_layout
+
+\begin_layout Standard
+
+- LÃ  oÃ¹ che cachent les parents du gros Turcotte ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui.
+\end_layout
+
+\begin_layout Standard
+
+- Jâignore quelle idÃ©e ils jont eue TimothÃ©e et ches amis, mais lÃ , che que je vois, câest quâils vont che faire rentrer dedans. Cha va faire ! Je mâen occupe ! En route !
+\end_layout
+
+\begin_layout Standard
+
+Et la Maririou de quitter le sous-bois pour sâen retourner prendre place dans lâauto.
+\end_layout
+
+\begin_layout Standard
+
+- DÃ©pÃªche, crie-t-elle Ã  BÃ©atrice.
+\end_layout
+
+\begin_layout Standard
+
+- Voyons madame Rioux, Ã§a nâa pas de bons sens ce que vous voulez faire lÃ  !
+\end_layout
+
+\begin_layout Standard
+
+- Vite, gronde Romain en se hÃ¢tant Ã  son tour vers le vÃ©hicule, fais ce quâa te dit, elle sait ce quâelle fait ! Mais au mÃªme moment, les choses se gÃ¢tent au pavillon. Aux deux gardiens se sont ajoutÃ©s huit videurs armÃ©s de matraques et possiblement dâarmes Ã  feu, qui sâapprochent de la galerie oÃ¹ Robespierre, Marie-Odile et Shimoune jouent les matamores. De lâintÃ©rieur, la voix de TimothÃ©e se fait entendre :
+\end_layout
+
+\begin_layout Standard
+
+- Câest beau, Robespierre, on a tout. Mission accomplie !
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+45mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/personnage-robespierre-colonel.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Le colonel Alcide sourit ! Jusquâici, sa stratÃ©gie a fonctionnÃ©. Sauf que, devant lui, la perspective est moins enthousiasmante. Il va maintenant falloir en dÃ©coudre avec deux fois plus de salopards que prÃ©vu.
+\end_layout
+
+\begin_layout Standard
+
+Câest Marie-Odile qui se lance dans les frais, une improvisation par rapport au plan initial, une improvisation heureuse.
+\end_layout
+
+\begin_layout Standard
+
+- Ãcoutez-moi bien, gang de bolos. Nos gars en dedans ont filmÃ© tout ce quâils Ã©taient venus filmer et ils en ont tÃ©lÃ©versÃ© une copie dans le serveur de la SÃ©cu au Centre. Nous avons maintenant toutes les preuves que nous voulions. Pour dÃ©truire ces documents, Ã§a va prendre un ordre de la Cour. Ã cât heure, vous avez le choix. Vous venez nous chercher ou vous nous laissez filer sans violence.
+\end_layout
+
+\begin_layout Standard
+
+Un peu en retrait des autres, un des sbires de Pete Barrett ne cesse de parler dans sa boucle dâoreille, ce quâil fait avec force gestes sans trop sâoccuper de ses collÃ¨gues qui eux, semblent plutÃ´t dÃ©cidÃ©s Ã  dÃ©loger les occupants de la galerie.
+\end_layout
+
+\begin_layout Standard
+
+- Tout ce que vous faites prÃ©sentement est filmÃ© et archivÃ©, continue la femme flic en pointant sur le premier bouton de sa chemise. Utilisez vos guns et vous serez poursuivis pour tentative dâhomicide.
+\end_layout
+
+\begin_layout Standard
+
+- Ta gueule, astie de Bitch, crie un des malabars. Letâs go, les boys, on les dÃ©fonce !
+\end_layout
+
+\begin_layout Standard
+
+Et les affreux de se mettre en branle. LâintensitÃ© est Ã  couper au couteau. Dans quelques secondes, les coups vont pleuvoir. Câest prÃ©cisÃ©ment Ã  ce moment quâarrive, Ã  file Ã©pouvante, la voiture de BÃ©atrice, laquelle vient de franchir sur les chapeaux de roues trois croches et une montÃ©e Ã  pic. Sans hÃ©siter, la Maririou en descend et, pointant du riflard, fonce de son pas prÃ©cipitÃ© de petite vieille pas commode vers le pavillon. Il faut la voir se faufiler au milieu des malfrats en les tassant avec son improbable accessoire. La stupÃ©faction est totale. Personne ne la connaÃ®t, personne ne lâa jamais vue, ni les mÃ©chants qui nâosent se placer sur son chemin, ni le trio en position dÃ©fensive sur la galerie qui la laisse monter. Mais câest Romain qui est encore le plus impressionnÃ©. Il sait parfaitement bien que toute sa vie, sa belle Marie a eu peur des hommes violents et la voilÃ  en train de les bousculer Ã  la maniÃ¨re de volailles dans un poulailler.
+\end_layout
+
+\begin_layout Standard
+
+- Bonjour madame, Ã  qui ai-je lâhonneur ? lui demande Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+- Laiche faire les jonneurs, toi ! Ouvre-moi la porte !
+\end_layout
+
+\begin_layout Standard
+
+Et elle sâintroduit dans le pavillon.
+\end_layout
+
+\begin_layout Standard
+
+Dans sa foulÃ©e, Romain et BÃ©atrice tentent dâavancer. Mais deux gredins ont tÃ´t fait de les intercepter, un peu comme sâil Ã©tait hors de question quâon leur refasse le coup de la vieille dame au parapluie.
+\end_layout
+
+\begin_layout Standard
+
+Ce que voyant, Marie-Odile hurle de plus belle.
+\end_layout
+
+\begin_layout Standard
+
+- Tout est filmÃ© !
+\end_layout
+
+\begin_layout Standard
+
+IntimidÃ©, le gorille qui retient Romain le relÃ¢che aussitÃ´t, mais son collÃ¨gue hÃ©site Ã  en faire autant avec BÃ©atrice. Distrait dans son incertitude, il ne voit pas venir le coup de genou dans ses parties normalement intimes. Câest en geignant quâil entend cette belle fille rajouter une kyrielle de grasses insultes Ã  sa sourde douleur et quâil la voit prendre la main du vieillard pour lâamener en direction de lâimmeuble. Sur la galerie Marie-Odile a presque souri. AussitÃ´t entrÃ©e, la Maririou remarque TimothÃ©e qui vient vers elle, la regardant incrÃ©dule, comme sâil eut vu apparaÃ®tre Bea Bellow armÃ©e dâun lance-roquettes. Puis, juste Ã  cÃ´tÃ©, elle aperÃ§oit la personne quâelle cherchait, une forte femme dâallure austÃ¨re qui semble trÃ¨s contrariÃ©e par la situation gÃ©nÃ©rale.
+\end_layout
+
+\begin_layout Standard
+
+- Mimi Turcotte, tâes pas chensÃ©e Ãªtre morte il y a quatre ans, toi ?
+\end_layout
+
+\begin_layout Standard
+
+- Pâis toi, Marie Rioux, tâes pas censÃ© lâÃªtre depuis six ?
+\end_layout
+
+\begin_layout Standard
+
+Toutes deux se dÃ©visagent comme si elles sâaccusaient dâavoir ratÃ© un soufflÃ©.
+\end_layout
+
+\begin_layout Standard
+
+DerriÃ¨re la mÃ¨re Turcotte, quelques vieillards se sont approchÃ©s dont son Ã©poux Jean-Pierre, une montagne de chair vaguement connue de Romain, Romain dont les yeux haineux fixent ces illÃ©gaux financÃ©s par la princesse, ces vernis torchÃ©s blanchis par le pouvoir libÃ©ral, ces planquÃ©s aux panses replÃ¨tes gavÃ©es par les contribuables. Et il explose. VoilÃ  six ans que lui et sa compagne sont enfermÃ©s dans un sous-sol qui sent la crasse en raison dâune loi inique que le fils Turcotte a fait voter et a mise en place. Et pendant ce temps-lÃ , pendant quâil faisait crever des milliers dâaÃ®nÃ©s dans des CRG mal Ã©quipÃ©s, pendant quâil en condamnait un plus grand nombre Ã  la clandestinitÃ©, Ã  la non-existence officielle, Ã  la peur, aux privations, aux abus de toutes sortes et aux souffrances, une petite clique de gras dur, son pÃ¨re et sa mÃ¨re en tÃªte, menaient un train dâenfer propre aux parasites institutionnalisÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Romain, arrÃªte !
+\end_layout
+
+\begin_layout Standard
+
+Ce cri venu du fond des tripes est accompagnÃ© par un violent coup de riflard sur la table de la salle Ã  manger. Un vase de fleurs des champs se renverse.
+\end_layout
+
+\begin_layout Standard
+
+- Châest mon affaire. Châest moi quâil a trahie le gros crevard. Toi, il ne tâa fait que chouffrir, comme tous les autres vieux du QuÃ©bec. Mais moi, en plus et churtout, il mâa abujÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Mimi Turcotte est effarÃ©e et lâobÃ¨se Ã  ses cÃ´tÃ©s nâose parler.
+\end_layout
+
+\begin_layout Standard
+
+- Mais avant que tu mâentendes, Mimi Turcotte, tu vas chortir dehors et tu vas dire Ã  tes chiens de retourner dans leur cabane. Je te tiens rechponsable des coups qui vont châÃ©changer.
+\end_layout
+
+\begin_layout Standard
+
+Ãtrangement, la mÃ©gÃ¨re Ã©vite de rÃ©pondre et gagne la galerie oÃ¹ elle lÃ¨ve les deux bras.
+\end_layout
+
+\begin_layout Standard
+
+- ArrÃªtez tout, crie-t-elle aux tueurs. Jâai le contrÃ´le; attendez les ordres de Pete avant de bouger.
+\end_layout
+
+\begin_layout Standard
+
+AussitÃ´t dit, aussitÃ´t fait. Les casseurs se replient jusquâau chemin dâaccÃ¨s, leur chef en grands pourparlers tÃ©lÃ©phoniques.
+\end_layout
+
+\begin_layout Standard
+
+Robespierre qui vient de voir son plan complÃ¨tement bousillÃ©, heureusement bousillÃ©, sâapproche de Marie.
+\end_layout
+
+\begin_layout Standard
+
+- Mon ami TimothÃ©e me dit que vous Ãªtes sa mÃ¨re, madame. Je suis trÃ¨s heureux de vous connaÃ®tre. Mais venez vous asseoir ici Ã  la table. Faut plus vous en faire, on a le contrÃ´le. On a tout filmÃ©. On a ramassÃ© assez de preuves pour faire dÃ©gommer le gros pourri et pour initier un grand mÃ©nage au Centre.
+\end_layout
+
+\begin_layout Standard
+
+Claude Sey semble ravi.
+\end_layout
+
+\begin_layout Standard
+
+- Pauvre âtit garchon, quâelle rÃ©pond Ã  lâarmoire Ã  glace chocolatÃ©e - Ã©trangement, elle nâen ressent aucune crainte - en se laissant conduire jusquâÃ  la table. Y a quelque chose que tâas pas compris.
+\end_layout
+
+\begin_layout Standard
+
+Toute sa vie, crache la Maririou, elle sâest rÃ©fugiÃ©e dans la musique, totalement, hermÃ©tiquement, cela pour se crÃ©er un univers oÃ¹ les Edmond Rioux ne pouvaient accÃ©der. Elle a cru pouvoir y arriver et a mÃªme essayÃ© dâexpliquer la mÃ©thode Ã  des enfants qui, comme elle, avaient Ã©tÃ© victimes dâhommes en situation de pouvoir, des agresseurs, batteurs, forts en gueule, gueulards Ã  voix tonitruantes, ivrognes colÃ©riques, manipulateurs, violeurs et autres monstres, des hommes terribles Ã  lâorigine dâexistences impossibles Ã  raccommoder et de petites filles de onze ans perdues Ã  tout jamais. Or, dans cette lignÃ©e de misÃ©rables, Sylvain Turcotte venait prendre place assez haut dans lâÃ©chelle dâinfamie. Au lieu de respecter sa parole dans lâhistoire de lâÃcole de musique, il avait laissÃ© tomber lâinstitution quinquagÃ©naire comme sâil eut Ã©tÃ© question dâun insignifiant projet dâÃ©tÃ©. Pourtant, il sâÃ©tait bel et bien engagÃ© auprÃ¨s dâelle, Marie Rioux. Il avait jurÃ© de sortir lâÃcole des difficultÃ©s financiÃ¨res qui lâaccablaient. MalgrÃ© cela, il avait agi en sens contraire, ce qui ne lâavait surtout pas empÃªchÃ© de devenir par la suite encore plus puissant, plus gros, plus Ã©peurant, comme, naguÃ¨re, Edmond Rioux qui, chaque fois quâil revenait Ã  la maison et quâil la battait, lui semblait plus terrifiant que jamais. Câest connu, les salauds grandissent dans lâignominie. Dans lâesprit de la vieille violoncelliste, son pÃ¨re, cet Ãªtre dÃ©testÃ© quâelle continue aujourdâhui de craindre dans ses cauchemars, lui a tuÃ© sa vie, et Sylvain Turcotte, lâhomme fort de Rimouski, quâelle hait dans une rigueur dÃ©nuÃ©e dâÃ©motions, lui a tuÃ© son projet de vie. Ce sont deux exemples de ce pouvoir anÃ©antissant qui vient, parfois, frapper les petites filles de onze ans, mÃªme si elles sont devenues des septuagÃ©naires avancÃ©es.
+\end_layout
+
+\begin_layout Standard
+
+- Tâauras beau le faire dÃ©gommer, le gros verrat, il va rechter mÃ©chant, dangereux, Ã©peurant. Tâas-tu compris quâil fallait lui arracher les dents, lui couper les mains, lui nouer la queue, le rendre dochile comme un chien de perron. Tu pourras alors lui donner des coups de pieds et il pourra pas te mordre !
+\end_layout
+
+\begin_layout Standard
+
+Le docteur Robespierre qui discerne toute la souffrance de cette vieille vie, se garde bien de rÃ©pondre. Seule Mimi Turcotte sâessaie.
+\end_layout
+
+\begin_layout Standard
+
+- Tu trouves pas que tu exagÃ¨res un peu beaucoup, Marie Rioux ! Ta vie a Ã©tÃ© une catastrophe et tu veux te venger sur mon garÃ§on !
+\end_layout
+
+\begin_layout Standard
+
+BÃ©atrice sâest rapprochÃ©e et sâest assise sur la chaise voisine de Marie. Par rÃ©flexe nerveux, elle lui caresse un instant lâÃ©paule.
+\end_layout
+
+\begin_layout Standard
+
+- Qui tâa parlÃ© de vengeance ? Pour che venger, il faut Ãªtre enragÃ©e. Moi, Mimi, jâchuis calme. Chereine, mÃªme. Je parle cheulement dâadministrer une prochÃ©dure comme quand on opÃ¨re une bÃªte puante pour quâelle ne nous arroje plus ou un cherpent pour quâil ne nous empoijonne plus. Je vas faire cha pour me faire du bien. Au moins une fois dans ma chienne de vie ! Avant quâil choit trop tard !
+\end_layout
+
+\begin_layout Standard
+
+Marceline non plus nâavait pas opÃ©rÃ© dans la rage, la vengeance ou lâÃ©motion. Elle avait frappÃ© un animal dangereux qui menaÃ§ait sa petite fille de onze ans. Pour la protÃ©ger. Pour Ã©viter plus de mal. Pour lâavenir, pas pour le passÃ©.
+\end_layout
+
+\begin_layout Standard
+
+La suite est inattendue. Tout dâabord, Shimoune vient parler dans le creux de lâoreille de Robespierre. Puis il revient avec un des hommes de Pete Barrett qui, sans une parole, prÃªte sa boucle dâoreille Ã  Mimi Turcotte. Lâinstant est dramatique. Quelques moments plus tard, lâorganisatrice libÃ©rale met fin Ã  la communication et regarde Marie.
+\end_layout
+
+\begin_layout Standard
+
+- Tâas gagnÃ© ! Pete veut nÃ©gocier !
+\end_layout
+
+\begin_layout Standard
+
+Des exclamations de joie fusent ici et lÃ , Claude Sey au bord des larmes et TimothÃ©e lourdement silencieux, comme sâil ravalait des litres et des litres de peine contenue. Marie-Odile assÃ¨ne un amical coup de coude dans les cÃ´tes de Shimoune. Le colonel Alcide nâa pas le temps de parler que dÃ©jÃ , la gÃ©nÃ©rale Rioux a donnÃ© ses ordres.
+\end_layout
+
+\begin_layout Standard
+
+- Avant de nÃ©gochier, Mimi, tu vas renvoyer chez eux les mÃ©chants qui chont dehors et tu vas me garantir quâon peut tous repartir dâichi chans que rien ne nous arrive. Rendus chez nous, on va regarder cha et on va te contacter.
+\end_layout
+
+\begin_layout Standard
+
+Une heure et demie plus tard, Marie et Romain participent Ã  ce qui leur avait Ã©tÃ© interdit depuis lâÃ©tÃ© 2027. Assis dans le salon de TimothÃ©e, ils boivent du vin et mangent de la pizza en compagnie dâÃ©trangers, des hommes et des femmes ivres de joie et de tension dissipÃ©e qui nâont de cesse de se relayer pour se rappeler les grands moments de lâaprÃ¨s-midi.
+\end_layout
+
+\begin_layout Standard
+
+- Mesdames, messieurs, sâÃ©crie Robespierre.
+\end_layout
+
+\begin_layout Standard
+
+Le silence se fait.
+\end_layout
+
+\begin_layout Standard
+
+- Je propose un toast Ã  notre chef, Ã  celle qui a rendu possible cette victoire sans quâil nây ait dâÃ©gratignure, Ã  quelquâun que jâai Ã©tÃ© fier de rencontrer aujourdâhui, Ã  madame Rioux !
+\end_layout
+
+\begin_layout Standard
+
+Un concert de bravos et dâapplaudissements suit.
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s, lentement, comme si on voulait sâaccrocher au plaisir dâÃªtre dans le groupe, le commando se dÃ©mobilise, tout un chacun regagnant son domicile. Câest Marie-Odile qui va offrir Ã  Robespierre de le reconduire Ã  sa voiture dans le stationnement du Centre.
+\end_layout
+
+\begin_layout Standard
+
+- Faut que jâaille porter lâauto-patrouille.
+\end_layout
+
+\begin_layout Standard
+
+TimothÃ©e sourit et les accompagne Ã  lâextÃ©rieur.
+\end_layout
+
+\begin_layout Standard
+
+- HÃ©-hÃ©-hÃ©, quâil fait Ã  son ami.
+\end_layout
+
+\begin_layout Standard
+
+- Quoi Â«hÃ©-hÃ©-hÃ©Â» ?
+\end_layout
+
+\begin_layout Standard
+
+- Juste Â«hÃ©-hÃ©-hÃ©Â».
+\end_layout
+
+\begin_layout Standard
+
+La brunante est dÃ©jÃ  avancÃ©e et, pour la Ã©niÃ¨me soirÃ©e consÃ©cutive, le vent est doux et parfumÃ©. Devant sa maison, prÃ¨s du cimetiÃ¨re, un lampadaire commence Ã  dÃ©corer la rue de ses effets de lumiÃ¨re et, sous son halo, BÃ©atrice, sortie tout Ã  lâheure humer lâair des terres, semble attendre un signe de la vie. BÃ©atrice, la fille de la lanterne. AttirÃ© comme un papillon de nuit, TimothÃ©e sâapproche, atrocement gÃªnÃ© malgrÃ© ses trois verres de vin. Quand bien mÃªme il tenterait de parler, de dire ce que doit en de telles circonstances, il nây arriverait pas. Rien ne sortirait et, de toute faÃ§on, il ne saurait trouver les mots.
+\end_layout
+
+\begin_layout Standard
+
+Câest ce qui explique quâelle lui prend la main.
+\end_layout
+
+\begin_layout Standard
+
+- Dis rien, TimothÃ©e, dis rien, je sais que tu es bon. Reste avec moi.
+\end_layout
+
+\begin_layout Standard
+
+Maladroitement, il prend place Ã  cÃ´tÃ© dâelle sous le lampadaire, paradis dont les anges pardonnent les bedondaines, les barniques et les chauvaisons.
+\end_layout
+
+\begin_layout Standard
+
+So wollân wir uns da wieder sehân Bei der Laterne wollen wir stehân Wie einst Lili Marleen Wie einst Lili Marleen (Câest dans ce coin-lÃ  que le soir On sâattendait prÃ¨s de la lanterne remplis dâespoir Tous deux, Lily MarlÃ¨ne. Tous deux, Lily MarlÃ¨ne.)
+\end_layout
+
+\end_body
+\end_document

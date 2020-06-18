@@ -1,0 +1,1147 @@
+#LyX file created by tex2lyx 2.0.1
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 10
+\spacing single
+\use_hyperref 0
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+chapitre
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Arnaque qui finit mal, le lundi 6 septembre 2027
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+Depuis le matin,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+ Romain cueille ses cerises, rituel de fin dâÃ©tÃ© quâil ne manquerait pas pour tout lâor du monde. Il en est ainsi depuis une bonne vingtaine dâannÃ©es, depuis que ses douze cerisiers se sont mis Ã  produire sÃ©rieusement, depuis quâils lui fournissent suffisamment de fruits pour que la Maririou fasse des tartes, des confitures, de la gelÃ©e, de lâeau-de-vie et pour que, tous les deux, ils en mangent durant des jours Ã  pleine poignÃ©e. Comme de vrais enfants.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Lâaboiement des chiens est suivi dâun bruit de moteur diesel et dâun crÃ©pitement de pneus sur la gravelle de lâentrÃ©e. Du haut de son escabeau, le septuagÃ©naire se tourne et aperÃ§oit une solide camionnette trois quarts de tonne qui sâimmobilise prÃ¨s de sa galerie. Il reconnaÃ®t JÃ©rÃ´me DubÃ©, chemise western pistache (avec des cactus), blue-jean rÃ©tro, bottes de cowboy mordorÃ©es, Ray-Ban Ã©meraude Ã  monture sÃ©pia, qui claque la portiÃ¨re et qui se dirige vers la maison. Au mÃªme moment, la porte sâouvre et Marie qui, de toute Ã©vidence, a entendu arriver le visiteur, lâaccueille avec beaucoup plus dâentregent quâelle nâen manifeste Ã  son habitude.
+\end_layout
+
+\begin_layout Standard
+
+- JÃ©rÃ´me ! JÃ©rÃ´me DubÃ© ! Câest pas croyable ! Un revenant !
+\end_layout
+
+\begin_layout Standard
+
+- Un vrai revenant comme dans les films, Madame Rioux.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/jerome.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Observant leurs effusions, Romain se souvient quâÃ  lâÃ©poque oÃ¹ DubÃ© travaillait avec lui comme assistant, la Maririou ne le dÃ©testait pas. Loin de lÃ . Nâeut Ã©tÃ© leur grande diffÃ©rence dâÃ¢ge, elle se le serait peut-Ãªtre offert. Mais encore eut-il fallut quâelle soit plus chaleureuse quâun frigo Ã  biÃ¨re. MalgrÃ© cela, allez savoir pourquoi, quand Romain amenait son jeune collÃ¨gue Ã  la maison, il fallait la voir se tordre le croupion comme une chatte en chaleur. Fantasme refoulÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+Que peut donc lui vouloir ce petit malin Ã  lâÅil sournois, surtout que voilÃ  bien neuf ans quâil ne sâest pas pointÃ©. Depuis la retraite du vieux camionneur.
+\end_layout
+
+\begin_layout Standard
+
+- Tâes-tu perdu, mon jeune ? quâil lui fait en sâapprochant.
+\end_layout
+
+\begin_layout Standard
+
+- Rendu Ã  mon Ã¢ge, câest toujours agrÃ©able de se faire traiter de Â«jeuneÂ» ! Comment Ã§a va Romain ? Maudit que je suis content de te voir.
+\end_layout
+
+\begin_layout Standard
+
+Il faudra une solide demi-heure de banalitÃ©s avant que, cannette de biÃ¨re en main, lâon passe au vif du sujet. Ce que voyant, Marie retourne Ã  ses confitures en gardant, bien entendu, les deux oreilles grandes ouvertes. Ce quâelle comprend, câest que son beau JÃ©rÃ´me se cherche un chauffeur expÃ©rimentÃ© pour un travail particulier et que câest trÃ¨s payant. Extraordinairement payant.
+\end_layout
+
+\begin_layout Standard
+
+- Je te parle de trois voyages non-stop, back-to-back, Sept-Ãles â Toronto. Et au bout, il y a 150 000 $ qui tâattendent.
+\end_layout
+
+\begin_layout Standard
+
+Dans sa tÃªte, la vieille dame traduit par Â«trois aller-retour collÃ©sÂ», un pÃ©riple sans doute fatigant, mais trÃ¨s bien payÃ©. Et un pÃ©riple probablement risquÃ©. Sinon Ã§a ne serait pas payÃ© Ã  ce tarif. Tout un montant. De quoi sâassurer une meilleure vieillesse. Mais encore faut-il que Romain accepte. Et rien nâindique quâil va le faire.
+\end_layout
+
+\begin_layout Standard
+
+- Je suis pas sÃ»r que jâai envie de rembarquer dans la gamique. Câest pour les jeunes, Ã§a, pas pour un vieux comme moi. Jâai 75 ans et si je me fais attraper, je vais finir mes jours en prison. Ãa ne me tente pas. Jâai encore de belles annÃ©es devant moi, pas des masses, mais quelques-unes, et je nâai pas envie de les perdre.
+\end_layout
+
+\begin_layout Standard
+
+DubÃ© connaÃ®t assez Romain pour ne pas insister outre mesure.
+\end_layout
+
+\begin_layout Standard
+
+- Je te donne mon numÃ©ro. Appelle-moi demain dans la journÃ©e pour me dire ce que tu dÃ©cides. Si tu veux vraiment pas, je vais comprendre, mais va me falloir demander Ã  un autre.
+\end_layout
+
+\begin_layout Standard
+
+Et le gars de sâen retourner dans sa camionnette sous les aboiements.
+\end_layout
+
+\begin_layout Standard
+
+- Vas-tu te taire, Gros-Prince, pis toi aussi Bedette !
+\end_layout
+
+\begin_layout Standard
+
+Lorsque, deux heures plus tard, il commence Ã  entrer quelques grands paniers de cerises pour entreprendre leur Ã©queutage, sa conjointe des 47 derniÃ¨res annÃ©es lâattaque de front. Elle a toujours fonctionnÃ© ainsi, pour son plus grand bien et son plus grand malheur. Elle veut ces 150 000 $. Et elle les aura, dut-elle conduire elle-mÃªme de Sept-Ãles Ã  Toronto. De plus, JÃ©rÃ´me est trÃ¨s gentil de Â«nousÂ» offrir un tel cadeau. Il Â«nousÂ» fait une fleur. Ãa, sur Â«nosÂ» vieux jours.
+\end_layout
+
+\begin_layout Standard
+
+- Justement ! Ton JÃ©rÃ´me, je nâai jamais vraiment pu le piffer. Il a des yeux de rat. Y est pas franc du col. Jâai jamais su ce quâil pensait !
+\end_layout
+
+\begin_layout Standard
+
+- Mais voyons ! Câest le meilleur garÃ§on du monde ! Toujours prÃªt Ã  rendre service !
+\end_layout
+
+\begin_layout Standard
+
+Fantasme refoulÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+Et ce fut ainsi jusquâau lit conjugal. La seule chose qui ne fut pas dite, mais que les deux vieux comprenaient parfaitement bien, câÃ©tait que Romain Ã©tait jaloux de JÃ©rÃ´me, quâil lui en voulait pour les jeux de croupe de la Maririou. Tant et si bien quâau matin, tandis quâil trempait un quignon de pain de mÃ©nage dans de la confiture aux cerises fraÃ®che de la veille, il dÃ©clara que la nuit avait portÃ© conseil et quâil tÃ©lÃ©phonerait Ã  DubÃ© pour Â«ramasser le contratÂ». Marie avait gagnÃ© !
+\end_layout
+
+\begin_layout Standard
+
+Dans un bar de Rimouski, JÃ©rÃ´me lui expliqua lâaffaire. Au nord de Matamek, pas trop loin de la Moisie, un hydravion larguerait quelques contenants.
+\end_layout
+
+\begin_layout Standard
+
+- Je te parle de 90 kilos de coke pure, toute bien paquetÃ©e en briques dâun kilo, une valeur de 9 millions sur le marchÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Lui, JÃ©rÃ´me, irait les chercher, ce qui nâÃ©tait pas de la tarte, et amÃ¨nerait le tout chez lui, Ã  Sept-Ãles, oÃ¹ il prÃ©parait trois caisses de 30 briques chacune. Ensuite, il chargerait sa propre camionnette de boÃ®tes toutes semblables, des contenants de coudes en ABS utilisÃ©s en plomberie. Mais au travers, il en dissimulerait un plein de cocaÃ¯ne, lequel serait marquÃ© dâun petit X rouge. Une fois la livraison faite Ã  Toronto, on recommencerait pour le deuxiÃ¨me, puis pour le troisiÃ¨me.
+\end_layout
+
+\begin_layout Standard
+
+- Pourquoi rien quâun Ã  la fois, pourquoi trois voyages, pourquoi pas trois gars ?
+\end_layout
+
+\begin_layout Standard
+
+JÃ©rÃ´me avait expliquÃ© que ses employeurs ne voulaient pas courir de risque.
+\end_layout
+
+\begin_layout Standard
+
+- Si tu te fais ramasser, ils ne vont perdre que le tiers de leur stock. Pis pourquoi pas trois chauffeurs avec trois camions ? Parce que moins y a de monde dans lâaffaire, mieux câest.
+\end_layout
+
+\begin_layout Standard
+
+- Ouin ! Mais pourquoi ta camionnette personnelle ?
+\end_layout
+
+\begin_layout Standard
+
+- Parce que de nos jours, avec les nouvelles plaques Ã©lectroniques et les GPS, y a plus personne qui veut prendre la route avec un camion volÃ©. On ne ferait pas deux kilomÃ¨tres avant de se faire barrer le chemin par la police.
+\end_layout
+
+\begin_layout Standard
+
+Les explications nâavaient pas entiÃ¨rement convaincu Romain.
+\end_layout
+
+\begin_layout Standard
+
+Mais pour le versement des 150 000 $ promis, JÃ©rÃ´me sâÃ©tait montrÃ© plus volubile et lui avait dÃ©voilÃ© la toute derniÃ¨re technique de blanchiment dâargent. MÃªme si, Ã  cette Ã©poque, lâimminent rÃ©seau des CRG nâÃ©tait pas encore en place, il Ã©tait devenu normal quâun retraitÃ© fasse session notariÃ©e de ses biens et devienne ainsi pensionnaire dans un centre dâhÃ©bergement privÃ© ou parapublic. CâÃ©tait selon sa capacitÃ© mensuelle de payer. DâoÃ¹ la combine.
+\end_layout
+
+\begin_layout Standard
+
+Comme tous les bandits nâÃ©taient pas assassinÃ©s Ã  25 ans dans un stationnement de Toronto et que certains atteignaient lâÃ¢ge de la retraite, les criminels avaient imaginÃ© offrir aux vieux malfrats, une rente annuelle variant entre cinq et vingt mille dollars, une rente tirÃ©e sur une banque antillaise. En Ã©change, avait soutenu le verbomoteur JÃ©rÃ´me, ils devaient ne pas poser de question sur un compte quâon y ouvrait Ã  leur nom Â«pendant quelque tempsÂ». Un gros compte ! Ils devaient aussi signer, les yeux fermÃ©s, le testament quâon leur avait prÃ©parÃ©. Ainsi, quand une organisation structurait une opÃ©ration oÃ¹ il faudrait gratifier des intervenants, elle dÃ©posait dans un des ces comptes, tout lâargent nÃ©cessaire au soutien logistique, de lâargent qui se retrouverait ainsi nettoyÃ©. Une fois lâopÃ©ration terminÃ©e, on faisait prendre sa retraite au prÃªte-nom et on entreprenait de lui verser fidÃ¨lement tous les mois, sa petite rente. Fini les soucis !
+\end_layout
+
+\begin_layout Standard
+
+- Ãa veut dire, mon Romain, quâil y a quelque part au Canada, un bonhomme qui va bientÃ´t te dÃ©signer dans son testament comme Ã©tant son hÃ©ritier pour un montant de 150 000 $. Autrement dit, un mois ou deux aprÃ¨s ta troisiÃ¨me livraison, pas plus, tu vas recevoir la copie lÃ©gale dâun testament accompagnÃ© dâun chÃ¨que notariÃ© de 150 000 $, un beau chÃ¨que entiÃ¨rement lÃ©gal que tu vas pouvoir dÃ©poser dans ton compte.
+\end_layout
+
+\begin_layout Standard
+
+Une histoire comme celle-lÃ , Ã§a ne sâinventait pas. De toute faÃ§on, Romain nâÃ©tait pas nÃ© de la derniÃ¨re pluie et il avait pris certaines prÃ©cautions.
+\end_layout
+
+\begin_layout Standard
+
+Câest ainsi que le lundi suivant, aprÃ¨s une courte envolÃ©e Mont-Joli â Sept-Ãles, Romain se prÃ©senta sur lâheure du midi chez son ancien assistant. Il se fit alors expliquer le trajet, le dÃ©tail bien prÃ©cis pour se rendre Ã  lâentrepÃ´t de Mississauga en banlieue de la Ville reine, ainsi que les noms des deux gars qui lây recevraient.
+\end_layout
+
+\begin_layout Standard
+
+- Y a une petite formalitÃ© avant que tu dÃ©colles, fit-il en ramassant un canif et une roulette de papier collant, viens avec moi.
+\end_layout
+
+\begin_layout Standard
+
+La camionnette Ã©tait stationnÃ©e devant la maison et Romain remarqua quâelle avait la caisse arriÃ¨re emplie de boÃ®tes en carton identifiÃ©es Ã  de la tuyauterie ABS. Son hÃ´te lui fit signe de grimper avec lui et, en petit bonhomme sur le chargement, il dÃ©plaÃ§a deux boÃ®tes pour Ãªtre en mesure dâen soulever une troisiÃ¨me dont il coupa le scellant et ouvrit les deux rabats du dessus. Une fois le revÃªtement de plastique foncÃ© dÃ©gagÃ©, il fut possible dâentrevoir les briques du dessus.
+\end_layout
+
+\begin_layout Standard
+
+- Ã câtâheure, fouille dedans et sors en une au hasard. On va lâouvrir et tu vas y tremper le bout de ton doigt pour y goÃ»ter. Comme Ã§a, tu sauras ce que tu transportes.
+\end_layout
+
+\begin_layout Standard
+
+- Si câest de la mÃ©lamine Ã  Chinois ?
+\end_layout
+
+\begin_layout Standard
+
+- On verra bien ! Faut que tu saches ! Ils sont comme Ã§a, mes clients !
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s sâÃªtre exÃ©cutÃ©, Romain grimaÃ§a un dÃ©but de sourire.
+\end_layout
+
+\begin_layout Standard
+
+- Y a des goÃ»ts qui se perdent pas !
+\end_layout
+
+\begin_layout Standard
+
+Le plus sÃ©rieusement du monde, le vieil homme sortit de sa poche un petit trousseau de clÃ©s sur lequel Ã©tait accrochÃ© un cube noir de la taille dâun dÃ© Ã  jouer.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa ramasse 600 mÃ©gapixels, câest capable de capter un concert, Ã§a se connecte partout, Ã§a fait tout et Ã§a coÃ»te des pinottes. LÃ , Ã§a va me servir Ã  filmer la plus grosse quantitÃ© de poudre que jâai jamais vue de ma vie ! Jâai hÃ¢te de montrer Ã§a Ã  Marie !
+\end_layout
+
+\begin_layout Standard
+
+- Pas de danger de me voir la bette ?
+\end_layout
+
+\begin_layout Standard
+
+- Non non, je ne prends que la boÃ®te.
+\end_layout
+
+\begin_layout Standard
+
+Une fois le souvenir captÃ©, JÃ©rÃ´me referma le blanc pavÃ©e avec soin, le replaÃ§a, remit le plastique, recolla les deux battants et dÃ©posa les boÃ®tes Ã  leur place. Puis, les deux hommes revinrent sur le trottoir et, cÃ´te Ã  cÃ´te, sâappuyÃ¨rent sur le cÃ´tÃ© de la caisse de la camionnette. On aurait dit deux copains parlant du dernier match de soccer.
+\end_layout
+
+\begin_layout Standard
+
+- As-tu vu le X rouge sur la boÃ®te ?
+\end_layout
+
+\begin_layout Standard
+
+- Je lâai photographiÃ© dans ma tÃªte. Il est sur la boÃ®te juste en dessous de celle-lÃ .
+\end_layout
+
+\begin_layout Standard
+
+- OK. Ãa va aller ?
+\end_layout
+
+\begin_layout Standard
+
+Devant le signe de tÃªte de Romain, il lui tendit les clÃ©s du vÃ©hicule.
+\end_layout
+
+\begin_layout Standard
+
+- Monsieur Romain !
+\end_layout
+
+\begin_layout Standard
+
+CâÃ©tait Josiane, la sculpturale conjointe de JÃ©rÃ´me qui lâappelait depuis la porte de cÃ´tÃ©, celle qui donnait sur la cuisine.
+\end_layout
+
+\begin_layout Standard
+
+- Vous allez pas partir comme Ã§a, venez manger quelque chose, câest loin Toronto.
+\end_layout
+
+\begin_layout Standard
+
+- Non merci, jâai pas une grosse faim.
+\end_layout
+
+\begin_layout Standard
+
+- Juste une petite pointe de tarte, alors ? Vous pouvez pas me refuser Ã§a, elle est Ã  la chicoutÃ©, câest moi qui lâai faite.
+\end_layout
+
+\begin_layout Standard
+
+Le mot chicoutÃ© fut dÃ©cisif.
+\end_layout
+
+\begin_layout Standard
+
+- Ãa fait de siÃ¨cles que jâai pas goÃ»tÃ© Ã  Ã§a !
+\end_layout
+
+\begin_layout Standard
+
+Quand le boulevard Laure recommenÃ§a Ã  sâappeler 138 Ã  la sortie de Sept-Ãles, Romain fit passer son moteur en mode Ã©lectrique. Il nâavait jamais conduit de vÃ©hicule Ã©quipÃ© dâun de ces nouveaux accumulateurs Ã  haute performance et il ignorait jusquâoÃ¹ il pourrait se rendre sur une mÃªme charge. JÃ©rÃ´me lui avait bien parlÃ© de Tadoussac, une distance de plus de 400 kilomÃ¨tres, mais il en doutait; il devrait probablement revenir au trÃ¨s onÃ©reux mode diesel. Les faits lui donnÃ¨rent raison puisque lâaccumulateur indiqua Â«EmptyÂ» un peu passÃ© Forestville, Ã  environ quatre-vingts kilomÃ¨tres de sa destination.
+\end_layout
+
+\begin_layout Standard
+
+ArrivÃ© Ã  Tadoussac en fin dâaprÃ¨s-midi, il chercha un motel oÃ¹ il pourrait se louer une chambre, ce qui lui donnerait le droit de recharger son systÃ¨me de batterie. Malheureusement, tous les Ã©tablissements hÃ´teliers affichaient complet. On lui conseilla alors de continuer jusquâÃ  La Malbaie, 70 kilomÃ¨tres de lâautre cÃ´tÃ© du fjord. Câest ainsi que le septuagÃ©naire prit le traversier et fila vers la petite ville touristique.
+\end_layout
+
+\begin_layout Standard
+
+Mais plus il roulait, plus le sentiment que quelque chose clochait grandissait en lui. Au dÃ©part, les explications au sujet des trois voyages ne lâavaient pas satisfait. Ensuite, si le 150 000 $ promis Ã©taient bien rÃ©els, pourquoi JÃ©rÃ´me, propriÃ©taire de la camionnette, ne les faisait pas lui-mÃªme, ces voyages vers Mississauga ? Pour une telle somme, Romain aurait pu rouler jusquâÃ  la Terre de Feu! Puis, cette histoire de tarte Ã  la chicoutÃ© le turlupinait. VoilÃ  une belle fille, Josiane, Ã  lâaccent montrÃ©alais qui nâavait absolument rien dâune personne capable de prÃ©parer des tartes Ã  la chicoutÃ© ou Ã  nâimporte quoi. Elle lâavait sÃ»rement achetÃ©e, sa tarte, laquelle, de toute faÃ§on, goÃ»tait la pÃ¢tisserie Â«achetÃ©e faiteÂ». Si tel Ã©tait le cas, pourquoi avoir prÃ©tendu lâavoir faite elle-mÃªme ?
+\end_layout
+
+\begin_layout Standard
+
+Ã La Malbaie, Romain aperÃ§ut un resto-pompe UltraTard, le fleuron local dâune chaÃ®ne de casse-croÃ»te pas trop santÃ© ouverts 24 heures, oÃ¹ il Ã©tait possible de troquer ses batteries mortes contre des rechargÃ©es, de faire le plein en diesel ou, quand il y en avait, en essence ordinaire. Il sâapprocha dâune pompe, insÃ©ra le pistolet et, mÃªme si son rÃ©servoir Ã©tait loin dâÃªtre vide, commenÃ§a son ravitaillement, les coudes appuyÃ©s sur la caisse arriÃ¨re de la camionnette, ce qui lui permettait de voir tout son chargement. Il sâaperÃ§ut ainsi que les boÃ®tes du dessus avaient glissÃ© lÃ©gÃ¨rement, ce qui laissait paraÃ®tre, quelque peu, celles dâen dessous, incluant celle ornÃ©e dâun X rouge. Câest Ã  ce moment quâil eut la certitude dâavoir Ã©tÃ© flouÃ©. AppuyÃ© sur la camionnette du cÃ´tÃ© conducteur, il nâaurait pas dÃ» Ãªtre capable de voir le X, lequel nâÃ©tait visible que du cÃ´tÃ© passager, comme il avait pu constater en procÃ©dant aux vÃ©rifications Ã  Sept-Ãles. Ou bien on avait ajoutÃ© un deuxiÃ¨me X, ou bien la prÃ©cieuse boÃ®te avait Ã©tÃ© manipulÃ©e.
+\end_layout
+
+\begin_layout Standard
+
+Le goÃ»t de la tarte Ã  la chicoutÃ© lui revint !
+\end_layout
+
+\begin_layout Standard
+
+- Jâai Ã©tÃ© eu !
+\end_layout
+
+\begin_layout Standard
+
+Il grimpa dans la caisse, dÃ©gagea la boÃ®te marquÃ©e et lâouvrit. Elle ne contenait que de la poussiÃ¨re de pierre. Câest plus quâil nâen fallait pour que son cerveau soit mis en mode Â«alerte rougeÂ». Des malfaiteurs lâattendaient Ã  Mississauga avec trente kilos de cocaÃ¯ne. Or, il ne les avait plus. Cela parce quâau moment oÃ¹ Josiane lui avait servi sa foutue pointe de tarte, JÃ©rÃ´me avait remplacÃ© la boÃ®te de coke par celle-ci.
+\end_layout
+
+\begin_layout Standard
+
+Conclusion, JÃ©rÃ´me avait volÃ© ses employeurs et il entendait lui faire porter le chapeau. Or, les mÃ©chants ne croiraient pas un seul mot de lâhistoire que Romain leur raconterait, cela sâil Ã©tait assez idiot pour continuer son pÃ©riple jusquâÃ  Mississauga. Et, tant quâÃ  patauger dans la crosse, se pouvait-il que le salopard ait rapportÃ© le vol de sa camionnette pour que les flics ne lâarrÃªtent ? Non, car il fallait quâil roule jusquâÃ  Mississauga pour que les propriÃ©taires de la poudre, des gens qui nâÃ©taient sÃ»rement pas dans un entrepÃ´t de la Maple Leaf City, mais possiblement dans un bureau de la mÃ©tropole quÃ©bÃ©coise, le croient coupable du vol.
+\end_layout
+
+\begin_layout Standard
+
+Sans perdre un instant, il alla payer son diesel et conduisit son vÃ©hicule, comme si de rien nâÃ©tait, vers le stationnement du terminus Intercar, deux coins de rue plus loin. Le tableau de bord Ã©tant muni de ressources tÃ©lÃ©phoniques, il fouina dans sa poche â il nâÃ©tait pas bÃªte â et il appela JÃ©rÃ´me.
+\end_layout
+
+\begin_layout Standard
+
+- Y a un problÃ¨me, lui dit-il dâentrÃ©e de jeu.
+\end_layout
+
+\begin_layout Standard
+
+- Ah oui ?
+\end_layout
+
+\begin_layout Standard
+
+- Tu mâas changÃ© ma caisse de poudre pour une caisse bidon. JâarrÃªte le contrat, pâis je descends Ã  Sept-Ãles te casser la gueule.
+\end_layout
+
+\begin_layout Standard
+
+- Non non, fais pas Ã§a. Faut vraiment que tu continues jusquâÃ  Toronto. Tu te trouves Ã  agir comme leurre. Je nâai pas le droit dâen parler, mais câest comme Ã§a. La bonne boÃ®te de poudre est ailleurs. Mes employeurs craignent que les flics soient au courant et ils mâont demandÃ© dâarranger Ã§a de mÃªme.
+\end_layout
+
+\begin_layout Standard
+
+- Ah ouin ?
+\end_layout
+
+\begin_layout Standard
+
+- Si tu te fais arrÃªter, ils trouveront rien et ils devront te relÃ¢cher. Par contre, pour les deux autres voyages, Ã§a sera diffÃ©rent. Ãcoute faut que jâte laisse; jâai ton Â«collÃ¨gueÂ» sur lâautre canal. Je te rappelle plus tard ! Bye !
+\end_layout
+
+\begin_layout Standard
+
+Vraiment nâimporte quoi ! Ce JÃ©rÃ´me DubÃ© le prenait pour un demeurÃ©. Si ces dÃ©tails Ã©taient vrais, les donner, comme Ã§a, au tÃ©lÃ©phone, relevait de la pire inconscience. Romain ramassa ses effets personnels, verrouilla la cabine et grimpa dans le dernier bus pour QuÃ©bec, celui de 21h15, une nouveautÃ© chez Intercar quâaffriandaient particuliÃ¨rement les touristes gastronomes de la Vieille Capitale. Cependant, avant dâabandonner le camion, il se livra Ã  une petite formalitÃ©, une minipolice dâassurance, au cas oÃ¹ ! Une fois Ã  QuÃ©bec, il prit le car de minuit 45 en direction de Rimouski et essaya de dormir.
+\end_layout
+
+\begin_layout Standard
+
+Mais au mÃªme moment, JÃ©rÃ´me DubÃ© Ã©tait sur le bord de la crise de nerfs.
+\end_layout
+
+\begin_layout Standard
+
+AprÃ¨s sa petite manipulation pendant que Romain goÃ»tait Ã  la tarte de Josiane, il avait placÃ© la boÃ®te de 30 kilos, la seule et vraie boÃ®te de cocaÃ¯ne - les deux autres nâÃ©tant que billevesÃ©es imaginÃ©es pour mieux enfirouaper Romain - dans la section arriÃ¨re de son automobile, une hybride trois portes trÃ¨s Ã©conomique louÃ©e lâhiver dernier au moment oÃ¹ le prix du litre avait basculÃ© Ã  plus de 6 $. Il savait pouvoir se rendre jusquâÃ  Tadoussac avec ses batteries chargÃ©es Ã  bloc; il lâavait dÃ©jÃ  fait. Au pire, il savait quâil pourrait sâaccommoder Ã  Forestville; il connaissait un motel oÃ¹ il pourrait refaire sa charge tout en sâoffrant une bonne nuit de sommeil.
+\end_layout
+
+\begin_layout Standard
+
+De toute faÃ§on, il nâÃ©tait pas pressÃ©. Il avait tout son temps pour se prÃ©senter chez les deux Portugais prÃ¨s du parc Jeanne-Mance Ã  MontrÃ©al, des gens qui ne semblaient pas craindre lâire des vrais propriÃ©taires de la coke, des hommes dâaffaires au-dessus de tout soupÃ§on qui avaient pignon sur rue Ã  moins dâune heure de route plus au nord. Comme la qualitÃ© de son produit Ã©tait excellente, le Septilien escomptait pouvoir en obtenir au moins un million et demi de dollars US versÃ©s dans un compte antillais ouvert Ã  son nom.
+\end_layout
+
+\begin_layout Standard
+
+Ã 16 h, il prenait la route, rÃ©alisant, au fur et Ã  mesure quâil les croisait, que toutes les stations dâessence nâavaient plus que du diesel. Mais, bon, il nâÃ©tait pas inquiet, connaissant lâautonomie Ã©nergÃ©tique de son bolide. Le cÅur en fÃªte, il nâarrÃªta mÃªme pas Ã  Baie-Comeau et traversa le pont de la Manic en rÃªvant de la dolce vita qui lâattendait dans les CaraÃ¯bes.
+\end_layout
+
+\begin_layout Standard
+
+Pourtant, Ã  quelques kilomÃ¨tres de Ragueneau, la circulation commenÃ§a Ã  sâalourdir. Plus il approchait du village, moins il avanÃ§ait. La 138 Ã©tait bloquÃ©e. JÃ©rÃ´me se retrouvait prisonnier dans un convoi de vÃ©hicules long Ã  ne plus finir, essentiellement des camions. De temps Ã  autre, on avanÃ§ait de quelques mÃ¨tres. On aurait dit une meute affamÃ©e de gastÃ©ropodes flairant des laitues bien fraÃ®ches.
+\end_layout
+
+\begin_layout Standard
+
+Il eut lâidÃ©e de syntoniser le canal dâurgence oÃ¹ il apprit que la 138 Ã©tait temporairement fermÃ©e, un forcenÃ© sâÃ©tant barricadÃ© dans sa maison avec des otages. On avait dÃ©tournÃ© la circulation dans un chemin de bois plus au nord, une route du siÃ¨cle dernier quâon nâavait pas conÃ§ue pour recevoir autant de fardiers. Tant et si bien que les plus lourds en arrachaient, peinaient et sâenlisaient. Rien nâallait plus.
+\end_layout
+
+\begin_layout Standard
+
+Câest ainsi que JÃ©rÃ´me mit prÃ¨s de trois heures pour contourner le village en calant parfois jusquâaux essieux. Eut-il dÃ» faire volte-face et retourner Ã  Baie-Comeau ? Oui, si on en croit les Ã©vÃ©nements Ã  venir. Car il sâaperÃ§ut que son systÃ¨me dâaccumulation Ã©tait presque Ã©puisÃ©. En fait, il ne lui restait mÃªme plus assez dâÃ©nergie pour atteindre Forestville, 50 kilomÃ¨tres plus loin. Pire, le seul endroit oÃ¹ on aurait pu lui Ã©changer ses batteries vides Ã©tait fermÃ©.
+\end_layout
+
+\begin_layout Standard
+
+Mais la chance lui sourit au sortir du village quand il aperÃ§ut le placard tout illuminÃ© du Â«Motel de la ForÃªtÂ». Seul gÃ®te du secteur, lâÃ©tablissement semblait disposer de quelques bornes de chargement Ã©lectrique non assignÃ©es. Ã lâofficine dâaccueil, un employÃ© lui en dÃ©signa une tout prÃ¨s de la route, juste sous lâÃ©norme enseigne. Jaugeant lâÃ©tat gÃ©nÃ©ral de dÃ©labrement du commerce, le voyageur prÃ©fÃ©ra ne pas louer de chambre et sâen tenir au gavage de ses batteries. De toute faÃ§on, puisquâune recharge complÃ¨te ne prenait que deux heures avec les nouveaux accumulateurs, il calcula pouvoir reprendre la route Ã  minuit et arriver Ã  son hÃ´tel de Tadoussac une heure plus tard. Ce qui nâÃ©tait pas si mal.
+\end_layout
+
+\begin_layout Standard
+
+Son auto branchÃ©e Ã  la borne, JÃ©rÃ´me abaissa son dossier et sâÃ©crasa confortablement en Ã©coutant de la musique Motown. Au bout dâune demi-heure, la faim commenÃ§a Ã  lâincommoder; il nâavait rien mangÃ© depuis le midi. Et encore ! Il nâavait avalÃ© quâune pointe de tarte Ã  la chicoutÃ© accompagnÃ©e dâun verre de lait. Il eut lâidÃ©e dâaller Ã  lâaccueil se chercher des cochonneries, ce qui lui couperait la faim jusquâÃ  son arrivÃ©e Ã  Tadoussac. Ce quâil fit !
+\end_layout
+
+\begin_layout Standard
+
+Malheureusement pour lui, deux paires dâyeux lâobservaient depuis les fourrÃ©s. CâÃ©taient deux jeunes Innus un peu paumÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+- Tshika ui shassikutshiakanu, tshe itinamuat mukumanu ushkutit. Tshek eka minupaniti, tshe tshitishimuiaku minashkuat, dit le plus vieux des deux, ce qui pourrait se traduire par : Â«On arrive Ã  la course, tu lui pointes ton couteau sur le nezÂ» (pour ne pas nuire Ã  la comprÃ©hension du rÃ©cit, nous allons continuer en franÃ§ais).
+\end_layout
+
+\begin_layout Standard
+
+- Ouin.
+\end_layout
+
+\begin_layout Standard
+
+- On lâoblige Ã  sortir du char, on saute dedans et on se sauve. Ãa marche ?
+\end_layout
+
+\begin_layout Standard
+
+Le plus jeune nâavait pas lâair convaincu.
+\end_layout
+
+\begin_layout Standard
+
+- Dâin coup quâi se dÃ©fend ?
+\end_layout
+
+\begin_layout Standard
+
+- On se pousse dans la nature !
+\end_layout
+
+\begin_layout Standard
+
+- Ouin, jâsais pas â¦
+\end_layout
+
+\begin_layout Standard
+
+- Tâaimes-tu mieux marcher 25 kilomÃ¨tres ? Moi pas !
+\end_layout
+
+\begin_layout Standard
+
+Au mÃªme moment, JÃ©rÃ´me se glissa hors de sa voiture pour sâen aller Ã  lâaccueil.
+\end_layout
+
+\begin_layout Standard
+
+- Attends, dit le plus vieux. Il sâen va au Motel. Es-tu capable de voir sâil a laissÃ© ses clÃ©s ?
+\end_layout
+
+\begin_layout Standard
+
+Lâautre malvat sâapprocha silencieusement et fit un signe affirmatif de la tÃªte.
+\end_layout
+
+\begin_layout Standard
+
+Cinq secondes plus tard, les deux gredins Ã©taient assis dans la voiture, aprÃ¨s lâavoir dÃ©harnachÃ©e de sa borne, et avaient mis le contact. Le plus vite quâils le purent, ils foncÃ¨rent sur la 138 et disparurent en direction de Betsiamites, une communautÃ© Ã©tablie en bordure du fleuve entre Ragueneau et Forestville.
+\end_layout
+
+\begin_layout Standard
+
+JÃ©rÃ´me fut tellement ahuri par ce quâil venait de voir que la bouche lui resta grande ouverte. Des gens venaient de fuir avec son million et demi de dollars US en belle poudre blanche ! Des gens quâil ne connaissait pas, cela, le soir tard, dans un coin perdu oÃ¹ il nâavait aucun contact. LâemployÃ© du motel qui avait tout vu, accouru.
+\end_layout
+
+\begin_layout Standard
+
+- Je les ai reconnus. Pas des mÃ©chants gars. Dâhabitude, ils font pas Ã§a. Faut croire quâils Ã©taient cassÃ©s. Ils sâen vont Ã  Betsiamites avec ton char.
+\end_layout
+
+\begin_layout Standard
+
+- Betsiamites, sur la RÃ©serve ?
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã§a quâi faut dire aux flics. Mais Ã§a donnera rien. Comme dâhabitude, ils vont attendre Ã  demain et lÃ , ils vont tÃ©lÃ©phoner Ã  la police amÃ©rindienne. Surtout Ã  soir; ils sont tous occupÃ©s avec le fou qui sâest barricadÃ©. Câest sÃ»r que Ã§a va aller Ã  demain. Et lÃ , si ton char a pas Ã©tÃ© mis en morceaux, ils vont peut-Ãªtre le trouver et te le ramener. Sinon, fais-en ton deuil !
+\end_layout
+
+\begin_layout Standard
+
+Pour JÃ©rÃ´me, la cause fut vite entendue. Si les autoritÃ©s retrouvaient lâauto dans les minutes suivant lâappel comme câÃ©tait souvent la pratique avec les technologies GPS, ils sâintÃ©resseraient sÃ»rement Ã  la caisse de coudes en ABS marquÃ©e dâun X rouge. Ils sont comme Ã§a, les flics. En revanche, sâils nâentreprenaient les procÃ©dures que le demain, il est fort probable que les voleurs auraient ouvert la boÃ®te et se seraient occupÃ©s de son contenu. Auquel cas, elle ne serait plus dans lâauto quand la police la retrouverait. Advenant quâils y arrivent, bien sÃ»r. Ã ce moment, il nây aurait plus de danger pour lui. Conclusion, il semblait plus prudent de rapporter le vol. Ce faisant, JÃ©rÃ´me se donnait mÃªme du temps pour fuir advenant quâil doive le faire.
+\end_layout
+
+\begin_layout Standard
+
+- Jâai plus rien pour tÃ©lÃ©phoner, câÃ©tait dans mon auto â¦
+\end_layout
+
+\begin_layout Standard
+
+LâemployÃ©, un solide gaillard dans la trentaine, lui fit un signe de la main.
+\end_layout
+
+\begin_layout Standard
+
+- Viens en dedans, on va tâarranger Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+Dans la demi-heure qui suivit, JÃ©rÃ´me sâÃ©tait fait aviser, tel que prÃ©vu, quâen raison des Ã©vÃ©nements, toutes les forces policiÃ¨res disponibles avaient Ã©tÃ© affectÃ©es au village et quâils communiqueraient, dÃ¨s demain, avec leurs confrÃ¨res de Betsiamites. Puis, la belle Josiane, la dame aux tartes achetÃ©es faites, lui avait promis quâelle viendrait le prendre Ã  Ragueneau, Ã  lâautre bout du village, Â«pour ne pas Ãªtre pognÃ©e dans le barrage routierÂ», dans trois heures. En Ã©tat de choc, ne pensant quâÃ  son million et demi et se sentant littÃ©ralement impuissant, lâex-assistant de Romain Tardif dit le GelÃ©, avait acceptÃ© une biÃ¨re de consolation et avait commencÃ© Ã  tuer le temps.
+\end_layout
+
+\begin_layout Standard
+
+- Si jây vas, lÃ -bas, Ã§a peux-tu donner des rÃ©sultats ?
+\end_layout
+
+\begin_layout Standard
+
+- OÃ¹, Ã  Betsiamites ? Ã soir ?
+\end_layout
+
+\begin_layout Standard
+
+- Oui
+\end_layout
+
+\begin_layout Standard
+
+- Tu vas te faire casser la gueule. En plus de ne plus avoir de char, tâauras plus de dents.
+\end_layout
+
+\begin_layout Standard
+
+- Je sais me dÃ©fendreâ¦
+\end_layout
+
+\begin_layout Standard
+
+- Moi aussi, mais moi, je resterais ici bien tranquille.
+\end_layout
+
+\begin_layout Standard
+
+DubÃ© nâavait pas Ã©tÃ© convaincu.
+\end_layout
+
+\begin_layout Standard
+
+- Je te lâai dit. Ce nâest pas du mauvais monde; ils vont probablement laisser ton char Ã  un kilomÃ¨tre de la rÃ©serve et finir Ã  pied, ni vu ni connu. Ce sont pas des voleurs. Juste des jeunes sur le party. Au mÃªme moment, les deux dÃ©linquants stationnaient la voiture devant une des maisons face Ã  la plage. Assis sur sa galerie en train dâobserver les reflets de la lune sur le fleuve, Joseph Picard les aperÃ§ut et leur fit signe. Depuis une dizaine dâannÃ©es, lâhomme Ã©tait fortement impliquÃ© dans une mÃ©canique de redÃ©couverte et de rÃ©appropriation de lâesprit innu, de la langue et des traditions, un long processus de redressement moral, de revalorisation sociale et de cheminement vers une fiertÃ© ethnique de bon aloi. Il questionna les deux gamins et quand il comprit, il ne put sâempÃªcher de les coiffer dâÃ©pithÃ¨tes plutÃ´t dÃ©sagrÃ©ables.
+\end_layout
+
+\begin_layout Standard
+
+- Un Blanc qui vole un char, câest rien, câest juste un cave. Un Innu qui le fait, câest un asti dâIndien. Pire, un Indien saoul ! Un Indien crottÃ© ! Un Indien droguÃ© ! Câest Ã§a que vous voulez entendre quand la police va venir vous ramasser ?
+\end_layout
+
+\begin_layout Standard
+
+Joseph sâapprocha du vÃ©hicule et en fit le tour.
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã  qui ?
+\end_layout
+
+\begin_layout Standard
+
+- Ã un Blanc qui sâÃ©tait arrÃªtÃ© au premier motel Ã  Ragueneau.
+\end_layout
+
+\begin_layout Standard
+
+- Câest quoi la boÃ®te en arriÃ¨re ?
+\end_layout
+
+\begin_layout Standard
+
+Les deux jeunes haussÃ¨rent les Ã©paules.
+\end_layout
+
+\begin_layout Standard
+
+Pris dâun doute, lâhomme ouvrit le hayon et avec son couteau de poche, dÃ©cacheta la boÃ®te. Il ne lui fallut quâun instant pour tout comprendre. Vivement, il fouilla dans ses poches, prit son trousseau de clÃ©s et le lanÃ§a au plus vieux des deux noceurs.
+\end_layout
+
+\begin_layout Standard
+
+- Toi, tu vas en arriÃ¨re de la maison, tu ramasses un pic, une pelle et le cinq gallons dâessence sur la galerie, tu prends mon pick-up et tu me suis. Toi, le jeune, tu montes avec moi. Y a pas une minute Ã  perdre.
+\end_layout
+
+\begin_layout Standard
+
+- Câest quoi lâaffaire ? demande celui-ci tandis que lâautre disparaÃ®t.
+\end_layout
+
+\begin_layout Standard
+
+- Lâaffaire ? Vous vous Ãªtes mis dans la marde. Le char que vous avez volÃ©, il appartient Ã  la grosse gamique. Tu veux-tu que son propriÃ©taire Ã  la boÃ®te, il vienne ici la chercher ? Tu sais-tu ce quâil y a dedans, la boÃ®te ? Des kilos de coke ! Câte boÃ®te-lÃ , câest la mort, la mort blanche, notre mort !
+\end_layout
+
+\begin_layout Standard
+
+Cinq minutes plus tard, en plein bois, sur une route quâon aurait dit conÃ§ue pour des VTT, lâauto Ã©lectrique sâarrÃªta en panne sÃ¨che, faÃ§on de parler. Heureusement, Joseph avait une chaÃ®ne dans la caisse de sa camionnette. La voiture du Septilien JÃ©rÃ´me DubÃ© fut ainsi remorquÃ©e jusquâÃ  sa destination finale, un trou que les deux jeunes durent creuser, piquer, bÃªcher et pelleter pendant plus dâune heure, parce quâil nâÃ©tait pas assez creux. Ils y placÃ¨rent lâauto, Joseph lâenduisit dâessence et il lâenflamma. Puis, doucement, la tÃªte vers le sol et les yeux fermÃ©s, il prit les mains tout endolories des deux malheureux.
+\end_layout
+
+\begin_layout Standard
+
+- Ce qui brÃ»le dans ce trou, câest le mauvais en nous. Le mauvais qui sort, qui sort, qui sâen va dans les flammes. Dans le feu avec la mort blanche qui se brÃ»le elle-mÃªme. Et le mauvais qui sâen va, il se trouve Ã  laisser de la place, un vide. Un vide Ã  cÃ´tÃ© du cÅur, un vide Ã  cÃ´tÃ© de lâesprit. Et un vide, Ã§a peut pas rester vide. Faut que Ã§a se remplisse. Câest la loi de la Terre. Et on a quoi pour le remplir le vide ? Seulement du bien, du bien quâon va essayer de faire, du bien quâon va gÃ©nÃ©rer, du bien qui appelle le bien, du bien pour nous, pour notre communautÃ©, pour nos jeunes, nos aÃ®nÃ©s.
+\end_layout
+
+\begin_layout Standard
+
+Dans la violence des flammes et de leur crÃ©pitement, un silence humain suivit.
+\end_layout
+
+\begin_layout Standard
+
+- Bon, faut finir la job, Ã  cât heure ! finit par dire le mentor. Vous voyez le tas de roches ici Ã  cÃ´tÃ© ?
+\end_layout
+
+\begin_layout Standard
+
+- Câest des roches qui ont servi Ã  des meteshun, fit le plus jeune, grand amateur de ces cÃ©rÃ©monies de sudation spirituelle.
+\end_layout
+
+\begin_layout Standard
+
+- Câest pas grave. Vous allez les placer sur lâauto pour bien la cacher. Faut que rien ne paraisse. Personne ne devra savoir quâen dâsour, y a un char et une boÃ®te de mort au rat quâon a fait brÃ»ler.
+\end_layout
+
+\begin_layout Standard
+
+Il fallut encore une heure aux deux jeunes pour que le tas de pierres, des roches de la grosseur de gros pamplemousses, soit complÃ¨tement dÃ©placÃ© sur la carcasse fumante. Au matin, les trois Innus revinrent avec des rÃ¢teaux et quand ils eurent terminÃ© leur nettoyage, plus rien de compromettant ne pouvait dÃ©sormais attirer lâattention. De toute faÃ§on, dâici lâhiver, la nature aurait parfaitement complÃ©tÃ© la dissimulation finale aussi bien dâune voiture neuve que dâune caisse terriblement lÃ©tale.
+\end_layout
+
+\begin_layout Standard
+
+Mais Ã  Sept-Ãles, JÃ©rÃ´me Ã©tait sur le bord de la crise de nerfs.
+\end_layout
+
+\begin_layout Standard
+
+Depuis son retour, vers 7 h, il tournait en rond, incapable de se concentrer sur la marche Ã  suivre. Les ennuis sâaccumulaient. Ã peine avait-il eu le temps dâarriver quâun enquÃªteur de La Malbaie lâavait joint au tÃ©lÃ©phone. Il venait dâattraper les deux voyous qui avaient volÃ© le chargement de coudes en ABS, un Â«chargement offert au grand jourÂ» dans la caisse de la camionnette dont il Ã©tait le propriÃ©taire, un Â«vÃ©hicule oubliÃ©Â» au terminus dâautocars.
+\end_layout
+
+\begin_layout Standard
+
+- Si vous pouviez passer dâici 24 heures pour faire votre dÃ©position et signer une pile haute comme Ã§a se paperasse, Ã§a ferait bien mon affaire.
+\end_layout
+
+\begin_layout Standard
+
+- Oui, je mâen occupe.
+\end_layout
+
+\begin_layout Standard
+
+- Juste comme Ã§a, en passant. Pourquoi avez-vous laissÃ© votre camionnette pleine de marchandise qui coÃ»te cher, ici Ã  La Malbaie ? Sur mon logiciel, je vois que vous Ãªtes prÃ©sentement Ã  Sept-Ãles. Vous Ãªtes redescendu comment ?
+\end_layout
+
+\begin_layout Standard
+
+JÃ©rÃ´me avait dÃ» improviser rapidement.
+\end_layout
+
+\begin_layout Standard
+
+- Câest une histoire de chicane avec ma conjointe. Elle est partie hier avec mon camion sur un coup de tÃªte et, rendue Ã  La Malbaie, elle a choisi de continuer en autobus.
+\end_layout
+
+\begin_layout Standard
+
+- Une chicane dâamoureux.
+\end_layout
+
+\begin_layout Standard
+
+- Câest Ã§a.
+\end_layout
+
+\begin_layout Standard
+
+- Votre conjointe a Ã©tÃ© filmÃ©e en train de faire le plein Ã  lâUltraTard dâÃ  cÃ´tÃ© et de descendre de votre vÃ©hicule au terminus dâautocars. Elle a mÃªme Ã©tÃ© filmÃ©e en train de sâacheter un billet pour la ville.
+\end_layout
+
+\begin_layout Standard
+
+Le cÅur de JÃ©rÃ´me avait cessÃ© de battre.
+\end_layout
+
+\begin_layout Standard
+
+- En venant faire votre dÃ©position dâici 24 heures, Monsieur DubÃ©, allez-vous avoir la gentillesse de mâexpliquer pourquoi votre conjointe ressemble Ã  un retraitÃ© Ã  moustache portant une queue de cheval de lâancien temps ? Et, tant quâÃ  me gratifier de vos bontÃ©s, allez-vous pouvoir mâexpliquer le lien, si lien il y a, bien entendu, avec le vol de voiture que vous avez rapportÃ© hier soir Ã  Ragueneau ?
+\end_layout
+
+\begin_layout Standard
+
+Lâhorreur nâavait plus de nom. Il ne lui restait plus dâautre choix que de filer et le plus tÃ´t serait le mieux. Ainsi, Romain nâavait pas cru Ã  son histoire de leurre et avait abandonnÃ© la camionnette Ã  La Malbaie. Puis il avait pris lâautobus, probablement pour revenir chez lui. Ce nâÃ©tait plus quâune question dâheures avant quâil ne rapplique ici avec un bÃ¢ton de baseball.
+\end_layout
+
+\begin_layout Standard
+
+- Sacrament !
+\end_layout
+
+\begin_layout Standard
+
+Tout avait foirÃ©. Les flics lâavaient dans leur collimateur, les Indiens avaient piquÃ© la coke et Romain sâen venait lui casser la gueule. Il ne lui restait plus quâune carte Ã  jouer, ses Â«employeursÂ» du Nord de MontrÃ©al. Il leur dirait que le messager, un certain Romain Tardif que Josiane avait filmÃ© en train dâinspecter son chargement et goÃ»ter Ã  la poudre, laquelle on apercevait trÃ¨s bien sur le document, avait prÃ©fÃ©rÃ© livrer la marchandise aux Indiens de Betsiamites et quâil Ã©tait disparu avec lâargent. Il ajouterait que lui, JÃ©rÃ´me, il le recherchait partout et que sâil le trouvait, il lui ferait tout cracher. Comment il savait pour Betsiamites ? Câest que la puce de traÃ§abilitÃ© placÃ©e dans la caisse avait cessÃ© de fonctionner en plein milieu de la rÃ©serve.
+\end_layout
+
+\begin_layout Standard
+
+Ce quâil fit, en omettant toutefois de parler des Indiens et de Betsiamites, avant de se payer un aller simple sur le vol de lâaprÃ¨s-midi Sept-Ã®les-MontrÃ©al.
+\end_layout
+
+\begin_layout Standard
+
+- Câest Josiane qui va Ãªtre fÃ¢chÃ©e, dit-il en bouclant sa ceinture.
+\end_layout
+
+\begin_layout Standard
+
+Au mÃªme moment, de lâautre cÃ´tÃ© du fleuve, Romain sâinstallait avec sa Maririou dans le chantier de TimothÃ©e sur la rue Crouet. Ã son arrivÃ©e Ã  Saint-Anaclet, au petit matin, il Ã©tait entrÃ© chez lui en criant au branle-bas de combat. Fallait se dÃ©pÃªcher, tout avait Â«chiÃ©Â», la combine nâÃ©tait quâune Â«crosseÂ» pour que JÃ©rÃ´me fasse une Â«grosse passeÂ», les Â«gars de la dopeÂ» avaient leur adresse ici Ã  Saint-Anaclet, ils voudraient rÃ©cupÃ©rer leur bien, ils Ã©taient probablement dÃ©jÃ  en route, il nây avait plus une minute Ã  perdre.
+\end_layout
+
+\begin_layout Standard
+
+- Mais jâai quand mÃªme une carte dâatout !
+\end_layout
+
+\begin_layout Standard
+
+Romain le GelÃ© nâavait pas voulu en dire davantage. En une demi-heure, les deux vieux avaient empli leur voiture de tout ce qui, Ã  leurs yeux, pouvait avoir de la valeur: papiers, partitions, instruments de musique, souvenirs, nourriture, quanticordi et un chiot laid comme les sept pÃ©chÃ©s capitaux que la Maririou appelait Gazou. Puis, ils avaient pris la poudre dâescampette. Â«La pÃ©dale au fond !Â» Câest la vieille qui appela TimothÃ©e pour quâil les attende avant de partir pour son travail au ministÃ¨re de la SantÃ©. Mais câest le bonhomme qui rappela pour annuler la consigne et pour, plutÃ´t, lui donner rendez-vous dans un resto de Rimouski-Est.
+\end_layout
+
+\begin_layout Standard
+
+LÃ , un plan dâaction fut mis au point. On stationna dâabord lâautomobile de Romain derriÃ¨re lâÃ©difice du ministÃ¨re oÃ¹ TimothÃ©e officiait en tant quâagent classe IV. Puis Ã  coups de petits voyages discrets qui durÃ¨rent toute la journÃ©e, on transborda les effets personnels des deux vieux, lesquels dÃ¨s le premier voyage, disparurent Ã  tout jamais dans un sous-sol en pleine rÃ©novation. Cet aspect du casse-tÃªte rÃ©glÃ©, TimothÃ©e abandonna la voiture de son pÃ¨re dans un rang sans surveillance sur les hauteurs de Rimouski et revint Ã  pied. Il dut marcher pendant plus de trois heures.
+\end_layout
+
+\begin_layout Standard
+
+Le lendemain matin, la tÃ©lÃ©vision leur apprit que pendant la nuit, la fermette des Tardif, Ã  Saint-Anaclet, avait Ã©tÃ© entiÃ¨rement rasÃ©e par les flammes, un incendie probablement criminel, compte tenu de son extrÃªme violence. Le corps des occupants, Romain Tardif et sa conjointe Marie Rioux, nâavaient pas Ã©tÃ© retrouvÃ©s dans les dÃ©combres, mais, fait navrant, les restes calcinÃ©s de deux grands chiens lâavaient Ã©tÃ©. Quant aux animaux de ferme, essentiellement de la volaille, quelques chÃ¨vres et des lapins, ils avaient tous Ã©tÃ© massacrÃ©s. Par ailleurs, la voiture du couple avait Ã©tÃ© retrouvÃ©e abandonnÃ©e sur le chemin dâun rang voisin. Enfin, disait-on, les enquÃªteurs Ã©taient Ã  la recherche de pistes et tout renseignement pouvant les aider Ã©tait le bienvenu.
+\end_layout
+
+\begin_layout Standard
+
+- Bedette, Gros Prince !
+\end_layout
+
+\begin_layout Standard
+
+Romain avait pleurÃ©, sans que la Maririou, le regard plus dur que jamais, nâarrive Ã  lui mettre la main sur lâÃ©paule.
+\end_layout
+
+\begin_layout Standard
+
+Ainsi dÃ©buta la vie recluse du couple Tardif-Rioux. Pendant les premiers mois, les ajustements furent difficiles. Il fallut terminer les rÃ©novations, cela sans revenus aucuns, lâÃtat les considÃ©rant comme disparus ou dÃ©cÃ©dÃ©s et leur compte en banque ayant Ã©tÃ© gelÃ© par les autoritÃ©s judiciaires. Il fallut Ã©galement sâadapter Ã  la promiscuitÃ© inhÃ©rente au petit logement du sous-sol. Mais le pire, câest quâil fallut se faire Ã  lâidÃ©e que jamais plus ils ne pourraient aller profiter Ã  leur goÃ»t du grand air.
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{floatingfigure}
+\end_layout
+
+\end_inset
+
+[l]
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+{
+\end_layout
+
+\end_inset
+
+40mm
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics 
+	filename img/alessandro.jpg
+	height 60mm
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{floatingfigure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Le 8 fÃ©vrier suivant, câÃ©tait un mardi en fin dâaprÃ¨s-midi, le trio sâapprÃªtait Ã  rÃ©pÃ©ter une piÃ¨ce, des pas se firent entendre dans lâescalier. Seul Gazou se montra hostile, prÃªt Ã  lâattaque; les autres furent pÃ©trifiÃ©s. Un homme habillÃ© en prÃ©sident de compagnie et chaussÃ© de pompes italiennes Ã  1 000 $ pÃ©nÃ©tra dans la piÃ¨ce et, dâun geste de la main, celle qui tenait le Smith & Wesson modÃ¨le 500 Ã  cartouches Magnum, fit comprendre Ã  la Maririou quâelle avait intÃ©rÃªt Ã  policer sa bÃªte.
+\end_layout
+
+\begin_layout Standard
+
+- Gazou, ici, viens voir Maman !
+\end_layout
+
+\begin_layout Standard
+
+Ã lâÃ©poque, elle nâavait pas encore commencÃ© Ã  chuinter.
+\end_layout
+
+\begin_layout Standard
+
+Puis, de son canon, lâhomme fit signe Ã  TimothÃ©e de lui cÃ©der sa chaise.
+\end_layout
+
+\begin_layout Standard
+
+- Je dÃ©testerais vous dÃ©ranger trop longtemps, dit-il. Alors, je vais faire vite. Permettez-moi de me prÃ©senter, Alessandro Costi, homme de main. Mon travail, dans la vie, consiste Ã  passer en arriÃ¨re de crÃ©tins que mes clients utilisent bÃªtement quand ils veulent communiquer des messages. Moi, je ne mets jamais le feu et je nâÃ©gorge jamais de poules. Je me sers plutÃ´t de ma tÃªte. Par exemple, quand je cherche des gens qui nâont pas laissÃ© de traces et qui ne dÃ©pensent pas des fortunes dans des endroits extravagants, je regarde sâils ont de la famille, ce qui est souvent facilitÃ© par les mÃ©dias oÃ¹ on interview les enfants Ã©plorÃ©s de parents dont les corps ont disparu. Et quand, de cette faÃ§on, je dÃ©couvre un fils et que je mâaperÃ§ois quâil achÃ¨te de la bouffe pour trois, de la nourriture Ã©pouvantable, soit dit en passant, et du linge de femme dans des friperies, je me mets Ã  suivre cet imbÃ©cile jusquâÃ  son terrier. Et lÃ , bello caso, je descends les marches et devinez ce que je trouve ? Le type qui a Ã©tÃ© engagÃ© pour livrer Ã  mes clients trente kilos de coke mais qui a disparu avec la marchandise.
+\end_layout
+
+\begin_layout Standard
+
+Personne nâosa parler. Seul Gazou eut le courage, ou la bÃªtise, de grogner.
+\end_layout
+
+\begin_layout Standard
+
+- Comme personne ici nâa de temps Ã  perdre, je vais poser la question une fois, une seule fois. Si, au bout de cinq secondes, je nâai pas eu ma rÃ©ponse, je tue le chien. Au bout de dix, je tue la madame et au bout de quinze, le fils Ã  son papa, ici. AprÃ¨s, je vais devenir plus subtil. Mon pauvre monsieur, je vais devoir te faire Ã©clater les rotules Ã  coups de cartouches .500, ensuite les oreilles, puis quelques doigts et ainsi de suite, jusquâÃ  ce que jâaie ma rÃ©ponse. Je ne pourrai malheureusement arrÃªter les tourments que si tu parles. Mais avant dây arriver, si tu tâobstines, Ã§a risque dâÃªtre assez long et pÃ©nible. Capito ? Alors voici la question : musique, roulements de tambour, gros plan sur le concurrent : oÃ¹ se trouvent les 30 kilos de poudre qui appartiennent Ã  mes clients ?
+\end_layout
+
+\begin_layout Standard
+
+Doucement, Romain dÃ©posa sa clarinette.
+\end_layout
+
+\begin_layout Standard
+
+- Câest inutile. Jâai ta rÃ©ponse. Jâai tout Ã§a sur un mini cube numÃ©rique multifonction.
+\end_layout
+
+\begin_layout Standard
+
+- Est-ce que Ã§a nous apprend oÃ¹ est le bien de mes clients ?
+\end_layout
+
+\begin_layout Standard
+
+- Non mais Ã§a va bâen manque te montrer que je ne lâai jamais eu et tu vas comprendre qui est parti avec.
+\end_layout
+
+\begin_layout Standard
+
+Alessandro Costi rÃ©flÃ©chit quelques instants.
+\end_layout
+
+\begin_layout Standard
+
+- PerchÃ© no ? Je veux bien jouer le jeu; je ne suis pas Ã  une minute prÃ¨s. Fais voir, mostrami !
+\end_layout
+
+\begin_layout Standard
+
+Romain sâapprocha dâun des rayons de bibliothÃ¨que et sâempara de lâÃ©dition 2006 du Petit Larousse quâil ouvrit en son milieu. Un trou y avait Ã©tÃ© amÃ©nagÃ© comme pour servir dâabri au mini-cube. Il le prit et le remit au visiteur.
+\end_layout
+
+\begin_layout Standard
+
+- Ingegnoso ! Connecte-le Ã  ton ordi, quâon en profite tous ensemble.
+\end_layout
+
+\begin_layout Standard
+
+Romain venait de jouer sa carte dâatout. Il avait enregistrÃ© lâintÃ©gralitÃ© de sa conversation avec DubÃ© dans un bar de Rimouski lorsque son ancien assistant lui avait expliquÃ© le travail, incluant les trois livraisons Ã  Toronto, le paiement de 150 000 $ par chÃ¨que notariÃ© et lâhydravion dans la rÃ©gion de Matamek. Puis ils purent visionner des images de la coke avec, comme fond sonore, les voix de JÃ©rÃ´me (Â«Pas de danger de me voir la bette ?Â») et de Romain (Â«Non non, je ne prends que la boÃ®teÂ»). Puis ce fut la conversation tÃ©lÃ©phonique oÃ¹ on lui rÃ©vÃ©lait son rÃ´le de leurre. Enfin, ce fut la scÃ¨ne du stationnement oÃ¹ on pouvait voir que la poudre avait Ã©tÃ© changÃ©e en poussiÃ¨re de pierre.
+\end_layout
+
+\begin_layout Standard
+
+Lâhomme des choses interlopes se gratta le crÃ¢ne avec le canon de son S&W.
+\end_layout
+
+\begin_layout Standard
+
+- Porca miseria ! Tu tâes fait boulechitter en grande, Signore Romano.
+\end_layout
+
+\begin_layout Standard
+
+La Maririou regarda son vieux comme si câÃ©tait la premiÃ¨re fois quâelle le voyait, TimothÃ©e paru en phase de rÃ©animation et Gazou dÃ©posa sa mauvaise tÃªte sur ses petites pattes croches.
+\end_layout
+
+\begin_layout Standard
+
+- Avec ces Ã©lÃ©ments nouveaux, il va se passer deux choses, mon bon Monsieur Romain. Moi, je mâen vais essayer de retrouver ton bon ami JÃ©rÃ´me. Amici dei miei amici sono miei amici, comme on dit Ã  Ville-dâAnjou. Vois-tu, jâai une question Ã  lui poser. Une seule. Toi, Romano mio, tu vas rester ici bien tranquille avec ta femme et ton chien jusquâÃ  ce que je te fasse signe. Y a des cretinos dans la nature, ceux qui ont mis le feu et qui te cherchent encore. Tâas compris ? Ne bouge pas, attend mon signal. AprÃ¨s, tu feras ce que tu veux. Pourquoi je vous Ã©limine pas, toi et ta befana ? Parce que vous Ãªtes trop vieux pour me nuire.
+\end_layout
+
+\begin_layout Standard
+
+- Euh, et moi ?
+\end_layout
+
+\begin_layout Standard
+
+- Toi le fils, fais comme dâhabitude, mais sois prudent. Ils sont trop cons pour connaÃ®tre ton existence. Dans ton cas, tâes pât-Ãªtre pas trop vieux pour me nuire, mais tâes trop timoroso. Câest ce qui te sauve la vie. On est bien peu de choses, non ? De toute faÃ§on, Ã§a ne sera pas bien long avant que je vous fasse signe.
+\end_layout
+
+\begin_layout Standard
+
+Exactement sept semaines plus tard, le 28 mars, Romain recevait un courriel 3D anonyme oÃ¹ on pointait sur un article de la Cyberpresse relatant la dÃ©couverte dâun cadavre flottant sous le Pont de QuÃ©bec. JÃ©rÃ´me DubÃ© avait Ã©tÃ© retrouvÃ©.
+\end_layout
+
+\begin_layout Standard
+
+- Tout un signal, sâÃ©tait dit le vieil homme.
+\end_layout
+
+\begin_layout Standard
+
+Mais la journÃ©e mÃªme, le Gros Turcotte dÃ©posait en chambre son projet de RÃ©forme et en octobre suivant, un rÃ©fÃ©rendum faisait de Romain et Marie, deux illÃ©gaux. Auraient-ils pu, avant de le devenir officiellement, reprendre leurs identitÃ©s et recommencer Ã  bÃ©nÃ©ficier des services gouvernementaux ? Toucher des assurances ? Ãtre dÃ©dommagÃ©s par le Fonds dâaide aux victimes dâactivitÃ©s criminelles ? Pour que cela soit possible, il leur aurait fallu expliquer une trÃ¨s longue histoire Ã  diffÃ©rents corps de police, Ã  diffÃ©rents bureaux de fonctionnaires, avec toutes les consÃ©quences que cela aurait impliquÃ©es : procÃ¨s, emprisonnement, danger de rÃ¨glement de compte, peur constante, misÃ¨re noire.
+\end_layout
+
+\begin_layout Standard
+
+Câest probablement ce jour-lÃ , le 28 mars 2028, quâils se rÃ©signÃ¨rent Ã  finir leurs jours dans un sous-sol de Nazareth. Quant aux 30 kilos de cocaÃ¯ne, ils ne furent jamais retrouvÃ©s. Par contre, Alessandro Costi, lui, il le fut vers la fin juin de la mÃªme annÃ©e. Il marchait en chaussettes sur la 138, Ã  mi-chemin entre Betsiamites et Forestville. Il Ã©tait hagard. On lâavait dÃ©rouillÃ© et dÃ©pouillÃ© de sa voiture, de ses chaussures Ã  1 000 $, de son Smith & Wesson Magnum .500 et de son EP (Ã©metteur personnel). Qui lui avait fait subir un tel traitement ? On ne le sut jamais. Par contre, il est permis de conclure quâavant dâaller flotter sous le Pont de QuÃ©bec, JÃ©rÃ´me DubÃ© avait pleurnichÃ© autour de lâhistoire des deux jeunes de Betsiamites.
+\end_layout
+
+\end_body
+\end_document
